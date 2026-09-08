@@ -2,9 +2,11 @@
 
 ## IDs
 
-- GTM container: `GTM-MQ9CS753`
-- GA4 measurement ID: `G-MHWJ7SQ6ZZ`
+- GTM container: `GTM-TGMT9VPL`
+- GA4 measurement ID: `G-XC5139NX5L`
 - Production hosts: `https://celdyque.com` and `https://www.celdyque.com`
+- GTM live version: `2` (`Initial GA4 setup`), published 2026-09-08
+- GTM tag: `GA4 - Google tag - All Pages`, using `Initialization - All Pages`
 
 These identifiers are public installation identifiers, not account credentials.
 
@@ -39,12 +41,12 @@ owner must review the notice, privacy disclosures, applicable visitor regions,
 data retention and account settings before production activation. The website
 does not yet have an owner-approved, comprehensive privacy policy.
 
-## Owner: create the Google tag in GTM
+## GTM configuration and recovery checklist
 
-1. Open the `celdyque.com` container (`GTM-MQ9CS753`).
-2. Go to **Tags > New**. Name it **GA4 - CELDYQUE**.
+1. Open the `celdyque.com` container (`GTM-TGMT9VPL`).
+2. Go to **Tags > New**. Name it **GA4 - Google tag - All Pages**.
 3. Under **Tag Configuration**, choose **Google Tag** (not a GA4 Event tag).
-4. Enter **Tag ID**: `G-MHWJ7SQ6ZZ`.
+4. Enter **Tag ID**: `G-XC5139NX5L`.
 5. Under **Triggering**, select **Initialization - All Pages**. Do not use
    **Consent Initialization** for this analytics tag.
 6. Save. Keep the container limited to this tag until its consent behavior is
@@ -98,7 +100,7 @@ Google requests. Local browser QA checks the UI with tracking disabled by the
 hostname gate. Neither replaces live Tag Assistant and GA4 verification after
 the owner publishes the Google tag and deploys the website.
 
-Local verification: 18 Node tests and the 20-page SEO checker pass. Desktop and
+Local verification: 18 Node tests and the 21-page SEO checker pass. Desktop and
 mobile checks cover the banner, equal-size choice buttons, decline, reopening
 settings, focus return, and saved opt-in after reload. No Google script is
 inserted on localhost. The existing Shop full-bleed hero produces a small

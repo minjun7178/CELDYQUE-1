@@ -7,7 +7,7 @@ const { runInNewContext } = require('node:vm');
 const ROOT = path.join(__dirname, '..');
 const SOURCE = readFileSync(path.join(ROOT, 'assets/analytics.js'), 'utf8');
 const KEY = 'celdyque.analytics-consent.v1';
-const DISABLE = 'ga-disable-G-MHWJ7SQ6ZZ';
+const DISABLE = 'ga-disable-G-XC5139NX5L';
 const TTL = 180 * 24 * 60 * 60 * 1000;
 const saved = (analytics, expires = Date.now() + TTL - 1000) =>
   JSON.stringify({ version: 1, analytics, expires });
@@ -98,7 +98,7 @@ test('accept persists 180-day consent before loading only GTM once', () => {
   assert.ok(choice.expires >= before + TTL && choice.expires <= Date.now() + TTL);
   assert.equal(f.win[DISABLE], false);
   assert.equal(f.notice.hidden, true);
-  assert.equal(f.scripts[0].src, 'https://www.googletagmanager.com/gtm.js?id=GTM-MQ9CS753');
+  assert.equal(f.scripts[0].src, 'https://www.googletagmanager.com/gtm.js?id=GTM-TGMT9VPL');
   const update = f.commands().find(c => c[0] === 'consent' && c[1] === 'update');
   assert.equal(update[2].analytics_storage, 'granted');
   for (const key of ['ad_storage', 'ad_user_data', 'ad_personalization']) assert.equal(update[2][key], 'denied');
@@ -159,8 +159,8 @@ test('withdrawal disables GA, expires only this analytics cookies and reloads', 
   assert.equal(f.win[DISABLE], true);
   assert.equal(f.win.reloads, 1);
   assert.equal(JSON.parse(f.storage.get(KEY)).analytics, 'denied');
-  assert.ok(f.cookieWrites.some(c => c.startsWith('_ga_MHWJ7SQ6ZZ=') && c.includes('Domain=.celdyque.com')));
-  assert.ok(f.cookieWrites.every(c => /^_ga(?:_MHWJ7SQ6ZZ)?=; Max-Age=0; Path=\//.test(c)));
+  assert.ok(f.cookieWrites.some(c => c.startsWith('_ga_XC5139NX5L=') && c.includes('Domain=.celdyque.com')));
+  assert.ok(f.cookieWrites.every(c => /^_ga(?:_XC5139NX5L)?=; Max-Age=0; Path=\//.test(c)));
   assert.equal(f.commands().at(-1)[2].analytics_storage, 'denied');
   assert.equal(fixture({ saved: f.storage.get(KEY) }).scripts.length, 0);
 });
@@ -230,7 +230,7 @@ test('initial banner cannot be dismissed as implicit consent; DOM-ready is suppo
 test('shared assets are wired without direct Google scripts or noscript bypasses', () => {
   const site = readFileSync(path.join(ROOT, 'assets/site.js'), 'utf8');
   const footer = readFileSync(path.join(ROOT, 'partials/footer.html'), 'utf8');
-  assert.match(site, /analyticsScript\.src = '\/assets\/analytics\.js\?v=20260828-consent'/);
+  assert.match(site, /analyticsScript\.src = '\/assets\/analytics\.js\?v=20260908-company'/);
   assert.match(site, /dispatchEvent\(new Event\('site:ready'\)\)/);
   assert.match(footer, /data-analytics-settings hidden/);
   for (const file of readdirSync(ROOT).filter(f => f.endsWith('.html'))) {
@@ -242,5 +242,5 @@ test('shared assets are wired without direct Google scripts or noscript bypasses
     }
   }
   const sw = readFileSync(path.join(ROOT, 'sw.js'), 'utf8');
-  assert.match(sw, /'\/assets\/analytics\.js\?v=20260828-consent'/);
+  assert.match(sw, /'\/assets\/analytics\.js\?v=20260908-company'/);
 });

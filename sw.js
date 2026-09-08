@@ -6,7 +6,7 @@ const PRECACHE = [
   '/assets/site.css?v=20260831-amazon-attribution',
   '/assets/home.css?v=20260831-amazon-attribution',
   '/assets/site.js?v=20260831-amazon-attribution',
-  '/assets/analytics.js?v=20260828-consent',
+  '/assets/analytics.js?v=20260908-company',
   '/partials/header.html?v=20260831-amazon-attribution',
   '/partials/footer.html?v=20260831-amazon-attribution',
 ];

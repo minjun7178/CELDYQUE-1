@@ -2,7 +2,7 @@
 if (!document.getElementById('site-analytics-loader')) {
   const analyticsScript = document.createElement('script');
   analyticsScript.id = 'site-analytics-loader';
-  analyticsScript.src = '/assets/analytics.js?v=20260828-consent';
+  analyticsScript.src = '/assets/analytics.js?v=20260908-company';
   analyticsScript.async = true;
   document.head.appendChild(analyticsScript);
 }

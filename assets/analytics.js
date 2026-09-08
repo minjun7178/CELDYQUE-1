@@ -1,8 +1,8 @@
 (() => {
   'use strict';
 
-  const CONTAINER_ID = 'GTM-MQ9CS753';
-  const MEASUREMENT_ID = 'G-MHWJ7SQ6ZZ';
+  const CONTAINER_ID = 'GTM-TGMT9VPL';
+  const MEASUREMENT_ID = 'G-XC5139NX5L';
   const STORAGE_KEY = 'celdyque.analytics-consent.v1';
   const LIFETIME = 180 * 24 * 60 * 60 * 1000;
   const DENIED = {
