@@ -16,7 +16,7 @@
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;family=Playfair+Display:ital,wght@0,400;1,400&amp;display=swap" rel="stylesheet"/>
 <!-- ✅ 공통 CSS -->
-<link href="/assets/site.css?v=20260831-amazon-attribution" rel="stylesheet"/>
+<link href="/assets/site.css?v=20260910-preview-optimization" rel="stylesheet"/>
 <style>
     body.shop{
       background: var(--bg);
@@ -445,7 +445,7 @@
 
       <!-- ✅ 상단 프레임 + 헤더 주입 -->
       <section class="top-frame full-bleed">
-        <div id="siteHeader"></div>
+        <div id="siteHeader"><header class="site-header fallback-header"><a class="logo" href="/index.html">CELDYQUÉ</a><nav aria-label="Primary navigation"><a href="/shop.html">Products</a><a href="/about.html">About</a><a href="/store.html">Store</a><a href="/faq.html">FAQ</a></nav><button type="button" data-open-search aria-label="Search" hidden>Search</button></header></div>
 
         <!-- shop1 느낌: 상단 큰 이미지 -->
         <div class="shop-hero" aria-label="Products collection banner">
@@ -494,7 +494,7 @@
 
               <a class="p-card" href="/product-blue-copper-peptide-bakuchiol-serum.html" data-cat="serum">
                 <div class="p-img">
-                  <img alt="CELDYQUE Blue Copper Peptide Bakuchiol Serum, 30 ml / 1.01 fl oz, dropper bottle" decoding="async" height="1402" loading="lazy" src="/images/제품/ms15-lower.png" width="1122" />
+                  <img alt="CELDYQUE Blue Copper Peptide Bakuchiol Serum, 30 ml / 1.01 fl oz, dropper bottle" decoding="async" height="1402" loading="lazy" src="/images/제품/ms15-lower.webp" width="1122" srcset="/images/제품/ms15-lower-320.webp 320w, /images/제품/ms15-lower-640.webp 640w, /images/제품/ms15-lower-960.webp 960w, /images/제품/ms15-lower.webp 1122w" sizes="(max-width: 340px) calc(100vw - 24px), (max-width: 740px) calc((100vw - 34px) / 2), (max-width: 1100px) calc((100vw - 268px) / 2), min(290px, calc((100vw - 344px) / 4))" />
                 </div>
                 <div class="p-info">
                   <div class="p-name">Blue Copper Peptide<br/>Bakuchiol Serum</div>
@@ -514,7 +514,7 @@
               
               <a class="p-card" href="/product-bakuchiol-volume-collagen-cream.html" data-cat="cream">
                 <div class="p-img">
-                  <img alt="CELDYQUE Bakuchiol Volume Collagen Cream, 50 ml / 1.7 fl oz, open jar with cream texture" decoding="async" height="1402" loading="lazy" src="/images/제품/ms14-lower.png" width="1122" />
+                  <img alt="CELDYQUE Bakuchiol Volume Collagen Cream, 50 ml / 1.7 fl oz, open jar with cream texture" decoding="async" height="1402" loading="lazy" src="/images/제품/ms14-lower.webp" width="1122" srcset="/images/제품/ms14-lower-320.webp 320w, /images/제품/ms14-lower-640.webp 640w, /images/제품/ms14-lower-960.webp 960w, /images/제품/ms14-lower.webp 1122w" sizes="(max-width: 340px) calc(100vw - 24px), (max-width: 740px) calc((100vw - 34px) / 2), (max-width: 1100px) calc((100vw - 268px) / 2), min(290px, calc((100vw - 344px) / 4))" />
                 </div>
                 <div class="p-info">
                   <div class="p-name">Bakuchiol Volume<br/>Collagen Cream</div><div class="p-divider"></div>
@@ -529,7 +529,7 @@
 
               <a class="p-card" href="/product-9-peptide-scalp-serum.html" data-cat="serum">
                 <div class="p-img">
-                  <img alt="CELDYQUE 9-Peptide Scalp Care Serum Roll-On, 40 ml / 1.35 fl oz, scalp serum roll-on tube" decoding="async" height="945" loading="lazy" src="/images/제품/ms13.jpg" width="667" />
+                  <img alt="CELDYQUE 9-Peptide Scalp Care Serum Roll-On, 40 ml / 1.35 fl oz, scalp serum roll-on tube" decoding="async" height="945" loading="lazy" src="/images/제품/ms13.webp" width="667" srcset="/images/제품/ms13-320.webp 320w, /images/제품/ms13-640.webp 640w, /images/제품/ms13.webp 667w" sizes="(max-width: 340px) calc(100vw - 24px), (max-width: 740px) calc((100vw - 34px) / 2), (max-width: 1100px) calc((100vw - 268px) / 2), min(290px, calc((100vw - 344px) / 4))" />
                 </div>
                 <div class="p-info">
                   <div class="p-name">9-Peptide Scalp Care<br/>Serum Roll-On</div>
@@ -726,7 +726,7 @@
       </section>
 
       <!-- ✅ 푸터 주입 -->
-      <div id="siteFooter"></div>
+      <div id="siteFooter"><footer class="fallback-footer"><a href="/contact.html">Contact CELDYQUÉ</a><button class="analytics-settings" type="button" data-analytics-settings hidden>Analytics settings</button></footer></div>
       <div id="searchModal"></div>
       <div id="mobileMenuOverlay"></div>
       <div id="mobileMenu"></div>
@@ -766,6 +766,6 @@
   </script>
 
   <!-- ✅ 공통 JS (헤더/푸터 주입) -->
-  <script defer src="/assets/site.js?v=20260831-amazon-attribution"></script>
+  <script defer src="/assets/site.js?v=20260910-preview-optimization"></script>
 </body>
 </html>

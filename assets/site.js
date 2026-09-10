@@ -12,9 +12,22 @@ async function inject(selector, url) {
   const host = document.querySelector(selector);
   if (!host) return;
 
-  const res = await fetch(url);
-  const html = await res.text();
-  host.innerHTML = html;
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 5000);
+  try {
+    const res = await fetch(url, { signal: controller.signal });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const html = await res.text();
+    if (!html.trim()) throw new Error('Empty partial');
+    host.innerHTML = html;
+    return true;
+  } catch (error) {
+    // Keep the static navigation/contact links when a partial is unavailable.
+    console.warn(`Could not load ${url}; keeping fallback.`, error.message);
+    return false;
+  } finally {
+    clearTimeout(timeout);
+  }
 }
 
 /* ===== Scroll lock (menu + modal 공용) ===== */
@@ -51,14 +64,14 @@ const DEFAULT_CATALOG = [
   { id:"glutathione-30000", name:"Glutathione 30,000ppm", subtitle:"Antioxidant serum · Glow support", url:"/product-glutathione-30000.html", image:"/images/제품/Mask group-2.webp", tags:["glutathione","niacinamide","adenosine","ceramide","serum","30ml"] },
   { id:"azelaic-12", name:"Azelaic Acid 12%", subtitle:"Clarity serum · Tone & texture", url:"/product-azelaic-12.html", image:"/images/제품/Mask group-7.webp", tags:["azelaic acid","tranexamic acid","salicylic acid","serum","30ml"] },
   { id:"niacinamide-20-advanced", name:"Niacinamide 20% Advanced", subtitle:"High-strength · Tone & texture", url:"/product-niacinamide-20-advanced.html", image:"/images/제품/Mask group-8.webp", tags:["niacinamide","hyaluronic acid","beta-glucan","serum","30ml"] },
-  { id:"9-peptide-scalp-care-serum", name:"9-Peptide Scalp Serum", subtitle:"Rosemary 2% · Caffeine 1% · PDRN & Spicule 300", url:"/product-9-peptide-scalp-serum.html", image:"/images/제품/ms13.jpg", tags:["9-peptide complex","rosemary 2%","caffeine 1%","pdrn","spicule 300","scalp serum","roll-on","hair growth"] },
-  { id:"bakuchiol-volume-collagen-cream", name:"Bakuchiol Volume Collagen Cream", subtitle:"Bakuchiol · Volufiline · Collagen", url:"/product-bakuchiol-volume-collagen-cream.html", image:"/images/제품/ms14.png", tags:["bakuchiol","volufiline","collagen","egf","cream","50ml","1.7 fl oz","firming","volume","moisturizer"] },
+  { id:"9-peptide-scalp-care-serum", name:"9-Peptide Scalp Serum", subtitle:"Rosemary 2% · Caffeine 1% · PDRN & Spicule 300", url:"/product-9-peptide-scalp-serum.html", image:"/images/제품/ms13-320.webp", tags:["9-peptide complex","rosemary 2%","caffeine 1%","pdrn","spicule 300","scalp serum","roll-on","hair growth"] },
+  { id:"bakuchiol-volume-collagen-cream", name:"Bakuchiol Volume Collagen Cream", subtitle:"Bakuchiol · Volufiline · Collagen", url:"/product-bakuchiol-volume-collagen-cream.html", image:"/images/제품/ms14-320.webp", tags:["bakuchiol","volufiline","collagen","egf","cream","50ml","1.7 fl oz","firming","volume","moisturizer"] },
   {
   id: "blue-copper-peptide-bakuchiol-serum",
   name: "Blue Copper Peptide Bakuchiol Serum",
   subtitle: "Multi-Peptide · Plumping & Firming",
   url: "/product-blue-copper-peptide-bakuchiol-serum.html",
-  image: "/images/제품/ms15.png",
+  image: "/images/제품/ms15-320.webp",
   tags: [
     "celdyque",
     "blue copper peptide",
@@ -133,6 +146,7 @@ function highlight(text, query) {
 
 /* ===== UI Initialization (Mobile Menu & Search Modal) ===== */
 function initCommonUI() {
+  document.querySelectorAll('.fallback-header [data-open-search]').forEach(button => { button.hidden = false; });
   // Legacy pages still contain empty menu/modal mounts. Keep the injected shared UI only.
   for (const id of ['mobileMenuOverlay', 'mobileMenu', 'searchModal']) {
     document.querySelectorAll('#' + id).forEach((node, index) => { if (index > 0) node.remove(); });
@@ -319,13 +333,10 @@ function initCommonUI() {
 
 /* ===== Bootstrap ===== */
 document.addEventListener("DOMContentLoaded", async () => {
-  // 헤더와 푸터 HTML 주입
-  await Promise.all([
-    inject("#siteHeader", "/partials/header.html?v=20260831-amazon-attribution"),
-    inject("#siteFooter", "/partials/footer.html?v=20260831-amazon-attribution"),
-  ]);
-
-  // 주입이 끝난 후 공통 UI(모바일 메뉴 및 검색 모달) 초기화
+  // Footer loading must never delay or prevent menu/search initialization.
+  void inject("#siteFooter", "/partials/footer.html?v=20260910-preview-optimization")
+    .then(() => document.dispatchEvent(new Event('site:ready')));
+  await inject("#siteHeader", "/partials/header.html?v=20260910-preview-optimization");
   initCommonUI();
   document.dispatchEvent(new Event('site:ready'));
 });

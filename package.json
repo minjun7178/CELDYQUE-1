@@ -1,0 +1,14 @@
+{
+  "name": "celdyque-site-checks",
+  "private": true,
+  "scripts": {
+    "lint:html": "htmlhint \"*.html\" \"partials/*.html\" --config .htmlhintrc",
+    "test:unit": "node --test scripts/test_analytics.cjs scripts/test_faq.cjs scripts/test_media.cjs scripts/test_site.cjs",
+    "test:browser": "playwright test",
+    "test:browser:list": "playwright test --list"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.63.0",
+    "htmlhint": "1.9.2"
+  }
+}

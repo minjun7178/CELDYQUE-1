@@ -304,3 +304,10 @@ body { padding-bottom: var(--analytics-notice-height, 0px); }
   body.product .detail-grid,body.product .benefit-section,body.product .faq-section{margin-bottom:56px}
   body.product .detail-visual,body.product .detail-visual img{min-height:300px}
 }
+
+/* Navigation remains usable while shared fragments load, including without JS. */
+.fallback-header{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px 16px;flex-wrap:wrap}
+.fallback-header nav{display:flex;flex-wrap:wrap;gap:4px 16px}
+.fallback-header nav a,.fallback-header button{min-height:44px;display:inline-flex;align-items:center;font-size:.85rem}
+.fallback-header button[hidden]{display:none}
+.fallback-footer{padding:32px;display:flex;gap:24px;flex-wrap:wrap}

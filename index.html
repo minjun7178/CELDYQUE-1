@@ -26,8 +26,8 @@
 <!-- Preload critical hero image (WebP) -->
 <link rel="preload" as="image" href="/images/celdyque-brand-film-poster.jpg" type="image/jpeg" fetchpriority="high" />
 <!-- Stylesheets (cacheable external files) -->
-<link href="/assets/site.css?v=20260831-amazon-attribution" rel="stylesheet"/>
-<link href="/assets/home.css?v=20260831-amazon-attribution" rel="stylesheet"/>
+<link href="/assets/site.css?v=20260910-preview-optimization" rel="stylesheet"/>
+<link href="/assets/home.css?v=20260910-preview-optimization" rel="stylesheet"/>
 <title>CELDYQUÉ | Korean Skincare, Serums &amp; Creams</title>
   <meta name="description" content="Explore CELDYQUÉ Korean skincare: Volufiline, PDRN, copper peptide and bakuchiol serums, creams and cleansers. Compare formulas and find official retailers." />
   <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" />
@@ -161,7 +161,7 @@
 
       <!-- ===== VIDEO HERO ===== -->
       <section class="top-frame full-bleed">
-        <div id="siteHeader"></div>
+        <div id="siteHeader"><header class="site-header fallback-header"><a class="logo" href="/index.html">CELDYQUÉ</a><nav aria-label="Primary navigation"><a href="/shop.html">Products</a><a href="/about.html">About</a><a href="/store.html">Store</a><a href="/faq.html">FAQ</a></nav><button type="button" data-open-search aria-label="Search" hidden>Search</button></header></div>
 
         <div class="video-hero">
           <video autoplay muted loop playsinline preload="metadata" width="1280" height="600" poster="/images/celdyque-brand-film-poster.jpg" aria-label="CELDYQUÉ brand film">
@@ -333,11 +333,11 @@
             </div>
           </a>
           <a href="/product-blue-copper-peptide-bakuchiol-serum.html" class="product-card">
-            <div class="product-media"><img alt="CELDYQUE Blue Copper Peptide Bakuchiol Serum, 30 ml / 1.01 fl oz, dropper bottle" decoding="async" height="703" loading="lazy" src="/images/제품/ms15.png" width="562" /></div>
+            <div class="product-media"><img alt="CELDYQUE Blue Copper Peptide Bakuchiol Serum, 30 ml / 1.01 fl oz, dropper bottle" decoding="async" height="703" loading="lazy" src="/images/제품/ms15.webp" width="562" srcset="/images/제품/ms15-320.webp 320w, /images/제품/ms15.webp 562w" sizes="(max-width: 740px) calc(100vw - 28px), (max-width: 1100px) calc((100vw - 74px) / 2), min(340px, calc((100vw - 102px) / 4))" /></div>
             <div class="product-card-info"><h3>Blue Copper Peptide Bakuchiol Serum</h3><p>30 ml / 1.01 fl oz</p></div>
           </a>
           <a href="/product-bakuchiol-volume-collagen-cream.html" class="product-card">
-            <div class="product-media"><img alt="CELDYQUE Bakuchiol Volume Collagen Cream, 50 ml / 1.7 fl oz, open jar with cream texture" decoding="async" height="1402" loading="lazy" src="/images/제품/ms14.png" width="1122" /></div>
+            <div class="product-media"><img alt="CELDYQUE Bakuchiol Volume Collagen Cream, 50 ml / 1.7 fl oz, open jar with cream texture" decoding="async" height="1402" loading="lazy" src="/images/제품/ms14.webp" width="1122" srcset="/images/제품/ms14-320.webp 320w, /images/제품/ms14-640.webp 640w, /images/제품/ms14-960.webp 960w, /images/제품/ms14.webp 1122w" sizes="(max-width: 740px) calc(100vw - 28px), (max-width: 1100px) calc((100vw - 74px) / 2), min(340px, calc((100vw - 102px) / 4))" /></div>
             <div class="product-card-info"><h3>Bakuchiol Volume Collagen Cream</h3><p>50 ml / 1.7 fl oz</p></div>
           </a>
           <a href="/product-arbutxa-glow-cream.html" class="product-card">
@@ -396,7 +396,7 @@
       </section>
 
       <!-- Footer (injected by site.js) -->
-      <div id="siteFooter"></div>
+      <div id="siteFooter"><footer class="fallback-footer"><a href="/contact.html">Contact CELDYQUÉ</a><button class="analytics-settings" type="button" data-analytics-settings hidden>Analytics settings</button></footer></div>
 
       <!-- Mobile menu containers (injected by header partial) -->
       <div id="mobileMenuOverlay"></div>
@@ -431,9 +431,6 @@
         }
       ];
 
-      // WebP 지원 여부 체크
-      const supportsWebP = document.createElement('canvas').toDataURL('image/webp').indexOf('data:image/webp') === 0;
-
       document.querySelectorAll('.philosophy-nav button').forEach(btn => {
         btn.addEventListener('click', () => {
           const idx = parseInt(btn.dataset.slide, 10);
@@ -444,13 +441,14 @@
           const img = document.getElementById('philosophyImage');
 
           content.innerHTML = `<h3>${slides[idx].title}</h3><p>${slides[idx].desc}</p><a href="about.html">Read more</a>`;
-          img.src = supportsWebP ? slides[idx].img : slides[idx].fallback;
+          img.closest('picture').querySelector('source').srcset = slides[idx].img;
+          img.src = slides[idx].fallback;
         });
       });
     });
   </script>
 
-  <script defer src="/assets/site.js?v=20260831-amazon-attribution"></script>
+  <script defer src="/assets/site.js?v=20260910-preview-optimization"></script>
 
   <!-- Service Worker: offline cache & speed boost -->
   <script>
