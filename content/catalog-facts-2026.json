@@ -1,0 +1,202 @@
+{
+  "source": "2026 CELDYQUE catalog.pdf",
+  "authority": "User designated the catalog as the product-information source and confirmed it matches current sale labels on 2026-10-13.",
+  "scope": "Selected product facts, not a full INCI declaration or finished-product efficacy evidence. Existing directions remain the supplementary source where the catalog has no instructions.",
+  "editorial_notes": [
+    "Cleansing oil pages 8 and 9 feature different selected botanicals; both can be listed. Mugwort is not included.",
+    "Page 19 has a mismatched retinol heading and retinal copy; use the clearly identified niacinamide page 18, not those misplaced statements.",
+    "Page 23 has a mismatched PDRN cream heading; the glutathione ingredients agree with the correctly identified page 22.",
+    "Catalog ingredient percentages are reproduced without inventing active purity, component ratios or finished-product clinical results."
+  ],
+  "products": {
+    "volufiline-100": {
+      "pages": [
+        10,
+        11
+      ],
+      "additional_ingredients": [],
+      "required_copy": [
+        "Volufiline raw material"
+      ]
+    },
+    "pdrn-25": {
+      "pages": [
+        14,
+        15
+      ],
+      "additional_ingredients": [],
+      "required_copy": [
+        "250,000 ppm PDRN",
+        "EGF",
+        "Panthenol"
+      ],
+      "texture": "Gel"
+    },
+    "pdrn-12-egf": {
+      "pages": [
+        6,
+        7
+      ],
+      "additional_ingredients": [],
+      "required_copy": [
+        "120,000 ppm PDRN complex",
+        "EGF",
+        "Volufiline",
+        "Niacinamide"
+      ]
+    },
+    "pdrn-12-egf-cream": {
+      "pages": [
+        12,
+        13
+      ],
+      "additional_ingredients": [],
+      "required_copy": [
+        "120,000 ppm PDRN",
+        "EGF",
+        "Volufiline"
+      ]
+    },
+    "bakuchiol-30000": {
+      "pages": [
+        4,
+        5
+      ],
+      "additional_ingredients": [],
+      "required_copy": [
+        "30,000 ppm Bakuchiol",
+        "Butylene Glycol"
+      ]
+    },
+    "bakuchiol-volume-collagen-cream": {
+      "pages": [
+        28,
+        29
+      ],
+      "additional_ingredients": [],
+      "required_copy": [
+        "5,000 ppm Bakuchiol",
+        "Volufiline",
+        "EGF",
+        "Collagen"
+      ]
+    },
+    "blue-copper-peptide-bakuchiol-serum": {
+      "pages": [
+        30,
+        31
+      ],
+      "additional_ingredients": [
+        "Matrixyl 3000",
+        "Argireline"
+      ],
+      "required_copy": [
+        "Copper Peptide",
+        "Bakuchiol",
+        "Matrixyl 3000",
+        "EGF",
+        "Argireline",
+        "Beta-Glucan"
+      ]
+    },
+    "arbutxa-glow-cream": {
+      "pages": [
+        24,
+        25
+      ],
+      "additional_ingredients": [],
+      "required_copy": [
+        "Arbutin 5%",
+        "Alpha-Arbutin 2%",
+        "Tranexamic Acid 5%",
+        "Niacinamide 2%"
+      ]
+    },
+    "glutathione-30000": {
+      "pages": [
+        22,
+        23
+      ],
+      "additional_ingredients": [
+        "Adenosine"
+      ],
+      "required_copy": [
+        "30,000 ppm Glutathione",
+        "Niacinamide",
+        "Adenosine"
+      ]
+    },
+    "niacinamide-20-advanced": {
+      "pages": [
+        18
+      ],
+      "additional_ingredients": [],
+      "required_copy": [
+        "Niacinamide 20%",
+        "Damask Rose Water",
+        "Green Tea"
+      ]
+    },
+    "azelaic-12": {
+      "pages": [
+        20,
+        21
+      ],
+      "additional_ingredients": [],
+      "required_copy": [
+        "Azelaic Acid 12%",
+        "Salicylic Acid",
+        "Tranexamic Acid"
+      ]
+    },
+    "gentle-cleanser": {
+      "pages": [
+        16,
+        17
+      ],
+      "additional_ingredients": [
+        "AHA / BHA / PHA"
+      ],
+      "required_copy": [
+        "Centella",
+        "Tea Tree",
+        "Green Tea",
+        "AHA, BHA and PHA"
+      ]
+    },
+    "cleansing-oil": {
+      "pages": [
+        8,
+        9
+      ],
+      "additional_ingredients": [
+        "Heartleaf"
+      ],
+      "required_copy": [
+        "Centella",
+        "Tea Tree",
+        "Green Tea",
+        "Heartleaf",
+        "LHA"
+      ]
+    },
+    "9-peptide-scalp-serum": {
+      "pages": [
+        26,
+        27
+      ],
+      "additional_ingredients": [
+        "Niacinamide",
+        "BHA"
+      ],
+      "required_copy": [
+        "Rosemary 2%",
+        "Caffeine 1%",
+        "Niacinamide 2%",
+        "PDRN 0.1%",
+        "peptide complex"
+      ]
+    }
+  },
+  "source_sha256": "2f4711927f05783c30db9a4151ed24201455e8ed4729009d3f47e014dd412183"
+}

@@ -1,0 +1,588 @@
+{
+  "source": "product-cleansing-oil.html",
+  "source_sha256": "e824284d4b4845c8cf9e90f747cfa98f6068e969b41bc45eab5ad2260914ea6d",
+  "status": "draft",
+  "changes": [
+    {
+      "tag": "div",
+      "class": "product-kicker",
+      "id": null,
+      "before": "Lightweight Cleansing Oil",
+      "after": "Rinse-off cleansing oil"
+    },
+    {
+      "tag": "p",
+      "class": "subtitle",
+      "id": null,
+      "before": "Centella, Tea Tree and gentle LHA for makeup, sunscreen and pore buildup. · 200 ml / 6.76 fl oz",
+      "after": "Rinse-off cleansing oil · 200 ml / 6.76 fl oz"
+    },
+    {
+      "tag": "p",
+      "class": "desc-text",
+      "id": null,
+      "before": "CELDYQUE Pore Purifying Cleansing Oil is a lightweight cleansing oil with Soybean Oil, LHA, Centella, Tea Tree, Green Tea, Jojoba Seed Oil, Squalane and Panthenol for makeup removal, sunscreen cleansing and blackhead care.",
+      "after": "CELDYQUE Pore Purifying Cleansing Oil features Centella, Tea Tree, Green Tea, Heartleaf and LHA. Apply to dry skin, emulsify with water and rinse off."
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Cleansing Oil",
+      "after": "Cleansing oil"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "LHA",
+      "after": "Centella"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Centella",
+      "after": "Tea Tree"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Tea Tree",
+      "after": "Green Tea"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Green Tea",
+      "after": "Heartleaf"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Jojoba Oil",
+      "after": "LHA"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Squalane",
+      "after": "Rinse off"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Panthenol",
+      "after": "200 ml"
+    },
+    {
+      "tag": "ul",
+      "class": "features-list",
+      "id": null,
+      "before": "<li>Deep pore cleansing and makeup removal</li>\n          <li>Gentle LHA / Capryloyl Salicylic Acid</li>\n          <li>Soothing Centella, Tea Tree and Green Tea</li>\n          <li>Lightweight, non-comedogenic-feel formula</li>\n          <li>Rinses clean with no greasy residue</li>",
+      "after": "<li>Cleansing oil format</li>\n<li>Routine: Oil-cleansing step</li>\n<li>Apply 2–3 pumps to dry skin with dry hands.</li>\n<li>Massage gently to loosen makeup, sunscreen and daily buildup.</li>\n<li>Add water until milky, then rinse thoroughly. Follow with a foaming cleanser if desired.</li>"
+    },
+    {
+      "tag": "span",
+      "class": "banner-tag",
+      "id": null,
+      "before": "Oil Cleanse x LHA",
+      "after": "Rinse-off cleansing oil · 200 ml"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": null,
+      "before": "Melt makeup and sunscreen, then rinse clean.",
+      "after": "Massage, emulsify, then rinse."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A lightweight first cleanse for pores, blackhead-prone areas and daily sunscreen removal.",
+      "after": "Begin with dry hands and dry skin. Add water after massaging to emulsify the oil. Follow with Gentle Cleanser if you choose a second cleansing step."
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": null,
+      "before": "Oil-Based Makeup and Sunscreen Removal",
+      "after": "Where it fits."
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "2-3",
+      "after": "200 ml"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Pumps",
+      "after": "Listed size"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Dry Skin",
+      "after": "Cleansing oil"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "First cleanse",
+      "after": "Product format"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Milky",
+      "after": "Label"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Emulsifies with water",
+      "after": "Directions first"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "The cleansing oil is designed to dissolve sunscreen, makeup and daily oil-based buildup before emulsifying with water.",
+      "after": "Begin with dry hands and dry skin. Add water after massaging to emulsify the oil. Follow with Gentle Cleanser if you choose a second cleansing step."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A clean-rinse texture supports a fresh finish without a greasy film.",
+      "after": "CELDYQUE Pore Purifying Cleansing Oil features Centella, Tea Tree, Green Tea, Heartleaf and LHA. Apply to dry skin, emulsify with water and rinse off."
+    },
+    {
+      "tag": "h4",
+      "class": null,
+      "id": null,
+      "before": "Deep clean without heaviness.",
+      "after": "Massage, emulsify, then rinse."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "The original pore-care visual is retained and framed in the updated premium layout.",
+      "after": "Use the application method and routine step for this specific product."
+    },
+    {
+      "tag": "div",
+      "class": "ev-chips",
+      "id": null,
+      "before": "<span>Makeup</span><span>Sunscreen</span><span>Sebum</span>",
+      "after": "<span>Cleansing oil</span><span>200 ml</span><span>Directions</span>"
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": null,
+      "before": "LHA + Botanical Balance",
+      "after": "Read the complete formula."
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "LHA",
+      "after": "Format"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Gentle pore care",
+      "after": "Routine role"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Cica",
+      "after": "INCI"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Comfort",
+      "after": "Full ingredient list"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Squalane",
+      "after": "Label"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Soft finish",
+      "after": "Current instructions"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "LHA / Capryloyl Salicylic Acid supports gentle pore-focused cleansing.",
+      "after": "Selected ingredients include Centella Asiatica, Tea Tree, Green Tea, Heartleaf and LHA. Massage onto dry skin, emulsify with water and rinse thoroughly. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Centella, Tea Tree, Green Tea, Jojoba Seed Oil, Squalane and Panthenol help leave skin soft and balanced after rinsing.",
+      "after": "Selected ingredients are a summary. Check the complete declaration on your packaging when comparing formulas."
+    },
+    {
+      "tag": "h4",
+      "class": null,
+      "id": null,
+      "before": "Botanical oil-cleanse support.",
+      "after": "Ingredients in context."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A natural ingredient visual from the original page remains part of the story.",
+      "after": "Explore selected ingredients below and check your packaging for the complete ingredient list."
+    },
+    {
+      "tag": "div",
+      "class": "ev-chips",
+      "id": null,
+      "before": "<span>LHA</span><span>Centella</span><span>Tea Tree</span>",
+      "after": "<span>Formula</span><span>INCI</span><span>Label</span>"
+    },
+    {
+      "tag": "div",
+      "class": "eyebrow",
+      "id": null,
+      "before": "Key Benefits",
+      "after": "Product at a Glance"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "benefits-title",
+      "before": "Designed around visible skincare results.",
+      "after": "The details that help you choose."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "CELDYQUE Pore Purifying Cleansing Oil is a lightweight cleansing oil with Soybean Oil, LHA, Centella, Tea Tree, Green Tea, Jojoba Seed Oil, Squalane and Panthenol for makeup removal, sunscreen cleansing and blackhead care.",
+      "after": "Product format, application and label information in one place."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Makeup Removal",
+      "after": "Product Format"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Melts makeup, sunscreen and daily impurities.",
+      "after": "Rinse-off cleansing oil."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Blackhead Care",
+      "after": "Listed Size"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "LHA supports pore-focused cleansing routines.",
+      "after": "200 ml / 6.76 fl oz."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Clean Rinse",
+      "after": "First Step"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Emulsifies with water for a non-greasy finish.",
+      "after": "Apply 2–3 pumps to dry skin with dry hands."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Soothing Support",
+      "after": "Application"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Centella, Tea Tree and Green Tea support comfortable cleansing.",
+      "after": "Massage gently to loosen makeup, sunscreen and daily buildup."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Soft Skin Feel",
+      "after": "Finish the Step"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Jojoba, Squalane and Panthenol help avoid dryness.",
+      "after": "Add water until milky, then rinse thoroughly. Follow with a foaming cleanser if desired."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "First-Cleanse Step",
+      "after": "Before Use"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Pairs with foaming cleanser for a double-cleanse routine.",
+      "after": "Read the complete ingredients and precautions on your current packaging."
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "architecture-title",
+      "before": "Cleansing Oil Architecture",
+      "after": "Selected Ingredient Information"
+    },
+    {
+      "tag": "p",
+      "class": "sub",
+      "id": null,
+      "before": "A first-cleanse system for makeup, sunscreen, sebum and pore-focused care.",
+      "after": "These selected names do not replace the complete INCI declaration on your packaging."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Soybean Oil",
+      "after": "Glycine Soja / Soybean Oil"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Oil base for dissolving makeup and sunscreen.",
+      "after": "Also listed: Capryloyl Salicylic Acid / LHA."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "LHA",
+      "after": "Centella Asiatica Extract"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Gentle pore-care cleansing support.",
+      "after": "Also listed: Tea Tree Extract."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Centella",
+      "after": "Green Tea Extract"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Soothing support.",
+      "after": "Also listed: Jojoba Seed Oil."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Tea Tree + Green Tea",
+      "after": "Squalane"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Botanical balance.",
+      "after": "Also listed: Panthenol."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Jojoba + Squalane",
+      "after": "Heartleaf"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Soft emollient finish.",
+      "after": "See the complete ingredient list on your packaging."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Panthenol",
+      "after": "Full INCI"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Comforting after-feel.",
+      "after": "Check the complete ingredient declaration on the current packaging."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Apply 2-3 pumps to dry skin with dry hands.",
+      "after": "Apply 2–3 pumps to dry skin with dry hands."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Massage gently to dissolve makeup, sunscreen and impurities.",
+      "after": "Massage gently to loosen makeup, sunscreen and daily buildup."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Add water until milky, then rinse thoroughly. Follow with cleanser if desired.",
+      "after": "Add water until milky, then rinse thoroughly. Follow with a foaming cleanser if desired."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Avoid direct contact with eyes. Rinse thoroughly if contact occurs.",
+      "after": "Avoid direct eye contact. Rinse thoroughly if contact occurs."
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": "ingredients-title",
+      "before": "Key Ingredients",
+      "after": "Ingredient Information"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "LHA · Centella · Tea Tree · Cleansing Oil",
+      "after": "Selected ingredients · Complete list on packaging"
+    },
+    {
+      "tag": "div",
+      "class": "freefrom",
+      "id": null,
+      "before": "<span>First Cleanse</span><span>Clean Rinse</span><span>LHA</span><span>Pore Care</span>",
+      "after": "<span>Selected summary</span><span>Check packaging</span>"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Key Ingredients:</strong> Glycine Soja / Soybean Oil, Capryloyl Salicylic Acid / LHA, Centella Asiatica Extract, Tea Tree Extract, Green Tea Extract, Jojoba Seed Oil, Squalane and Panthenol.",
+      "after": "<strong>Selected ingredients:</strong> Glycine Soja / Soybean Oil; Capryloyl Salicylic Acid / LHA; Centella Asiatica Extract; Tea Tree Extract; Green Tea Extract; Jojoba Seed Oil; Squalane; Panthenol; Heartleaf."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Benefits:</strong> Makeup removal, blackhead care, soothing support and balancing.",
+      "after": "Selected ingredients include Centella Asiatica, Tea Tree, Green Tea, Heartleaf and LHA. Massage onto dry skin, emulsify with water and rinse thoroughly. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Formula:</strong> Mineral oil-free, paraben-free and artificial fragrance-free positioning from the original page.",
+      "after": "<strong>Format:</strong> Cleansing oil."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Refer to the product packaging for the complete and most current ingredient list.",
+      "after": "<strong>About the ingredients:</strong> Cleansing oils have been studied as a way to remove sunscreen during washing. Removal depends on the sunscreen and cleansing formula. Massage onto dry skin, emulsify with water and rinse as directed.<br /><small>Research cited here concerns ingredients or other formulations, not a clinical trial of this CELDYQUE product. <a href=\"https://pubmed.ncbi.nlm.nih.gov/31157512/\" style=\"text-decoration:underline\">Chen et al. — Cleansing methods for sunscreen removal</a></small>"
+    },
+    {
+      "tag": "div",
+      "class": "caution",
+      "id": null,
+      "before": "For external use only. Avoid direct contact with the eyes. Perform a patch test before first use. Discontinue use if persistent irritation occurs. Keep out of reach of children.",
+      "after": "For external use only. Avoid direct contact with the eyes. Patch test before first use and discontinue use if persistent irritation occurs. Keep out of reach of children."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Answers written for shoppers, search engines and AI summaries looking for clear product guidance.",
+      "after": "Format, directions and ingredient information for this product."
+    },
+    {
+      "tag": "div",
+      "class": "faq-list",
+      "id": null,
+      "before": "<details class=\"faq-item\">\n          <summary>Do I use cleansing oil on wet or dry skin?</summary>\n          <div class=\"faq-answer\">Apply it to dry skin first, massage, then add water to emulsify before rinsing.</div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>Can it remove sunscreen?</summary>\n          <div class=\"faq-answer\">Yes. It is designed as a first-cleanse step for sunscreen, makeup and oil-based buildup.</div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>Should I double cleanse?</summary>\n          <div class=\"faq-answer\">You can follow with a foaming cleanser if desired.</div>\n        </details>",
+      "after": "<details class=\"faq-item\" id=\"cleansing-oil-faq-1\"><summary>Do I start on wet or dry skin?</summary><div class=\"faq-answer\">Start with dry skin and dry hands. Massage, add water to emulsify, then rinse thoroughly.</div></details>\n<details class=\"faq-item\" id=\"cleansing-oil-faq-2\"><summary>Should I leave the oil on?</summary><div class=\"faq-answer\">No. Add water to emulsify and rinse thoroughly.</div></details>\n<details class=\"faq-item\" id=\"cleansing-oil-faq-3\"><summary>Must I use Gentle Cleanser afterward?</summary><div class=\"faq-answer\">A foaming cleanser afterward is optional. Choose the cleansing steps that suit your needs and follow your product labels.</div></details>\n<details class=\"faq-item\" id=\"cleansing-oil-faq-4\"><summary>Is the ingredient list complete?</summary><div class=\"faq-answer\">This page lists selected ingredients. Read the full ingredient declaration on your packaging.</div></details>\n<p style=\"margin-top:24px\"><a href=\"/faq.html\" style=\"text-decoration:underline\">More product questions</a> · <a href=\"/product-gentle-cleanser.html\" style=\"text-decoration:underline\">Gentle Cleanser Purifying Touch</a></p>"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "CELDYQUE Pore Purifying Cleansing Oil is a lightweight cleansing oil with Soybean Oil, LHA, Centella, Tea Tree, Green Tea, Jojoba Seed Oil, Squalane and Panthenol for makeup removal, sunscreen cleansing and blackhead care.",
+      "after": "Shop this product using the retailer links below. Check your retailer for prices, availability, delivery and returns."
+    }
+  ]
+}

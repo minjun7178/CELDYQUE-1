@@ -1,0 +1,581 @@
+{
+  "source": "product-bakuchiol-30000.html",
+  "source_sha256": "d759e0e1a75eee7117620a3c5872a3279d03313cb8fb4fb2ac216a93e4f82b63",
+  "status": "draft",
+  "changes": [
+    {
+      "tag": "div",
+      "class": "product-kicker",
+      "id": null,
+      "before": "High-Potency Retinol Alternative",
+      "after": "Mix-in serum"
+    },
+    {
+      "tag": "p",
+      "class": "subtitle",
+      "id": null,
+      "before": "A concentrated Bakuchiol mix-in serum for smooth, firm-looking skincare routines. · 30 ml / 1 fl oz",
+      "after": "Mix-in serum · 30 ml / 1 fl oz"
+    },
+    {
+      "tag": "p",
+      "class": "desc-text",
+      "id": null,
+      "before": "CELDYQUE Bakuchiol 30,000ppm Serum is a high-potency retinol-alternative mix-in serum with Bakuchiol, Butylene Glycol and a minimalist formula for customized firm-looking and smooth-looking care.",
+      "after": "CELDYQUE Bakuchiol 30,000ppm Serum is a mix-in concentrate for use with a compatible moisturizer, cream or serum."
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Bakuchiol 30,000 ppm",
+      "after": "Bakuchiol"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Retinol Alternative",
+      "after": "Mix-in format"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Mix-In Serum",
+      "after": "1–2 drops"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Vegan",
+      "after": "30 ml"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Cruelty-Free",
+      "after": "Liquid concentrate"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Non-GMO",
+      "after": "Mix in your palm"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Minimal Formula",
+      "after": "Check the label"
+    },
+    {
+      "tag": "ul",
+      "class": "features-list",
+      "id": null,
+      "before": "<li>30,000 ppm high-potency Bakuchiol</li>\n          <li>Gentle retinol-alternative care for sensitive-looking skin</li>\n          <li>Hydration and skin smoothing support</li>\n          <li>Vegan, cruelty-free and non-GMO positioning</li>\n          <li>Mix-in formula for customized care</li>",
+      "after": "<li>Liquid mix-in concentrate format</li>\n<li>Routine: Mix with a compatible moisturizer</li>\n<li>Add 1–2 drops to moisturizer, cream or a compatible serum, as directed on your label.</li>\n<li>Blend in your palm immediately before use.</li>\n<li>Apply the mixture as directed. Follow your sunscreen label for morning use.</li>"
+    },
+    {
+      "tag": "span",
+      "class": "banner-tag",
+      "id": null,
+      "before": "Bakuchiol 30,000 ppm",
+      "after": "Mix-in serum · 30 ml"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": null,
+      "before": "A concentrated retinol-alternative booster.",
+      "after": "A mix-in format for your moisturizer."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A minimalist serum for routines focused on firm-looking, smooth-looking skin and customized mixing.",
+      "after": "Mix the concentrate in your palm before application. Bakuchiol Volume Collagen Cream is a separate cream product applied as the moisturizer step."
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": null,
+      "before": "High-Potency Bakuchiol Care",
+      "after": "Where it fits."
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "30,000 ppm",
+      "after": "30 ml"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Bakuchiol",
+      "after": "Listed size"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Retinol",
+      "after": "Mix-in"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Alternative",
+      "after": "Product format"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Minimal",
+      "after": "Label"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Formula",
+      "after": "Directions first"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Bakuchiol 30,000 ppm creates a strong, clean ingredient signal for search and AI discovery.",
+      "after": "Mix the concentrate in your palm before application. Bakuchiol Volume Collagen Cream is a separate cream product applied as the moisturizer step."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "The formula supports the appearance of smoother, firmer-looking skin as part of a consistent routine.",
+      "after": "CELDYQUE Bakuchiol 30,000ppm Serum is a mix-in concentrate for use with a compatible moisturizer, cream or serum."
+    },
+    {
+      "tag": "h4",
+      "class": null,
+      "id": null,
+      "before": "Botanical retinol-alternative care.",
+      "after": "A mix-in format for your moisturizer."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "The original botanical image remains in the refreshed product layout.",
+      "after": "Use the application method and routine step for this specific product."
+    },
+    {
+      "tag": "div",
+      "class": "ev-chips",
+      "id": null,
+      "before": "<span>Bakuchiol</span><span>Firmness</span><span>Texture</span>",
+      "after": "<span>Mix-in</span><span>30 ml</span><span>Directions</span>"
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": null,
+      "before": "DIY Mix-In Format",
+      "after": "Read the complete formula."
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Mix",
+      "after": "Format"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "With cream",
+      "after": "Routine role"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Target",
+      "after": "INCI"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "As desired",
+      "after": "Full ingredient list"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Gentle",
+      "after": "Label"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Daily routine",
+      "after": "Current instructions"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Because it is concentrated, the serum is designed as a DIY mix-in with moisturizer, cream or compatible serum.",
+      "after": "Selected ingredients include 30,000 ppm Bakuchiol and Butylene Glycol. This concentrate is designed to mix with compatible skincare before use. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "This format lets users customize the feel and intensity while keeping the routine simple.",
+      "after": "Selected ingredients are a summary. Check the complete declaration on your packaging when comparing formulas."
+    },
+    {
+      "tag": "h4",
+      "class": null,
+      "id": null,
+      "before": "Customize your skincare texture.",
+      "after": "Ingredients in context."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "The original mixing cream visual is preserved for clear use-case continuity.",
+      "after": "Explore selected ingredients below and check your packaging for the complete ingredient list."
+    },
+    {
+      "tag": "div",
+      "class": "ev-chips",
+      "id": null,
+      "before": "<span>Mix-In</span><span>Cream</span><span>Booster</span>",
+      "after": "<span>Formula</span><span>INCI</span><span>Label</span>"
+    },
+    {
+      "tag": "div",
+      "class": "eyebrow",
+      "id": null,
+      "before": "Key Benefits",
+      "after": "Product at a Glance"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "benefits-title",
+      "before": "Designed around visible skincare results.",
+      "after": "The details that help you choose."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "CELDYQUE Bakuchiol 30,000ppm Serum is a high-potency retinol-alternative mix-in serum with Bakuchiol, Butylene Glycol and a minimalist formula for customized firm-looking and smooth-looking care.",
+      "after": "Product format, application and label information in one place."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Firm-Looking Care",
+      "after": "Product Format"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Bakuchiol supports a smoother, more elastic-looking complexion.",
+      "after": "Mix-in serum."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Retinol Alternative",
+      "after": "Listed Size"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Positioned as a gentler botanical alternative to retinol routines.",
+      "after": "30 ml / 1 fl oz."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Customizable Use",
+      "after": "First Step"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Mix with compatible skincare to adjust texture and feel.",
+      "after": "Add 1–2 drops to moisturizer, cream or a compatible serum, as directed on your label."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Minimal Formula",
+      "after": "Application"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Simple ingredient story for focused product discovery.",
+      "after": "Blend in your palm immediately before use."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Sensitive-Looking Skin",
+      "after": "Finish the Step"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A gentle active-care option when introduced gradually.",
+      "after": "Apply the mixture as directed. Follow your sunscreen label for morning use."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Smooth Texture",
+      "after": "Before Use"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Supports the appearance of refined skin texture.",
+      "after": "Read the complete ingredients and precautions on your current packaging."
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "architecture-title",
+      "before": "Bakuchiol Booster Architecture",
+      "after": "Selected Ingredient Information"
+    },
+    {
+      "tag": "p",
+      "class": "sub",
+      "id": null,
+      "before": "A focused mix-in serum with a clear hero ingredient and simple usage story.",
+      "after": "These selected names do not replace the complete INCI declaration on your packaging."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Bakuchiol 30,000 ppm",
+      "after": "Bakuchiol"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Hero retinol-alternative active.",
+      "after": "Also listed: Butylene Glycol."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Butylene Glycol",
+      "after": "Water"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Moisture-supporting solvent.",
+      "after": "Also listed: 1,2-Hexanediol."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Water",
+      "after": "Full INCI"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Formula base support.",
+      "after": "Check the complete ingredient declaration on the current packaging."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "1,2-Hexanediol",
+      "after": "Formula Details"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Formula support ingredient.",
+      "after": "Selected ingredients include 30,000 ppm Bakuchiol and Butylene Glycol. This concentrate is designed to mix with compatible skincare before use. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Mix-In Format",
+      "after": "Product Format"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Customizable use with compatible skincare.",
+      "after": "Mix-in serum."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Free-From Positioning",
+      "after": "Label First"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Original page notes parabens, sulfates and synthetic fragrance free.",
+      "after": "Follow the directions and precautions for your specific product."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Add 1-2 drops to moisturizer, cream or compatible serum.",
+      "after": "Add 1–2 drops to moisturizer, cream or a compatible serum, as directed on your label."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Blend in your palm before applying.",
+      "after": "Blend in your palm immediately before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Smooth over face and neck. Use sunscreen in the morning.",
+      "after": "Apply the mixture as directed. Follow your sunscreen label for morning use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Because it is concentrated, start slowly and patch test before first use.",
+      "after": "Start slowly and patch test before first use. Use sunscreen in the morning."
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": "ingredients-title",
+      "before": "Key Ingredients",
+      "after": "Ingredient Information"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Bakuchiol · Minimalist Mix-In Serum",
+      "after": "Selected ingredients · Complete list on packaging"
+    },
+    {
+      "tag": "div",
+      "class": "freefrom",
+      "id": null,
+      "before": "<span>Mix-In</span><span>Vegan</span><span>Cruelty-Free</span><span>Retinol Alternative</span>",
+      "after": "<span>Selected summary</span><span>Check packaging</span>"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Key Ingredients:</strong> Bakuchiol 30,000 ppm, Butylene Glycol, Water and 1,2-Hexanediol.",
+      "after": "<strong>Selected ingredients:</strong> Bakuchiol; Butylene Glycol; Water; 1,2-Hexanediol."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Free From:</strong> Parabens, sulfates and synthetic fragrances.",
+      "after": "Selected ingredients include 30,000 ppm Bakuchiol and Butylene Glycol. This concentrate is designed to mix with compatible skincare before use. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Note:</strong> The original page recommends mixing with moisturizer because of the high concentration.",
+      "after": "<strong>Format:</strong> Liquid mix-in concentrate."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Refer to the product packaging for the complete and most current ingredient list.",
+      "after": "<strong>About the ingredients:</strong> Bakuchiol has been studied in topical creams for the appearance of fine lines and uneven pigmentation. One trial used a 0.5% cream. This mix-in serum has a different formula and application method, so the trial does not establish the same outcome here.<br /><small>Research cited here concerns ingredients or other formulations, not a clinical trial of this CELDYQUE product. <a href=\"https://pubmed.ncbi.nlm.nih.gov/29947134/\" style=\"text-decoration:underline\">Dhaliwal et al. — Topical bakuchiol and photoageing</a></small>"
+    },
+    {
+      "tag": "div",
+      "class": "caution",
+      "id": null,
+      "before": "For external use only. Avoid direct contact with the eyes. Perform a patch test before first use. Discontinue use if persistent irritation occurs. Keep out of reach of children.",
+      "after": "For external use only. Avoid direct contact with the eyes. Patch test before first use and discontinue use if persistent irritation occurs. Keep out of reach of children."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Answers written for shoppers, search engines and AI summaries looking for clear product guidance.",
+      "after": "Format, directions and ingredient information for this product."
+    },
+    {
+      "tag": "div",
+      "class": "faq-list",
+      "id": null,
+      "before": "<details class=\"faq-item\">\n          <summary>What is Bakuchiol 30,000ppm Serum?</summary>\n          <div class=\"faq-answer\">It is a concentrated Bakuchiol mix-in serum positioned as a retinol-alternative skincare booster.</div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>Should I use it alone?</summary>\n          <div class=\"faq-answer\">The original page recommends mixing it with moisturizer or compatible skincare due to the high concentration.</div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>Can I use it during the day?</summary>\n          <div class=\"faq-answer\">Use as tolerated and apply sunscreen in the morning.</div>\n        </details>",
+      "after": "<details class=\"faq-item\" id=\"bakuchiol-30000-faq-1\"><summary>Should I use this like the bakuchiol cream?</summary><div class=\"faq-answer\">No. Mix this concentrate with compatible skincare as directed on its label. Bakuchiol Volume Collagen Cream is applied as its own moisturizer step.</div></details>\n<details class=\"faq-item\" id=\"bakuchiol-30000-faq-2\"><summary>Can I apply it undiluted?</summary><div class=\"faq-answer\">Use the mix-in method on your product label: blend the directed amount with compatible skincare before application.</div></details>\n<details class=\"faq-item\" id=\"bakuchiol-30000-faq-3\"><summary>When should I prepare the mixture?</summary><div class=\"faq-answer\">Mix it in your palm immediately before application, following your product label.</div></details>\n<details class=\"faq-item\" id=\"bakuchiol-30000-faq-4\"><summary>How do the two bakuchiol formats differ?</summary><div class=\"faq-answer\">Bakuchiol 30,000ppm Serum is a mix-in concentrate. Bakuchiol Volume Collagen Cream is a moisturizer applied after serum. The related cream page is linked below.</div></details>\n<p style=\"margin-top:24px\"><a href=\"/faq.html\" style=\"text-decoration:underline\">More product questions</a> · <a href=\"/product-bakuchiol-volume-collagen-cream.html\" style=\"text-decoration:underline\">Bakuchiol Volume Collagen Cream</a> · <a href=\"/product-volufiline-100.html\" style=\"text-decoration:underline\">Volufiline 100% Concentrate</a></p>"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "CELDYQUE Bakuchiol 30,000ppm Serum is a high-potency retinol-alternative mix-in serum with Bakuchiol, Butylene Glycol and a minimalist formula for customized firm-looking and smooth-looking care.",
+      "after": "Shop this product using the retailer links below. Check your retailer for prices, availability, delivery and returns."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-13",
+  "approved_by": "User / brand owner in this conversation",
+  "source_priority": "2026 CELDYQUE catalog.pdf for product facts; existing directions where the catalog is silent",
+  "scope": "14 active product pages, common FAQ, shop tags and homepage wording; existing design retained",
+  "deployment_authorized": true,
+  "before_backup_required": true,
+  "excluded": [
+    "Five unpublished guide drafts",
+    "Finished-product clinical efficacy claims",
+    "Unspecified full INCI and active purity"
+  ],
+  "manufacturer_test_verification": false
+}

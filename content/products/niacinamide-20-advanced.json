@@ -1,0 +1,306 @@
+{
+  "schema_version": 1,
+  "product_id": "niacinamide-20-advanced",
+  "catalog_status": "active",
+  "publication_status": "approved",
+  "language": "en",
+  "source_commit": "a150659d59365f91bcd3833816bb24130ccfe5ab",
+  "imported_on": "2026-10-12",
+  "approved_on": "2026-10-13",
+  "approved_by": "User / brand owner in this conversation",
+  "identity": {
+    "name": {
+      "value": "Niacinamide 20% Pore Minimizer Serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-niacinamide-20-advanced"
+      ],
+      "source_section": "H1",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "schema_name": {
+      "value": "CELDYQUE Niacinamide 20% Pore Minimizer Serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-niacinamide-20-advanced"
+      ],
+      "source_section": "Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "aliases": {
+      "value": [
+        "Niacinamide 20% Pore Minimizer Serum",
+        "Niacinamide 20% Pore Minimizer Serum"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-niacinamide-20-advanced"
+      ],
+      "source_section": "H1 / Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "current_url": "/product-niacinamide-20-advanced.html",
+    "canonical": "https://celdyque.com/product-niacinamide-20-advanced.html",
+    "legacy_urls": [],
+    "asin": {
+      "value": "B0C2PH12CR",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-niacinamide-20-advanced"
+      ],
+      "source_section": "Product.identifier",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "formula_version": null,
+    "market_label_version": null
+  },
+  "specifications": {
+    "size": {
+      "value": "30 ml / 1 fl oz",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-niacinamide-20-advanced"
+      ],
+      "source_section": "Product.size",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "category": {
+      "value": "Face Serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-niacinamide-20-advanced"
+      ],
+      "source_section": "Product.category",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "format": {
+      "value": "Face serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-niacinamide-20-advanced"
+      ],
+      "source_section": "Product body / format description",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "texture": {
+      "value": "Liquid-gel serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-niacinamide-20-advanced"
+      ],
+      "source_section": "Ingredients / texture",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "routine_step": {
+      "value": "Before moisturizer",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-niacinamide-20-advanced"
+      ],
+      "source_section": "How to Use",
+      "verified_on": null,
+      "reviewer": null
+    }
+  },
+  "formulation": {
+    "selected_ingredients": {
+      "value": [
+        "Rosa Damascena Flower Water",
+        "Niacinamide",
+        "Glycerin",
+        "Butylene Glycol",
+        "Green Tea Leaf Extract",
+        "Hydrolyzed Sodium Hyaluronate",
+        "Beta-Glucan"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-niacinamide-20-advanced"
+      ],
+      "source_section": "Key Ingredients / formula summary",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "full_inci": {
+      "value": null,
+      "status": "needs_verification",
+      "evidence_ids": [],
+      "reason": "Current website provides selected ingredients or refers to packaging; no verified full label supplied."
+    },
+    "concentration_labels": {
+      "value": [
+        "Niacinamide 20%",
+        "Rosa Damascena Flower Water 63.3%",
+        "Green Tea 1%"
+      ],
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-niacinamide-20-advanced"
+      ],
+      "source_section": "Product title / body / metadata",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "concentration_basis": null,
+    "raw_ingredient_vs_finished_formula": null
+  },
+  "directions": {
+    "draft_steps": {
+      "value": [
+        "Apply after cleansing and toner, following the amount on your packaging.",
+        "The existing directions recommend introducing the product gradually.",
+        "Follow with moisturizer and sunscreen in the morning according to their labels."
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-niacinamide-20-advanced"
+      ],
+      "source_section": "How to Use; conservative editorial restatement",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "original_text": {
+      "value": "How to Use 1 Apply After cleansing and toner, apply a few drops to the face. 2 Adapt Start slowly if your skin is new to 20% Niacinamide. 3 Layer Follow with moisturizer and sunscreen in the morning. Patch test recommended because of the high 20% concentration.",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-niacinamide-20-advanced"
+      ],
+      "source_section": "#how-to-use",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "manufacturer_confirmed": false,
+    "shelf_life": null,
+    "period_after_opening": null
+  },
+  "observed_copy": {
+    "original_description": "CELDYQUE Niacinamide 20% Advanced Serum uses a 63.3% Rosa Damascena Flower Water base with 20% Niacinamide, Green Tea 1%, Hyaluronic Acid and Beta-Glucan for pore appearance, tone and texture care.",
+    "original_ingredient_text": "Key Ingredients Niacinamide · Rose Water · Green Tea Fragrance-FreeVeganNon-StickyPore Serum Key Ingredients: Rosa Damascena Flower Water 63.3%, Niacinamide 20%, Glycerin, Butylene Glycol, Green Tea Leaf Extract, Hydrolyzed Sodium Hyaluronate, Beta-Glucan and supporting formula ingredients. Benefits: Pore minimizing appearance, tone evening, hydration and age-defying-looking care. Texture: Lightweight, non-sticky liquid gel with EWG green grade positioning from the original page. Refer to the product packaging for the complete and most current ingredient list. For external use only. Avoid direct contact with the eyes. Perform a patch test before first use. Discontinue use if persistent irritation occurs. Keep out of reach of children.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "Is 20% Niacinamide strong?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. It is a high-strength niacinamide serum, so introduce gradually if your skin is new to it."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is it best for?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It is best positioned for pore appearance, tone, texture and hydration support."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use it under makeup?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. The lightweight, non-sticky texture is designed to layer well."
+        }
+      }
+    ]
+  },
+  "retailers": [
+    {
+      "retailer_id": "amazon",
+      "asin": "B0C2PH12CR",
+      "identity_url": "https://www.amazon.com/dp/B0C2PH12CR",
+      "purchase_urls": [
+        "https://www.amazon.com/Niacinamide-Concentrated-Hyaluronic-Beta-Glucan-Defying-Aging/dp/B0C2PH12CR?maas=maas_adg_9D8A330F96AA01A13A0033A6A67C5609_afap_abs&ref_=aa_maas&tag=maas&th=1"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-niacinamide-20-advanced"
+      ],
+      "live_stock": null,
+      "live_price": null
+    }
+  ],
+  "media": {
+    "primary_image": "/images/제품/Mask group-8.webp",
+    "alt": "CELDYQUE Niacinamide 20% Pore Minimizer Serum, 30 ml / 1 fl oz, pump bottle",
+    "rights_status": "needs_verification"
+  },
+  "claims_held_for_review": [
+    {
+      "claim": "Unverified EWG or vegan certification",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-niacinamide-20-advanced"
+      ],
+      "supporting_product_evidence": []
+    },
+    {
+      "claim": "Guaranteed pore shrinkage",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-niacinamide-20-advanced"
+      ],
+      "supporting_product_evidence": []
+    }
+  ],
+  "open_questions": [
+    {
+      "id": "niacinamide-20-advanced-Q1",
+      "question": "Confirm the official name, current label and 20%/63.3%/1% figures.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "niacinamide-20-advanced-Q2",
+      "question": "Obtain the full INCI and current application directions.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "niacinamide-20-advanced-Q3",
+      "question": "Verify or remove vegan, EWG and fragrance-free statements.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    }
+  ],
+  "related_product_ids": [
+    "glutathione-30000",
+    "arbutxa-glow-cream"
+  ],
+  "guide_ids": [
+    "tone-care"
+  ],
+  "copy_file": "copy/en/products/niacinamide-20-advanced.md",
+  "search_aliases": {
+    "value": [
+      "Niacinamide 20% Pore Minimizer Serum"
+    ],
+    "status": "imported",
+    "evidence_ids": [
+      "site-product-niacinamide-20-advanced"
+    ],
+    "source_section": "H1; excludes unsupported efficacy tags",
+    "verified_on": null,
+    "reviewer": null
+  },
+  "faq_ids": [
+    "niacinamide-20-advanced-faq-1",
+    "niacinamide-20-advanced-faq-2",
+    "niacinamide-20-advanced-faq-3",
+    "niacinamide-20-advanced-faq-4"
+  ],
+  "catalog_reference": {
+    "file": "catalog-facts-2026.json",
+    "pages": [
+      18
+    ],
+    "scope": "Catalog facts selected for publication; original observed_copy is historical."
+  }
+}

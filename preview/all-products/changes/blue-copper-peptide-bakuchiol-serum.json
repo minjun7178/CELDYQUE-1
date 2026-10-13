@@ -1,0 +1,581 @@
+{
+  "source": "product-blue-copper-peptide-bakuchiol-serum.html",
+  "source_sha256": "ea02e234bb799208508b9f04ed043715688f2f0d72e33b29fe86e3677c32fbb0",
+  "status": "draft",
+  "changes": [
+    {
+      "tag": "div",
+      "class": "product-kicker",
+      "id": null,
+      "before": "Advanced Korean Peptide Care",
+      "after": "Face serum"
+    },
+    {
+      "tag": "p",
+      "class": "subtitle",
+      "id": null,
+      "before": "Multi-peptide plumping and firming face serum for smoother-looking bounce. · 30 ml / 1.01 fl oz",
+      "after": "Face serum · 30 ml / 1.01 fl oz"
+    },
+    {
+      "tag": "p",
+      "class": "desc-text",
+      "id": null,
+      "before": "CELDYQUE Blue Copper Peptide Bakuchiol Serum pairs Copper Tripeptide-1, Bakuchiol, Matrixyl 3000, Argireline, EGF, Niacinamide and Hyaluronic Acid for lightweight firming, plumping, smoothing and hydration care.",
+      "after": "CELDYQUE Blue Copper Peptide Bakuchiol Serum is a face serum used after cleansing and toning, before moisturizer."
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Copper Tripeptide-1",
+      "after": "Copper peptide"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Matrixyl 3000",
+      "after": "Peptides"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Argireline",
+      "after": "Niacinamide"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "EGF",
+      "after": "Panthenol"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "12-Peptide Complex",
+      "after": "Beta-Glucan"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Niacinamide 2%",
+      "after": "Allantoin"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Hyaluronic Acid",
+      "after": "30 ml"
+    },
+    {
+      "tag": "ul",
+      "class": "features-list",
+      "id": null,
+      "before": "<li>Helps soften the appearance of smile lines and fine lines</li>\n          <li>Supports firmer-looking, plumper-looking skin</li>\n          <li>12-Peptide Complex with GHK-Cu, Matrixyl 3000 and Argireline</li>\n          <li>Hydration support with Hyaluronic Acid, Collagen and Beta-Glucan</li>\n          <li>Fragrance-free, lightweight and fast-absorbing</li>\n          <li>Layers easily under moisturizer, sunscreen and makeup</li>",
+      "after": "<li>Lightweight serum format</li>\n<li>Routine: Before moisturizer</li>\n<li>Apply after cleansing and toning.</li>\n<li>Apply 2–3 drops to the face and neck, then gently pat until absorbed.</li>\n<li>Follow with moisturizer and use sunscreen as the final morning step.</li>"
+    },
+    {
+      "tag": "span",
+      "class": "banner-tag",
+      "id": null,
+      "before": "Copper Peptide x Bakuchiol",
+      "after": "Face serum · 30 ml"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": null,
+      "before": "Blue peptide care for bounce and firmness.",
+      "after": "A peptide serum before moisturizer."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A modern daily serum combining advanced peptide care with lightweight hydration for skin that looks smoother, plumper, firmer and more radiant.",
+      "after": "Add this serum between toner and cream. Compare the selected ingredients with those of other CELDYQUE serums, and check the full ingredient list on your packaging."
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": null,
+      "before": "A Multi-Peptide Firming Complex",
+      "after": "Where it fits."
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "GHK-Cu",
+      "after": "30 ml"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Copper Tripeptide-1",
+      "after": "Listed size"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "12",
+      "after": "Serum"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Peptide Complex",
+      "after": "Product format"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "EGF",
+      "after": "Label"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "sh-Oligopeptide-1",
+      "after": "Directions first"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Copper Tripeptide-1, Matrixyl 3000, Argireline, EGF and a 12-Peptide Complex work together in a concentrated daily routine focused on the appearance of fine lines, smile lines, elasticity and uneven-looking texture.",
+      "after": "Add this serum between toner and cream. Compare the selected ingredients with those of other CELDYQUE serums, and check the full ingredient list on your packaging."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "The serum is designed to support a smoother-looking, firmer-looking complexion while maintaining a lightweight finish for morning and evening routines.",
+      "after": "CELDYQUE Blue Copper Peptide Bakuchiol Serum is a face serum used after cleansing and toning, before moisturizer."
+    },
+    {
+      "tag": "h4",
+      "class": null,
+      "id": null,
+      "before": "Blue Copper Peptide meets a 12-peptide complex.",
+      "after": "A peptide serum before moisturizer."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A premium blue lab mood tuned to GHK-Cu, Matrixyl 3000, Argireline and EGF.",
+      "after": "Use the application method and routine step for this specific product."
+    },
+    {
+      "tag": "div",
+      "class": "ev-chips",
+      "id": null,
+      "before": "<span>GHK-Cu</span><span>Matrixyl 3000</span><span>Argireline</span>",
+      "after": "<span>Serum</span><span>30 ml</span><span>Directions</span>"
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": null,
+      "before": "Bakuchiol + Hydration Barrier Support",
+      "after": "Read the complete formula."
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Bakuchiol",
+      "after": "Format"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Retinol-alternative care",
+      "after": "Routine role"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "2%",
+      "after": "INCI"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Niacinamide",
+      "after": "Full ingredient list"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "HA",
+      "after": "Label"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Hyaluronic Acid",
+      "after": "Current instructions"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Bakuchiol, Niacinamide, Adenosine, Tocopherol and Guaiazulene support a more radiant-looking, even-looking complexion as part of a gentle daily skincare routine.",
+      "after": "Selected ingredients include Blue Copper Peptide, Bakuchiol, Matrixyl 3000, EGF, Argireline and Beta-Glucan. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Hydrolyzed Hyaluronic Acid, Collagen, Beta-Glucan, Panthenol and Betaine help maintain comfortable hydration for a soft, supple finish.",
+      "after": "Selected ingredients are a summary. Check the complete declaration on your packaging when comparing formulas."
+    },
+    {
+      "tag": "h4",
+      "class": null,
+      "id": null,
+      "before": "Firming care with a soft, hydrated finish.",
+      "after": "Ingredients in context."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Bakuchiol for daily firming care plus Hyaluronic Acid, Collagen and Beta-Glucan for comfort and bounce.",
+      "after": "Explore selected ingredients below and check your packaging for the complete ingredient list."
+    },
+    {
+      "tag": "div",
+      "class": "ev-chips",
+      "id": null,
+      "before": "<span>Bakuchiol</span><span>Niacinamide</span><span>HA + Collagen</span>",
+      "after": "<span>Formula</span><span>INCI</span><span>Label</span>"
+    },
+    {
+      "tag": "div",
+      "class": "eyebrow",
+      "id": null,
+      "before": "Key Benefits",
+      "after": "Product at a Glance"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "benefits-title",
+      "before": "Designed around visible skincare results.",
+      "after": "The details that help you choose."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "CELDYQUE Blue Copper Peptide Bakuchiol Serum pairs Copper Tripeptide-1, Bakuchiol, Matrixyl 3000, Argireline, EGF, Niacinamide and Hyaluronic Acid for lightweight firming, plumping, smoothing and hydration care.",
+      "after": "Product format, application and label information in one place."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Smile Line &amp; Fine Line Care",
+      "after": "Product Format"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Helps soften the look of visible smile lines and fine lines for smoother-looking facial contours.",
+      "after": "Face serum."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Plumping &amp; Firming",
+      "after": "Listed Size"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Supports firmer-looking elasticity and a fuller, bouncier-looking finish without a heavy feel.",
+      "after": "30 ml / 1.01 fl oz."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Texture Refining",
+      "after": "First Step"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Peptide and Bakuchiol care help improve the look of uneven, rough-looking texture.",
+      "after": "Apply after cleansing and toning."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Lightweight Hydration",
+      "after": "Application"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Hyaluronic Acid, Collagen, Beta-Glucan and Panthenol help maintain soft, comfortable moisture.",
+      "after": "Apply 2–3 drops to the face and neck, then gently pat until absorbed."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Radiant-Looking Finish",
+      "after": "Finish the Step"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Niacinamide, Adenosine and Guaiazulene support a fresh, even-looking glow.",
+      "after": "Follow with moisturizer and use sunscreen as the final morning step."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Easy Daily Layering",
+      "after": "Before Use"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Fragrance-free, fast-absorbing and non-greasy for use under moisturizer, sunscreen and makeup.",
+      "after": "Read the complete ingredients and precautions on your current packaging."
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "architecture-title",
+      "before": "Advanced Peptide Architecture",
+      "after": "Selected Ingredient Information"
+    },
+    {
+      "tag": "p",
+      "class": "sub",
+      "id": null,
+      "before": "A concentrated blend of recognizable peptide technologies and supporting actives for daily firming and smoothing care.",
+      "after": "These selected names do not replace the complete INCI declaration on your packaging."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Copper Tripeptide-1 (GHK-Cu)",
+      "after": "Copper Tripeptide-1"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "The hero blue copper peptide supporting a firmer-looking, revitalized-looking complexion.",
+      "after": "Also listed: Bakuchiol."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Matrixyl 3000",
+      "after": "Acetyl Hexapeptide-8"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Palmitoyl Tripeptide-1 and Palmitoyl Tetrapeptide-7 for smoother-looking, firmer-looking skin.",
+      "after": "Also listed: sh-Oligopeptide-1."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Argireline",
+      "after": "Palmitoyl Tripeptide-1"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Acetyl Hexapeptide-8 supports expression-prone fine line care as part of a consistent routine.",
+      "after": "Also listed: Palmitoyl Tetrapeptide-7."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "EGF (sh-Oligopeptide-1)",
+      "after": "Niacinamide"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "A peptide ingredient included in the formula&#x27;s advanced daily skin-conditioning complex.",
+      "after": "Also listed: Hydrolyzed Hyaluronic Acid."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Bakuchiol",
+      "after": "Hydrolyzed Collagen"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "A gentle retinol-alternative ingredient for firming, smoothing and glow-focused care.",
+      "after": "Also listed: Beta-Glucan, Panthenol, Allantoin, Betaine, Matrixyl 3000, Argireline."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "12-Peptide Complex",
+      "after": "Full INCI"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "A multi-peptide approach supporting the appearance of elasticity, texture and facial firmness.",
+      "after": "Check the complete ingredient declaration on the current packaging."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "After cleansing and toning, make sure the face and neck are ready for serum application.",
+      "after": "Apply after cleansing and toning."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Apply 2-3 drops to the face and neck. Add a small amount to visible smile-line or fine-line areas as desired.",
+      "after": "Apply 2–3 drops to the face and neck, then gently pat until absorbed."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Gently pat until absorbed, then follow with moisturizer. Use sunscreen as the final morning step.",
+      "after": "Follow with moisturizer and use sunscreen as the final morning step."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Use morning and evening. Introduce gradually if your skin is new to active skincare ingredients.",
+      "after": "Use morning and evening. Introduce gradually if active skincare ingredients are new to your routine."
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": "ingredients-title",
+      "before": "Key Ingredients",
+      "after": "Ingredient Information"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Peptides · Hydration · Daily Firming Care",
+      "after": "Selected ingredients · Complete list on packaging"
+    },
+    {
+      "tag": "div",
+      "class": "freefrom",
+      "id": null,
+      "before": "<span>Fragrance-Free</span><span>Lightweight</span><span>Fast-Absorbing</span><span>Non-Greasy</span>",
+      "after": "<span>Selected summary</span><span>Check packaging</span>"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Peptide Complex:</strong> Copper Tripeptide-1 (GHK-Cu), Matrixyl 3000, Argireline / Acetyl Hexapeptide-8, EGF / sh-Oligopeptide-1, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7 and additional peptides in the 12-Peptide Complex.",
+      "after": "<strong>Selected ingredients:</strong> Copper Tripeptide-1; Bakuchiol; Acetyl Hexapeptide-8; sh-Oligopeptide-1; Palmitoyl Tripeptide-1; Palmitoyl Tetrapeptide-7; Niacinamide; Hydrolyzed Hyaluronic Acid; Hydrolyzed Collagen; Beta-Glucan; Panthenol; Allantoin; Betaine; Matrixyl 3000; Argireline."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Firming &amp; Radiance Care:</strong> Bakuchiol, Niacinamide 2%, Adenosine, Tocopherol and Guaiazulene.",
+      "after": "Selected ingredients include Blue Copper Peptide, Bakuchiol, Matrixyl 3000, EGF, Argireline and Beta-Glucan. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Hydration Support:</strong> Hydrolyzed Hyaluronic Acid, Hydrolyzed Collagen, Beta-Glucan, Panthenol, Allantoin and Betaine.",
+      "after": "<strong>Format:</strong> Lightweight serum."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Refer to the product packaging for the complete and most current ingredient list.",
+      "after": "<strong>About the ingredients:</strong> Bakuchiol is studied for the appearance of fine lines and uneven pigmentation, while niacinamide is studied for uneven-looking tone. These are ingredient research areas, not a clinical comparison or a promised result for this peptide serum.<br /><small>Research cited here concerns ingredients or other formulations, not a clinical trial of this CELDYQUE product. <a href=\"https://pubmed.ncbi.nlm.nih.gov/29947134/\" style=\"text-decoration:underline\">Dhaliwal et al. — Topical bakuchiol and photoageing</a> · <a href=\"https://pubmed.ncbi.nlm.nih.gov/16029679/\" style=\"text-decoration:underline\">Bissett et al. — Niacinamide and facial skin appearance</a></small>"
+    },
+    {
+      "tag": "div",
+      "class": "caution",
+      "id": null,
+      "before": "For external use only. Avoid direct contact with the eyes. Perform a patch test before first use. Discontinue use if persistent irritation occurs. Keep out of reach of children.",
+      "after": "For external use only. Avoid direct contact with the eyes. Patch test before first use and discontinue use if persistent irritation occurs. Keep out of reach of children."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Answers written for shoppers, search engines and AI summaries looking for clear product guidance.",
+      "after": "Format, directions and ingredient information for this product."
+    },
+    {
+      "tag": "div",
+      "class": "faq-list",
+      "id": null,
+      "before": "<details class=\"faq-item\">\n          <summary>What is Blue Copper Peptide Bakuchiol Serum used for?</summary>\n          <div class=\"faq-answer\">It is a daily Korean face serum designed for the appearance of plumper, firmer, smoother and more hydrated-looking skin.</div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>Can I use it morning and night?</summary>\n          <div class=\"faq-answer\">Yes. It is designed for AM and PM routines. Use sunscreen as the final step in the morning.</div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>Is it fragrance-free?</summary>\n          <div class=\"faq-answer\">Yes. The formula is positioned as fragrance-free, lightweight and fast-absorbing.</div>\n        </details>",
+      "after": "<details class=\"faq-item\" id=\"blue-copper-peptide-bakuchiol-serum-faq-1\"><summary>Where does this serum fit?</summary><div class=\"faq-answer\">Apply after cleansing and toning, before moisturizer.</div></details>\n<details class=\"faq-item\" id=\"blue-copper-peptide-bakuchiol-serum-faq-2\"><summary>Can I use it morning and evening?</summary><div class=\"faq-answer\">Yes. Apply 2–3 drops after cleansing and toning, then follow with moisturizer. Use sunscreen as the final morning step. Introduce gradually.</div></details>\n<details class=\"faq-item\" id=\"blue-copper-peptide-bakuchiol-serum-faq-3\"><summary>Is the full ingredient list shown here?</summary><div class=\"faq-answer\">This page lists selected ingredients. Read the full ingredient declaration on your packaging.</div></details>\n<details class=\"faq-item\" id=\"blue-copper-peptide-bakuchiol-serum-faq-4\"><summary>What should I check before first use?</summary><div class=\"faq-answer\">Read the full ingredients and precautions on your packaging. Patch test before first use and discontinue use if persistent irritation occurs.</div></details>\n<p style=\"margin-top:24px\"><a href=\"/faq.html\" style=\"text-decoration:underline\">More product questions</a> · <a href=\"/product-pdrn-12-egf.html\" style=\"text-decoration:underline\">PDRN 12% + EGF Peptide Serum</a> · <a href=\"/product-bakuchiol-volume-collagen-cream.html\" style=\"text-decoration:underline\">Bakuchiol Volume Collagen Cream</a></p>"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "CELDYQUE Blue Copper Peptide Bakuchiol Serum pairs Copper Tripeptide-1, Bakuchiol, Matrixyl 3000, Argireline, EGF, Niacinamide and Hyaluronic Acid for lightweight firming, plumping, smoothing and hydration care.",
+      "after": "Shop this product using the retailer links below. Check your retailer for prices, availability, delivery and returns."
+    }
+  ]
+}

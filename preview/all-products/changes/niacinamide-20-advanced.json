@@ -1,0 +1,581 @@
+{
+  "source": "product-niacinamide-20-advanced.html",
+  "source_sha256": "99975a54d592d454d0de50c96d6b78ce50c88e6cd8ba251caf18fa2f9cf6d261",
+  "status": "draft",
+  "changes": [
+    {
+      "tag": "div",
+      "class": "product-kicker",
+      "id": null,
+      "before": "High-Strength Pore Serum",
+      "after": "Face serum"
+    },
+    {
+      "tag": "p",
+      "class": "subtitle",
+      "id": null,
+      "before": "20% Niacinamide with Damask Rose Water, Green Tea, Hyaluronic Acid and Beta-Glucan. · 30 ml / 1 fl oz",
+      "after": "Face serum · 30 ml / 1 fl oz"
+    },
+    {
+      "tag": "p",
+      "class": "desc-text",
+      "id": null,
+      "before": "CELDYQUE Niacinamide 20% Advanced Serum uses a 63.3% Rosa Damascena Flower Water base with 20% Niacinamide, Green Tea 1%, Hyaluronic Acid and Beta-Glucan for pore appearance, tone and texture care.",
+      "after": "CELDYQUE Niacinamide 20% Pore Minimizer Serum is a face serum applied after toner and before moisturizer."
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Niacinamide 20%",
+      "after": "Niacinamide"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Rose Water 63.3%",
+      "after": "Rose Water"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Green Tea 1%",
+      "after": "Glycerin"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Hyaluronic Acid",
+      "after": "Green Tea"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Pore Care",
+      "after": "Hyaluronate"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Fragrance-Free",
+      "after": "Serum format"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Vegan",
+      "after": "30 ml"
+    },
+    {
+      "tag": "ul",
+      "class": "features-list",
+      "id": null,
+      "before": "<li>Intense 20% Niacinamide for pores and tone</li>\n          <li>63.3% Rosa Damascena Flower Water base</li>\n          <li>Green Tea Extract 1% for antioxidant care</li>\n          <li>Hyaluronic Acid and Beta-Glucan for plump-looking hydration</li>\n          <li>Vegan, fragrance-free and non-sticky</li>",
+      "after": "<li>Liquid-gel serum format</li>\n<li>Routine: Before moisturizer</li>\n<li>After cleansing and toning, apply a few drops to the face.</li>\n<li>Introduce gradually, especially if niacinamide is new to your routine.</li>\n<li>Follow with moisturizer and use sunscreen in the morning.</li>"
+    },
+    {
+      "tag": "span",
+      "class": "banner-tag",
+      "id": null,
+      "before": "Niacinamide 20% x Rose Water",
+      "after": "Face serum · 30 ml"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": null,
+      "before": "High-strength pore care with a hydrated finish.",
+      "after": "A serum step between toner and cream."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A concentrated serum for enlarged-looking pores, uneven texture, dullness and shine-prone routines.",
+      "after": "Use it as the serum step in your routine. Follow the amount and frequency on your packaging and introduce it gradually."
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": null,
+      "before": "20% Niacinamide Pore Appearance Care",
+      "after": "Where it fits."
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "20%",
+      "after": "30 ml"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Niacinamide",
+      "after": "Listed size"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Pores",
+      "after": "Serum"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Texture support",
+      "after": "Product format"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Tone",
+      "after": "Label"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Even-looking glow",
+      "after": "Directions first"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "High-strength 20% Niacinamide gives the product a clear pore-care and tone-care search signal.",
+      "after": "Use it as the serum step in your routine. Follow the amount and frequency on your packaging and introduce it gradually."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "The formula is designed for dullness, uneven texture and enlarged pore appearance without a sticky finish.",
+      "after": "CELDYQUE Niacinamide 20% Pore Minimizer Serum is a face serum applied after toner and before moisturizer."
+    },
+    {
+      "tag": "h4",
+      "class": null,
+      "id": null,
+      "before": "Refined skin texture story.",
+      "after": "A serum step between toner and cream."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "The existing refined texture image is preserved inside the updated design.",
+      "after": "Use the application method and routine step for this specific product."
+    },
+    {
+      "tag": "div",
+      "class": "ev-chips",
+      "id": null,
+      "before": "<span>Niacinamide</span><span>Pores</span><span>Texture</span>",
+      "after": "<span>Serum</span><span>30 ml</span><span>Directions</span>"
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": null,
+      "before": "Rose Water + Green Tea Base",
+      "after": "Read the complete formula."
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "63.3%",
+      "after": "Format"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Rose Water",
+      "after": "Routine role"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "1%",
+      "after": "INCI"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Green Tea",
+      "after": "Full ingredient list"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "0.5%",
+      "after": "Label"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Beta-Glucan",
+      "after": "Current instructions"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Instead of a plain water story, this serum highlights Rosa Damascena Flower Water and Green Tea for a soothing, premium base.",
+      "after": "Selected ingredients include Niacinamide 20%, Damask Rose Water and Green Tea. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Hyaluronic Acid and Beta-Glucan help keep the high-active serum hydrated and comfortable.",
+      "after": "Selected ingredients are a summary. Check the complete declaration on your packaging when comparing formulas."
+    },
+    {
+      "tag": "h4",
+      "class": null,
+      "id": null,
+      "before": "Hydration with a soft rose-water base.",
+      "after": "Ingredients in context."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "The original rose hydration visual remains in place for continuity.",
+      "after": "Explore selected ingredients below and check your packaging for the complete ingredient list."
+    },
+    {
+      "tag": "div",
+      "class": "ev-chips",
+      "id": null,
+      "before": "<span>Rose Water</span><span>Green Tea</span><span>Beta-Glucan</span>",
+      "after": "<span>Formula</span><span>INCI</span><span>Label</span>"
+    },
+    {
+      "tag": "div",
+      "class": "eyebrow",
+      "id": null,
+      "before": "Key Benefits",
+      "after": "Product at a Glance"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "benefits-title",
+      "before": "Designed around visible skincare results.",
+      "after": "The details that help you choose."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "CELDYQUE Niacinamide 20% Advanced Serum uses a 63.3% Rosa Damascena Flower Water base with 20% Niacinamide, Green Tea 1%, Hyaluronic Acid and Beta-Glucan for pore appearance, tone and texture care.",
+      "after": "Product format, application and label information in one place."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Pore Appearance Care",
+      "after": "Product Format"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "20% Niacinamide supports the look of refined pores.",
+      "after": "Face serum."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Tone Evening",
+      "after": "Listed Size"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Helps improve the appearance of dull, uneven-looking tone.",
+      "after": "30 ml / 1 fl oz."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Texture Smoothing",
+      "after": "First Step"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Supports a smoother, clearer-looking skin surface.",
+      "after": "After cleansing and toning, apply a few drops to the face."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Hydration",
+      "after": "Application"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Hyaluronic Acid and Beta-Glucan support plump-looking moisture.",
+      "after": "Introduce gradually, especially if niacinamide is new to your routine."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Soothing Base",
+      "after": "Finish the Step"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Rose Water and Green Tea support comfort.",
+      "after": "Follow with moisturizer and use sunscreen in the morning."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Non-Sticky Finish",
+      "after": "Before Use"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Lightweight gel-liquid texture layers easily.",
+      "after": "Read the complete ingredients and precautions on your current packaging."
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "architecture-title",
+      "before": "Niacinamide Serum Architecture",
+      "after": "Selected Ingredient Information"
+    },
+    {
+      "tag": "p",
+      "class": "sub",
+      "id": null,
+      "before": "A concentrated formula story for pore, tone, texture and hydration search intent.",
+      "after": "These selected names do not replace the complete INCI declaration on your packaging."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Niacinamide 20%",
+      "after": "Rosa Damascena Flower Water"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Hero active for pore appearance and tone care.",
+      "after": "Also listed: Niacinamide."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Rosa Damascena Flower Water 63.3%",
+      "after": "Glycerin"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Premium soothing base.",
+      "after": "Also listed: Butylene Glycol."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Green Tea Extract 1%",
+      "after": "Green Tea Leaf Extract"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Antioxidant skincare support.",
+      "after": "Also listed: Hydrolyzed Sodium Hyaluronate."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Hyaluronic Acid",
+      "after": "Beta-Glucan"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Hydration and plump-looking moisture.",
+      "after": "See the complete ingredient list on your packaging."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Beta-Glucan 0.5%",
+      "after": "Full INCI"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Comforting hydration support.",
+      "after": "Check the complete ingredient declaration on the current packaging."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "EWG Green Positioning",
+      "after": "Formula Details"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Original page notes EWG green grade ingredients.",
+      "after": "Selected ingredients include Niacinamide 20%, Damask Rose Water and Green Tea. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "After cleansing and toner, apply a few drops to the face.",
+      "after": "After cleansing and toning, apply a few drops to the face."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Start slowly if your skin is new to 20% Niacinamide.",
+      "after": "Introduce gradually, especially if niacinamide is new to your routine."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Follow with moisturizer and sunscreen in the morning.",
+      "after": "Follow with moisturizer and use sunscreen in the morning."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Patch test recommended because of the high 20% concentration.",
+      "after": "Start slowly and patch test before first use."
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": "ingredients-title",
+      "before": "Key Ingredients",
+      "after": "Ingredient Information"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Niacinamide · Rose Water · Green Tea",
+      "after": "Selected ingredients · Complete list on packaging"
+    },
+    {
+      "tag": "div",
+      "class": "freefrom",
+      "id": null,
+      "before": "<span>Fragrance-Free</span><span>Vegan</span><span>Non-Sticky</span><span>Pore Serum</span>",
+      "after": "<span>Selected summary</span><span>Check packaging</span>"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Key Ingredients:</strong> Rosa Damascena Flower Water 63.3%, Niacinamide 20%, Glycerin, Butylene Glycol, Green Tea Leaf Extract, Hydrolyzed Sodium Hyaluronate, Beta-Glucan and supporting formula ingredients.",
+      "after": "<strong>Selected ingredients:</strong> Rosa Damascena Flower Water; Niacinamide; Glycerin; Butylene Glycol; Green Tea Leaf Extract; Hydrolyzed Sodium Hyaluronate; Beta-Glucan."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Benefits:</strong> Pore minimizing appearance, tone evening, hydration and age-defying-looking care.",
+      "after": "Selected ingredients include Niacinamide 20%, Damask Rose Water and Green Tea. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Texture:</strong> Lightweight, non-sticky liquid gel with EWG green grade positioning from the original page.",
+      "after": "<strong>Format:</strong> Liquid-gel serum."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Refer to the product packaging for the complete and most current ingredient list.",
+      "after": "<strong>About the ingredients:</strong> Niacinamide has been studied for the appearance of uneven tone, fine lines and skin texture. A controlled facial study used 5% niacinamide. A higher percentage does not by itself demonstrate a stronger or faster result.<br /><small>Research cited here concerns ingredients or other formulations, not a clinical trial of this CELDYQUE product. <a href=\"https://pubmed.ncbi.nlm.nih.gov/16029679/\" style=\"text-decoration:underline\">Bissett et al. — Niacinamide and facial skin appearance</a></small>"
+    },
+    {
+      "tag": "div",
+      "class": "caution",
+      "id": null,
+      "before": "For external use only. Avoid direct contact with the eyes. Perform a patch test before first use. Discontinue use if persistent irritation occurs. Keep out of reach of children.",
+      "after": "For external use only. Avoid direct contact with the eyes. Patch test before first use and discontinue use if persistent irritation occurs. Keep out of reach of children."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Answers written for shoppers, search engines and AI summaries looking for clear product guidance.",
+      "after": "Format, directions and ingredient information for this product."
+    },
+    {
+      "tag": "div",
+      "class": "faq-list",
+      "id": null,
+      "before": "<details class=\"faq-item\">\n          <summary>Is 20% Niacinamide strong?</summary>\n          <div class=\"faq-answer\">Yes. It is a high-strength niacinamide serum, so introduce gradually if your skin is new to it.</div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>What is it best for?</summary>\n          <div class=\"faq-answer\">It is best positioned for pore appearance, tone, texture and hydration support.</div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>Can I use it under makeup?</summary>\n          <div class=\"faq-answer\">Yes. The lightweight, non-sticky texture is designed to layer well.</div>\n        </details>",
+      "after": "<details class=\"faq-item\" id=\"niacinamide-20-advanced-faq-1\"><summary>Where does this serum fit in my routine?</summary><div class=\"faq-answer\">Apply Niacinamide 20% Pore Minimizer Serum after toner and before moisturizer.</div></details>\n<details class=\"faq-item\" id=\"niacinamide-20-advanced-faq-2\"><summary>How should I introduce it?</summary><div class=\"faq-answer\">Follow the amount and frequency on your packaging. Introduce it gradually and avoid adding several unfamiliar products at once.</div></details>\n<details class=\"faq-item\" id=\"niacinamide-20-advanced-faq-3\"><summary>Does it go before cream?</summary><div class=\"faq-answer\">Yes. Apply the serum before your cream or moisturizer.</div></details>\n<details class=\"faq-item\" id=\"niacinamide-20-advanced-faq-4\"><summary>Where can I check the full ingredients?</summary><div class=\"faq-answer\">Read the ingredient declaration on your packaging. Contact CELDYQUE with the product name and batch number if you need help identifying your product.</div></details>\n<p style=\"margin-top:24px\"><a href=\"/faq.html\" style=\"text-decoration:underline\">More product questions</a> · <a href=\"/product-glutathione-30000.html\" style=\"text-decoration:underline\">Glutathione Glow Serum 30,000 ppm</a> · <a href=\"/product-arbutxa-glow-cream.html\" style=\"text-decoration:underline\">ArbutXA Glow Cream</a></p>"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "CELDYQUE Niacinamide 20% Advanced Serum uses a 63.3% Rosa Damascena Flower Water base with 20% Niacinamide, Green Tea 1%, Hyaluronic Acid and Beta-Glucan for pore appearance, tone and texture care.",
+      "after": "Shop this product using the retailer links below. Check your retailer for prices, availability, delivery and returns."
+    }
+  ]
+}

@@ -41,6 +41,9 @@ jobs:
       - name: SEO Check
         run: python -B scripts/check_seo.py
 
+      - name: Catalog, manuscript and structured-data consistency
+        run: python -B scripts/check_customer_copy.py
+
       - name: Media, Amazon, retailer, navigation and optimization checks
         run: python -B -m unittest discover -s scripts -p 'test_*.py'
 

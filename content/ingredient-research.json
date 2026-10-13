@@ -1,0 +1,101 @@
+{
+  "reviewed_on": "2026-10-13",
+  "scope": "Ingredient or cleansing-category research only. No CELDYQUE finished-product efficacy studies were supplied.",
+  "sources": {
+    "volufiline": {
+      "label": "Croda Beauty — Volufiline ingredient information",
+      "url": "https://www.crodabeauty.com/en-gb/products/product/3043-volufiline",
+      "limits": "Supplier ingredient description, not an independent CELDYQUE product trial. Do not infer facial volume percentages or a filler-equivalent result."
+    },
+    "niacinamide": {
+      "label": "Bissett et al. — Niacinamide and facial skin appearance",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16029679/",
+      "limits": "Randomized split-face study: 50 participants, 5% niacinamide, 12 weeks. Does not test CELDYQUE or establish superiority of 20%."
+    },
+    "bakuchiol": {
+      "label": "Dhaliwal et al. — Topical bakuchiol and photoageing",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29947134/",
+      "limits": "44 participants; 0.5% bakuchiol cream twice daily versus 0.5% retinol once daily, 12 weeks. Different formulations and schedules; no CELDYQUE equivalence claim."
+    },
+    "panthenol": {
+      "label": "Gehring and Gloor — Dexpanthenol, hydration and barrier function",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10965426/",
+      "limits": "Human vehicle-controlled study of dexpanthenol in lipophilic vehicles. Supports ingredient hydration context, not a CELDYQUE result or hair-growth claim."
+    },
+    "pdrn": {
+      "label": "PDRN research in cultured skin cells",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37350391/",
+      "limits": "Laboratory keratinocyte and fibroblast study. Not a topical finished-product trial; no inference of wound healing, post-procedure recovery or injection-equivalent results."
+    },
+    "glutathione": {
+      "label": "Watanabe et al. — Topical oxidized glutathione",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25378941/",
+      "limits": "30 participants, 2% oxidized glutathione lotion, 10 weeks. The CELDYQUE glutathione form has not been matched to the tested material."
+    },
+    "azelaic": {
+      "label": "Azelaic acid and facial pigmentation study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9829446/",
+      "limits": "Study of 20% azelaic acid cream versus vehicle; not the CELDYQUE 12% serum. No transfer of treatment or clinical efficacy claims."
+    },
+    "glycerin": {
+      "label": "Lodén and Wessman — Glycerin and skin hydration",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18498456/",
+      "limits": "17 volunteers; leave-on 20% glycerin cream versus vehicle. Ingredient context only; does not establish rinse-off cleanser moisturization."
+    },
+    "cleansing": {
+      "label": "Chen et al. — Cleansing methods for sunscreen removal",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31157512/",
+      "limits": "20 participants and particular sunscreen/cleanser formulations. Category context, not complete removal of every sunscreen by CELDYQUE."
+    }
+  },
+  "product_sources": {
+    "volufiline-100": [
+      "volufiline"
+    ],
+    "pdrn-25": [
+      "pdrn",
+      "panthenol"
+    ],
+    "pdrn-12-egf": [
+      "pdrn",
+      "niacinamide",
+      "panthenol"
+    ],
+    "pdrn-12-egf-cream": [
+      "niacinamide",
+      "panthenol",
+      "pdrn"
+    ],
+    "bakuchiol-30000": [
+      "bakuchiol"
+    ],
+    "bakuchiol-volume-collagen-cream": [
+      "bakuchiol"
+    ],
+    "blue-copper-peptide-bakuchiol-serum": [
+      "bakuchiol",
+      "niacinamide"
+    ],
+    "arbutxa-glow-cream": [
+      "niacinamide"
+    ],
+    "glutathione-30000": [
+      "glutathione"
+    ],
+    "niacinamide-20-advanced": [
+      "niacinamide"
+    ],
+    "azelaic-12": [
+      "azelaic"
+    ],
+    "gentle-cleanser": [
+      "glycerin"
+    ],
+    "cleansing-oil": [
+      "cleansing"
+    ],
+    "9-peptide-scalp-serum": [
+      "panthenol"
+    ]
+  }
+}

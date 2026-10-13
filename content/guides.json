@@ -1,0 +1,122 @@
+{
+  "status": "draft",
+  "guides": [
+    {
+      "guide_id": "pdrn-comparison",
+      "title": "Comparing CELDYQUE’s three PDRN products",
+      "summary": "Compare concentrate, serum and cream by format and routine step.",
+      "product_ids": [
+        "pdrn-25",
+        "pdrn-12-egf",
+        "pdrn-12-egf-cream"
+      ],
+      "copy_file": "copy/en/guides/pdrn-comparison.md",
+      "proposed_url": "/guide-pdrn-comparison.html",
+      "status": "draft",
+      "evidence_ids": [
+        "site-product-pdrn-25",
+        "site-product-pdrn-12-egf",
+        "site-product-pdrn-12-egf-cream",
+        "site-faq"
+      ],
+      "approval_dependencies": [
+        "Current product labels and directions",
+        "Complete INCI declarations",
+        "Definition of relevant concentration claims"
+      ],
+      "approved_on": null
+    },
+    {
+      "guide_id": "volufiline-use",
+      "title": "How to use Volufiline 100% Concentrate",
+      "summary": "Understand the mix-in format and the product-name percentage.",
+      "product_ids": [
+        "volufiline-100"
+      ],
+      "copy_file": "copy/en/guides/volufiline-use.md",
+      "proposed_url": "/guide-volufiline-use.html",
+      "status": "draft",
+      "evidence_ids": [
+        "site-product-volufiline-100",
+        "site-faq"
+      ],
+      "approval_dependencies": [
+        "Current product labels and directions",
+        "Complete INCI declarations",
+        "Definition of relevant concentration claims"
+      ],
+      "approved_on": null
+    },
+    {
+      "guide_id": "bakuchiol-comparison",
+      "title": "Bakuchiol concentrate or cream?",
+      "summary": "Compare a mix-in concentrate with a moisturizer.",
+      "product_ids": [
+        "bakuchiol-30000",
+        "bakuchiol-volume-collagen-cream"
+      ],
+      "copy_file": "copy/en/guides/bakuchiol-comparison.md",
+      "proposed_url": "/guide-bakuchiol-comparison.html",
+      "status": "draft",
+      "evidence_ids": [
+        "site-product-bakuchiol-30000",
+        "site-product-bakuchiol-volume-collagen-cream",
+        "site-faq"
+      ],
+      "approval_dependencies": [
+        "Current product labels and directions",
+        "Complete INCI declarations",
+        "Definition of relevant concentration claims"
+      ],
+      "approved_on": null
+    },
+    {
+      "guide_id": "cleansing-routine",
+      "title": "Cleansing oil and foaming cleanser",
+      "summary": "Compare dry-skin application, emulsifying and rinsing.",
+      "product_ids": [
+        "cleansing-oil",
+        "gentle-cleanser"
+      ],
+      "copy_file": "copy/en/guides/cleansing-routine.md",
+      "proposed_url": "/guide-cleansing-routine.html",
+      "status": "draft",
+      "evidence_ids": [
+        "site-product-cleansing-oil",
+        "site-product-gentle-cleanser",
+        "site-faq"
+      ],
+      "approval_dependencies": [
+        "Current product labels and directions",
+        "Complete INCI declarations",
+        "Definition of relevant concentration claims"
+      ],
+      "approved_on": null
+    },
+    {
+      "guide_id": "tone-care",
+      "title": "Comparing tone-care formats",
+      "summary": "Compare serum and cream roles without ranking percentages.",
+      "product_ids": [
+        "arbutxa-glow-cream",
+        "glutathione-30000",
+        "niacinamide-20-advanced"
+      ],
+      "copy_file": "copy/en/guides/tone-care.md",
+      "proposed_url": "/guide-tone-care.html",
+      "status": "draft",
+      "evidence_ids": [
+        "site-product-arbutxa-glow-cream",
+        "site-product-glutathione-30000",
+        "site-product-niacinamide-20-advanced",
+        "site-faq"
+      ],
+      "approval_dependencies": [
+        "Current product labels and directions",
+        "Complete INCI declarations",
+        "Definition of relevant concentration claims"
+      ],
+      "approved_on": null
+    }
+  ]
+}

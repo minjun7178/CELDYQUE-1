@@ -173,16 +173,33 @@ def check():
                         'Primary image differs from sharing image')
                 require(bool(node.get('caption')) and node.get('encodingFormat') in ['image/webp', 'image/png', 'image/jpeg'],
                         'Primary image needs caption and encoding format')
-        if label == 'faq.html':
-            faq = next(n for n in graph if n.get('@type') == 'FAQPage')
-            visible = doc.find('details', **{'class': 'faq-item'})
-            schema_questions = faq['mainEntity']
+        visible = doc.find('details', **{'class': 'faq-item'})
+        faq_nodes = [n for n in graph if n.get('@type') == 'FAQPage']
+        if visible or faq_nodes:
+            require(len(faq_nodes) == 1, 'Exactly one FAQPage required for visible FAQ')
+            schema_questions = faq_nodes[0].get('mainEntity', []) if faq_nodes else []
             require(len(visible) == len(schema_questions), 'FAQ count differs from schema')
             for question, details in zip(schema_questions, visible):
-                title = details.find('span', **{'class': 'faq-question'})[0].text()
-                answer = details.find('div', **{'class': 'faq-answer'})[0].find('p')[0].text()
+                titles = details.find('span', **{'class': 'faq-question'}) or details.find('summary')
+                title = titles[0].text()
+                answer_node = details.find('div', **{'class': 'faq-answer'})[0]
+                # Shared FAQ cards include separate navigation below the answer.
+                answer = (answer_node.find('p')[0] if label == 'faq.html' else answer_node).text()
                 require(normalized(question['name']) == normalized(title), 'FAQ question differs from visible text')
                 require(normalized(question['acceptedAnswer']['text']) == normalized(answer), 'FAQ answer differs from visible text')
+        products = [n for n in graph if n.get('@type') == 'Product']
+        if products:
+            require(len(products) == 1, 'Exactly one Product entity required')
+            intro = doc.find('p', **{'class': 'desc-text'})
+            if intro:
+                visible_description = normalized(intro[0].text())
+                require(normalized(products[0].get('description', '')) == visible_description,
+                        'Product description differs from visible introduction')
+                for page_node in [n for n in graph if n.get('@type') == 'WebPage']:
+                    require(normalized(page_node.get('description', '')) == visible_description,
+                            'WebPage description differs from visible introduction')
+            require(not any('data-preview-changed' in n.attrs for n in doc.find()), 'Preview markers leaked to production')
+            require('Local preview' not in doc.find('title')[0].text(), 'Preview title leaked to production')
         for tag in doc.find():
             if tag.tag not in ['a', 'img', 'script', 'link', 'source', 'video']:
                 continue

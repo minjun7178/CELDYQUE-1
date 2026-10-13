@@ -1,0 +1,560 @@
+{
+  "source": "product-pdrn-12-egf.html",
+  "source_sha256": "1a163515757abe76d770efd53966acd571ad3c03b063e7504d81473b1e88ba63",
+  "status": "draft",
+  "changes": [
+    {
+      "tag": "div",
+      "class": "product-kicker",
+      "id": null,
+      "before": "Microneedling-Friendly Serum",
+      "after": "Face serum"
+    },
+    {
+      "tag": "p",
+      "class": "subtitle",
+      "id": null,
+      "before": "PDRN, EGF, Volufiline and peptides for glassy, firm-looking skin care. · 30 ml / 1 fl oz",
+      "after": "Face serum · 30 ml / 1 fl oz"
+    },
+    {
+      "tag": "p",
+      "class": "desc-text",
+      "id": null,
+      "before": "CELDYQUE PDRN 12% + EGF Peptide Serum combines 120,000 ppm PDRN complex, EGF, peptides, Volufiline, Niacinamide, Ceramide, Panthenol and Hyaluronic Acid for Korean booster-style skincare.",
+      "after": "CELDYQUE PDRN 12% + EGF Peptide Serum is a face serum applied after cleansing and toning, before moisturizer."
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "PDRN 12%",
+      "after": "PDRN"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Liposome",
+      "after": "Ceramide"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Ceramide",
+      "after": "Panthenol"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Panthenol",
+      "after": "30 ml"
+    },
+    {
+      "tag": "ul",
+      "class": "features-list",
+      "id": null,
+      "before": "<li>12% PDRN Complex with Salmon DNA + Phyto PDRN</li>\n          <li>EGF and multi-peptides for firm-looking care</li>\n          <li>Volufiline for volume and elasticity appearance</li>\n          <li>Niacinamide 20,000 ppm for bright-looking tone</li>\n          <li>Liposome technology for an elegant serum texture</li>",
+      "after": "<li>Lightweight serum format</li>\n<li>Routine: Before moisturizer</li>\n<li>Apply after cleansing and toning.</li>\n<li>Apply 2–3 drops over the face or intended area, following your product label.</li>\n<li>Follow with moisturizer. Use sunscreen as the final morning skincare step according to its label.</li>"
+    },
+    {
+      "tag": "span",
+      "class": "banner-tag",
+      "id": null,
+      "before": "PDRN x EGF x Volufiline",
+      "after": "Face serum · 30 ml"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": null,
+      "before": "A Korean booster serum for bounce and glow.",
+      "after": "After cleansing. Before moisturizer."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Designed for routines focused on visible firmness, smoother texture, hydration and post-care comfort.",
+      "after": "Use this serum as a separate step before your cream. PDRN 12% + EGF Peptide Cream is the moisturizer in the same collection; the two products have different roles."
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": null,
+      "before": "PDRN 12% Booster Complex",
+      "after": "Where it fits."
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "120,000 ppm",
+      "after": "30 ml"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "PDRN complex",
+      "after": "Listed size"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "EGF",
+      "after": "Serum"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Growth factor peptide",
+      "after": "Product format"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Liposome",
+      "after": "Label"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Delivery support",
+      "after": "Directions first"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "The formula centers on a 120,000 ppm PDRN complex combining Sodium DNA and phyto PDRN positioning for concentrated skin-conditioning care.",
+      "after": "Use this serum as a separate step before your cream. PDRN 12% + EGF Peptide Cream is the moisturizer in the same collection; the two products have different roles."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Liposome technology helps create a refined, lightweight serum experience for daily and post-care routines.",
+      "after": "CELDYQUE PDRN 12% + EGF Peptide Serum is a face serum applied after cleansing and toning, before moisturizer."
+    },
+    {
+      "tag": "h4",
+      "class": null,
+      "id": null,
+      "before": "Advanced bio-science texture.",
+      "after": "After cleansing. Before moisturizer."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A clean lab visual that keeps PDRN and EGF as the main search-readable formula story.",
+      "after": "Use the application method and routine step for this specific product."
+    },
+    {
+      "tag": "div",
+      "class": "ev-chips",
+      "id": null,
+      "before": "<span>PDRN</span><span>EGF</span><span>Liposome</span>",
+      "after": "<span>Serum</span><span>30 ml</span><span>Directions</span>"
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": null,
+      "before": "Volufiline and Peptide Bounce",
+      "after": "Read the complete formula."
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Volufiline",
+      "after": "Format"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Fuller-looking care",
+      "after": "Routine role"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "2%",
+      "after": "INCI"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Niacinamide",
+      "after": "Full ingredient list"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Barrier",
+      "after": "Label"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Ceramide + Panthenol",
+      "after": "Current instructions"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Volufiline, EGF and peptides support the appearance of bouncy, elastic-looking skin.",
+      "after": "The PDRN 12% name refers to a 120,000 ppm PDRN complex. Selected ingredients include EGF peptide, Volufiline and Niacinamide. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Niacinamide, Ceramide, Panthenol and Hyaluronic Acid complete the formula with radiance and moisture-barrier support.",
+      "after": "Selected ingredients are a summary. Check the complete declaration on your packaging when comparing formulas."
+    },
+    {
+      "tag": "h4",
+      "class": null,
+      "id": null,
+      "before": "Radiance, bounce and barrier care.",
+      "after": "Ingredients in context."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A soft skin visual reused from the original page to preserve the product&#x27;s existing image language.",
+      "after": "Explore selected ingredients below and check your packaging for the complete ingredient list."
+    },
+    {
+      "tag": "div",
+      "class": "ev-chips",
+      "id": null,
+      "before": "<span>Volufiline</span><span>Peptides</span><span>Niacinamide</span>",
+      "after": "<span>Formula</span><span>INCI</span><span>Label</span>"
+    },
+    {
+      "tag": "div",
+      "class": "eyebrow",
+      "id": null,
+      "before": "Key Benefits",
+      "after": "Product at a Glance"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "benefits-title",
+      "before": "Designed around visible skincare results.",
+      "after": "The details that help you choose."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "CELDYQUE PDRN 12% + EGF Peptide Serum combines 120,000 ppm PDRN complex, EGF, peptides, Volufiline, Niacinamide, Ceramide, Panthenol and Hyaluronic Acid for Korean booster-style skincare.",
+      "after": "Product format, application and label information in one place."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Booster-Style PDRN Care",
+      "after": "Product Format"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "12% PDRN complex supports revitalized-looking skin.",
+      "after": "Face serum."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Firm-Looking Bounce",
+      "after": "Listed Size"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "EGF, peptides and Volufiline support elastic-looking facial contours.",
+      "after": "30 ml / 1 fl oz."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Radiance Support",
+      "after": "First Step"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Niacinamide helps improve the appearance of uneven tone.",
+      "after": "Apply after cleansing and toning."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Barrier Comfort",
+      "after": "Application"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Ceramide and Panthenol help maintain comfortable moisture.",
+      "after": "Apply 2–3 drops over the face or intended area, following your product label."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Post-Care Friendly",
+      "after": "Finish the Step"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Designed for sensitive-looking or post-procedure-style routines.",
+      "after": "Follow with moisturizer. Use sunscreen as the final morning skincare step according to its label."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Lightweight Texture",
+      "after": "Before Use"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Fast-absorbing serum feel without stickiness.",
+      "after": "Read the complete ingredients and precautions on your current packaging."
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "architecture-title",
+      "before": "PDRN + Peptide Architecture",
+      "after": "Selected Ingredient Information"
+    },
+    {
+      "tag": "p",
+      "class": "sub",
+      "id": null,
+      "before": "A search-friendly breakdown of the formula&#x27;s strongest ingredient signals.",
+      "after": "These selected names do not replace the complete INCI declaration on your packaging."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "PDRN 12%",
+      "after": "Sodium DNA / PDRN"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "120,000 ppm PDRN complex with Salmon DNA and phyto PDRN positioning.",
+      "after": "Also listed: Niacinamide."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "EGF",
+      "after": "Volufiline"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Growth-factor peptide ingredient for skin-conditioning support.",
+      "after": "Also listed: EGF."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Volufiline",
+      "after": "Acetyl Hexapeptide-8"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Fuller-looking firmness care.",
+      "after": "Also listed: Ceramide."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Niacinamide 20,000 ppm",
+      "after": "Panthenol"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Bright-looking tone and texture support.",
+      "after": "Also listed: Hyaluronic acid complex."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Ceramide + Panthenol",
+      "after": "Full INCI"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Barrier-supporting comfort.",
+      "after": "Check the complete ingredient declaration on the current packaging."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Hyaluronic Acid",
+      "after": "Formula Details"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Lightweight hydration support.",
+      "after": "The PDRN 12% name refers to a 120,000 ppm PDRN complex. Selected ingredients include EGF peptide, Volufiline and Niacinamide. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Use after cleansing and toner.",
+      "after": "Apply after cleansing and toning."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Apply 2-3 drops over the face or targeted areas.",
+      "after": "Apply 2–3 drops over the face or intended area, following your product label."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Follow with cream. Use sunscreen in the morning.",
+      "after": "Follow with moisturizer. Use sunscreen as the final morning skincare step according to its label."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "For microneedling-style routines, follow professional guidance and use only on skin that is ready for topical skincare.",
+      "after": "Use daily as tolerated. Introduce gradually before making it a regular serum step."
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": "ingredients-title",
+      "before": "Key Ingredients",
+      "after": "Ingredient Information"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "PDRN · EGF · Volufiline · Peptides",
+      "after": "Selected ingredients · Complete list on packaging"
+    },
+    {
+      "tag": "div",
+      "class": "freefrom",
+      "id": null,
+      "before": "<span>PDRN 12%</span><span>EGF</span><span>Volufiline</span><span>Liposome</span>",
+      "after": "<span>Selected summary</span><span>Check packaging</span>"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Key Ingredients:</strong> PDRN 120,000 ppm, Sodium DNA, phyto PDRN, Niacinamide 20,000 ppm, Volufiline, EGF, Acetyl Hexapeptide-8, Ceramide, Panthenol and Hyaluronic Acid Complex.",
+      "after": "<strong>Selected ingredients:</strong> Sodium DNA / PDRN; Niacinamide; Volufiline; EGF; Acetyl Hexapeptide-8; Ceramide; Panthenol; Hyaluronic acid complex."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Technology:</strong> Liposome encapsulation for an elegant serum delivery story.",
+      "after": "The PDRN 12% name refers to a 120,000 ppm PDRN complex. Selected ingredients include EGF peptide, Volufiline and Niacinamide. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Texture:</strong> Lightweight, non-sticky and fast-absorbing.",
+      "after": "<strong>Format:</strong> Lightweight serum."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Refer to the product packaging for the complete and most current ingredient list.",
+      "after": "<strong>About the ingredients:</strong> PDRN is investigated in laboratory skin-cell research. Niacinamide has been studied in topical formulations for the appearance of uneven tone and fine lines, while panthenol is studied for skin hydration. These ingredient roles help explain the formula without promising a recovery or treatment result.<br /><small>Research cited here concerns ingredients or other formulations, not a clinical trial of this CELDYQUE product. <a href=\"https://pubmed.ncbi.nlm.nih.gov/37350391/\" style=\"text-decoration:underline\">PDRN research in cultured skin cells</a> · <a href=\"https://pubmed.ncbi.nlm.nih.gov/16029679/\" style=\"text-decoration:underline\">Bissett et al. — Niacinamide and facial skin appearance</a> · <a href=\"https://pubmed.ncbi.nlm.nih.gov/10965426/\" style=\"text-decoration:underline\">Gehring and Gloor — Dexpanthenol, hydration and barrier function</a></small>"
+    },
+    {
+      "tag": "div",
+      "class": "caution",
+      "id": null,
+      "before": "For external use only. Avoid direct contact with the eyes. Perform a patch test before first use. Discontinue use if persistent irritation occurs. Keep out of reach of children.",
+      "after": "For external use only. Avoid direct contact with the eyes. Patch test before first use and discontinue use if persistent irritation occurs. Keep out of reach of children."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Answers written for shoppers, search engines and AI summaries looking for clear product guidance.",
+      "after": "Format, directions and ingredient information for this product."
+    },
+    {
+      "tag": "div",
+      "class": "faq-list",
+      "id": null,
+      "before": "<details class=\"faq-item\">\n          <summary>What is PDRN 12% + EGF Peptide Serum?</summary>\n          <div class=\"faq-answer\">It is a Korean booster-style serum centered on PDRN, EGF, peptides and Volufiline for firm-looking, hydrated, radiant-looking care.</div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>Can I use it every day?</summary>\n          <div class=\"faq-answer\">Yes, introduce gradually and use as tolerated before moisturizer.</div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>Does it replace moisturizer?</summary>\n          <div class=\"faq-answer\">No. Apply it as a serum step and follow with cream or moisturizer.</div>\n        </details>",
+      "after": "<details class=\"faq-item\" id=\"pdrn-12-egf-faq-1\"><summary>Does this replace a moisturizer?</summary><div class=\"faq-answer\">No. Apply this serum before a cream or moisturizer.</div></details>\n<details class=\"faq-item\" id=\"pdrn-12-egf-faq-2\"><summary>How does it differ from the PDRN cream?</summary><div class=\"faq-answer\">The serum is a separate step before moisturizer. PDRN 12% + EGF Peptide Cream is the moisturizer step. Follow the ingredient information and directions for each product.</div></details>\n<details class=\"faq-item\" id=\"pdrn-12-egf-faq-3\"><summary>How much should I apply?</summary><div class=\"faq-answer\">Apply 2–3 drops over the face or intended area, following your product label.</div></details>\n<details class=\"faq-item\" id=\"pdrn-12-egf-faq-4\"><summary>Can I use it after a cosmetic procedure?</summary><div class=\"faq-answer\">Follow your treating clinician’s advice about when to resume cosmetics after a procedure, and follow the precautions on your packaging.</div></details>\n<details class=\"faq-item\" id=\"pdrn-12-egf-faq-5\"><summary>What is PDRN 12% + EGF Peptide Serum?</summary><div class=\"faq-answer\">CELDYQUE PDRN 12% + EGF Peptide Serum is a face serum applied after cleansing and toning, before moisturizer.</div></details>\n<details class=\"faq-item\" id=\"pdrn-12-egf-faq-6\"><summary>Can I use it every day?</summary><div class=\"faq-answer\">Yes. Introduce gradually and use daily as tolerated before moisturizer. Discontinue use if persistent irritation occurs.</div></details>\n<p style=\"margin-top:24px\"><a href=\"/faq.html\" style=\"text-decoration:underline\">More product questions</a> · <a href=\"/product-pdrn-25.html\" style=\"text-decoration:underline\">PDRN 250,000ppm Concentrate</a> · <a href=\"/product-pdrn-12-egf-cream.html\" style=\"text-decoration:underline\">PDRN 12% + EGF Peptide Cream</a></p>"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "CELDYQUE PDRN 12% + EGF Peptide Serum combines 120,000 ppm PDRN complex, EGF, peptides, Volufiline, Niacinamide, Ceramide, Panthenol and Hyaluronic Acid for Korean booster-style skincare.",
+      "after": "Shop this product using the retailer links below. Check your retailer for prices, availability, delivery and returns."
+    }
+  ]
+}

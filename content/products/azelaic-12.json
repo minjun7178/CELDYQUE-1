@@ -1,0 +1,305 @@
+{
+  "schema_version": 1,
+  "product_id": "azelaic-12",
+  "catalog_status": "active",
+  "publication_status": "approved",
+  "language": "en",
+  "source_commit": "a150659d59365f91bcd3833816bb24130ccfe5ab",
+  "imported_on": "2026-10-12",
+  "approved_on": "2026-10-13",
+  "approved_by": "User / brand owner in this conversation",
+  "identity": {
+    "name": {
+      "value": "Azelaic Acid 12% Topical Serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-azelaic-12"
+      ],
+      "source_section": "H1",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "schema_name": {
+      "value": "CELDYQUE Azelaic Acid 12% Topical Serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-azelaic-12"
+      ],
+      "source_section": "Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "aliases": {
+      "value": [
+        "Azelaic Acid 12% Topical Serum",
+        "Azelaic Acid 12% Topical Serum"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-azelaic-12"
+      ],
+      "source_section": "H1 / Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "current_url": "/product-azelaic-12.html",
+    "canonical": "https://celdyque.com/product-azelaic-12.html",
+    "legacy_urls": [],
+    "asin": {
+      "value": "B0DP4FQPDL",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-azelaic-12"
+      ],
+      "source_section": "Product.identifier",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "formula_version": null,
+    "market_label_version": null
+  },
+  "specifications": {
+    "size": {
+      "value": "30 ml / 1 fl oz",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-azelaic-12"
+      ],
+      "source_section": "Product.size",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "category": {
+      "value": "Face Serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-azelaic-12"
+      ],
+      "source_section": "Product.category",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "format": {
+      "value": "Face serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-azelaic-12"
+      ],
+      "source_section": "Product body / format description",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "texture": {
+      "value": "Lightweight serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-azelaic-12"
+      ],
+      "source_section": "Ingredients / texture",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "routine_step": {
+      "value": "Before moisturizer",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-azelaic-12"
+      ],
+      "source_section": "How to Use",
+      "verified_on": null,
+      "reviewer": null
+    }
+  },
+  "formulation": {
+    "selected_ingredients": {
+      "value": [
+        "Azelaic Acid",
+        "Tranexamic Acid",
+        "Salicylic Acid",
+        "Niacinamide",
+        "Centella Asiatica Extract",
+        "Panthenol",
+        "Ceramide NP",
+        "Hyaluronic acid",
+        "Vitamin C derivative (unspecified on existing page)"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-azelaic-12"
+      ],
+      "source_section": "Key Ingredients / formula summary",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "full_inci": {
+      "value": null,
+      "status": "needs_verification",
+      "evidence_ids": [],
+      "reason": "Current website provides selected ingredients or refers to packaging; no verified full label supplied."
+    },
+    "concentration_labels": {
+      "value": [
+        "Azelaic Acid 12%"
+      ],
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-azelaic-12"
+      ],
+      "source_section": "Product title / body / metadata",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "concentration_basis": null,
+    "raw_ingredient_vs_finished_formula": null
+  },
+  "directions": {
+    "draft_steps": {
+      "value": [
+        "After toner, apply the amount and coverage directed on your packaging.",
+        "The existing directions recommend gradual introduction.",
+        "Follow with moisturizer and use sunscreen during the day according to its label."
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-azelaic-12"
+      ],
+      "source_section": "How to Use; conservative editorial restatement",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "original_text": {
+      "value": "How to Use 1 Apply After toner, apply a thin layer to the face or targeted areas. 2 Moisturize Follow with a gentle moisturizer. 3 Protect Use sunscreen during the day. Introduce gradually if your skin is new to acids or high-active serums.",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-azelaic-12"
+      ],
+      "source_section": "#how-to-use",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "manufacturer_confirmed": false,
+    "shelf_life": null,
+    "period_after_opening": null
+  },
+  "observed_copy": {
+    "original_description": "CELDYQUE Azelaic Acid 12% Serum combines Azelaic Acid, Salicylic Acid, Tranexamic Acid, Niacinamide, Centella, Panthenol, Ceramide, Hyaluronic Acid and a Vitamin C derivative for redness appearance, acne-prone and dark spot care.",
+    "original_ingredient_text": "Key Ingredients Azelaic Acid · BHA · TXA · Cica Redness CareBHATone CareLightweight Key Ingredients: Azelaic Acid 12%, Tranexamic Acid, Salicylic Acid, Niacinamide, Centella Asiatica Extract, Panthenol, Ceramide NP, Hyaluronic Acid and a Vitamin C derivative. Benefits: Redness appearance care, acne-prone routine support, spot fading appearance and even-looking tone. Texture: Lightweight, non-greasy serum that layers well under makeup. Refer to the product packaging for the complete and most current ingredient list. For external use only. Avoid direct contact with the eyes. Perform a patch test before first use. Discontinue use if persistent irritation occurs. Keep out of reach of children.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "What is Azelaic Acid 12% Serum for?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It is for redness appearance, clogged-pore routines and uneven-looking tone."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use it with moisturizer?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Apply serum first, then moisturize."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Should I use it every day?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Introduce gradually and increase frequency as tolerated."
+        }
+      }
+    ]
+  },
+  "retailers": [
+    {
+      "retailer_id": "amazon",
+      "asin": "B0DP4FQPDL",
+      "identity_url": "https://www.amazon.com/dp/B0DP4FQPDL",
+      "purchase_urls": [
+        "https://www.amazon.com/Azelaic-Acid-Facial-Serum-Niacinamide/dp/B0DP4FQPDL?maas=maas_adg_ADF10714365CF9D97EE4BBD33BD084E3_afap_abs&ref_=aa_maas&tag=maas&th=1"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-azelaic-12"
+      ],
+      "live_stock": null,
+      "live_price": null
+    }
+  ],
+  "media": {
+    "primary_image": "/images/제품/Mask group-7.webp",
+    "alt": "CELDYQUE Azelaic Acid 12% Topical Serum, 30 ml / 1 fl oz, dropper bottle",
+    "rights_status": "needs_verification"
+  },
+  "claims_held_for_review": [
+    {
+      "claim": "Treatment of acne or rosacea",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-azelaic-12"
+      ],
+      "supporting_product_evidence": []
+    },
+    {
+      "claim": "Universal compatibility with other active formulas",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-azelaic-12"
+      ],
+      "supporting_product_evidence": []
+    }
+  ],
+  "open_questions": [
+    {
+      "id": "azelaic-12-Q1",
+      "question": "Confirm the 12% concentration basis and complete INCI.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "azelaic-12-Q2",
+      "question": "Identify the vitamin C derivative and other acid ingredients.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "azelaic-12-Q3",
+      "question": "Review usage frequency and any redness/acne/spot claims against the intended cosmetic positioning.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    }
+  ],
+  "related_product_ids": [
+    "niacinamide-20-advanced",
+    "gentle-cleanser"
+  ],
+  "guide_ids": [],
+  "copy_file": "copy/en/products/azelaic-12.md",
+  "search_aliases": {
+    "value": [
+      "Azelaic Acid 12% Topical Serum"
+    ],
+    "status": "imported",
+    "evidence_ids": [
+      "site-product-azelaic-12"
+    ],
+    "source_section": "H1; excludes unsupported efficacy tags",
+    "verified_on": null,
+    "reviewer": null
+  },
+  "faq_ids": [
+    "azelaic-12-faq-1",
+    "azelaic-12-faq-2",
+    "azelaic-12-faq-3",
+    "azelaic-12-faq-4"
+  ],
+  "catalog_reference": {
+    "file": "catalog-facts-2026.json",
+    "pages": [
+      20,
+      21
+    ],
+    "scope": "Catalog facts selected for publication; original observed_copy is historical."
+  }
+}

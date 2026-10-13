@@ -1,0 +1,320 @@
+{
+  "schema_version": 1,
+  "product_id": "9-peptide-scalp-serum",
+  "catalog_status": "active",
+  "publication_status": "approved",
+  "language": "en",
+  "source_commit": "a150659d59365f91bcd3833816bb24130ccfe5ab",
+  "imported_on": "2026-10-12",
+  "approved_on": "2026-10-13",
+  "approved_by": "User / brand owner in this conversation",
+  "identity": {
+    "name": {
+      "value": "9-Peptide Scalp Care Serum Roll-On",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-9-peptide-scalp-serum"
+      ],
+      "source_section": "H1",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "schema_name": {
+      "value": "CELDYQUE 9-Peptide Scalp Care Serum Roll-On",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-9-peptide-scalp-serum"
+      ],
+      "source_section": "Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "aliases": {
+      "value": [
+        "9-Peptide Scalp Care Serum Roll-On",
+        "9-Peptide Scalp Care Serum Roll-On"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-9-peptide-scalp-serum"
+      ],
+      "source_section": "H1 / Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "current_url": "/product-9-peptide-scalp-serum.html",
+    "canonical": "https://celdyque.com/product-9-peptide-scalp-serum.html",
+    "legacy_urls": [],
+    "asin": {
+      "value": "B0GGZRNGKL",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-9-peptide-scalp-serum"
+      ],
+      "source_section": "Product.identifier",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "formula_version": null,
+    "market_label_version": null
+  },
+  "specifications": {
+    "size": {
+      "value": "40 ml / 1.35 fl oz",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-9-peptide-scalp-serum"
+      ],
+      "source_section": "Product.size",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "category": {
+      "value": "Scalp Serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-9-peptide-scalp-serum"
+      ],
+      "source_section": "Product.category",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "format": {
+      "value": "Leave-on scalp serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-9-peptide-scalp-serum"
+      ],
+      "source_section": "Product body / format description",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "texture": {
+      "value": "Water-based gel",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-9-peptide-scalp-serum"
+      ],
+      "source_section": "Ingredients / texture",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "routine_step": {
+      "value": "Targeted scalp application",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-9-peptide-scalp-serum"
+      ],
+      "source_section": "How to Use",
+      "verified_on": null,
+      "reviewer": null
+    }
+  },
+  "formulation": {
+    "selected_ingredients": {
+      "value": [
+        "Rosemary Extract",
+        "Caffeine",
+        "Dexpanthenol",
+        "Sodium DNA / PDRN",
+        "Hydrolyzed Sponge",
+        "Biotin",
+        "Zinc PCA",
+        "Peptide complex"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-9-peptide-scalp-serum"
+      ],
+      "source_section": "Key Ingredients / formula summary",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "full_inci": {
+      "value": null,
+      "status": "needs_verification",
+      "evidence_ids": [],
+      "reason": "Current website provides selected ingredients or refers to packaging; no verified full label supplied."
+    },
+    "concentration_labels": {
+      "value": [
+        "Rosemary 2%",
+        "Caffeine 1%",
+        "Spicule 300",
+        "9-peptide complex"
+      ],
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-9-peptide-scalp-serum"
+      ],
+      "source_section": "Product title / body / metadata",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "concentration_basis": null,
+    "raw_ingredient_vs_finished_formula": null
+  },
+  "directions": {
+    "draft_steps": {
+      "value": [
+        "Part the hair to expose the intended scalp area.",
+        "Roll the applicator over that area, following your packaging directions.",
+        "Massage gently and leave on. Avoid broken or irritated skin."
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-9-peptide-scalp-serum"
+      ],
+      "source_section": "How to Use; conservative editorial restatement",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "original_text": {
+      "value": "How to Use 1 Part Part hair to expose the scalp area you want to target. 2 Roll Roll the applicator directly across hairline, crown or parting areas. 3 Massage Gently massage with fingertips and leave on. No rinsing needed. Use daily on dry or towel-dried scalp. Avoid applying to broken or irritated skin.",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-9-peptide-scalp-serum"
+      ],
+      "source_section": "#how-to-use",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "manufacturer_confirmed": false,
+    "shelf_life": null,
+    "period_after_opening": null
+  },
+  "observed_copy": {
+    "original_description": "CELDYQUE 9-Peptide Scalp Care Serum Roll-On targets the scalp with Rosemary 2%, Caffeine 1%, PDRN, Spicule 300, Dexpanthenol, Biotin, Zinc PCA and a peptide complex for lightweight daily root-focused care.",
+    "original_ingredient_text": "Key Ingredients Rosemary · Caffeine · PDRN · Peptides Roll-OnNo RinseNon-GreasyDaily Scalp Care Key Ingredients: Rosemary Extract, Caffeine, Dexpanthenol, Sodium DNA (PDRN), Hydrolyzed Sponge / Spicule 300, Biotin, Zinc PCA and a 9-peptide complex. Benefits: Scalp care, root nourishment, hair-density support appearance and scalp purifying care. Formula: Lightweight water-base gel. Non-greasy. No rinse needed. Refer to the product packaging for the complete and most current ingredient list. For external use only. Avoid direct contact with the eyes. Perform a patch test before first use. Discontinue use if persistent irritation occurs. Keep out of reach of children.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "How do I use the scalp serum?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Part the hair, roll directly onto the target scalp area and massage lightly. It is a leave-on formula."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can men and women use it?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. The page positions it for all scalp types, women and men."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is it greasy?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. It is a lightweight, non-greasy water-base gel."
+        }
+      }
+    ]
+  },
+  "retailers": [
+    {
+      "retailer_id": "amazon",
+      "asin": "B0GGZRNGKL",
+      "identity_url": "https://www.amazon.com/dp/B0GGZRNGKL",
+      "purchase_urls": [
+        "https://www.amazon.com/9-Peptide-Growth-Scalp-Serum-Roll/dp/B0GGZRNGKL?maas=maas_adg_B3610BD8B3001B42E9EA2D0A7A72F58C_afap_abs&ref_=aa_maas&tag=maas&th=1"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-9-peptide-scalp-serum"
+      ],
+      "live_stock": null,
+      "live_price": null
+    }
+  ],
+  "media": {
+    "primary_image": "/images/제품/ms13.jpg",
+    "alt": "CELDYQUE 9-Peptide Scalp Care Serum Roll-On, 40 ml / 1.35 fl oz, scalp serum roll-on tube",
+    "rights_status": "needs_verification"
+  },
+  "claims_held_for_review": [
+    {
+      "claim": "Hair regrowth",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-9-peptide-scalp-serum"
+      ],
+      "supporting_product_evidence": []
+    },
+    {
+      "claim": "DHT blocking",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-9-peptide-scalp-serum"
+      ],
+      "supporting_product_evidence": []
+    },
+    {
+      "claim": "Treatment of hair loss",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-9-peptide-scalp-serum"
+      ],
+      "supporting_product_evidence": []
+    },
+    {
+      "claim": "Suitable for all scalp types",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-9-peptide-scalp-serum"
+      ],
+      "supporting_product_evidence": []
+    }
+  ],
+  "open_questions": [
+    {
+      "id": "9-peptide-scalp-serum-Q1",
+      "question": "Verify 40 ml labeling and the current roll-on application directions.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "9-peptide-scalp-serum-Q2",
+      "question": "Define Rosemary 2%, Caffeine 1%, Spicule 300 and the nine peptide ingredients.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "9-peptide-scalp-serum-Q3",
+      "question": "Remove or substantiate hair-growth, hair-density and scalp-type claims.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    }
+  ],
+  "related_product_ids": [],
+  "guide_ids": [],
+  "copy_file": "copy/en/products/9-peptide-scalp-serum.md",
+  "search_aliases": {
+    "value": [
+      "9-Peptide Scalp Care Serum Roll-On"
+    ],
+    "status": "imported",
+    "evidence_ids": [
+      "site-product-9-peptide-scalp-serum"
+    ],
+    "source_section": "H1; excludes unsupported efficacy tags",
+    "verified_on": null,
+    "reviewer": null
+  },
+  "faq_ids": [
+    "9-peptide-scalp-serum-faq-1",
+    "9-peptide-scalp-serum-faq-2",
+    "9-peptide-scalp-serum-faq-3",
+    "9-peptide-scalp-serum-faq-4"
+  ],
+  "catalog_reference": {
+    "file": "catalog-facts-2026.json",
+    "pages": [
+      26,
+      27
+    ],
+    "scope": "Catalog facts selected for publication; original observed_copy is historical."
+  }
+}

@@ -1,0 +1,574 @@
+{
+  "source": "product-pdrn-12-egf-cream.html",
+  "source_sha256": "7e76273cf61dc6a9d0e5d21ef7a6adfc218d2daa9f8952a323d5611e15188fd2",
+  "status": "draft",
+  "changes": [
+    {
+      "tag": "div",
+      "class": "product-kicker",
+      "id": null,
+      "before": "PDRN Barrier Cream",
+      "after": "Moisturizer"
+    },
+    {
+      "tag": "p",
+      "class": "subtitle",
+      "id": null,
+      "before": "Volufiline, Salmon DNA, EGF and barrier-supporting moisture for sensitive-looking skin. · 50 ml / 1.7 fl oz",
+      "after": "Moisturizer · 50 ml / 1.7 fl oz"
+    },
+    {
+      "tag": "p",
+      "class": "desc-text",
+      "id": null,
+      "before": "CELDYQUE PDRN 12% + EGF Peptide Cream combines Sodium DNA PDRN, Volufiline, Niacinamide, EGF, Ceramide, Panthenol, Hyaluronic Acid, Jojoba Seed Oil and Squalane for soothing barrier and firm-looking care.",
+      "after": "CELDYQUE PDRN 12% + EGF Peptide Cream is a moisturizer applied after serum to the face and neck."
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "PDRN 12%",
+      "after": "PDRN"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Ceramide",
+      "after": "Niacinamide"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Panthenol",
+      "after": "Ceramide"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Hyaluronic Acid",
+      "after": "Panthenol"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Jojoba",
+      "after": "Squalane"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Squalane",
+      "after": "50 ml"
+    },
+    {
+      "tag": "ul",
+      "class": "features-list",
+      "id": null,
+      "before": "<li>PDRN 120,000 ppm + EGF Complex</li>\n          <li>Volufiline + Phyto PDRN for firm-looking care</li>\n          <li>Hydration barrier matrix with Ceramide and Panthenol</li>\n          <li>Ideal for post-care and sensitive-looking skin</li>\n          <li>Lightweight, non-greasy satin finish</li>",
+      "after": "<li>Cream format</li>\n<li>Routine: Cream step</li>\n<li>Apply a moderate amount after serum.</li>\n<li>Spread over the face and neck as directed on your packaging.</li>\n<li>For morning use, follow with sunscreen according to its own directions.</li>"
+    },
+    {
+      "tag": "span",
+      "class": "banner-tag",
+      "id": null,
+      "before": "PDRN Cream x EGF",
+      "after": "Moisturizer · 50 ml"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": null,
+      "before": "Barrier comfort with a firm-looking finish.",
+      "after": "The cream step in the PDRN collection."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A moisturizing cream made for routines that need hydration, calm and visible elasticity support.",
+      "after": "Choose the cream for the moisturizer step. If you also use PDRN 12% + EGF Peptide Serum, apply the serum first and the cream afterward, following each product label."
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": null,
+      "before": "PDRN Barrier Moisture",
+      "after": "Where it fits."
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "120,000 ppm",
+      "after": "50 ml"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "PDRN",
+      "after": "Listed size"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "EGF",
+      "after": "Cream"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Peptide care",
+      "after": "Product format"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Cream",
+      "after": "Label"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Satin texture",
+      "after": "Directions first"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "PDRN and EGF support a revitalized-looking skincare routine while the cream texture helps seal hydration.",
+      "after": "Choose the cream for the moisturizer step. If you also use PDRN 12% + EGF Peptide Serum, apply the serum first and the cream afterward, following each product label."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "This page preserves the original soothing hydration imagery while adding richer semantic SEO structure.",
+      "after": "CELDYQUE PDRN 12% + EGF Peptide Cream is a moisturizer applied after serum to the face and neck."
+    },
+    {
+      "tag": "h4",
+      "class": null,
+      "id": null,
+      "before": "Comforting cream texture.",
+      "after": "The cream step in the PDRN collection."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A clean hydration visual aligned with the product&#x27;s post-care positioning.",
+      "after": "Use the application method and routine step for this specific product."
+    },
+    {
+      "tag": "div",
+      "class": "ev-chips",
+      "id": null,
+      "before": "<span>PDRN</span><span>EGF</span><span>Cream</span>",
+      "after": "<span>Cream</span><span>50 ml</span><span>Directions</span>"
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": null,
+      "before": "Volufiline + Barrier Support",
+      "after": "Read the complete formula."
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Volufiline",
+      "after": "Format"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Firm-looking care",
+      "after": "Routine role"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Ceramide",
+      "after": "INCI"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Barrier support",
+      "after": "Full ingredient list"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Squalane",
+      "after": "Label"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Soft finish",
+      "after": "Current instructions"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Volufiline and Salmon DNA support the look of firmer, fuller-looking skin.",
+      "after": "Formulated with 120,000 ppm PDRN, EGF peptide and Volufiline in a cream format. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Ceramide, Panthenol, Hyaluronic Acid, Jojoba Seed Oil and Squalane help the cream feel comfortable and non-greasy.",
+      "after": "Selected ingredients are a summary. Check the complete declaration on your packaging when comparing formulas."
+    },
+    {
+      "tag": "h4",
+      "class": null,
+      "id": null,
+      "before": "Firmness care meets cushion moisture.",
+      "after": "Ingredients in context."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A skin-focused visual reused from the original page for recognizable continuity.",
+      "after": "Explore selected ingredients below and check your packaging for the complete ingredient list."
+    },
+    {
+      "tag": "div",
+      "class": "ev-chips",
+      "id": null,
+      "before": "<span>Volufiline</span><span>Ceramide</span><span>Squalane</span>",
+      "after": "<span>Formula</span><span>INCI</span><span>Label</span>"
+    },
+    {
+      "tag": "div",
+      "class": "eyebrow",
+      "id": null,
+      "before": "Key Benefits",
+      "after": "Product at a Glance"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "benefits-title",
+      "before": "Designed around visible skincare results.",
+      "after": "The details that help you choose."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "CELDYQUE PDRN 12% + EGF Peptide Cream combines Sodium DNA PDRN, Volufiline, Niacinamide, EGF, Ceramide, Panthenol, Hyaluronic Acid, Jojoba Seed Oil and Squalane for soothing barrier and firm-looking care.",
+      "after": "Product format, application and label information in one place."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Deep Hydration",
+      "after": "Product Format"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Cream texture helps keep skin comfortable and moisturized.",
+      "after": "Moisturizer."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Barrier Repair Look",
+      "after": "Listed Size"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Ceramide and Panthenol support a resilient moisture barrier.",
+      "after": "50 ml / 1.7 fl oz."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Elasticity Support",
+      "after": "First Step"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "PDRN, EGF and Volufiline support a firmer-looking finish.",
+      "after": "Apply a moderate amount after serum."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Soothing Care",
+      "after": "Application"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Designed for sensitive-looking or post-care routines.",
+      "after": "Spread over the face and neck as directed on your packaging."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Non-Greasy Finish",
+      "after": "Finish the Step"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Absorbs with a lightweight satin feel.",
+      "after": "For morning use, follow with sunscreen according to its own directions."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Daily Cream Step",
+      "after": "Before Use"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Works after serum morning or evening.",
+      "after": "Read the complete ingredients and precautions on your current packaging."
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "architecture-title",
+      "before": "PDRN Cream Architecture",
+      "after": "Selected Ingredient Information"
+    },
+    {
+      "tag": "p",
+      "class": "sub",
+      "id": null,
+      "before": "A cream system focused on PDRN, EGF, Volufiline and barrier-supporting ingredients.",
+      "after": "These selected names do not replace the complete INCI declaration on your packaging."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "PDRN 12%",
+      "after": "Sodium DNA / PDRN"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Sodium DNA and phyto PDRN positioning for skin-conditioning care.",
+      "after": "Also listed: Volufiline."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "EGF",
+      "after": "Niacinamide"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Peptide care for a revitalized-looking routine.",
+      "after": "Also listed: Ceramide NP."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Volufiline",
+      "after": "Panthenol"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Fuller-looking firmness support.",
+      "after": "Also listed: Hyaluronic acid."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Ceramide NP",
+      "after": "sh-Oligopeptide-1 / EGF"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Moisture-barrier support.",
+      "after": "Also listed: Jojoba seed oil."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Panthenol",
+      "after": "Squalane"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Comforting hydration.",
+      "after": "See the complete ingredient list on your packaging."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Jojoba + Squalane",
+      "after": "Full INCI"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Soft, non-greasy emollient finish.",
+      "after": "Check the complete ingredient declaration on the current packaging."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "After serum, apply a moderate amount to the face and neck.",
+      "after": "Apply a moderate amount after serum."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Add a little extra to dry or sensitive-looking areas.",
+      "after": "Spread over the face and neck as directed on your packaging."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Use as the cream step. In the morning, follow with sunscreen.",
+      "after": "For morning use, follow with sunscreen according to its own directions."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Patch test before first use, especially after professional skin treatments.",
+      "after": "Patch test before first use. Use sunscreen as the final morning skincare step."
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": "ingredients-title",
+      "before": "Key Ingredients",
+      "after": "Ingredient Information"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "PDRN · EGF · Volufiline · Barrier Cream",
+      "after": "Selected ingredients · Complete list on packaging"
+    },
+    {
+      "tag": "div",
+      "class": "freefrom",
+      "id": null,
+      "before": "<span>Barrier Cream</span><span>Non-Greasy</span><span>PDRN 12%</span><span>EGF</span>",
+      "after": "<span>Selected summary</span><span>Check packaging</span>"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Key Ingredients:</strong> Sodium DNA / PDRN, Volufiline, Niacinamide, Ceramide NP, Panthenol, Hyaluronic Acid, sh-Oligopeptide-1 / EGF, Jojoba Seed Oil and Squalane.",
+      "after": "<strong>Selected ingredients:</strong> Sodium DNA / PDRN; Volufiline; Niacinamide; Ceramide NP; Panthenol; Hyaluronic acid; sh-Oligopeptide-1 / EGF; Jojoba seed oil; Squalane."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Benefits:</strong> Deep hydration, barrier support, elasticity care and soothing comfort.",
+      "after": "Formulated with 120,000 ppm PDRN, EGF peptide and Volufiline in a cream format. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Texture:</strong> Silky, lightweight cream that absorbs quickly without greasiness.",
+      "after": "<strong>Format:</strong> Cream."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Refer to the product packaging for the complete and most current ingredient list.",
+      "after": "<strong>About the ingredients:</strong> Niacinamide has been studied for the appearance of uneven tone and fine lines. Panthenol is studied for moisture support. PDRN research also includes laboratory skin-cell studies; these do not establish wound-healing or post-procedure benefits from this cream.<br /><small>Research cited here concerns ingredients or other formulations, not a clinical trial of this CELDYQUE product. <a href=\"https://pubmed.ncbi.nlm.nih.gov/16029679/\" style=\"text-decoration:underline\">Bissett et al. — Niacinamide and facial skin appearance</a> · <a href=\"https://pubmed.ncbi.nlm.nih.gov/10965426/\" style=\"text-decoration:underline\">Gehring and Gloor — Dexpanthenol, hydration and barrier function</a> · <a href=\"https://pubmed.ncbi.nlm.nih.gov/37350391/\" style=\"text-decoration:underline\">PDRN research in cultured skin cells</a></small>"
+    },
+    {
+      "tag": "div",
+      "class": "caution",
+      "id": null,
+      "before": "For external use only. Avoid direct contact with the eyes. Perform a patch test before first use. Discontinue use if persistent irritation occurs. Keep out of reach of children.",
+      "after": "For external use only. Avoid direct contact with the eyes. Patch test before first use and discontinue use if persistent irritation occurs. Keep out of reach of children."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Answers written for shoppers, search engines and AI summaries looking for clear product guidance.",
+      "after": "Format, directions and ingredient information for this product."
+    },
+    {
+      "tag": "div",
+      "class": "faq-list",
+      "id": null,
+      "before": "<details class=\"faq-item\">\n          <summary>Who is PDRN 12% + EGF Peptide Cream for?</summary>\n          <div class=\"faq-answer\">It is for routines focused on hydration, barrier comfort and firm-looking care.</div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>Can I pair it with the PDRN serum?</summary>\n          <div class=\"faq-answer\">Yes. Apply serum first, then use this as the cream step.</div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>Is it greasy?</summary>\n          <div class=\"faq-answer\">It is positioned as a lightweight cream with a non-greasy satin finish.</div>\n        </details>",
+      "after": "<details class=\"faq-item\" id=\"pdrn-12-egf-cream-faq-1\"><summary>Where does it go in a routine?</summary><div class=\"faq-answer\">Apply it as the cream or moisturizer step after serum, following your product label.</div></details>\n<details class=\"faq-item\" id=\"pdrn-12-egf-cream-faq-2\"><summary>Is it the same product as the PDRN serum?</summary><div class=\"faq-answer\">No. PDRN 12% + EGF Peptide Serum and PDRN 12% + EGF Peptide Cream are separate products with different routine steps. Use the directions for the product you have.</div></details>\n<details class=\"faq-item\" id=\"pdrn-12-egf-cream-faq-3\"><summary>Can it be used with the PDRN serum?</summary><div class=\"faq-answer\">Apply the serum first and the cream afterward, following each product label. Introduce unfamiliar products gradually.</div></details>\n<details class=\"faq-item\" id=\"pdrn-12-egf-cream-faq-4\"><summary>Can I use it after a cosmetic procedure?</summary><div class=\"faq-answer\">Follow your treating clinician’s advice about when to resume cosmetics after a procedure, and follow the precautions on your packaging.</div></details>\n<p style=\"margin-top:24px\"><a href=\"/faq.html\" style=\"text-decoration:underline\">More product questions</a> · <a href=\"/product-pdrn-12-egf.html\" style=\"text-decoration:underline\">PDRN 12% + EGF Peptide Serum</a> · <a href=\"/product-pdrn-25.html\" style=\"text-decoration:underline\">PDRN 250,000ppm Concentrate</a></p>"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "CELDYQUE PDRN 12% + EGF Peptide Cream combines Sodium DNA PDRN, Volufiline, Niacinamide, EGF, Ceramide, Panthenol, Hyaluronic Acid, Jojoba Seed Oil and Squalane for soothing barrier and firm-looking care.",
+      "after": "Shop this product using the retailer links below. Check your retailer for prices, availability, delivery and returns."
+    }
+  ]
+}

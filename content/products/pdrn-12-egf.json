@@ -1,0 +1,333 @@
+{
+  "schema_version": 1,
+  "product_id": "pdrn-12-egf",
+  "catalog_status": "active",
+  "publication_status": "approved",
+  "language": "en",
+  "source_commit": "a150659d59365f91bcd3833816bb24130ccfe5ab",
+  "imported_on": "2026-10-12",
+  "approved_on": "2026-10-13",
+  "approved_by": "User / brand owner in this conversation",
+  "identity": {
+    "name": {
+      "value": "PDRN 12% + EGF Peptide Serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf"
+      ],
+      "source_section": "H1",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "schema_name": {
+      "value": "CELDYQUE PDRN 12% + EGF Peptide Serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf"
+      ],
+      "source_section": "Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "aliases": {
+      "value": [
+        "PDRN 12% + EGF Peptide Serum",
+        "PDRN 12% + EGF Peptide Serum"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf"
+      ],
+      "source_section": "H1 / Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "current_url": "/product-pdrn-12-egf.html",
+    "canonical": "https://celdyque.com/product-pdrn-12-egf.html",
+    "legacy_urls": [],
+    "asin": {
+      "value": "B0F1Y8DML3",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf"
+      ],
+      "source_section": "Product.identifier",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "formula_version": null,
+    "market_label_version": null
+  },
+  "specifications": {
+    "size": {
+      "value": "30 ml / 1 fl oz",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf"
+      ],
+      "source_section": "Product.size",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "category": {
+      "value": "Face Serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf"
+      ],
+      "source_section": "Product.category",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "format": {
+      "value": "Face serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf"
+      ],
+      "source_section": "Product body / format description",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "texture": {
+      "value": "Lightweight serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf"
+      ],
+      "source_section": "Ingredients / texture",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "routine_step": {
+      "value": "Before moisturizer",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf"
+      ],
+      "source_section": "How to Use",
+      "verified_on": null,
+      "reviewer": null
+    }
+  },
+  "formulation": {
+    "selected_ingredients": {
+      "value": [
+        "Sodium DNA / PDRN",
+        "Phyto PDRN (existing page terminology)",
+        "Niacinamide",
+        "Volufiline",
+        "EGF",
+        "Acetyl Hexapeptide-8",
+        "Ceramide",
+        "Panthenol",
+        "Hyaluronic acid complex"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf"
+      ],
+      "source_section": "Key Ingredients / formula summary",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "full_inci": {
+      "value": null,
+      "status": "needs_verification",
+      "evidence_ids": [],
+      "reason": "Current website provides selected ingredients or refers to packaging; no verified full label supplied."
+    },
+    "concentration_labels": {
+      "value": [
+        "PDRN 12%",
+        "120,000 ppm PDRN complex",
+        "PDRN 120,000 ppm",
+        "Niacinamide 20,000 ppm"
+      ],
+      "status": "conflicting",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf"
+      ],
+      "source_section": "Product title / body / metadata",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "concentration_basis": {
+      "value": "120,000 ppm PDRN complex combining Sodium DNA and phyto PDRN, described in the existing page. Exact component specification is not supplied.",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf"
+      ],
+      "source_section": "Original product description, features and PDRN Booster Complex section"
+    },
+    "raw_ingredient_vs_finished_formula": null
+  },
+  "directions": {
+    "draft_steps": {
+      "value": [
+        "Apply after cleansing and toning.",
+        "The current directions specify 2–3 drops over the face or intended area.",
+        "Follow with moisturizer and use sunscreen as the final morning skincare step according to its label."
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf"
+      ],
+      "source_section": "How to Use; conservative editorial restatement",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "original_text": {
+      "value": "How to Use 1 Prep Use after cleansing and toner. 2 Apply Apply 2-3 drops over the face or targeted areas. 3 Layer Follow with cream. Use sunscreen in the morning. For microneedling-style routines, follow professional guidance and use only on skin that is ready for topical skincare.",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf"
+      ],
+      "source_section": "#how-to-use",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "manufacturer_confirmed": false,
+    "shelf_life": null,
+    "period_after_opening": null
+  },
+  "observed_copy": {
+    "original_description": "CELDYQUE PDRN 12% + EGF Peptide Serum combines 120,000 ppm PDRN complex, EGF, peptides, Volufiline, Niacinamide, Ceramide, Panthenol and Hyaluronic Acid for Korean booster-style skincare.",
+    "original_ingredient_text": "Key Ingredients PDRN · EGF · Volufiline · Peptides PDRN 12%EGFVolufilineLiposome Key Ingredients: PDRN 120,000 ppm, Sodium DNA, phyto PDRN, Niacinamide 20,000 ppm, Volufiline, EGF, Acetyl Hexapeptide-8, Ceramide, Panthenol and Hyaluronic Acid Complex. Technology: Liposome encapsulation for an elegant serum delivery story. Texture: Lightweight, non-sticky and fast-absorbing. Refer to the product packaging for the complete and most current ingredient list. For external use only. Avoid direct contact with the eyes. Perform a patch test before first use. Discontinue use if persistent irritation occurs. Keep out of reach of children.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "What is PDRN 12% + EGF Peptide Serum?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It is a Korean booster-style serum centered on PDRN, EGF, peptides and Volufiline for firm-looking, hydrated, radiant-looking care."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use it every day?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, introduce gradually and use as tolerated before moisturizer."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does it replace moisturizer?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. Apply it as a serum step and follow with cream or moisturizer."
+        }
+      }
+    ]
+  },
+  "retailers": [
+    {
+      "retailer_id": "amazon",
+      "asin": "B0F1Y8DML3",
+      "identity_url": "https://www.amazon.com/dp/B0F1Y8DML3",
+      "purchase_urls": [
+        "https://www.amazon.com/Salmon-Peptide-Microneedling-Volufiline-Growth/dp/B0F1Y8DML3?maas=maas_adg_650A715F4856800A04724A06656CFF91_afap_abs&ref_=aa_maas&tag=maas&th=1"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf"
+      ],
+      "live_stock": null,
+      "live_price": null
+    }
+  ],
+  "media": {
+    "primary_image": "/images/제품/Mask group.webp",
+    "alt": "CELDYQUE PDRN 12% + EGF Peptide Serum, 30 ml / 1 fl oz, dropper bottle",
+    "rights_status": "needs_verification"
+  },
+  "claims_held_for_review": [
+    {
+      "claim": "Total anti-aging",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf"
+      ],
+      "supporting_product_evidence": []
+    },
+    {
+      "claim": "Post-Care Friendly",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf"
+      ],
+      "supporting_product_evidence": []
+    },
+    {
+      "claim": "Unverified liposome performance claims",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf"
+      ],
+      "supporting_product_evidence": []
+    }
+  ],
+  "open_questions": [
+    {
+      "id": "pdrn-12-egf-Q1",
+      "question": "The 12% complex basis is stated on the existing page. Confirm the component specification and align shortened PDRN-only labels with that basis.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "pdrn-12-egf-Q2",
+      "question": "Confirm the full INCI, phyto PDRN identity, EGF and Volufiline composition.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "pdrn-12-egf-Q3",
+      "question": "Verify liposome claims and remove unsupported post-procedure positioning.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "pdrn-12-egf-Q4",
+      "question": "Confirm the current 2–3 drop directions and frequency.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    }
+  ],
+  "related_product_ids": [
+    "pdrn-25",
+    "pdrn-12-egf-cream"
+  ],
+  "guide_ids": [
+    "pdrn-comparison"
+  ],
+  "copy_file": "copy/en/products/pdrn-12-egf.md",
+  "search_aliases": {
+    "value": [
+      "PDRN 12% + EGF Peptide Serum"
+    ],
+    "status": "imported",
+    "evidence_ids": [
+      "site-product-pdrn-12-egf"
+    ],
+    "source_section": "H1; excludes unsupported efficacy tags",
+    "verified_on": null,
+    "reviewer": null
+  },
+  "faq_ids": [
+    "pdrn-12-egf-faq-1",
+    "pdrn-12-egf-faq-2",
+    "pdrn-12-egf-faq-3",
+    "pdrn-12-egf-faq-4",
+    "pdrn-12-egf-faq-5",
+    "pdrn-12-egf-faq-6"
+  ],
+  "catalog_reference": {
+    "file": "catalog-facts-2026.json",
+    "pages": [
+      6,
+      7
+    ],
+    "scope": "Catalog facts selected for publication; original observed_copy is historical."
+  }
+}

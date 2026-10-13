@@ -1,0 +1,306 @@
+{
+  "schema_version": 1,
+  "product_id": "gentle-cleanser",
+  "catalog_status": "active",
+  "publication_status": "approved",
+  "language": "en",
+  "source_commit": "a150659d59365f91bcd3833816bb24130ccfe5ab",
+  "imported_on": "2026-10-12",
+  "approved_on": "2026-10-13",
+  "approved_by": "User / brand owner in this conversation",
+  "identity": {
+    "name": {
+      "value": "Gentle Cleanser Purifying Touch",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-gentle-cleanser"
+      ],
+      "source_section": "H1",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "schema_name": {
+      "value": "CELDYQUE Gentle Cleanser Purifying Touch",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-gentle-cleanser"
+      ],
+      "source_section": "Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "aliases": {
+      "value": [
+        "Gentle Cleanser Purifying Touch",
+        "Gentle Cleanser Purifying Touch"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-gentle-cleanser"
+      ],
+      "source_section": "H1 / Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "current_url": "/product-gentle-cleanser.html",
+    "canonical": "https://celdyque.com/product-gentle-cleanser.html",
+    "legacy_urls": [],
+    "asin": {
+      "value": "B0FGPXK14C",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-gentle-cleanser"
+      ],
+      "source_section": "Product.identifier",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "formula_version": null,
+    "market_label_version": null
+  },
+  "specifications": {
+    "size": {
+      "value": "150 ml / 5.07 fl oz",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-gentle-cleanser"
+      ],
+      "source_section": "Product.size",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "category": {
+      "value": "Cleanser",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-gentle-cleanser"
+      ],
+      "source_section": "Product.category",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "format": {
+      "value": "Rinse-off cleanser",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-gentle-cleanser"
+      ],
+      "source_section": "Product body / format description",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "texture": {
+      "value": "Foaming wash",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-gentle-cleanser"
+      ],
+      "source_section": "Ingredients / texture",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "routine_step": {
+      "value": "Water-based cleansing step",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-gentle-cleanser"
+      ],
+      "source_section": "How to Use",
+      "verified_on": null,
+      "reviewer": null
+    }
+  },
+  "formulation": {
+    "selected_ingredients": {
+      "value": [
+        "Centella Asiatica Extract",
+        "Tea Tree Extract",
+        "Green Tea Leaf Powder",
+        "Sodium Cocoyl Isethionate",
+        "Glycerin",
+        "Sodium Hyaluronate",
+        "Hydrolyzed Collagen",
+        "Niacinamide",
+        "Allantoin"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-gentle-cleanser"
+      ],
+      "source_section": "Key Ingredients / formula summary",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "full_inci": {
+      "value": null,
+      "status": "needs_verification",
+      "evidence_ids": [],
+      "reason": "Current website provides selected ingredients or refers to packaging; no verified full label supplied."
+    },
+    "concentration_labels": {
+      "value": [
+        "AHA / BHA / PHA"
+      ],
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-gentle-cleanser"
+      ],
+      "source_section": "Product title / body / metadata",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "concentration_basis": null,
+    "raw_ingredient_vs_finished_formula": null
+  },
+  "directions": {
+    "draft_steps": {
+      "value": [
+        "Wet the face and hands.",
+        "Lather the amount directed on your packaging and massage gently.",
+        "Rinse thoroughly with lukewarm water."
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-gentle-cleanser"
+      ],
+      "source_section": "How to Use; conservative editorial restatement",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "original_text": {
+      "value": "How to Use 1 Lather Dispense a small amount and lather with water. 2 Massage Gently massage over damp face, avoiding the eye area. 3 Rinse Rinse thoroughly and follow with toner, serum and moisturizer. Use morning and evening. Reduce frequency if your skin feels dry.",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-gentle-cleanser"
+      ],
+      "source_section": "#how-to-use",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "manufacturer_confirmed": false,
+    "shelf_life": null,
+    "period_after_opening": null
+  },
+  "observed_copy": {
+    "original_description": "CELDYQUE Gentle Cleanser Purifying Touch is a Korean foaming cleanser with Centella, Tea Tree, Green Tea, AHA, BHA, PHA, Sodium Hyaluronate, Collagen, Niacinamide and Allantoin for pore cleansing and sensitive-looking skin.",
+    "original_ingredient_text": "Key Ingredients AHA · BHA · PHA · Centella Foaming CleanserPore CareDaily WashSoft Finish Key Ingredients: Centella Asiatica Extract, Tea Tree Extract, Green Tea Leaf Powder, Sodium Cocoyl Isethionate, Glycerin, Sodium Hyaluronate, Hydrolyzed Collagen, Niacinamide and Allantoin. Benefits: Pore cleansing, exfoliation, soothing support and hydration. Formula: Lightweight foaming wash that leaves no residue. Refer to the product packaging for the complete and most current ingredient list. For external use only. Avoid direct contact with the eyes. Perform a patch test before first use. Discontinue use if persistent irritation occurs. Keep out of reach of children.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "Is this a foaming cleanser?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. It is a foaming wash for daily pore cleansing."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does it contain exfoliating acids?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. The page positions the formula around AHA, BHA and PHA."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What should I use after cleansing?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Follow with toner, serum and moisturizer. Use sunscreen in the morning."
+        }
+      }
+    ]
+  },
+  "retailers": [
+    {
+      "retailer_id": "amazon",
+      "asin": "B0FGPXK14C",
+      "identity_url": "https://www.amazon.com/dp/B0FGPXK14C",
+      "purchase_urls": [
+        "https://www.amazon.com/Exfoliant-Cleansing-Minimizer-Acne-Prone-Non-Stripping/dp/B0FGPXK14C?maas=maas_adg_FD9A03F5A5E1C2F315E98D088BF02599_afap_abs&ref_=aa_maas&tag=maas&th=1"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-gentle-cleanser"
+      ],
+      "live_stock": null,
+      "live_price": null
+    }
+  ],
+  "media": {
+    "primary_image": "/images/제품/Mask group-11.webp",
+    "alt": "CELDYQUE Gentle Cleanser Purifying Touch, 150 ml / 5.07 fl oz, cleanser tube",
+    "rights_status": "needs_verification"
+  },
+  "claims_held_for_review": [
+    {
+      "claim": "Suitable for every sensitive skin type",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-gentle-cleanser"
+      ],
+      "supporting_product_evidence": []
+    },
+    {
+      "claim": "Unverified exfoliation-performance claims",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-gentle-cleanser"
+      ],
+      "supporting_product_evidence": []
+    }
+  ],
+  "open_questions": [
+    {
+      "id": "gentle-cleanser-Q1",
+      "question": "Obtain the complete INCI and identify any AHA/BHA/PHA ingredients.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "gentle-cleanser-Q2",
+      "question": "Confirm application amount, wet-skin directions and rinse instructions.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "gentle-cleanser-Q3",
+      "question": "Verify sensitive-skin and exfoliation claims rather than inferring them from the product name.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    }
+  ],
+  "related_product_ids": [
+    "cleansing-oil"
+  ],
+  "guide_ids": [
+    "cleansing-routine"
+  ],
+  "copy_file": "copy/en/products/gentle-cleanser.md",
+  "search_aliases": {
+    "value": [
+      "Gentle Cleanser Purifying Touch"
+    ],
+    "status": "imported",
+    "evidence_ids": [
+      "site-product-gentle-cleanser"
+    ],
+    "source_section": "H1; excludes unsupported efficacy tags",
+    "verified_on": null,
+    "reviewer": null
+  },
+  "faq_ids": [
+    "gentle-cleanser-faq-1",
+    "gentle-cleanser-faq-2",
+    "gentle-cleanser-faq-3",
+    "gentle-cleanser-faq-4"
+  ],
+  "catalog_reference": {
+    "file": "catalog-facts-2026.json",
+    "pages": [
+      16,
+      17
+    ],
+    "scope": "Catalog facts selected for publication; original observed_copy is historical."
+  }
+}

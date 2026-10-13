@@ -1,0 +1,560 @@
+{
+  "source": "product-bakuchiol-volume-collagen-cream.html",
+  "source_sha256": "0565142a83afaa6229b9b847c5c44dfdff8bd2ffe4b51dddafc2736db76b638c",
+  "status": "draft",
+  "changes": [
+    {
+      "tag": "div",
+      "class": "product-kicker",
+      "id": null,
+      "before": "Plumping Korean Cream",
+      "after": "Moisturizer"
+    },
+    {
+      "tag": "p",
+      "class": "subtitle",
+      "id": null,
+      "before": "Bakuchiol, Volufiline, EGF and low-molecular collagen in a silky daily cream. · 50 ml / 1.7 fl oz",
+      "after": "Moisturizer · 50 ml / 1.7 fl oz"
+    },
+    {
+      "tag": "p",
+      "class": "desc-text",
+      "id": null,
+      "before": "CELDYQUE Bakuchiol Volume Collagen Cream combines Bakuchiol, Volufiline, EGF peptide, low-molecular collagen, snail mucin, Ceramide, Panthenol and Cica for firm-looking, plump-looking hydration care.",
+      "after": "CELDYQUE Bakuchiol Volume Collagen Cream is a moisturizer applied after serum to the face and neck."
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Low-Molecular Collagen",
+      "after": "Collagen"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "EGF",
+      "after": "EGF peptide"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Snail Mucin",
+      "after": "Ceramide"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Ceramide",
+      "after": "Panthenol"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Panthenol",
+      "after": "Cica"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Cica",
+      "after": "50 ml"
+    },
+    {
+      "tag": "ul",
+      "class": "features-list",
+      "id": null,
+      "before": "<li>Bakuchiol + Volufiline for a firm, plump-looking finish</li>\n          <li>EGF Peptide + Low-Molecular Collagen care</li>\n          <li>Snail Mucin + Hyaluronic Acid for dewy hydration</li>\n          <li>Ceramide, Panthenol and Cica for barrier support</li>\n          <li>Lightweight, non-greasy cream texture for daily use</li>",
+      "after": "<li>Cream format</li>\n<li>Routine: Cream step</li>\n<li>Apply a moderate amount after serum.</li>\n<li>Spread across the face and neck as directed.</li>\n<li>Use as the moisturizer step; finish your morning routine with sunscreen according to its label.</li>"
+    },
+    {
+      "tag": "span",
+      "class": "banner-tag",
+      "id": null,
+      "before": "Bakuchiol x Volufiline x Collagen",
+      "after": "Moisturizer · 50 ml"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": null,
+      "before": "A plush cream for bounce, glow and daily comfort.",
+      "after": "Bakuchiol in a cream format."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A skin-conditioning cream built for visible plumpness, firm-looking elasticity and smooth barrier-supporting moisture.",
+      "after": "Apply this cream as its own moisturizer step. It differs from Bakuchiol 30,000ppm Serum, a concentrate mixed with compatible skincare before application."
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": null,
+      "before": "Firm-Looking Bakuchiol Care",
+      "after": "Where it fits."
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Bakuchiol",
+      "after": "50 ml"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Retinol-alternative",
+      "after": "Listed size"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "EGF",
+      "after": "Cream"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Peptide care",
+      "after": "Product format"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Daily",
+      "after": "Label"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "AM / PM comfort",
+      "after": "Directions first"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Bakuchiol helps care for the look of fine lines and uneven texture without the heavy feel many richer creams can leave behind.",
+      "after": "Apply this cream as its own moisturizer step. It differs from Bakuchiol 30,000ppm Serum, a concentrate mixed with compatible skincare before application."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "EGF peptide support and botanical conditioning ingredients round out the formula for a smoother, more radiant-looking finish.",
+      "after": "CELDYQUE Bakuchiol Volume Collagen Cream is a moisturizer applied after serum to the face and neck."
+    },
+    {
+      "tag": "h4",
+      "class": null,
+      "id": null,
+      "before": "Bakuchiol-led renewal care.",
+      "after": "Bakuchiol in a cream format."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A golden cream texture story centered on gentle firming care and daily radiance.",
+      "after": "Use the application method and routine step for this specific product."
+    },
+    {
+      "tag": "div",
+      "class": "ev-chips",
+      "id": null,
+      "before": "<span>Bakuchiol</span><span>EGF</span><span>Glow Care</span>",
+      "after": "<span>Cream</span><span>50 ml</span><span>Directions</span>"
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": null,
+      "before": "Volufiline + Collagen Plumping Support",
+      "after": "Read the complete formula."
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Volufiline",
+      "after": "Format"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Fuller-looking skin",
+      "after": "Routine role"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Collagen",
+      "after": "INCI"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Low-molecular care",
+      "after": "Full ingredient list"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Barrier",
+      "after": "Label"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Ceramide + Panthenol",
+      "after": "Current instructions"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Volufiline and low-molecular collagen support a fuller, bouncier-looking complexion as part of a consistent moisturizing routine.",
+      "after": "Selected ingredients include 5,000 ppm Bakuchiol, Volufiline, EGF and Collagen. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Snail mucin, Hyaluronic Acid, Ceramide, Panthenol and Cica help leave skin feeling cushioned, hydrated and resilient.",
+      "after": "Selected ingredients are a summary. Check the complete declaration on your packaging when comparing formulas."
+    },
+    {
+      "tag": "h4",
+      "class": null,
+      "id": null,
+      "before": "Plumping moisture with a satin finish.",
+      "after": "Ingredients in context."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A cream and serum-inspired visual that keeps the product&#x27;s dewy collagen story front and center.",
+      "after": "Explore selected ingredients below and check your packaging for the complete ingredient list."
+    },
+    {
+      "tag": "div",
+      "class": "ev-chips",
+      "id": null,
+      "before": "<span>Volufiline</span><span>Collagen</span><span>Snail Mucin</span>",
+      "after": "<span>Formula</span><span>INCI</span><span>Label</span>"
+    },
+    {
+      "tag": "div",
+      "class": "eyebrow",
+      "id": null,
+      "before": "Key Benefits",
+      "after": "Product at a Glance"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "benefits-title",
+      "before": "Designed around visible skincare results.",
+      "after": "The details that help you choose."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "CELDYQUE Bakuchiol Volume Collagen Cream combines Bakuchiol, Volufiline, EGF peptide, low-molecular collagen, snail mucin, Ceramide, Panthenol and Cica for firm-looking, plump-looking hydration care.",
+      "after": "Product format, application and label information in one place."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Firm-Looking Elasticity",
+      "after": "Product Format"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Bakuchiol and peptide care support a smoother, firmer-looking complexion.",
+      "after": "Moisturizer."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Plump-Looking Hydration",
+      "after": "Listed Size"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Volufiline, collagen and Hyaluronic Acid help skin look fuller and bouncier.",
+      "after": "50 ml / 1.7 fl oz."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Barrier Comfort",
+      "after": "First Step"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Ceramide, Panthenol and Cica support a calm, moisturized skin barrier.",
+      "after": "Apply a moderate amount after serum."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Dewy Texture",
+      "after": "Application"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A silky cream texture absorbs comfortably without a greasy finish.",
+      "after": "Spread across the face and neck as directed."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Daily Routine Fit",
+      "after": "Finish the Step"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Works as a moisturizer step in morning or evening skincare.",
+      "after": "Use as the moisturizer step; finish your morning routine with sunscreen according to its label."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Radiant Finish",
+      "after": "Before Use"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Supports a fresh, healthy-looking glow with consistent use.",
+      "after": "Read the complete ingredients and precautions on your current packaging."
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "architecture-title",
+      "before": "Cream Architecture",
+      "after": "Selected Ingredient Information"
+    },
+    {
+      "tag": "p",
+      "class": "sub",
+      "id": null,
+      "before": "A multi-active cream combining firming, plumping and barrier-supporting ingredient stories.",
+      "after": "These selected names do not replace the complete INCI declaration on your packaging."
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Retinol-alternative care for smoother-looking texture and visible firmness.",
+      "after": "Also listed: Volufiline."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Volufiline",
+      "after": "Hydrolyzed Collagen"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Supports fuller-looking facial contours as part of a moisturizing routine.",
+      "after": "Also listed: Snail Secretion Filtrate."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Low-Molecular Collagen",
+      "after": "EGF peptide"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "A hydration and bounce-focused ingredient for supple-looking skin.",
+      "after": "Also listed: Hyaluronic acid."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "EGF Peptide",
+      "after": "Ceramide"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Daily skin-conditioning peptide support.",
+      "after": "Also listed: Panthenol."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Snail Mucin",
+      "after": "Cica"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Dewy hydration and soft skin feel.",
+      "after": "See the complete ingredient list on your packaging."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Ceramide + Panthenol",
+      "after": "Full INCI"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Barrier-supporting comfort for daily use.",
+      "after": "Check the complete ingredient declaration on the current packaging."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "After serum, apply a moderate amount over the face and neck.",
+      "after": "Apply a moderate amount after serum."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Smooth outward along cheeks, jawline and areas that need extra comfort.",
+      "after": "Spread across the face and neck as directed."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Use as the moisturizer step. In the morning, finish with sunscreen.",
+      "after": "Use as the moisturizer step; finish your morning routine with sunscreen according to its label."
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": "ingredients-title",
+      "before": "Key Ingredients",
+      "after": "Ingredient Information"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Bakuchiol · Volufiline · Collagen · Barrier Support",
+      "after": "Selected ingredients · Complete list on packaging"
+    },
+    {
+      "tag": "div",
+      "class": "freefrom",
+      "id": null,
+      "before": "<span>Non-Greasy</span><span>Dewy Finish</span><span>Daily Cream</span><span>Barrier Support</span>",
+      "after": "<span>Selected summary</span><span>Check packaging</span>"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Key Ingredients:</strong> Bakuchiol, Volufiline, Hydrolyzed Collagen, Snail Secretion Filtrate, EGF peptide, Hyaluronic Acid, Ceramide, Panthenol and Cica.",
+      "after": "<strong>Selected ingredients:</strong> Bakuchiol; Volufiline; Hydrolyzed Collagen; Snail Secretion Filtrate; EGF peptide; Hyaluronic acid; Ceramide; Panthenol; Cica."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Benefits:</strong> Firm-looking skin, plumping care, dewy hydration, barrier support and smooth texture.",
+      "after": "Selected ingredients include 5,000 ppm Bakuchiol, Volufiline, EGF and Collagen. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Texture:</strong> Silky, lightweight cream that absorbs comfortably without a greasy finish.",
+      "after": "<strong>Format:</strong> Cream."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Refer to the product packaging for the complete and most current ingredient list.",
+      "after": "<strong>About the ingredients:</strong> Bakuchiol has been studied in topical formulations for smoother-looking skin and the appearance of fine lines and uneven pigmentation. The complete formula matters; an ingredient concentration alone does not establish that two creams will perform alike.<br /><small>Research cited here concerns ingredients or other formulations, not a clinical trial of this CELDYQUE product. <a href=\"https://pubmed.ncbi.nlm.nih.gov/29947134/\" style=\"text-decoration:underline\">Dhaliwal et al. — Topical bakuchiol and photoageing</a></small>"
+    },
+    {
+      "tag": "div",
+      "class": "caution",
+      "id": null,
+      "before": "For external use only. Avoid direct contact with the eyes. Perform a patch test before first use. Discontinue use if persistent irritation occurs. Keep out of reach of children.",
+      "after": "For external use only. Avoid direct contact with the eyes. Patch test before first use and discontinue use if persistent irritation occurs. Keep out of reach of children."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Answers written for shoppers, search engines and AI summaries looking for clear product guidance.",
+      "after": "Format, directions and ingredient information for this product."
+    },
+    {
+      "tag": "div",
+      "class": "faq-list",
+      "id": null,
+      "before": "<details class=\"faq-item\">\n          <summary>What is Bakuchiol Volume Collagen Cream best for?</summary>\n          <div class=\"faq-answer\">It is designed for people seeking a moisturizer focused on firm-looking elasticity, plump-looking hydration and barrier comfort.</div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>Can I use it with serum?</summary>\n          <div class=\"faq-answer\">Yes. Apply after serum as the cream step.</div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>Is it heavy?</summary>\n          <div class=\"faq-answer\">The texture is positioned as silky and lightweight with a non-greasy finish.</div>\n        </details>",
+      "after": "<details class=\"faq-item\" id=\"bakuchiol-volume-collagen-cream-faq-1\"><summary>Is this a mix-in product?</summary><div class=\"faq-answer\">Apply this cream as its own moisturizer step. The separate Bakuchiol 30,000ppm Serum uses a mix-in method.</div></details>\n<details class=\"faq-item\" id=\"bakuchiol-volume-collagen-cream-faq-2\"><summary>How is it different from the bakuchiol concentrate?</summary><div class=\"faq-answer\">This is a cream applied after serum. The concentrate is mixed with compatible skincare before application. Follow the directions for the format you choose.</div></details>\n<details class=\"faq-item\" id=\"bakuchiol-volume-collagen-cream-faq-3\"><summary>When should it be applied?</summary><div class=\"faq-answer\">Apply after serum as the cream or moisturizer step.</div></details>\n<details class=\"faq-item\" id=\"bakuchiol-volume-collagen-cream-faq-4\"><summary>Where can I check the complete formula?</summary><div class=\"faq-answer\">Read the full ingredient declaration on your packaging. The ingredients listed here are selected highlights.</div></details>\n<p style=\"margin-top:24px\"><a href=\"/faq.html\" style=\"text-decoration:underline\">More product questions</a> · <a href=\"/product-bakuchiol-30000.html\" style=\"text-decoration:underline\">Bakuchiol 30,000ppm Serum</a> · <a href=\"/product-pdrn-12-egf-cream.html\" style=\"text-decoration:underline\">PDRN 12% + EGF Peptide Cream</a></p>"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "CELDYQUE Bakuchiol Volume Collagen Cream combines Bakuchiol, Volufiline, EGF peptide, low-molecular collagen, snail mucin, Ceramide, Panthenol and Cica for firm-looking, plump-looking hydration care.",
+      "after": "Shop this product using the retailer links below. Check your retailer for prices, availability, delivery and returns."
+    }
+  ]
+}

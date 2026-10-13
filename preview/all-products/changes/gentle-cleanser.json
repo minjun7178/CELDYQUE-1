@@ -1,0 +1,574 @@
+{
+  "source": "product-gentle-cleanser.html",
+  "source_sha256": "a6f41f122e86f2362a1bf910ff112ab998262c628e1705570dbeb27d4c2971f5",
+  "status": "draft",
+  "changes": [
+    {
+      "tag": "div",
+      "class": "product-kicker",
+      "id": null,
+      "before": "Daily Pore Cleanser",
+      "after": "Rinse-off cleanser"
+    },
+    {
+      "tag": "p",
+      "class": "subtitle",
+      "id": null,
+      "before": "Centella, Tea Tree, Green Tea and AHA/BHA/PHA for a clean, soft finish. · 150 ml / 5.07 fl oz",
+      "after": "Rinse-off cleanser · 150 ml / 5.07 fl oz"
+    },
+    {
+      "tag": "p",
+      "class": "desc-text",
+      "id": null,
+      "before": "CELDYQUE Gentle Cleanser Purifying Touch is a Korean foaming cleanser with Centella, Tea Tree, Green Tea, AHA, BHA, PHA, Sodium Hyaluronate, Collagen, Niacinamide and Allantoin for pore cleansing and sensitive-looking skin.",
+      "after": "CELDYQUE Gentle Cleanser Purifying Touch is a foaming facial cleanser used on wet skin and rinsed off after washing."
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "AHA",
+      "after": "Rinse-off"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "BHA",
+      "after": "Foaming wash"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "PHA",
+      "after": "Centella"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Centella",
+      "after": "Tea Tree"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Tea Tree",
+      "after": "Glycerin"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Green Tea",
+      "after": "Niacinamide"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Hyaluronic Acid",
+      "after": "Allantoin"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Allantoin",
+      "after": "150 ml"
+    },
+    {
+      "tag": "ul",
+      "class": "features-list",
+      "id": null,
+      "before": "<li>Triple acid exfoliation with AHA, BHA and PHA</li>\n          <li>Soothing Centella and Tea Tree Complex</li>\n          <li>Antioxidant Green Tea support</li>\n          <li>Hydrating, barrier-friendly formula</li>\n          <li>Ideal for sensitive-looking and acne-prone skin</li>",
+      "after": "<li>Foaming wash format</li>\n<li>Routine: Water-based cleansing step</li>\n<li>Dispense a small amount and lather with water.</li>\n<li>Gently massage over a damp face, avoiding the eye area.</li>\n<li>Rinse thoroughly and follow with your skincare routine.</li>"
+    },
+    {
+      "tag": "span",
+      "class": "banner-tag",
+      "id": null,
+      "before": "AHA x BHA x PHA Cleanse",
+      "after": "Rinse-off cleanser · 150 ml"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": null,
+      "before": "A daily cleanse that feels fresh, not stripped.",
+      "after": "Wet, lather, then rinse."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A purifying foaming cleanser for pores, texture and comfortable moisture balance.",
+      "after": "Use it for the foaming wash step. Pore Purifying Cleansing Oil starts on dry skin and requires water to emulsify; the two products have different application methods."
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": null,
+      "before": "Gentle Triple-Acid Cleansing",
+      "after": "Where it fits."
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "AHA",
+      "after": "150 ml"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Surface polish",
+      "after": "Listed size"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "BHA",
+      "after": "Cleanser"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Pore care",
+      "after": "Product format"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "PHA",
+      "after": "Label"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Gentle exfoliation",
+      "after": "Directions first"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "AHA, BHA and PHA help refine the look of rough texture and excess buildup while keeping the page&#x27;s claims focused on cosmetic cleansing.",
+      "after": "Use it for the foaming wash step. Pore Purifying Cleansing Oil starts on dry skin and requires water to emulsify; the two products have different application methods."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "The foaming wash is designed to leave skin feeling clean without a tight, stripped finish.",
+      "after": "CELDYQUE Gentle Cleanser Purifying Touch is a foaming facial cleanser used on wet skin and rinsed off after washing."
+    },
+    {
+      "tag": "h4",
+      "class": null,
+      "id": null,
+      "before": "Fresh foam, refined pores.",
+      "after": "Wet, lather, then rinse."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "The original cleanser texture photo stays in the new layout for continuity.",
+      "after": "Use the application method and routine step for this specific product."
+    },
+    {
+      "tag": "div",
+      "class": "ev-chips",
+      "id": null,
+      "before": "<span>Foam</span><span>Pores</span><span>Texture</span>",
+      "after": "<span>Cleanser</span><span>150 ml</span><span>Directions</span>"
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": null,
+      "before": "Centella, Tea Tree and Green Tea Comfort",
+      "after": "Read the complete formula."
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Cica",
+      "after": "Format"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Comfort",
+      "after": "Routine role"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Tea Tree",
+      "after": "INCI"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Balance",
+      "after": "Full ingredient list"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Green Tea",
+      "after": "Label"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Antioxidant care",
+      "after": "Current instructions"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Centella, Tea Tree and Green Tea help support a calmer, more balanced post-cleanse feel.",
+      "after": "Selected ingredients include Centella Asiatica, Tea Tree, Green Tea, and AHA, BHA and PHA. This is a rinse-off foaming cleanser. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Sodium Hyaluronate, Collagen, Niacinamide and Allantoin add a soft skin-conditioning finish.",
+      "after": "Selected ingredients are a summary. Check the complete declaration on your packaging when comparing formulas."
+    },
+    {
+      "tag": "h4",
+      "class": null,
+      "id": null,
+      "before": "Botanical support for daily cleansing.",
+      "after": "Ingredients in context."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A botanical visual from the original page supports the cleanser&#x27;s soothing ingredient story.",
+      "after": "Explore selected ingredients below and check your packaging for the complete ingredient list."
+    },
+    {
+      "tag": "div",
+      "class": "ev-chips",
+      "id": null,
+      "before": "<span>Centella</span><span>Tea Tree</span><span>Green Tea</span>",
+      "after": "<span>Formula</span><span>INCI</span><span>Label</span>"
+    },
+    {
+      "tag": "div",
+      "class": "eyebrow",
+      "id": null,
+      "before": "Key Benefits",
+      "after": "Product at a Glance"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "benefits-title",
+      "before": "Designed around visible skincare results.",
+      "after": "The details that help you choose."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "CELDYQUE Gentle Cleanser Purifying Touch is a Korean foaming cleanser with Centella, Tea Tree, Green Tea, AHA, BHA, PHA, Sodium Hyaluronate, Collagen, Niacinamide and Allantoin for pore cleansing and sensitive-looking skin.",
+      "after": "Product format, application and label information in one place."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Pore Cleansing",
+      "after": "Product Format"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Helps remove daily buildup, excess sebum and impurities.",
+      "after": "Rinse-off cleanser."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Gentle Exfoliation",
+      "after": "Listed Size"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "AHA, BHA and PHA support smoother-looking texture.",
+      "after": "150 ml / 5.07 fl oz."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Soothing Feel",
+      "after": "First Step"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Centella and Tea Tree support comfortable cleansing.",
+      "after": "Dispense a small amount and lather with water."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Hydrated Finish",
+      "after": "Application"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Moisture-supporting ingredients help avoid a stripped feel.",
+      "after": "Gently massage over a damp face, avoiding the eye area."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Sensitive-Looking Skin",
+      "after": "Finish the Step"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Designed for daily cleansing routines.",
+      "after": "Rinse thoroughly and follow with your skincare routine."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Makeup Routine Ready",
+      "after": "Before Use"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Leaves skin ready for serum, cream and sunscreen.",
+      "after": "Read the complete ingredients and precautions on your current packaging."
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "architecture-title",
+      "before": "Cleanser Architecture",
+      "after": "Selected Ingredient Information"
+    },
+    {
+      "tag": "p",
+      "class": "sub",
+      "id": null,
+      "before": "A cleanser formula story that balances pore cleansing, exfoliation and skin comfort.",
+      "after": "These selected names do not replace the complete INCI declaration on your packaging."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "AHA",
+      "after": "Centella Asiatica Extract"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Surface exfoliation support.",
+      "after": "Also listed: Tea Tree Extract."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "BHA",
+      "after": "Green Tea Leaf Powder"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Pore-focused cleansing support.",
+      "after": "Also listed: Sodium Cocoyl Isethionate."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "PHA",
+      "after": "Glycerin"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Gentler exfoliation profile.",
+      "after": "Also listed: Sodium Hyaluronate."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Centella",
+      "after": "Hydrolyzed Collagen"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Soothing support.",
+      "after": "Also listed: Niacinamide."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Tea Tree + Green Tea",
+      "after": "Allantoin"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Balanced botanical care.",
+      "after": "Also listed: AHA / BHA / PHA."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Hyaluronic Acid + Allantoin",
+      "after": "Full INCI"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Hydrated, comfortable finish.",
+      "after": "Check the complete ingredient declaration on the current packaging."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Gently massage over damp face, avoiding the eye area.",
+      "after": "Gently massage over a damp face, avoiding the eye area."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Rinse thoroughly and follow with toner, serum and moisturizer.",
+      "after": "Rinse thoroughly and follow with your skincare routine."
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": "ingredients-title",
+      "before": "Key Ingredients",
+      "after": "Ingredient Information"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "AHA · BHA · PHA · Centella",
+      "after": "Selected ingredients · Complete list on packaging"
+    },
+    {
+      "tag": "div",
+      "class": "freefrom",
+      "id": null,
+      "before": "<span>Foaming Cleanser</span><span>Pore Care</span><span>Daily Wash</span><span>Soft Finish</span>",
+      "after": "<span>Selected summary</span><span>Check packaging</span>"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Key Ingredients:</strong> Centella Asiatica Extract, Tea Tree Extract, Green Tea Leaf Powder, Sodium Cocoyl Isethionate, Glycerin, Sodium Hyaluronate, Hydrolyzed Collagen, Niacinamide and Allantoin.",
+      "after": "<strong>Selected ingredients:</strong> Centella Asiatica Extract; Tea Tree Extract; Green Tea Leaf Powder; Sodium Cocoyl Isethionate; Glycerin; Sodium Hyaluronate; Hydrolyzed Collagen; Niacinamide; Allantoin; AHA / BHA / PHA."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Benefits:</strong> Pore cleansing, exfoliation, soothing support and hydration.",
+      "after": "Selected ingredients include Centella Asiatica, Tea Tree, Green Tea, and AHA, BHA and PHA. This is a rinse-off foaming cleanser. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Formula:</strong> Lightweight foaming wash that leaves no residue.",
+      "after": "<strong>Format:</strong> Foaming wash."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Refer to the product packaging for the complete and most current ingredient list.",
+      "after": "<strong>About the ingredients:</strong> Glycerin is a moisture-supporting ingredient studied for skin hydration. The cited research used a leave-on cream, so it does not establish the duration or level of moisturization from a rinse-off cleanser.<br /><small>Research cited here concerns ingredients or other formulations, not a clinical trial of this CELDYQUE product. <a href=\"https://pubmed.ncbi.nlm.nih.gov/18498456/\" style=\"text-decoration:underline\">Lodén and Wessman — Glycerin and skin hydration</a></small>"
+    },
+    {
+      "tag": "div",
+      "class": "caution",
+      "id": null,
+      "before": "For external use only. Avoid direct contact with the eyes. Perform a patch test before first use. Discontinue use if persistent irritation occurs. Keep out of reach of children.",
+      "after": "For external use only. Avoid direct contact with the eyes. Patch test before first use and discontinue use if persistent irritation occurs. Keep out of reach of children."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Answers written for shoppers, search engines and AI summaries looking for clear product guidance.",
+      "after": "Format, directions and ingredient information for this product."
+    },
+    {
+      "tag": "div",
+      "class": "faq-list",
+      "id": null,
+      "before": "<details class=\"faq-item\">\n          <summary>Is this a foaming cleanser?</summary>\n          <div class=\"faq-answer\">Yes. It is a foaming wash for daily pore cleansing.</div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>Does it contain exfoliating acids?</summary>\n          <div class=\"faq-answer\">Yes. The page positions the formula around AHA, BHA and PHA.</div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>What should I use after cleansing?</summary>\n          <div class=\"faq-answer\">Follow with toner, serum and moisturizer. Use sunscreen in the morning.</div>\n        </details>",
+      "after": "<details class=\"faq-item\" id=\"gentle-cleanser-faq-1\"><summary>Is this left on the skin?</summary><div class=\"faq-answer\">No. Rinse thoroughly with lukewarm water after washing.</div></details>\n<details class=\"faq-item\" id=\"gentle-cleanser-faq-2\"><summary>How is it different from cleansing oil?</summary><div class=\"faq-answer\">Gentle Cleanser is a foaming wash used on wet skin. Pore Purifying Cleansing Oil starts on dry skin, then is emulsified with water and rinsed off.</div></details>\n<details class=\"faq-item\" id=\"gentle-cleanser-faq-3\"><summary>How often should I use it?</summary><div class=\"faq-answer\">Use morning and evening. Reduce frequency if your skin feels dry.</div></details>\n<details class=\"faq-item\" id=\"gentle-cleanser-faq-4\"><summary>Should I start on wet or dry skin?</summary><div class=\"faq-answer\">Wet your face and hands before lathering Gentle Cleanser and massaging gently.</div></details>\n<p style=\"margin-top:24px\"><a href=\"/faq.html\" style=\"text-decoration:underline\">More product questions</a> · <a href=\"/product-cleansing-oil.html\" style=\"text-decoration:underline\">Pore Purifying Cleansing Oil</a></p>"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "CELDYQUE Gentle Cleanser Purifying Touch is a Korean foaming cleanser with Centella, Tea Tree, Green Tea, AHA, BHA, PHA, Sodium Hyaluronate, Collagen, Niacinamide and Allantoin for pore cleansing and sensitive-looking skin.",
+      "after": "Shop this product using the retailer links below. Check your retailer for prices, availability, delivery and returns."
+    }
+  ]
+}

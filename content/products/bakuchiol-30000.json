@@ -1,0 +1,310 @@
+{
+  "schema_version": 1,
+  "product_id": "bakuchiol-30000",
+  "catalog_status": "active",
+  "publication_status": "approved",
+  "language": "en",
+  "source_commit": "a150659d59365f91bcd3833816bb24130ccfe5ab",
+  "imported_on": "2026-10-12",
+  "approved_on": "2026-10-13",
+  "approved_by": "User / brand owner in this conversation",
+  "identity": {
+    "name": {
+      "value": "Bakuchiol 30,000ppm Serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-30000"
+      ],
+      "source_section": "H1",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "schema_name": {
+      "value": "CELDYQUE Bakuchiol 30,000ppm Serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-30000"
+      ],
+      "source_section": "Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "aliases": {
+      "value": [
+        "Bakuchiol 30,000ppm Serum",
+        "Bakuchiol 30,000ppm Serum"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-30000"
+      ],
+      "source_section": "H1 / Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "current_url": "/product-bakuchiol-30000.html",
+    "canonical": "https://celdyque.com/product-bakuchiol-30000.html",
+    "legacy_urls": [],
+    "asin": {
+      "value": "B0DC6H8MSW",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-30000"
+      ],
+      "source_section": "Product.identifier",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "formula_version": null,
+    "market_label_version": null
+  },
+  "specifications": {
+    "size": {
+      "value": "30 ml / 1 fl oz",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-30000"
+      ],
+      "source_section": "Product.size",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "category": {
+      "value": "Face Serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-30000"
+      ],
+      "source_section": "Product.category",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "format": {
+      "value": "Mix-in serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-30000"
+      ],
+      "source_section": "Product body / format description",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "texture": {
+      "value": "Liquid mix-in concentrate",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-30000"
+      ],
+      "source_section": "Ingredients / texture",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "routine_step": {
+      "value": "Mix with a compatible moisturizer",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-30000"
+      ],
+      "source_section": "How to Use",
+      "verified_on": null,
+      "reviewer": null
+    }
+  },
+  "formulation": {
+    "selected_ingredients": {
+      "value": [
+        "Bakuchiol",
+        "Butylene Glycol",
+        "Water",
+        "1,2-Hexanediol"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-30000"
+      ],
+      "source_section": "Key Ingredients / formula summary",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "full_inci": {
+      "value": null,
+      "status": "needs_verification",
+      "evidence_ids": [],
+      "reason": "Current website provides selected ingredients or refers to packaging; no verified full label supplied."
+    },
+    "concentration_labels": {
+      "value": [
+        "Bakuchiol 30,000 ppm"
+      ],
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-bakuchiol-30000"
+      ],
+      "source_section": "Product title / body / metadata",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "concentration_basis": null,
+    "raw_ingredient_vs_finished_formula": null
+  },
+  "directions": {
+    "draft_steps": {
+      "value": [
+        "Add 1–2 drops to moisturizer, cream or a compatible serum, as directed on your label.",
+        "Blend in your palm immediately before use.",
+        "Apply the mixture as directed. Follow your sunscreen label for morning use."
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-30000"
+      ],
+      "source_section": "How to Use; conservative editorial restatement",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "original_text": {
+      "value": "How to Use 1 Dose Add 1-2 drops to moisturizer, cream or compatible serum. 2 Mix Blend in your palm before applying. 3 Apply Smooth over face and neck. Use sunscreen in the morning. Because it is concentrated, start slowly and patch test before first use.",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-30000"
+      ],
+      "source_section": "#how-to-use",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "manufacturer_confirmed": false,
+    "shelf_life": null,
+    "period_after_opening": null
+  },
+  "observed_copy": {
+    "original_description": "CELDYQUE Bakuchiol 30,000ppm Serum is a high-potency retinol-alternative mix-in serum with Bakuchiol, Butylene Glycol and a minimalist formula for customized firm-looking and smooth-looking care.",
+    "original_ingredient_text": "Key Ingredients Bakuchiol · Minimalist Mix-In Serum Mix-InVeganCruelty-FreeRetinol Alternative Key Ingredients: Bakuchiol 30,000 ppm, Butylene Glycol, Water and 1,2-Hexanediol. Free From: Parabens, sulfates and synthetic fragrances. Note: The original page recommends mixing with moisturizer because of the high concentration. Refer to the product packaging for the complete and most current ingredient list. For external use only. Avoid direct contact with the eyes. Perform a patch test before first use. Discontinue use if persistent irritation occurs. Keep out of reach of children.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "What is Bakuchiol 30,000ppm Serum?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It is a concentrated Bakuchiol mix-in serum positioned as a retinol-alternative skincare booster."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Should I use it alone?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The original page recommends mixing it with moisturizer or compatible skincare due to the high concentration."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use it during the day?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Use as tolerated and apply sunscreen in the morning."
+        }
+      }
+    ]
+  },
+  "retailers": [
+    {
+      "retailer_id": "amazon",
+      "asin": "B0DC6H8MSW",
+      "identity_url": "https://www.amazon.com/dp/B0DC6H8MSW",
+      "purchase_urls": [
+        "https://www.amazon.com/Korean-Bakuchiol-Concentrate-Mix-Serum/dp/B0DC6H8MSW?maas=maas_adg_CF21960666737CC63E9003F20D927B2C_afap_abs&ref_=aa_maas&tag=maas&th=1"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-30000"
+      ],
+      "live_stock": null,
+      "live_price": null
+    }
+  ],
+  "media": {
+    "primary_image": "/images/제품/test.webp",
+    "alt": "CELDYQUE Bakuchiol 30,000ppm Serum, 30 ml / 1 fl oz, dropper bottle",
+    "rights_status": "needs_verification"
+  },
+  "claims_held_for_review": [
+    {
+      "claim": "Guaranteed pregnancy or breastfeeding safety",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-bakuchiol-30000"
+      ],
+      "supporting_product_evidence": []
+    },
+    {
+      "claim": "Equivalent efficacy to retinol",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-bakuchiol-30000"
+      ],
+      "supporting_product_evidence": []
+    },
+    {
+      "claim": "Unverified vegan/cruelty-free certifications",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-bakuchiol-30000"
+      ],
+      "supporting_product_evidence": []
+    }
+  ],
+  "open_questions": [
+    {
+      "id": "bakuchiol-30000-Q1",
+      "question": "Verify the concentration basis and full INCI.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "bakuchiol-30000-Q2",
+      "question": "Confirm the required mixing ratio and compatible bases.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "bakuchiol-30000-Q3",
+      "question": "Provide evidence before using vegan, cruelty-free, fragrance-free or sensitive-skin claims.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    }
+  ],
+  "related_product_ids": [
+    "bakuchiol-volume-collagen-cream",
+    "volufiline-100"
+  ],
+  "guide_ids": [
+    "bakuchiol-comparison"
+  ],
+  "copy_file": "copy/en/products/bakuchiol-30000.md",
+  "search_aliases": {
+    "value": [
+      "Bakuchiol 30,000ppm Serum"
+    ],
+    "status": "imported",
+    "evidence_ids": [
+      "site-product-bakuchiol-30000"
+    ],
+    "source_section": "H1; excludes unsupported efficacy tags",
+    "verified_on": null,
+    "reviewer": null
+  },
+  "faq_ids": [
+    "bakuchiol-30000-faq-1",
+    "bakuchiol-30000-faq-2",
+    "bakuchiol-30000-faq-3",
+    "bakuchiol-30000-faq-4"
+  ],
+  "catalog_reference": {
+    "file": "catalog-facts-2026.json",
+    "pages": [
+      4,
+      5
+    ],
+    "scope": "Catalog facts selected for publication; original observed_copy is historical."
+  }
+}

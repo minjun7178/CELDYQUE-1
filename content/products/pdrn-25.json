@@ -1,0 +1,313 @@
+{
+  "schema_version": 1,
+  "product_id": "pdrn-25",
+  "catalog_status": "active",
+  "publication_status": "approved",
+  "language": "en",
+  "source_commit": "a150659d59365f91bcd3833816bb24130ccfe5ab",
+  "imported_on": "2026-10-12",
+  "approved_on": "2026-10-13",
+  "approved_by": "User / brand owner in this conversation",
+  "identity": {
+    "name": {
+      "value": "PDRN 250,000ppm Concentrate",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-25"
+      ],
+      "source_section": "H1",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "schema_name": {
+      "value": "CELDYQUE PDRN 250,000ppm Concentrate",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-25"
+      ],
+      "source_section": "Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "aliases": {
+      "value": [
+        "PDRN 250,000ppm Concentrate",
+        "PDRN 250,000ppm Concentrate"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-25"
+      ],
+      "source_section": "H1 / Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "current_url": "/product-pdrn-25.html",
+    "canonical": "https://celdyque.com/product-pdrn-25.html",
+    "legacy_urls": [],
+    "asin": {
+      "value": "B0FMFBGW9N",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-25"
+      ],
+      "source_section": "Product.identifier",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "formula_version": null,
+    "market_label_version": null
+  },
+  "specifications": {
+    "size": {
+      "value": "30 ml / 1 fl oz",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-25"
+      ],
+      "source_section": "Product.size",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "category": {
+      "value": "Face Serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-25"
+      ],
+      "source_section": "Product.category",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "format": {
+      "value": "Concentrate",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-25"
+      ],
+      "source_section": "Product body / format description",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "texture": {
+      "value": "Gel",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-25"
+      ],
+      "source_section": "2026 catalog, page 14: Gel type (user-designated source)",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "routine_step": {
+      "value": "Serum / booster step",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-25"
+      ],
+      "source_section": "How to Use",
+      "verified_on": null,
+      "reviewer": null
+    }
+  },
+  "formulation": {
+    "selected_ingredients": {
+      "value": [
+        "Sodium DNA / PDRN",
+        "rh-Oligopeptide-1 / EGF",
+        "Panthenol",
+        "Water",
+        "Propylene Glycol",
+        "Butylene Glycol"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-25"
+      ],
+      "source_section": "Key Ingredients / formula summary",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "full_inci": {
+      "value": null,
+      "status": "needs_verification",
+      "evidence_ids": [],
+      "reason": "Current website provides selected ingredients or refers to packaging; no verified full label supplied."
+    },
+    "concentration_labels": {
+      "value": [
+        "PDRN 25%",
+        "PDRN 250,000 ppm"
+      ],
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-pdrn-25"
+      ],
+      "source_section": "Product title / body / metadata",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "concentration_basis": null,
+    "raw_ingredient_vs_finished_formula": null
+  },
+  "directions": {
+    "draft_steps": {
+      "value": [
+        "Follow the directions on your bottle for the amount to apply.",
+        "Use after cleansing and toning.",
+        "Follow with moisturizer. Only use a mix-in method if the current product directions support it."
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-25"
+      ],
+      "source_section": "How to Use; conservative editorial restatement",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "original_text": {
+      "value": "How to Use 1 Apply Use after cleansing and toning on clean skin. 2 Boost Apply a few drops directly or mix with compatible serum or cream. 3 Seal Follow with moisturizer. Use sunscreen in the morning. Introduce gradually if your skin is new to concentrated active formulas.",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-25"
+      ],
+      "source_section": "#how-to-use",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "manufacturer_confirmed": false,
+    "shelf_life": null,
+    "period_after_opening": null
+  },
+  "observed_copy": {
+    "original_description": "CELDYQUE PDRN 25% Concentrate features 250,000 ppm Sodium DNA PDRN with EGF peptide, Panthenol and hydration support in a lightweight booster for elastic-looking, dewy-looking skin.",
+    "original_ingredient_text": "Key Ingredients PDRN · EGF · Peptides · Panthenol BoosterFast-AbsorbingMix-InHigh PDRN Key Ingredients: Sodium DNA / PDRN 250,000 ppm, rh-Oligopeptide-1 / EGF, Panthenol, Water, Propylene Glycol, Butylene Glycol and moisturizing support ingredients. Benefits: Elasticity boost, deep hydration, barrier support and glow enhancement. Texture: Lightweight, fast-absorbing liquid type. Refer to the product packaging for the complete and most current ingredient list. For external use only. Avoid direct contact with the eyes. Perform a patch test before first use. Discontinue use if persistent irritation occurs. Keep out of reach of children.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "What does PDRN 25% mean?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It refers to the page's 250,000 ppm PDRN positioning in a concentrated skincare booster."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I mix it with cream?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. The product is positioned as a booster that can be mixed with compatible serum or cream."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When should I use it?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Use after cleansing and toning, then follow with moisturizer."
+        }
+      }
+    ]
+  },
+  "retailers": [
+    {
+      "retailer_id": "amazon",
+      "asin": "B0FMFBGW9N",
+      "identity_url": "https://www.amazon.com/dp/B0FMFBGW9N",
+      "purchase_urls": [
+        "https://www.amazon.com/Salmon-PDRN-Concentrate-Skincare-Booster/dp/B0FMFBGW9N?maas=maas_adg_423AC43EAAC0FDA7535EF6FE63667104_afap_abs&ref_=aa_maas&tag=maas&th=1"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-25"
+      ],
+      "live_stock": null,
+      "live_price": null
+    }
+  ],
+  "media": {
+    "primary_image": "/images/제품/Mask group-3.webp",
+    "alt": "CELDYQUE PDRN 250,000ppm Concentrate, 30 ml / 1 fl oz, dropper bottle",
+    "rights_status": "needs_verification"
+  },
+  "claims_held_for_review": [
+    {
+      "claim": "Skin regeneration",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-pdrn-25"
+      ],
+      "supporting_product_evidence": []
+    },
+    {
+      "claim": "Superior results because the percentage is higher",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-pdrn-25"
+      ],
+      "supporting_product_evidence": []
+    },
+    {
+      "claim": "Clinical or post-procedure suitability",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-pdrn-25"
+      ],
+      "supporting_product_evidence": []
+    }
+  ],
+  "open_questions": [
+    {
+      "id": "pdrn-25-Q1",
+      "question": "Define whether 25% / 250,000 ppm refers to a supplied complex or PDRN itself.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "pdrn-25-Q2",
+      "question": "Obtain the current full INCI and verify the EGF/peptide identity.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "pdrn-25-Q3",
+      "question": "Confirm application amount and whether mixing is a manufacturer-approved option.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    }
+  ],
+  "related_product_ids": [
+    "pdrn-12-egf",
+    "pdrn-12-egf-cream"
+  ],
+  "guide_ids": [
+    "pdrn-comparison"
+  ],
+  "copy_file": "copy/en/products/pdrn-25.md",
+  "search_aliases": {
+    "value": [
+      "PDRN 250,000ppm Concentrate"
+    ],
+    "status": "imported",
+    "evidence_ids": [
+      "site-product-pdrn-25"
+    ],
+    "source_section": "H1; excludes unsupported efficacy tags",
+    "verified_on": null,
+    "reviewer": null
+  },
+  "faq_ids": [
+    "pdrn-25-faq-1",
+    "pdrn-25-faq-2",
+    "pdrn-25-faq-3",
+    "pdrn-25-faq-4"
+  ],
+  "catalog_reference": {
+    "file": "catalog-facts-2026.json",
+    "pages": [
+      14,
+      15
+    ],
+    "scope": "Catalog facts selected for publication; original observed_copy is historical."
+  }
+}

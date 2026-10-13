@@ -1,0 +1,547 @@
+{
+  "volufiline-100": {
+    "source": "site-product-volufiline-100",
+    "usage_available": true,
+    "cautions_available": true,
+    "frequency_text": "Mix in your palm immediately before application. Follow the directions and precautions on your packaging.",
+    "fixed_frequency_available": false,
+    "original_usage": "How to Use Volufiline 100% Think of it as a concentrated booster rather than another step you need to add to your routine. 1 Drop Dispense 1–2 drops of Volufiline 100% Concentrate into your palm. 2 Mix Mix with your usual cream, moisturizer, lotion or compatible serum. 3 Apply Smooth the mixture onto areas where you want focused firmness and fuller-looking skin care. YOUR FAVORITE CREAM + 1–2 DROPS OF VOLUFILINE = YOUR CUSTOMIZED ROUTINE",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "What is Volufiline?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Volufiline is a cosmetic ingredient developed by Sederma, France. CELDYQUÉ uses the original Volufiline raw material in an oil-based concentrated booster designed for targeted firmness and fuller-looking skin care."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What does Volufiline 100% mean?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "CELDYQUÉ Volufiline 100% refers to using the original Volufiline raw material as the concentrated formula rather than diluting it into a conventional water-based serum base. It does not mean 100% pure sarsasapogenin."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I use CELDYQUÉ Volufiline 100% Concentrate?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Add 1–2 drops of CELDYQUÉ Volufiline 100% Concentrate to your usual cream, lotion or serum, mix in your palm, and apply to areas where you want focused firmness care."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I mix Volufiline with moisturizer or serum?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. CELDYQUÉ Volufiline 100% Concentrate is specifically suited to customized mixing. Add 1–2 drops to your usual moisturizer, cream or compatible serum before application."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is CELDYQUÉ Volufiline from France?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The original Volufiline raw material used by CELDYQUÉ is supplied by Sederma, France. CELDYQUÉ then uses this ingredient to create the finished cosmetic product."
+        }
+      }
+    ],
+    "concentration_labels": [
+      "Volufiline 100%"
+    ]
+  },
+  "pdrn-25": {
+    "source": "site-product-pdrn-25",
+    "usage_available": true,
+    "cautions_available": true,
+    "frequency_text": "Introduce gradually if concentrated active formulas are new to your routine.",
+    "fixed_frequency_available": false,
+    "original_usage": "How to Use 1 Apply Use after cleansing and toning on clean skin. 2 Boost Apply a few drops directly or mix with compatible serum or cream. 3 Seal Follow with moisturizer. Use sunscreen in the morning. Introduce gradually if your skin is new to concentrated active formulas.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "What does PDRN 25% mean?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It refers to the page's 250,000 ppm PDRN positioning in a concentrated skincare booster."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I mix it with cream?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. The product is positioned as a booster that can be mixed with compatible serum or cream."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When should I use it?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Use after cleansing and toning, then follow with moisturizer."
+        }
+      }
+    ],
+    "concentration_labels": [
+      "PDRN 25%",
+      "PDRN 250,000 ppm"
+    ]
+  },
+  "pdrn-12-egf": {
+    "source": "site-product-pdrn-12-egf",
+    "usage_available": true,
+    "cautions_available": true,
+    "frequency_text": "Use daily as tolerated. Introduce gradually before making it a regular serum step.",
+    "fixed_frequency_available": true,
+    "original_usage": "How to Use 1 Prep Use after cleansing and toner. 2 Apply Apply 2-3 drops over the face or targeted areas. 3 Layer Follow with cream. Use sunscreen in the morning. For microneedling-style routines, follow professional guidance and use only on skin that is ready for topical skincare.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "What is PDRN 12% + EGF Peptide Serum?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It is a Korean booster-style serum centered on PDRN, EGF, peptides and Volufiline for firm-looking, hydrated, radiant-looking care."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use it every day?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, introduce gradually and use as tolerated before moisturizer."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does it replace moisturizer?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. Apply it as a serum step and follow with cream or moisturizer."
+        }
+      }
+    ],
+    "concentration_labels": [
+      "PDRN 12%",
+      "120,000 ppm PDRN complex",
+      "PDRN 120,000 ppm",
+      "Niacinamide 20,000 ppm"
+    ]
+  },
+  "pdrn-12-egf-cream": {
+    "source": "site-product-pdrn-12-egf-cream",
+    "usage_available": true,
+    "cautions_available": true,
+    "frequency_text": "Patch test before first use. Use sunscreen as the final morning skincare step.",
+    "fixed_frequency_available": false,
+    "original_usage": "How to Use 1 Apply After serum, apply a moderate amount to the face and neck. 2 Target Add a little extra to dry or sensitive-looking areas. 3 Protect Use as the cream step. In the morning, follow with sunscreen. Patch test before first use, especially after professional skin treatments.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "Who is PDRN 12% + EGF Peptide Cream for?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It is for routines focused on hydration, barrier comfort and firm-looking care."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I pair it with the PDRN serum?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Apply serum first, then use this as the cream step."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is it greasy?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It is positioned as a lightweight cream with a non-greasy satin finish."
+        }
+      }
+    ],
+    "concentration_labels": [
+      "PDRN 12%"
+    ]
+  },
+  "bakuchiol-30000": {
+    "source": "site-product-bakuchiol-30000",
+    "usage_available": true,
+    "cautions_available": true,
+    "frequency_text": "Start slowly and patch test before first use. Use sunscreen in the morning.",
+    "fixed_frequency_available": false,
+    "original_usage": "How to Use 1 Dose Add 1-2 drops to moisturizer, cream or compatible serum. 2 Mix Blend in your palm before applying. 3 Apply Smooth over face and neck. Use sunscreen in the morning. Because it is concentrated, start slowly and patch test before first use.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "What is Bakuchiol 30,000ppm Serum?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It is a concentrated Bakuchiol mix-in serum positioned as a retinol-alternative skincare booster."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Should I use it alone?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The original page recommends mixing it with moisturizer or compatible skincare due to the high concentration."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use it during the day?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Use as tolerated and apply sunscreen in the morning."
+        }
+      }
+    ],
+    "concentration_labels": [
+      "Bakuchiol 30,000 ppm"
+    ]
+  },
+  "bakuchiol-volume-collagen-cream": {
+    "source": "site-product-bakuchiol-volume-collagen-cream",
+    "usage_available": true,
+    "cautions_available": true,
+    "frequency_text": "Use morning and evening as the cream step of your routine.",
+    "fixed_frequency_available": true,
+    "original_usage": "How to Use 1 Apply After serum, apply a moderate amount over the face and neck. 2 Massage Smooth outward along cheeks, jawline and areas that need extra comfort. 3 Seal Use as the moisturizer step. In the morning, finish with sunscreen. Use morning and evening as the cream step of your routine.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "What is Bakuchiol Volume Collagen Cream best for?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It is designed for people seeking a moisturizer focused on firm-looking elasticity, plump-looking hydration and barrier comfort."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use it with serum?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Apply after serum as the cream step."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is it heavy?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The texture is positioned as silky and lightweight with a non-greasy finish."
+        }
+      }
+    ],
+    "concentration_labels": []
+  },
+  "blue-copper-peptide-bakuchiol-serum": {
+    "source": "site-product-blue-copper-peptide-bakuchiol-serum",
+    "usage_available": true,
+    "cautions_available": true,
+    "frequency_text": "Use morning and evening. Introduce gradually if active skincare ingredients are new to your routine.",
+    "fixed_frequency_available": true,
+    "original_usage": "How to Use 1 Prep After cleansing and toning, make sure the face and neck are ready for serum application. 2 Apply Apply 2-3 drops to the face and neck. Add a small amount to visible smile-line or fine-line areas as desired. 3 Layer Gently pat until absorbed, then follow with moisturizer. Use sunscreen as the final morning step. Use morning and evening. Introduce gradually if your skin is new to active skincare ingredients.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "What is Blue Copper Peptide Bakuchiol Serum used for?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It is a daily Korean face serum designed for the appearance of plumper, firmer, smoother and more hydrated-looking skin."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use it morning and night?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. It is designed for AM and PM routines. Use sunscreen as the final step in the morning."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is it fragrance-free?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. The formula is positioned as fragrance-free, lightweight and fast-absorbing."
+        }
+      }
+    ],
+    "concentration_labels": [
+      "12-Peptide Complex",
+      "Niacinamide 2%"
+    ]
+  },
+  "arbutxa-glow-cream": {
+    "source": "site-product-arbutxa-glow-cream",
+    "usage_available": true,
+    "cautions_available": true,
+    "frequency_text": "Use morning and evening as tolerated, as the cream step of your routine.",
+    "fixed_frequency_available": true,
+    "original_usage": "How to Use 1 Apply After serum, apply a moderate amount evenly across the face and neck. 2 Target Apply an extra thin layer to areas with visible dark spots or uneven-looking tone. 3 Protect Use sunscreen during the day to help prevent the look of new spots. For best results, use consistently and pair daytime use with sunscreen.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "What is ArbutXA Glow Cream for?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It is a tone-care cream for the appearance of dark spots, uneven-looking tone and dullness."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Should I use sunscreen?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Use sunscreen during the day, especially with tone-care routines."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use it morning and night?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, use as tolerated as the cream step of your routine."
+        }
+      }
+    ],
+    "concentration_labels": [
+      "Arbutin 7% / 70,000 ppm",
+      "Tranexamic Acid 5% / 50,000 ppm",
+      "Niacinamide 2% / 20,000 ppm"
+    ]
+  },
+  "glutathione-30000": {
+    "source": "site-product-glutathione-30000",
+    "usage_available": true,
+    "cautions_available": true,
+    "frequency_text": "Use daily, morning or evening, as tolerated.",
+    "fixed_frequency_available": true,
+    "original_usage": "How to Use 1 Apply After cleansing and toning, apply 2-3 drops to the face. 2 Pat Gently pat until absorbed. 3 Layer Follow with moisturizer and use sunscreen in the morning. Use consistently for best visible radiance results.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "What is Glutathione Glow Serum for?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It is a radiance serum for bright-looking, even-looking, hydrated skin."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use it daily?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Use morning or evening as tolerated."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Should I use sunscreen?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Sunscreen helps support tone-care routines during the day."
+        }
+      }
+    ],
+    "concentration_labels": [
+      "Glutathione 30,000 ppm",
+      "5-type Hyaluronic Acid Complex"
+    ]
+  },
+  "niacinamide-20-advanced": {
+    "source": "site-product-niacinamide-20-advanced",
+    "usage_available": true,
+    "cautions_available": true,
+    "frequency_text": "Start slowly and patch test before first use.",
+    "fixed_frequency_available": false,
+    "original_usage": "How to Use 1 Apply After cleansing and toner, apply a few drops to the face. 2 Adapt Start slowly if your skin is new to 20% Niacinamide. 3 Layer Follow with moisturizer and sunscreen in the morning. Patch test recommended because of the high 20% concentration.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "Is 20% Niacinamide strong?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. It is a high-strength niacinamide serum, so introduce gradually if your skin is new to it."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is it best for?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It is best positioned for pore appearance, tone, texture and hydration support."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use it under makeup?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. The lightweight, non-sticky texture is designed to layer well."
+        }
+      }
+    ],
+    "concentration_labels": [
+      "Niacinamide 20%",
+      "Rosa Damascena Flower Water 63.3%",
+      "Green Tea 1%"
+    ]
+  },
+  "azelaic-12": {
+    "source": "site-product-azelaic-12",
+    "usage_available": true,
+    "cautions_available": true,
+    "frequency_text": "Introduce gradually and increase frequency as tolerated.",
+    "fixed_frequency_available": false,
+    "original_usage": "How to Use 1 Apply After toner, apply a thin layer to the face or targeted areas. 2 Moisturize Follow with a gentle moisturizer. 3 Protect Use sunscreen during the day. Introduce gradually if your skin is new to acids or high-active serums.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "What is Azelaic Acid 12% Serum for?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It is for redness appearance, clogged-pore routines and uneven-looking tone."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use it with moisturizer?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Apply serum first, then moisturize."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Should I use it every day?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Introduce gradually and increase frequency as tolerated."
+        }
+      }
+    ],
+    "concentration_labels": [
+      "Azelaic Acid 12%"
+    ]
+  },
+  "gentle-cleanser": {
+    "source": "site-product-gentle-cleanser",
+    "usage_available": true,
+    "cautions_available": true,
+    "frequency_text": "Use morning and evening. Reduce frequency if your skin feels dry.",
+    "fixed_frequency_available": true,
+    "original_usage": "How to Use 1 Lather Dispense a small amount and lather with water. 2 Massage Gently massage over damp face, avoiding the eye area. 3 Rinse Rinse thoroughly and follow with toner, serum and moisturizer. Use morning and evening. Reduce frequency if your skin feels dry.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "Is this a foaming cleanser?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. It is a foaming wash for daily pore cleansing."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does it contain exfoliating acids?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. The page positions the formula around AHA, BHA and PHA."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What should I use after cleansing?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Follow with toner, serum and moisturizer. Use sunscreen in the morning."
+        }
+      }
+    ],
+    "concentration_labels": [
+      "AHA / BHA / PHA"
+    ]
+  },
+  "cleansing-oil": {
+    "source": "site-product-cleansing-oil",
+    "usage_available": true,
+    "cautions_available": true,
+    "frequency_text": "Avoid direct eye contact. Rinse thoroughly if contact occurs.",
+    "fixed_frequency_available": false,
+    "original_usage": "How to Use 1 Pump Apply 2-3 pumps to dry skin with dry hands. 2 Massage Massage gently to dissolve makeup, sunscreen and impurities. 3 Emulsify Add water until milky, then rinse thoroughly. Follow with cleanser if desired. Avoid direct contact with eyes. Rinse thoroughly if contact occurs.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "Do I use cleansing oil on wet or dry skin?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Apply it to dry skin first, massage, then add water to emulsify before rinsing."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can it remove sunscreen?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. It is designed as a first-cleanse step for sunscreen, makeup and oil-based buildup."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Should I double cleanse?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "You can follow with a foaming cleanser if desired."
+        }
+      }
+    ],
+    "concentration_labels": [
+      "LHA"
+    ]
+  },
+  "9-peptide-scalp-serum": {
+    "source": "site-product-9-peptide-scalp-serum",
+    "usage_available": true,
+    "cautions_available": true,
+    "frequency_text": "Use daily on a dry or towel-dried scalp. Avoid broken or irritated skin.",
+    "fixed_frequency_available": true,
+    "original_usage": "How to Use 1 Part Part hair to expose the scalp area you want to target. 2 Roll Roll the applicator directly across hairline, crown or parting areas. 3 Massage Gently massage with fingertips and leave on. No rinsing needed. Use daily on dry or towel-dried scalp. Avoid applying to broken or irritated skin.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "How do I use the scalp serum?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Part the hair, roll directly onto the target scalp area and massage lightly. It is a leave-on formula."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can men and women use it?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. The page positions it for all scalp types, women and men."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is it greasy?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. It is a lightweight, non-greasy water-base gel."
+        }
+      }
+    ],
+    "concentration_labels": [
+      "Rosemary 2%",
+      "Caffeine 1%",
+      "Spicule 300",
+      "9-peptide complex"
+    ]
+  }
+}

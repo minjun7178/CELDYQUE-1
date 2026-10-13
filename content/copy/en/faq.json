@@ -1,0 +1,257 @@
+{
+  "status": "approved",
+  "questions": [
+    {
+      "question_id": "common-01",
+      "category": "volufiline",
+      "question": "What type of product is Volufiline 100% Concentrate?",
+      "answer": "CELDYQUE Volufiline 100% Concentrate is an oil-based mix-in concentrate. Mix 1–2 drops with a compatible cream, lotion or serum, following your product label.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-faq"
+      ],
+      "owner_page": "/faq.html",
+      "original_question_number": 1
+    },
+    {
+      "question_id": "common-02",
+      "category": "volufiline",
+      "question": "How do I use Volufiline 100% Concentrate?",
+      "answer": "Mix 1-2 drops with your cream, lotion or serum in your palm, following the product directions. Do not add it to a sunscreen or to the full container of another product. Avoid direct contact with eyes and lips. Patch test before use and stop if irritation occurs.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-faq"
+      ],
+      "owner_page": "/faq.html",
+      "original_question_number": 2
+    },
+    {
+      "question_id": "common-03",
+      "category": "volufiline",
+      "question": "How soon will I see results from Volufiline?",
+      "answer": "Visible results vary with skin, routine and consistency. We do not promise a specific volume increase or a fixed results timeline for this finished product. Ingredient research is not a guarantee of the same result from an individual skincare routine.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-faq"
+      ],
+      "owner_page": "/faq.html",
+      "original_question_number": 3
+    },
+    {
+      "question_id": "common-04",
+      "category": "pdrn",
+      "question": "How do the three CELDYQUE PDRN products differ?",
+      "answer": "Choose by format and routine step: the collection includes a gel-type concentrate, a serum applied before moisturizer and a cream used as the moisturizer step. A product-name percentage alone does not determine which formula fits your routine.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-faq"
+      ],
+      "owner_page": "/faq.html",
+      "original_question_number": 4
+    },
+    {
+      "question_id": "common-05",
+      "category": "pdrn",
+      "question": "Should I choose the PDRN serum or cream?",
+      "answer": "The PDRN 12% + EGF Peptide Serum is a serum step, while the PDRN 12% + EGF Peptide Cream is a moisturizer step. Choose the texture that fits your existing routine and follow the directions for that formula.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-faq"
+      ],
+      "owner_page": "/faq.html",
+      "original_question_number": 5
+    },
+    {
+      "question_id": "common-06",
+      "category": "pdrn",
+      "question": "Can I use PDRN skincare after microneedling or a procedure?",
+      "answer": "These products are topical cosmetics, not injectable products or wound treatments. Do not apply to broken skin. After a procedure, ask the treating clinician when you can resume cosmetics and which products are appropriate.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-faq"
+      ],
+      "owner_page": "/faq.html",
+      "original_question_number": 6
+    },
+    {
+      "question_id": "common-07",
+      "category": "peptides",
+      "question": "What is Blue Copper Peptide Bakuchiol Serum?",
+      "answer": "CELDYQUE Blue Copper Peptide Bakuchiol Serum is a face serum applied after cleansing and toning, before moisturizer. Read the full ingredient list on your packaging.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-faq"
+      ],
+      "owner_page": "/faq.html",
+      "original_question_number": 7
+    },
+    {
+      "question_id": "common-08",
+      "category": "niacinamide",
+      "question": "How should I introduce Niacinamide 20% Pore Minimizer Serum?",
+      "answer": "Follow the amount and frequency on your packaging. Introduce it gradually and avoid adding several unfamiliar products at once.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-faq"
+      ],
+      "owner_page": "/faq.html",
+      "original_question_number": 8
+    },
+    {
+      "question_id": "common-09",
+      "category": "routine",
+      "question": "Can I combine Niacinamide 20% with other active products?",
+      "answer": "Compatibility depends on the complete formulas and your skin, not only the ingredient names. Introduce one new product at a time. Avoid starting several high-concentration products together, and ask a dermatologist about a routine involving prescription treatments.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-faq"
+      ],
+      "owner_page": "/faq.html",
+      "original_question_number": 9
+    },
+    {
+      "question_id": "common-10",
+      "category": "azelaic",
+      "question": "Where does Azelaic Acid 12% Topical Serum fit in a routine?",
+      "answer": "Apply this cosmetic face serum after toner and before moisturizer, following the amount and frequency on your product label.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-faq"
+      ],
+      "owner_page": "/faq.html",
+      "original_question_number": 10
+    },
+    {
+      "question_id": "common-11",
+      "category": "bakuchiol",
+      "question": "How does Bakuchiol 30,000ppm Serum differ from the cream?",
+      "answer": "Bakuchiol Volume Collagen Cream is a cream applied after serum. The concentrate is mixed with compatible skincare before application. Follow the directions for the format you choose.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-faq"
+      ],
+      "owner_page": "/faq.html",
+      "original_question_number": 11
+    },
+    {
+      "question_id": "common-12",
+      "category": "bakuchiol",
+      "question": "Is bakuchiol skincare guaranteed safe during pregnancy or breastfeeding?",
+      "answer": "We do not claim pregnancy or breastfeeding safety for these finished formulas. Ask your healthcare professional to review the complete ingredient list before use. A plant-derived ingredient or a retinol-alternative label is not a safety guarantee.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-faq"
+      ],
+      "owner_page": "/faq.html",
+      "original_question_number": 12
+    },
+    {
+      "question_id": "common-13",
+      "category": "tone-care",
+      "question": "How do ArbutXA Glow Cream and Glutathione Glow Serum differ?",
+      "answer": "ArbutXA Glow Cream is a moisturizer applied after serum. Glutathione Glow Serum 30,000 ppm is a face serum applied before moisturizer. Compare their ingredient information and follow the directions for each product.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-faq"
+      ],
+      "owner_page": "/faq.html",
+      "original_question_number": 13
+    },
+    {
+      "question_id": "common-14",
+      "category": "cleansing",
+      "question": "How are Cleansing Oil and Gentle Cleanser used?",
+      "answer": "Gentle Cleanser is a foaming wash used on wet skin. Pore Purifying Cleansing Oil starts on dry skin, then is emulsified with water and rinsed off.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-faq"
+      ],
+      "owner_page": "/faq.html",
+      "original_question_number": 14
+    },
+    {
+      "question_id": "common-15",
+      "category": "scalp",
+      "question": "What is 9-Peptide Scalp Care Serum Roll-On?",
+      "answer": "CELDYQUE 9-Peptide Scalp Care Serum Roll-On is a leave-on scalp serum. Part your hair, roll over the intended scalp area as directed and massage gently. Avoid broken or irritated skin.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-faq"
+      ],
+      "owner_page": "/faq.html",
+      "original_question_number": 15
+    },
+    {
+      "question_id": "common-16",
+      "category": "routine",
+      "question": "What order should I apply skincare products?",
+      "answer": "Follow the directions for each formula. A simple routine is cleanser, a suitable serum, then moisturizer. Use sunscreen as the final morning skincare step according to its own label. Concentrates may need to be mixed with a moisturizer; do not mix other skincare into sunscreen.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-faq"
+      ],
+      "owner_page": "/faq.html",
+      "original_question_number": 16
+    },
+    {
+      "question_id": "common-17",
+      "category": "routine",
+      "question": "Where can I check ingredients and product directions?",
+      "answer": "Product pages summarize selected ingredients and directions. For the complete INCI list, current precautions and any changes to the formula, check your packaging. Contact CELDYQUE with the product name and batch details if you need clarification.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-faq"
+      ],
+      "owner_page": "/faq.html",
+      "original_question_number": 17
+    },
+    {
+      "question_id": "common-18",
+      "category": "routine",
+      "question": "What is the shelf life and how should I store my product?",
+      "answer": "Follow the expiry date, period-after-opening symbol and storage instructions printed on your own packaging. These may vary by product and batch. Keep containers closed and away from direct sunlight and excessive heat.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-faq"
+      ],
+      "owner_page": "/faq.html",
+      "original_question_number": 18
+    },
+    {
+      "question_id": "common-19",
+      "category": "shopping",
+      "question": "Where can I buy CELDYQUÉ products?",
+      "answer": "Use the retailer links on our Where to Buy page or the Amazon link on the relevant product page. Available products, destinations, prices and delivery estimates are set by the retailer and may change.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-faq"
+      ],
+      "owner_page": "/faq.html",
+      "original_question_number": 19
+    },
+    {
+      "question_id": "common-20",
+      "category": "shopping",
+      "question": "Does this website handle payments, shipping and returns?",
+      "answer": "This website provides product information and links to retailers. Purchases are completed with the selected retailer. Check that retailer for the current shipping, payment and return terms, and contact them about an existing order.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-faq"
+      ],
+      "owner_page": "/faq.html",
+      "original_question_number": 20
+    },
+    {
+      "question_id": "common-21",
+      "category": "support",
+      "question": "How can I contact CELDYQUÉ?",
+      "answer": "Email team@celdyque.com or use our Contact page for product questions. Include the product name and, where relevant, its batch number. For delivery or return requests, contact the retailer that handled your order.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-faq"
+      ],
+      "owner_page": "/faq.html",
+      "original_question_number": 21
+    }
+  ]
+}

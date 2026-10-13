@@ -1,0 +1,135 @@
+{
+  "source_commit": "a150659d59365f91bcd3833816bb24130ccfe5ab",
+  "pages": [
+    {
+      "path": "about.html",
+      "status": "active_information",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "brand-film.html",
+      "status": "active_information",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "coming-soon.html",
+      "status": "upcoming_review",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "contact.html",
+      "status": "active_information",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "faq.html",
+      "status": "active_information",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "index.html",
+      "status": "active_information",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "product-9-peptide-scalp-serum.html",
+      "status": "active_product",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "product-advanced-retinol-pro-retinal-serum-0-5.html",
+      "status": "inactive_product",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "product-arbutxa-glow-cream.html",
+      "status": "active_product",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "product-azelaic-12.html",
+      "status": "active_product",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "product-bakuchiol-30000.html",
+      "status": "active_product",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "product-bakuchiol-volume-collagen-cream.html",
+      "status": "active_product",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "product-blue-copper-peptide-bakuchiol-serum.html",
+      "status": "active_product",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "product-cleansing-oil.html",
+      "status": "active_product",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "product-detail.html",
+      "status": "legacy_redirect",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "product-gentle-cleanser.html",
+      "status": "active_product",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "product-glutathione-30000.html",
+      "status": "active_product",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "product-niacinamide-20-advanced.html",
+      "status": "active_product",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "product-pdrn-12-egf-cream.html",
+      "status": "active_product",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "product-pdrn-12-egf.html",
+      "status": "active_product",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "product-pdrn-25.html",
+      "status": "active_product",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "product-volufiline-100.html",
+      "status": "active_product",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "shop.html",
+      "status": "active_information",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "store.html",
+      "status": "active_information",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "tiktok-callback.html",
+      "status": "utility",
+      "action": "Preserve pending content and URL review"
+    },
+    {
+      "path": "임시.html",
+      "status": "utility",
+      "action": "Preserve pending content and URL review"
+    }
+  ]
+}

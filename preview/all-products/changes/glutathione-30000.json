@@ -1,0 +1,581 @@
+{
+  "source": "product-glutathione-30000.html",
+  "source_sha256": "3e2d6a22188add92f0977fb6415e9bb2e6c5644ee090515eb6e001ff97e70ca4",
+  "status": "draft",
+  "changes": [
+    {
+      "tag": "div",
+      "class": "product-kicker",
+      "id": null,
+      "before": "Radiance-Boosting Serum",
+      "after": "Face serum"
+    },
+    {
+      "tag": "p",
+      "class": "subtitle",
+      "id": null,
+      "before": "Glutathione 30,000 ppm, Niacinamide and Resveratrol for bright-looking glow. · 30 ml / 1 fl oz",
+      "after": "Face serum · 30 ml / 1 fl oz"
+    },
+    {
+      "tag": "p",
+      "class": "desc-text",
+      "id": null,
+      "before": "CELDYQUE Glutathione Glow Serum 30,000 ppm combines Glutathione, Niacinamide, Resveratrol, 5-type Hyaluronic Acid, Ceramide NP, Panthenol and botanical proteins for radiance, dark spot appearance and hydration care.",
+      "after": "CELDYQUE Glutathione Glow Serum 30,000 ppm is a lightweight face serum used before moisturizer."
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Glutathione 30,000 ppm",
+      "after": "Glutathione"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Resveratrol",
+      "after": "Panthenol"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "5x Hyaluronic Acid",
+      "after": "Ceramide NP"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Ceramide NP",
+      "after": "Resveratrol"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Panthenol",
+      "after": "Hyaluronic Acid"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Radiance",
+      "after": "Serum format"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Dark Spot Care",
+      "after": "30 ml"
+    },
+    {
+      "tag": "ul",
+      "class": "features-list",
+      "id": null,
+      "before": "<li>Glutathione 30,000 ppm for radiance</li>\n          <li>Niacinamide and Resveratrol for tone correction appearance</li>\n          <li>5x Hyaluronic Acid Complex for deep hydration feel</li>\n          <li>Ceramide NP and Panthenol for barrier support</li>\n          <li>Visibly smooths texture and refines the look of pores</li>",
+      "after": "<li>Lightweight serum format</li>\n<li>Routine: Before moisturizer</li>\n<li>Apply after cleansing and toning.</li>\n<li>Apply 2–3 drops to the face as directed on your packaging; gently pat in.</li>\n<li>Follow with moisturizer and use sunscreen in the morning according to its label.</li>"
+    },
+    {
+      "tag": "span",
+      "class": "banner-tag",
+      "id": null,
+      "before": "Glutathione x Niacinamide",
+      "after": "Face serum · 30 ml"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": null,
+      "before": "A glow serum for brighter-looking, even-looking skin.",
+      "after": "A serum format in the tone-care collection."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Radiance support, hydration and barrier comfort in a lightweight daily serum.",
+      "after": "Apply this serum after cleansing and toning. ArbutXA Glow Cream is a cream-format option for the moisturizer step; choose the format that fits the step you need."
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": null,
+      "before": "30,000 ppm Glutathione Radiance",
+      "after": "Where it fits."
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "30,000 ppm",
+      "after": "30 ml"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Glutathione",
+      "after": "Listed size"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Niacinamide",
+      "after": "Serum"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Tone care",
+      "after": "Product format"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Resveratrol",
+      "after": "Label"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Antioxidant story",
+      "after": "Directions first"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Glutathione 30,000 ppm gives the page a clear radiance-focused ingredient signal for search and AI summaries.",
+      "after": "Apply this serum after cleansing and toning. ArbutXA Glow Cream is a cream-format option for the moisturizer step; choose the format that fits the step you need."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Niacinamide and Resveratrol support the appearance of more even-looking tone and a fresh glow.",
+      "after": "CELDYQUE Glutathione Glow Serum 30,000 ppm is a lightweight face serum used before moisturizer."
+    },
+    {
+      "tag": "h4",
+      "class": null,
+      "id": null,
+      "before": "Radiance with a refined serum finish.",
+      "after": "A serum format in the tone-care collection."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "The original radiant complexion image is preserved inside the new layout.",
+      "after": "Use the application method and routine step for this specific product."
+    },
+    {
+      "tag": "div",
+      "class": "ev-chips",
+      "id": null,
+      "before": "<span>Glutathione</span><span>Niacinamide</span><span>Resveratrol</span>",
+      "after": "<span>Serum</span><span>30 ml</span><span>Directions</span>"
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": null,
+      "before": "Hydration + Barrier Comfort",
+      "after": "Read the complete formula."
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "5x",
+      "after": "Format"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Hyaluronic Acid",
+      "after": "Routine role"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Ceramide",
+      "after": "INCI"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Barrier support",
+      "after": "Full ingredient list"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Panthenol",
+      "after": "Label"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Comfort",
+      "after": "Current instructions"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Five types of Hyaluronic Acid help provide lightweight hydration without a greasy feel.",
+      "after": "Selected ingredients include 30,000 ppm Glutathione, Niacinamide and Adenosine. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Ceramide NP and Panthenol help support a comfortable moisture barrier.",
+      "after": "Selected ingredients are a summary. Check the complete declaration on your packaging when comparing formulas."
+    },
+    {
+      "tag": "h4",
+      "class": null,
+      "id": null,
+      "before": "Deep hydration without heaviness.",
+      "after": "Ingredients in context."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "The original hydration visual continues the product&#x27;s moisture story.",
+      "after": "Explore selected ingredients below and check your packaging for the complete ingredient list."
+    },
+    {
+      "tag": "div",
+      "class": "ev-chips",
+      "id": null,
+      "before": "<span>Hyaluronic Acid</span><span>Ceramide</span><span>Panthenol</span>",
+      "after": "<span>Formula</span><span>INCI</span><span>Label</span>"
+    },
+    {
+      "tag": "div",
+      "class": "eyebrow",
+      "id": null,
+      "before": "Key Benefits",
+      "after": "Product at a Glance"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "benefits-title",
+      "before": "Designed around visible skincare results.",
+      "after": "The details that help you choose."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "CELDYQUE Glutathione Glow Serum 30,000 ppm combines Glutathione, Niacinamide, Resveratrol, 5-type Hyaluronic Acid, Ceramide NP, Panthenol and botanical proteins for radiance, dark spot appearance and hydration care.",
+      "after": "Product format, application and label information in one place."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Radiance Boost",
+      "after": "Product Format"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Glutathione and Niacinamide support bright-looking skin.",
+      "after": "Face serum."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Dark Spot Appearance Care",
+      "after": "Listed Size"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Targets the look of uneven tone and post-acne marks.",
+      "after": "30 ml / 1 fl oz."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Texture Refining",
+      "after": "First Step"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Helps skin look smoother and fresher.",
+      "after": "Apply after cleansing and toning."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Hydration",
+      "after": "Application"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "5-type Hyaluronic Acid supports comfortable moisture.",
+      "after": "Apply 2–3 drops to the face as directed on your packaging; gently pat in."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Barrier Support",
+      "after": "Finish the Step"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Ceramide NP and Panthenol support moisture-barrier comfort.",
+      "after": "Follow with moisturizer and use sunscreen in the morning according to its label."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Lightweight Glow",
+      "after": "Before Use"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Fast-absorbing serum texture leaves a dewy finish.",
+      "after": "Read the complete ingredients and precautions on your current packaging."
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "architecture-title",
+      "before": "Glow Serum Architecture",
+      "after": "Selected Ingredient Information"
+    },
+    {
+      "tag": "p",
+      "class": "sub",
+      "id": null,
+      "before": "A radiance-focused serum system with hydration and barrier support built in.",
+      "after": "These selected names do not replace the complete INCI declaration on your packaging."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Glutathione 30,000 ppm",
+      "after": "Glutathione"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Hero bright-looking radiance active.",
+      "after": "Also listed: Niacinamide."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Niacinamide",
+      "after": "Hyaluronic acid complex"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Tone and texture support.",
+      "after": "Also listed: Ceramide NP."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Resveratrol",
+      "after": "Panthenol"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Antioxidant care story.",
+      "after": "Also listed: Resveratrol."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "5x Hyaluronic Acid",
+      "after": "Hydrolyzed Vegetable Proteins"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Multi-depth hydration feel.",
+      "after": "Also listed: Adenosine."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Ceramide NP",
+      "after": "Full INCI"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Barrier support.",
+      "after": "Check the complete ingredient declaration on the current packaging."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Panthenol",
+      "after": "Formula Details"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Comforting moisture support.",
+      "after": "Selected ingredients include 30,000 ppm Glutathione, Niacinamide and Adenosine. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "After cleansing and toning, apply 2-3 drops to the face.",
+      "after": "Apply after cleansing and toning."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Gently pat until absorbed.",
+      "after": "Apply 2–3 drops to the face as directed on your packaging; gently pat in."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Follow with moisturizer and use sunscreen in the morning.",
+      "after": "Follow with moisturizer and use sunscreen in the morning according to its label."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Use consistently for best visible radiance results.",
+      "after": "Use daily, morning or evening, as tolerated."
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": "ingredients-title",
+      "before": "Key Ingredients",
+      "after": "Ingredient Information"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Glutathione · Niacinamide · Resveratrol",
+      "after": "Selected ingredients · Complete list on packaging"
+    },
+    {
+      "tag": "div",
+      "class": "freefrom",
+      "id": null,
+      "before": "<span>Glow Serum</span><span>Hydrating</span><span>Dewy Finish</span><span>Tone Care</span>",
+      "after": "<span>Selected summary</span><span>Check packaging</span>"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Key Ingredients:</strong> Glutathione 30,000 ppm, Niacinamide, 5-type Hyaluronic Acid Complex, Ceramide NP, Panthenol, Resveratrol and Hydrolyzed Vegetable Proteins.",
+      "after": "<strong>Selected ingredients:</strong> Glutathione; Niacinamide; Hyaluronic acid complex; Ceramide NP; Panthenol; Resveratrol; Hydrolyzed Vegetable Proteins; Adenosine."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Benefits:</strong> Bright-looking radiance, even-looking tone, hydration and soothing support.",
+      "after": "Selected ingredients include 30,000 ppm Glutathione, Niacinamide and Adenosine. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Texture:</strong> Lightweight, fast-absorbing serum that leaves a dewy finish.",
+      "after": "<strong>Format:</strong> Lightweight serum."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Refer to the product packaging for the complete and most current ingredient list.",
+      "after": "<strong>About the ingredients:</strong> Glutathione is an antioxidant. A topical study of its oxidized form reported changes in pigmentation and hydration. The study used a different material and lotion; its results cannot be assumed for this serum.<br /><small>Research cited here concerns ingredients or other formulations, not a clinical trial of this CELDYQUE product. <a href=\"https://pubmed.ncbi.nlm.nih.gov/25378941/\" style=\"text-decoration:underline\">Watanabe et al. — Topical oxidized glutathione</a></small>"
+    },
+    {
+      "tag": "div",
+      "class": "caution",
+      "id": null,
+      "before": "For external use only. Avoid direct contact with the eyes. Perform a patch test before first use. Discontinue use if persistent irritation occurs. Keep out of reach of children.",
+      "after": "For external use only. Avoid direct contact with the eyes. Patch test before first use and discontinue use if persistent irritation occurs. Keep out of reach of children."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Answers written for shoppers, search engines and AI summaries looking for clear product guidance.",
+      "after": "Format, directions and ingredient information for this product."
+    },
+    {
+      "tag": "div",
+      "class": "faq-list",
+      "id": null,
+      "before": "<details class=\"faq-item\">\n          <summary>What is Glutathione Glow Serum for?</summary>\n          <div class=\"faq-answer\">It is a radiance serum for bright-looking, even-looking, hydrated skin.</div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>Can I use it daily?</summary>\n          <div class=\"faq-answer\">Yes. Use morning or evening as tolerated.</div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>Should I use sunscreen?</summary>\n          <div class=\"faq-answer\">Yes. Sunscreen helps support tone-care routines during the day.</div>\n        </details>",
+      "after": "<details class=\"faq-item\" id=\"glutathione-30000-faq-1\"><summary>Can I use it daily?</summary><div class=\"faq-answer\">Yes. Use morning or evening as tolerated, after cleansing and toning and before moisturizer.</div></details>\n<details class=\"faq-item\" id=\"glutathione-30000-faq-2\"><summary>How does it compare with ArbutXA Glow Cream?</summary><div class=\"faq-answer\">This is a face serum used before moisturizer. ArbutXA Glow Cream is the cream-format moisturizer. Follow the directions and ingredient information for each product.</div></details>\n<details class=\"faq-item\" id=\"glutathione-30000-faq-3\"><summary>How much should I apply?</summary><div class=\"faq-answer\">Apply 2–3 drops to the face as directed on your packaging, then gently pat in.</div></details>\n<details class=\"faq-item\" id=\"glutathione-30000-faq-4\"><summary>Can I read all ingredients here?</summary><div class=\"faq-answer\">This page gives selected ingredient information. Read the full ingredient declaration on your packaging.</div></details>\n<p style=\"margin-top:24px\"><a href=\"/faq.html\" style=\"text-decoration:underline\">More product questions</a> · <a href=\"/product-arbutxa-glow-cream.html\" style=\"text-decoration:underline\">ArbutXA Glow Cream</a> · <a href=\"/product-niacinamide-20-advanced.html\" style=\"text-decoration:underline\">Niacinamide 20% Pore Minimizer Serum</a></p>"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "CELDYQUE Glutathione Glow Serum 30,000 ppm combines Glutathione, Niacinamide, Resveratrol, 5-type Hyaluronic Acid, Ceramide NP, Panthenol and botanical proteins for radiance, dark spot appearance and hydration care.",
+      "after": "Shop this product using the retailer links below. Check your retailer for prices, availability, delivery and returns."
+    }
+  ]
+}

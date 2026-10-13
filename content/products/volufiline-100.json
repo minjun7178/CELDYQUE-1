@@ -1,0 +1,323 @@
+{
+  "schema_version": 1,
+  "product_id": "volufiline-100",
+  "catalog_status": "active",
+  "publication_status": "approved",
+  "language": "en",
+  "source_commit": "a150659d59365f91bcd3833816bb24130ccfe5ab",
+  "imported_on": "2026-10-12",
+  "approved_on": "2026-10-13",
+  "approved_by": "User / brand owner in this conversation",
+  "identity": {
+    "name": {
+      "value": "Volufiline 100% Concentrate",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-volufiline-100"
+      ],
+      "source_section": "H1",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "schema_name": {
+      "value": "CELDYQUÉ Volufiline 100% Concentrate",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-volufiline-100"
+      ],
+      "source_section": "Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "aliases": {
+      "value": [
+        "Volufiline 100% Concentrate"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-volufiline-100"
+      ],
+      "source_section": "H1 / Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "current_url": "/product-volufiline-100.html",
+    "canonical": "https://celdyque.com/product-volufiline-100.html",
+    "legacy_urls": [
+      "/product-detail.html"
+    ],
+    "asin": {
+      "value": "B0CPLDVTFP",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-volufiline-100"
+      ],
+      "source_section": "Product.identifier",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "formula_version": null,
+    "market_label_version": null
+  },
+  "specifications": {
+    "size": {
+      "value": "10 ml / 0.33 fl oz",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-volufiline-100"
+      ],
+      "source_section": "Product.size",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "category": {
+      "value": "Face Serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-volufiline-100"
+      ],
+      "source_section": "Product.category",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "format": {
+      "value": "Mix-in concentrate",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-volufiline-100"
+      ],
+      "source_section": "Product body / format description",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "texture": {
+      "value": "Oil-type concentrate",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-volufiline-100"
+      ],
+      "source_section": "Ingredients / texture",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "routine_step": {
+      "value": "Mix with a compatible moisturizer",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-volufiline-100"
+      ],
+      "source_section": "How to Use",
+      "verified_on": null,
+      "reviewer": null
+    }
+  },
+  "formulation": {
+    "selected_ingredients": {
+      "value": [
+        "Volufiline raw material"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-volufiline-100"
+      ],
+      "source_section": "Key Ingredients / formula summary",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "full_inci": {
+      "value": null,
+      "status": "needs_verification",
+      "evidence_ids": [],
+      "reason": "Current website provides selected ingredients or refers to packaging; no verified full label supplied."
+    },
+    "concentration_labels": {
+      "value": [
+        "Volufiline 100%"
+      ],
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-volufiline-100"
+      ],
+      "source_section": "Product title / body / metadata",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "concentration_basis": {
+      "value": "Original Volufiline raw material as the concentrate; not 100% pure sarsasapogenin.",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-volufiline-100"
+      ],
+      "source_section": "Original FAQ: What does Volufiline 100% mean?"
+    },
+    "raw_ingredient_vs_finished_formula": "Raw-material percentage, as described in the existing product FAQ."
+  },
+  "directions": {
+    "draft_steps": {
+      "value": [
+        "Dispense 1–2 drops into your palm.",
+        "Mix with your usual cream, lotion or compatible serum.",
+        "Apply the mixture to the intended area, following the directions on your packaging."
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-volufiline-100"
+      ],
+      "source_section": "How to Use; conservative editorial restatement",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "original_text": {
+      "value": "How to Use Volufiline 100% Think of it as a concentrated booster rather than another step you need to add to your routine. 1 Drop Dispense 1–2 drops of Volufiline 100% Concentrate into your palm. 2 Mix Mix with your usual cream, moisturizer, lotion or compatible serum. 3 Apply Smooth the mixture onto areas where you want focused firmness and fuller-looking skin care. YOUR FAVORITE CREAM + 1–2 DROPS OF VOLUFILINE = YOUR CUSTOMIZED ROUTINE",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-volufiline-100"
+      ],
+      "source_section": "#how-to-use",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "manufacturer_confirmed": false,
+    "shelf_life": null,
+    "period_after_opening": null
+  },
+  "observed_copy": {
+    "original_description": "A minimalist oil-based skincare booster made with original Volufiline raw material from Sederma, France. Designed to be mixed with cream, lotion or serum for targeted firmness and fuller-looking skin care.",
+    "original_ingredient_text": "Ingredients Minimalist Oil-Based Formula Original Volufiline™ raw material from Sederma, France in a concentrated oil-based format. For the complete and most current ingredient declaration, refer to the INCI list printed on the product packaging. Texture: Oil-type concentrate. For comfortable application and spreadability, mixing 1–2 drops with cream, lotion or compatible serum is recommended. Caution: For external use only. Avoid direct contact with eyes. Patch test before first use. Discontinue use if persistent irritation occurs. Keep out of reach of children.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "What is Volufiline?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Volufiline is a cosmetic ingredient developed by Sederma, France. CELDYQUÉ uses the original Volufiline raw material in an oil-based concentrated booster designed for targeted firmness and fuller-looking skin care."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What does Volufiline 100% mean?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "CELDYQUÉ Volufiline 100% refers to using the original Volufiline raw material as the concentrated formula rather than diluting it into a conventional water-based serum base. It does not mean 100% pure sarsasapogenin."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I use CELDYQUÉ Volufiline 100% Concentrate?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Add 1–2 drops of CELDYQUÉ Volufiline 100% Concentrate to your usual cream, lotion or serum, mix in your palm, and apply to areas where you want focused firmness care."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I mix Volufiline with moisturizer or serum?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. CELDYQUÉ Volufiline 100% Concentrate is specifically suited to customized mixing. Add 1–2 drops to your usual moisturizer, cream or compatible serum before application."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is CELDYQUÉ Volufiline from France?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The original Volufiline raw material used by CELDYQUÉ is supplied by Sederma, France. CELDYQUÉ then uses this ingredient to create the finished cosmetic product."
+        }
+      }
+    ]
+  },
+  "retailers": [
+    {
+      "retailer_id": "amazon",
+      "asin": "B0CPLDVTFP",
+      "identity_url": "https://www.amazon.com/dp/B0CPLDVTFP",
+      "purchase_urls": [
+        "https://www.amazon.com/CELDYQUE-100-Volufiline-Concentrate-Serum/dp/B0CPLDVTFP?maas=maas_adg_7982F2D6742712787939772A0788E56D_afap_abs&ref_=aa_maas&tag=maas&th=1"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-volufiline-100"
+      ],
+      "live_stock": null,
+      "live_price": null
+    }
+  ],
+  "media": {
+    "primary_image": "/images/제품/Mask group-1.webp",
+    "alt": "CELDYQUÉ Volufiline 100% Concentrate, 10 ml / 0.33 fl oz, dropper bottle",
+    "rights_status": "needs_verification"
+  },
+  "claims_held_for_review": [
+    {
+      "claim": "Guaranteed volume gain or a fixed results timeline",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-volufiline-100"
+      ],
+      "supporting_product_evidence": []
+    },
+    {
+      "claim": "Unverified supplier-origin or authenticity certification",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-volufiline-100"
+      ],
+      "supporting_product_evidence": []
+    }
+  ],
+  "open_questions": [
+    {
+      "id": "volufiline-100-Q1",
+      "question": "Obtain the full INCI and check it against the existing raw-material explanation of 100%; the explanation itself is already available.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "volufiline-100-Q2",
+      "question": "Verify the Sederma/France raw-material origin and permission for supplier trademark references.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "volufiline-100-Q3",
+      "question": "Confirm the 1–2 drop mixing directions, compatible bases and intended application areas.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    }
+  ],
+  "related_product_ids": [
+    "bakuchiol-30000"
+  ],
+  "guide_ids": [
+    "volufiline-use"
+  ],
+  "copy_file": "copy/en/products/volufiline-100.md",
+  "search_aliases": {
+    "value": [
+      "Volufiline 100% Concentrate"
+    ],
+    "status": "imported",
+    "evidence_ids": [
+      "site-product-volufiline-100"
+    ],
+    "source_section": "H1; excludes unsupported efficacy tags",
+    "verified_on": null,
+    "reviewer": null
+  },
+  "faq_ids": [
+    "volufiline-100-faq-1",
+    "volufiline-100-faq-2",
+    "volufiline-100-faq-3",
+    "volufiline-100-faq-4",
+    "volufiline-100-faq-5"
+  ],
+  "catalog_reference": {
+    "file": "catalog-facts-2026.json",
+    "pages": [
+      10,
+      11
+    ],
+    "scope": "Catalog facts selected for publication; original observed_copy is historical."
+  }
+}

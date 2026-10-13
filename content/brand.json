@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "status": "draft",
+  "display_name": "CELDYQUÉ",
+  "plain_name": "CELDYQUE",
+  "homepage": "https://celdyque.com/",
+  "public_copy": "copy/en/pages/about.md",
+  "support": {
+    "email": "team@celdyque.com",
+    "hours": "Monday–Friday, 10 AM–5 PM (KST)",
+    "address": "Garak-ro 25, 2nd Floor, Songpa-gu, Seoul, Republic of Korea",
+    "status": "imported",
+    "evidence_ids": [
+      "site-contact"
+    ]
+  },
+  "social_accounts": {
+    "tiktok": {
+      "value": null,
+      "status": "conflicting",
+      "observed_urls": [
+        "https://www.tiktok.com/@celdyque",
+        "https://www.tiktok.com/@celdyque_official"
+      ],
+      "evidence_ids": [
+        "source-header",
+        "site-product-volufiline-100"
+      ]
+    }
+  },
+  "claims_pending": [
+    "Research and clinical-study positioning",
+    "Manufacturing origin and company legal details"
+  ],
+  "approved_by": null
+}

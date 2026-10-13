@@ -1,0 +1,307 @@
+{
+  "schema_version": 1,
+  "product_id": "pdrn-12-egf-cream",
+  "catalog_status": "active",
+  "publication_status": "approved",
+  "language": "en",
+  "source_commit": "a150659d59365f91bcd3833816bb24130ccfe5ab",
+  "imported_on": "2026-10-12",
+  "approved_on": "2026-10-13",
+  "approved_by": "User / brand owner in this conversation",
+  "identity": {
+    "name": {
+      "value": "PDRN 12% + EGF Peptide Cream",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf-cream"
+      ],
+      "source_section": "H1",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "schema_name": {
+      "value": "CELDYQUE PDRN 12% + EGF Peptide Cream",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf-cream"
+      ],
+      "source_section": "Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "aliases": {
+      "value": [
+        "PDRN 12% + EGF Peptide Cream",
+        "PDRN 12% + EGF Peptide Cream"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf-cream"
+      ],
+      "source_section": "H1 / Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "current_url": "/product-pdrn-12-egf-cream.html",
+    "canonical": "https://celdyque.com/product-pdrn-12-egf-cream.html",
+    "legacy_urls": [],
+    "asin": {
+      "value": "B0FJY6SCPX",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf-cream"
+      ],
+      "source_section": "Product.identifier",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "formula_version": null,
+    "market_label_version": null
+  },
+  "specifications": {
+    "size": {
+      "value": "50 ml / 1.7 fl oz",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf-cream"
+      ],
+      "source_section": "Product.size",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "category": {
+      "value": "Cream",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf-cream"
+      ],
+      "source_section": "Product.category",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "format": {
+      "value": "Moisturizer",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf-cream"
+      ],
+      "source_section": "Product body / format description",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "texture": {
+      "value": "Cream",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf-cream"
+      ],
+      "source_section": "Ingredients / texture",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "routine_step": {
+      "value": "Cream step",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf-cream"
+      ],
+      "source_section": "How to Use",
+      "verified_on": null,
+      "reviewer": null
+    }
+  },
+  "formulation": {
+    "selected_ingredients": {
+      "value": [
+        "Sodium DNA / PDRN",
+        "Volufiline",
+        "Niacinamide",
+        "Ceramide NP",
+        "Panthenol",
+        "Hyaluronic acid",
+        "sh-Oligopeptide-1 / EGF",
+        "Jojoba seed oil",
+        "Squalane"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf-cream"
+      ],
+      "source_section": "Key Ingredients / formula summary",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "full_inci": {
+      "value": null,
+      "status": "needs_verification",
+      "evidence_ids": [],
+      "reason": "Current website provides selected ingredients or refers to packaging; no verified full label supplied."
+    },
+    "concentration_labels": {
+      "value": [
+        "PDRN 12%"
+      ],
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf-cream"
+      ],
+      "source_section": "Product title / body / metadata",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "concentration_basis": null,
+    "raw_ingredient_vs_finished_formula": null
+  },
+  "directions": {
+    "draft_steps": {
+      "value": [
+        "Apply a moderate amount after serum.",
+        "Spread over the face and neck as directed on your packaging.",
+        "For morning use, follow with sunscreen according to its own directions."
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf-cream"
+      ],
+      "source_section": "How to Use; conservative editorial restatement",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "original_text": {
+      "value": "How to Use 1 Apply After serum, apply a moderate amount to the face and neck. 2 Target Add a little extra to dry or sensitive-looking areas. 3 Protect Use as the cream step. In the morning, follow with sunscreen. Patch test before first use, especially after professional skin treatments.",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf-cream"
+      ],
+      "source_section": "#how-to-use",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "manufacturer_confirmed": false,
+    "shelf_life": null,
+    "period_after_opening": null
+  },
+  "observed_copy": {
+    "original_description": "CELDYQUE PDRN 12% + EGF Peptide Cream combines Sodium DNA PDRN, Volufiline, Niacinamide, EGF, Ceramide, Panthenol, Hyaluronic Acid, Jojoba Seed Oil and Squalane for soothing barrier and firm-looking care.",
+    "original_ingredient_text": "Key Ingredients PDRN · EGF · Volufiline · Barrier Cream Barrier CreamNon-GreasyPDRN 12%EGF Key Ingredients: Sodium DNA / PDRN, Volufiline, Niacinamide, Ceramide NP, Panthenol, Hyaluronic Acid, sh-Oligopeptide-1 / EGF, Jojoba Seed Oil and Squalane. Benefits: Deep hydration, barrier support, elasticity care and soothing comfort. Texture: Silky, lightweight cream that absorbs quickly without greasiness. Refer to the product packaging for the complete and most current ingredient list. For external use only. Avoid direct contact with the eyes. Perform a patch test before first use. Discontinue use if persistent irritation occurs. Keep out of reach of children.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "Who is PDRN 12% + EGF Peptide Cream for?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It is for routines focused on hydration, barrier comfort and firm-looking care."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I pair it with the PDRN serum?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Apply serum first, then use this as the cream step."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is it greasy?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It is positioned as a lightweight cream with a non-greasy satin finish."
+        }
+      }
+    ]
+  },
+  "retailers": [
+    {
+      "retailer_id": "amazon",
+      "asin": "B0FJY6SCPX",
+      "identity_url": "https://www.amazon.com/dp/B0FJY6SCPX",
+      "purchase_urls": [
+        "https://www.amazon.com/CELDYQUE-PDRN-Peptide-Cream-Microneedling/dp/B0FJY6SCPX?maas=maas_adg_216C98761617EBF7B80D255DB5F838E4_afap_abs&ref_=aa_maas&tag=maas&th=1"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf-cream"
+      ],
+      "live_stock": null,
+      "live_price": null
+    }
+  ],
+  "media": {
+    "primary_image": "/images/제품/Mask group-6.webp",
+    "alt": "CELDYQUE PDRN 12% + EGF Peptide Cream, 50 ml / 1.7 fl oz, cream jar",
+    "rights_status": "needs_verification"
+  },
+  "claims_held_for_review": [
+    {
+      "claim": "Barrier repair guarantee",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf-cream"
+      ],
+      "supporting_product_evidence": []
+    },
+    {
+      "claim": "Ideal for post-care or all sensitive skin",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf-cream"
+      ],
+      "supporting_product_evidence": []
+    }
+  ],
+  "open_questions": [
+    {
+      "id": "pdrn-12-egf-cream-Q1",
+      "question": "Define the 12% claim and confirm the current full INCI.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "pdrn-12-egf-cream-Q2",
+      "question": "Verify cream texture, ingredient identities and label directions.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "pdrn-12-egf-cream-Q3",
+      "question": "Resolve post-care and sensitive-skin positioning against actual evidence.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    }
+  ],
+  "related_product_ids": [
+    "pdrn-12-egf",
+    "pdrn-25"
+  ],
+  "guide_ids": [
+    "pdrn-comparison"
+  ],
+  "copy_file": "copy/en/products/pdrn-12-egf-cream.md",
+  "search_aliases": {
+    "value": [
+      "PDRN 12% + EGF Peptide Cream"
+    ],
+    "status": "imported",
+    "evidence_ids": [
+      "site-product-pdrn-12-egf-cream"
+    ],
+    "source_section": "H1; excludes unsupported efficacy tags",
+    "verified_on": null,
+    "reviewer": null
+  },
+  "faq_ids": [
+    "pdrn-12-egf-cream-faq-1",
+    "pdrn-12-egf-cream-faq-2",
+    "pdrn-12-egf-cream-faq-3",
+    "pdrn-12-egf-cream-faq-4"
+  ],
+  "catalog_reference": {
+    "file": "catalog-facts-2026.json",
+    "pages": [
+      12,
+      13
+    ],
+    "scope": "Catalog facts selected for publication; original observed_copy is historical."
+  }
+}

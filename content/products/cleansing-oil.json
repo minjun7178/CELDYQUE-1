@@ -1,0 +1,305 @@
+{
+  "schema_version": 1,
+  "product_id": "cleansing-oil",
+  "catalog_status": "active",
+  "publication_status": "approved",
+  "language": "en",
+  "source_commit": "a150659d59365f91bcd3833816bb24130ccfe5ab",
+  "imported_on": "2026-10-12",
+  "approved_on": "2026-10-13",
+  "approved_by": "User / brand owner in this conversation",
+  "identity": {
+    "name": {
+      "value": "Pore Purifying Cleansing Oil",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-cleansing-oil"
+      ],
+      "source_section": "H1",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "schema_name": {
+      "value": "CELDYQUE Pore Purifying Cleansing Oil",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-cleansing-oil"
+      ],
+      "source_section": "Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "aliases": {
+      "value": [
+        "Pore Purifying Cleansing Oil",
+        "Pore Purifying Cleansing Oil"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-cleansing-oil"
+      ],
+      "source_section": "H1 / Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "current_url": "/product-cleansing-oil.html",
+    "canonical": "https://celdyque.com/product-cleansing-oil.html",
+    "legacy_urls": [],
+    "asin": {
+      "value": "B0FKM689SK",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-cleansing-oil"
+      ],
+      "source_section": "Product.identifier",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "formula_version": null,
+    "market_label_version": null
+  },
+  "specifications": {
+    "size": {
+      "value": "200 ml / 6.76 fl oz",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-cleansing-oil"
+      ],
+      "source_section": "Product.size",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "category": {
+      "value": "Cleanser",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-cleansing-oil"
+      ],
+      "source_section": "Product.category",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "format": {
+      "value": "Rinse-off cleansing oil",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-cleansing-oil"
+      ],
+      "source_section": "Product body / format description",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "texture": {
+      "value": "Cleansing oil",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-cleansing-oil"
+      ],
+      "source_section": "Ingredients / texture",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "routine_step": {
+      "value": "Oil-cleansing step",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-cleansing-oil"
+      ],
+      "source_section": "How to Use",
+      "verified_on": null,
+      "reviewer": null
+    }
+  },
+  "formulation": {
+    "selected_ingredients": {
+      "value": [
+        "Glycine Soja / Soybean Oil",
+        "Capryloyl Salicylic Acid / LHA",
+        "Centella Asiatica Extract",
+        "Tea Tree Extract",
+        "Green Tea Extract",
+        "Jojoba Seed Oil",
+        "Squalane",
+        "Panthenol"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-cleansing-oil"
+      ],
+      "source_section": "Key Ingredients / formula summary",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "full_inci": {
+      "value": null,
+      "status": "needs_verification",
+      "evidence_ids": [],
+      "reason": "Current website provides selected ingredients or refers to packaging; no verified full label supplied."
+    },
+    "concentration_labels": {
+      "value": [
+        "LHA"
+      ],
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-cleansing-oil"
+      ],
+      "source_section": "Product title / body / metadata",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "concentration_basis": null,
+    "raw_ingredient_vs_finished_formula": null
+  },
+  "directions": {
+    "draft_steps": {
+      "value": [
+        "Use dry hands to apply the amount directed on your packaging to dry skin.",
+        "Massage gently.",
+        "Add water to emulsify, then rinse thoroughly. Follow with a foaming cleanser if desired."
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-cleansing-oil"
+      ],
+      "source_section": "How to Use; conservative editorial restatement",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "original_text": {
+      "value": "How to Use 1 Pump Apply 2-3 pumps to dry skin with dry hands. 2 Massage Massage gently to dissolve makeup, sunscreen and impurities. 3 Emulsify Add water until milky, then rinse thoroughly. Follow with cleanser if desired. Avoid direct contact with eyes. Rinse thoroughly if contact occurs.",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-cleansing-oil"
+      ],
+      "source_section": "#how-to-use",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "manufacturer_confirmed": false,
+    "shelf_life": null,
+    "period_after_opening": null
+  },
+  "observed_copy": {
+    "original_description": "CELDYQUE Pore Purifying Cleansing Oil is a lightweight cleansing oil with Soybean Oil, LHA, Centella, Tea Tree, Green Tea, Jojoba Seed Oil, Squalane and Panthenol for makeup removal, sunscreen cleansing and blackhead care.",
+    "original_ingredient_text": "Key Ingredients LHA · Centella · Tea Tree · Cleansing Oil First CleanseClean RinseLHAPore Care Key Ingredients: Glycine Soja / Soybean Oil, Capryloyl Salicylic Acid / LHA, Centella Asiatica Extract, Tea Tree Extract, Green Tea Extract, Jojoba Seed Oil, Squalane and Panthenol. Benefits: Makeup removal, blackhead care, soothing support and balancing. Formula: Mineral oil-free, paraben-free and artificial fragrance-free positioning from the original page. Refer to the product packaging for the complete and most current ingredient list. For external use only. Avoid direct contact with the eyes. Perform a patch test before first use. Discontinue use if persistent irritation occurs. Keep out of reach of children.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "Do I use cleansing oil on wet or dry skin?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Apply it to dry skin first, massage, then add water to emulsify before rinsing."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can it remove sunscreen?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. It is designed as a first-cleanse step for sunscreen, makeup and oil-based buildup."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Should I double cleanse?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "You can follow with a foaming cleanser if desired."
+        }
+      }
+    ]
+  },
+  "retailers": [
+    {
+      "retailer_id": "amazon",
+      "asin": "B0FKM689SK",
+      "identity_url": "https://www.amazon.com/dp/B0FKM689SK",
+      "purchase_urls": [
+        "https://www.amazon.com/Cleansing-Lightweight-Blackheads-Waterproof-Acne-Prone/dp/B0FKM689SK?maas=maas_adg_8CC3CBC6AC803453B28CA24D0B64DD83_afap_abs&ref_=aa_maas&tag=maas&th=1"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-cleansing-oil"
+      ],
+      "live_stock": null,
+      "live_price": null
+    }
+  ],
+  "media": {
+    "primary_image": "/images/제품/Mask group-9.webp",
+    "alt": "CELDYQUE Pore Purifying Cleansing Oil, 200 ml / 6.76 fl oz, pump bottle",
+    "rights_status": "needs_verification"
+  },
+  "claims_held_for_review": [
+    {
+      "claim": "Guaranteed blackhead removal",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-cleansing-oil"
+      ],
+      "supporting_product_evidence": []
+    },
+    {
+      "claim": "Unverified mineral-oil/paraben/fragrance-free assertions",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-cleansing-oil"
+      ],
+      "supporting_product_evidence": []
+    }
+  ],
+  "open_questions": [
+    {
+      "id": "cleansing-oil-Q1",
+      "question": "Reconcile Heartleaf/Mugwort catalog tags with the detailed botanical summary.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "cleansing-oil-Q2",
+      "question": "Obtain full INCI and verify LHA and any free-from claims.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "cleansing-oil-Q3",
+      "question": "Confirm the 2–3 pump instruction against current packaging and pump format.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    }
+  ],
+  "related_product_ids": [
+    "gentle-cleanser"
+  ],
+  "guide_ids": [
+    "cleansing-routine"
+  ],
+  "copy_file": "copy/en/products/cleansing-oil.md",
+  "search_aliases": {
+    "value": [
+      "Pore Purifying Cleansing Oil"
+    ],
+    "status": "imported",
+    "evidence_ids": [
+      "site-product-cleansing-oil"
+    ],
+    "source_section": "H1; excludes unsupported efficacy tags",
+    "verified_on": null,
+    "reviewer": null
+  },
+  "faq_ids": [
+    "cleansing-oil-faq-1",
+    "cleansing-oil-faq-2",
+    "cleansing-oil-faq-3",
+    "cleansing-oil-faq-4"
+  ],
+  "catalog_reference": {
+    "file": "catalog-facts-2026.json",
+    "pages": [
+      8,
+      9
+    ],
+    "scope": "Catalog facts selected for publication; original observed_copy is historical."
+  }
+}

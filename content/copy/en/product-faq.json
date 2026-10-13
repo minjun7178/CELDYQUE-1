@@ -1,0 +1,772 @@
+{
+  "status": "approved",
+  "questions": [
+    {
+      "question_id": "volufiline-100-faq-1",
+      "question": "What type of product is Volufiline 100% Concentrate?",
+      "answer": "CELDYQUE Volufiline 100% Concentrate is an oil-based mix-in concentrate. Mix 1–2 drops with a compatible cream, lotion or serum, following your product label.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-volufiline-100"
+      ],
+      "product_ids": [
+        "volufiline-100"
+      ],
+      "owner_page": "/product-volufiline-100.html"
+    },
+    {
+      "question_id": "volufiline-100-faq-2",
+      "question": "What does Volufiline 100% mean?",
+      "answer": "The 100% refers to the Volufiline raw material used as the concentrate, rather than diluted into a conventional water-based serum. It does not mean 100% pure sarsasapogenin. Mix 1–2 drops with a compatible cream, lotion or serum before application.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-volufiline-100"
+      ],
+      "product_ids": [
+        "volufiline-100"
+      ],
+      "owner_page": "/product-volufiline-100.html"
+    },
+    {
+      "question_id": "volufiline-100-faq-3",
+      "question": "Does it replace moisturizer?",
+      "answer": "No. It is mixed with a compatible moisturizer or other skincare product before application; it does not replace the moisturizer step.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-volufiline-100"
+      ],
+      "product_ids": [
+        "volufiline-100"
+      ],
+      "owner_page": "/product-volufiline-100.html"
+    },
+    {
+      "question_id": "volufiline-100-faq-4",
+      "question": "Where can I find the complete ingredients?",
+      "answer": "Read the full ingredient declaration on your packaging. The selected ingredients on this page are a summary.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-volufiline-100"
+      ],
+      "product_ids": [
+        "volufiline-100"
+      ],
+      "owner_page": "/product-volufiline-100.html"
+    },
+    {
+      "question_id": "pdrn-25-faq-1",
+      "question": "How should I choose between the PDRN products?",
+      "answer": "Choose by format and routine step: the collection includes a gel-type concentrate, a serum applied before moisturizer and a cream used as the moisturizer step. A product-name percentage alone does not determine which formula fits your routine.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-pdrn-25"
+      ],
+      "product_ids": [
+        "pdrn-25"
+      ],
+      "owner_page": "/product-pdrn-25.html"
+    },
+    {
+      "question_id": "pdrn-25-faq-2",
+      "question": "Is this the cream in the PDRN collection?",
+      "answer": "No. This is the gel-type concentrate. PDRN 12% + EGF Peptide Cream is the moisturizer format.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-pdrn-25"
+      ],
+      "product_ids": [
+        "pdrn-25"
+      ],
+      "owner_page": "/product-pdrn-25.html"
+    },
+    {
+      "question_id": "pdrn-25-faq-3",
+      "question": "Can I mix it with another product?",
+      "answer": "Yes. Apply a few drops directly after cleansing and toning, or mix with a compatible serum or cream. Follow with moisturizer and use sunscreen in the morning.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-pdrn-25"
+      ],
+      "product_ids": [
+        "pdrn-25"
+      ],
+      "owner_page": "/product-pdrn-25.html"
+    },
+    {
+      "question_id": "pdrn-25-faq-4",
+      "question": "Which products are in the PDRN collection?",
+      "answer": "The collection includes PDRN 250,000ppm Concentrate, PDRN 12% + EGF Peptide Serum and PDRN 12% + EGF Peptide Cream. The related product links below open their individual pages.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-pdrn-25"
+      ],
+      "product_ids": [
+        "pdrn-25"
+      ],
+      "owner_page": "/product-pdrn-25.html"
+    },
+    {
+      "question_id": "pdrn-12-egf-faq-1",
+      "question": "Does this replace a moisturizer?",
+      "answer": "No. Apply this serum before a cream or moisturizer.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf"
+      ],
+      "product_ids": [
+        "pdrn-12-egf"
+      ],
+      "owner_page": "/product-pdrn-12-egf.html"
+    },
+    {
+      "question_id": "pdrn-12-egf-faq-2",
+      "question": "How does it differ from the PDRN cream?",
+      "answer": "The serum is a separate step before moisturizer. PDRN 12% + EGF Peptide Cream is the moisturizer step. Follow the ingredient information and directions for each product.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf"
+      ],
+      "product_ids": [
+        "pdrn-12-egf"
+      ],
+      "owner_page": "/product-pdrn-12-egf.html"
+    },
+    {
+      "question_id": "pdrn-12-egf-faq-3",
+      "question": "How much should I apply?",
+      "answer": "Apply 2–3 drops over the face or intended area, following your product label.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf"
+      ],
+      "product_ids": [
+        "pdrn-12-egf"
+      ],
+      "owner_page": "/product-pdrn-12-egf.html"
+    },
+    {
+      "question_id": "pdrn-12-egf-faq-4",
+      "question": "Can I use it after a cosmetic procedure?",
+      "answer": "Follow your treating clinician’s advice about when to resume cosmetics after a procedure, and follow the precautions on your packaging.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf"
+      ],
+      "product_ids": [
+        "pdrn-12-egf"
+      ],
+      "owner_page": "/product-pdrn-12-egf.html"
+    },
+    {
+      "question_id": "pdrn-12-egf-cream-faq-1",
+      "question": "Where does it go in a routine?",
+      "answer": "Apply it as the cream or moisturizer step after serum, following your product label.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf-cream"
+      ],
+      "product_ids": [
+        "pdrn-12-egf-cream"
+      ],
+      "owner_page": "/product-pdrn-12-egf-cream.html"
+    },
+    {
+      "question_id": "pdrn-12-egf-cream-faq-2",
+      "question": "Is it the same product as the PDRN serum?",
+      "answer": "No. PDRN 12% + EGF Peptide Serum and PDRN 12% + EGF Peptide Cream are separate products with different routine steps. Use the directions for the product you have.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf-cream"
+      ],
+      "product_ids": [
+        "pdrn-12-egf-cream"
+      ],
+      "owner_page": "/product-pdrn-12-egf-cream.html"
+    },
+    {
+      "question_id": "pdrn-12-egf-cream-faq-3",
+      "question": "Can it be used with the PDRN serum?",
+      "answer": "Apply the serum first and the cream afterward, following each product label. Introduce unfamiliar products gradually.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf-cream"
+      ],
+      "product_ids": [
+        "pdrn-12-egf-cream"
+      ],
+      "owner_page": "/product-pdrn-12-egf-cream.html"
+    },
+    {
+      "question_id": "pdrn-12-egf-cream-faq-4",
+      "question": "Can I use it after a cosmetic procedure?",
+      "answer": "Follow your treating clinician’s advice about when to resume cosmetics after a procedure, and follow the precautions on your packaging.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf-cream"
+      ],
+      "product_ids": [
+        "pdrn-12-egf-cream"
+      ],
+      "owner_page": "/product-pdrn-12-egf-cream.html"
+    },
+    {
+      "question_id": "bakuchiol-30000-faq-1",
+      "question": "Should I use this like the bakuchiol cream?",
+      "answer": "No. Mix this concentrate with compatible skincare as directed on its label. Bakuchiol Volume Collagen Cream is applied as its own moisturizer step.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-bakuchiol-30000"
+      ],
+      "product_ids": [
+        "bakuchiol-30000"
+      ],
+      "owner_page": "/product-bakuchiol-30000.html"
+    },
+    {
+      "question_id": "bakuchiol-30000-faq-2",
+      "question": "Can I apply it undiluted?",
+      "answer": "Use the mix-in method on your product label: blend the directed amount with compatible skincare before application.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-bakuchiol-30000"
+      ],
+      "product_ids": [
+        "bakuchiol-30000"
+      ],
+      "owner_page": "/product-bakuchiol-30000.html"
+    },
+    {
+      "question_id": "bakuchiol-30000-faq-3",
+      "question": "When should I prepare the mixture?",
+      "answer": "Mix it in your palm immediately before application, following your product label.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-bakuchiol-30000"
+      ],
+      "product_ids": [
+        "bakuchiol-30000"
+      ],
+      "owner_page": "/product-bakuchiol-30000.html"
+    },
+    {
+      "question_id": "bakuchiol-30000-faq-4",
+      "question": "How do the two bakuchiol formats differ?",
+      "answer": "Bakuchiol 30,000ppm Serum is a mix-in concentrate. Bakuchiol Volume Collagen Cream is a moisturizer applied after serum. The related cream page is linked below.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-bakuchiol-30000"
+      ],
+      "product_ids": [
+        "bakuchiol-30000"
+      ],
+      "owner_page": "/product-bakuchiol-30000.html"
+    },
+    {
+      "question_id": "bakuchiol-volume-collagen-cream-faq-1",
+      "question": "Is this a mix-in product?",
+      "answer": "Apply this cream as its own moisturizer step. The separate Bakuchiol 30,000ppm Serum uses a mix-in method.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-bakuchiol-volume-collagen-cream"
+      ],
+      "product_ids": [
+        "bakuchiol-volume-collagen-cream"
+      ],
+      "owner_page": "/product-bakuchiol-volume-collagen-cream.html"
+    },
+    {
+      "question_id": "bakuchiol-volume-collagen-cream-faq-2",
+      "question": "How is it different from the bakuchiol concentrate?",
+      "answer": "This is a cream applied after serum. The concentrate is mixed with compatible skincare before application. Follow the directions for the format you choose.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-bakuchiol-volume-collagen-cream"
+      ],
+      "product_ids": [
+        "bakuchiol-volume-collagen-cream"
+      ],
+      "owner_page": "/product-bakuchiol-volume-collagen-cream.html"
+    },
+    {
+      "question_id": "bakuchiol-volume-collagen-cream-faq-3",
+      "question": "When should it be applied?",
+      "answer": "Apply after serum as the cream or moisturizer step.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-bakuchiol-volume-collagen-cream"
+      ],
+      "product_ids": [
+        "bakuchiol-volume-collagen-cream"
+      ],
+      "owner_page": "/product-bakuchiol-volume-collagen-cream.html"
+    },
+    {
+      "question_id": "bakuchiol-volume-collagen-cream-faq-4",
+      "question": "Where can I check the complete formula?",
+      "answer": "Read the full ingredient declaration on your packaging. The ingredients listed here are selected highlights.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-bakuchiol-volume-collagen-cream"
+      ],
+      "product_ids": [
+        "bakuchiol-volume-collagen-cream"
+      ],
+      "owner_page": "/product-bakuchiol-volume-collagen-cream.html"
+    },
+    {
+      "question_id": "blue-copper-peptide-bakuchiol-serum-faq-1",
+      "question": "Where does this serum fit?",
+      "answer": "Apply after cleansing and toning, before moisturizer.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-blue-copper-peptide-bakuchiol-serum"
+      ],
+      "product_ids": [
+        "blue-copper-peptide-bakuchiol-serum"
+      ],
+      "owner_page": "/product-blue-copper-peptide-bakuchiol-serum.html"
+    },
+    {
+      "question_id": "blue-copper-peptide-bakuchiol-serum-faq-2",
+      "question": "Can I use it morning and evening?",
+      "answer": "Yes. Apply 2–3 drops after cleansing and toning, then follow with moisturizer. Use sunscreen as the final morning step. Introduce gradually.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-blue-copper-peptide-bakuchiol-serum"
+      ],
+      "product_ids": [
+        "blue-copper-peptide-bakuchiol-serum"
+      ],
+      "owner_page": "/product-blue-copper-peptide-bakuchiol-serum.html"
+    },
+    {
+      "question_id": "blue-copper-peptide-bakuchiol-serum-faq-3",
+      "question": "Is the full ingredient list shown here?",
+      "answer": "This page lists selected ingredients. Read the full ingredient declaration on your packaging.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-blue-copper-peptide-bakuchiol-serum"
+      ],
+      "product_ids": [
+        "blue-copper-peptide-bakuchiol-serum"
+      ],
+      "owner_page": "/product-blue-copper-peptide-bakuchiol-serum.html"
+    },
+    {
+      "question_id": "blue-copper-peptide-bakuchiol-serum-faq-4",
+      "question": "What should I check before first use?",
+      "answer": "Read the full ingredients and precautions on your packaging. Patch test before first use and discontinue use if persistent irritation occurs.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-blue-copper-peptide-bakuchiol-serum"
+      ],
+      "product_ids": [
+        "blue-copper-peptide-bakuchiol-serum"
+      ],
+      "owner_page": "/product-blue-copper-peptide-bakuchiol-serum.html"
+    },
+    {
+      "question_id": "arbutxa-glow-cream-faq-1",
+      "question": "Is this a serum or a cream?",
+      "answer": "ArbutXA Glow Cream is a moisturizer with Arbutin 5%, Alpha-Arbutin 2%, Tranexamic Acid 5% and Niacinamide 2%. Apply it after serum as the cream step.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-arbutxa-glow-cream"
+      ],
+      "product_ids": [
+        "arbutxa-glow-cream"
+      ],
+      "owner_page": "/product-arbutxa-glow-cream.html"
+    },
+    {
+      "question_id": "arbutxa-glow-cream-faq-2",
+      "question": "How does it differ from Glutathione Glow Serum?",
+      "answer": "ArbutXA Glow Cream is the moisturizer format. Glutathione Glow Serum 30,000 ppm is a face serum applied before moisturizer. Its product page is linked below.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-arbutxa-glow-cream"
+      ],
+      "product_ids": [
+        "arbutxa-glow-cream"
+      ],
+      "owner_page": "/product-arbutxa-glow-cream.html"
+    },
+    {
+      "question_id": "arbutxa-glow-cream-faq-3",
+      "question": "Can I use it morning and evening?",
+      "answer": "Yes. Use as tolerated after serum as the cream step. Follow with sunscreen in the morning.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-arbutxa-glow-cream"
+      ],
+      "product_ids": [
+        "arbutxa-glow-cream"
+      ],
+      "owner_page": "/product-arbutxa-glow-cream.html"
+    },
+    {
+      "question_id": "arbutxa-glow-cream-faq-4",
+      "question": "Where is the full ingredient list?",
+      "answer": "Read the full ingredient declaration on your packaging. This page lists selected ingredients only.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-arbutxa-glow-cream"
+      ],
+      "product_ids": [
+        "arbutxa-glow-cream"
+      ],
+      "owner_page": "/product-arbutxa-glow-cream.html"
+    },
+    {
+      "question_id": "glutathione-30000-faq-1",
+      "question": "Can I use it daily?",
+      "answer": "Yes. Use morning or evening as tolerated, after cleansing and toning and before moisturizer.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-glutathione-30000"
+      ],
+      "product_ids": [
+        "glutathione-30000"
+      ],
+      "owner_page": "/product-glutathione-30000.html"
+    },
+    {
+      "question_id": "glutathione-30000-faq-2",
+      "question": "How does it compare with ArbutXA Glow Cream?",
+      "answer": "This is a face serum used before moisturizer. ArbutXA Glow Cream is the cream-format moisturizer. Follow the directions and ingredient information for each product.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-glutathione-30000"
+      ],
+      "product_ids": [
+        "glutathione-30000"
+      ],
+      "owner_page": "/product-glutathione-30000.html"
+    },
+    {
+      "question_id": "glutathione-30000-faq-3",
+      "question": "How much should I apply?",
+      "answer": "Apply 2–3 drops to the face as directed on your packaging, then gently pat in.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-glutathione-30000"
+      ],
+      "product_ids": [
+        "glutathione-30000"
+      ],
+      "owner_page": "/product-glutathione-30000.html"
+    },
+    {
+      "question_id": "glutathione-30000-faq-4",
+      "question": "Can I read all ingredients here?",
+      "answer": "This page gives selected ingredient information. Read the full ingredient declaration on your packaging.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-glutathione-30000"
+      ],
+      "product_ids": [
+        "glutathione-30000"
+      ],
+      "owner_page": "/product-glutathione-30000.html"
+    },
+    {
+      "question_id": "niacinamide-20-advanced-faq-1",
+      "question": "Where does this serum fit in my routine?",
+      "answer": "Apply Niacinamide 20% Pore Minimizer Serum after toner and before moisturizer.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-niacinamide-20-advanced"
+      ],
+      "product_ids": [
+        "niacinamide-20-advanced"
+      ],
+      "owner_page": "/product-niacinamide-20-advanced.html"
+    },
+    {
+      "question_id": "niacinamide-20-advanced-faq-2",
+      "question": "How should I introduce it?",
+      "answer": "Follow the amount and frequency on your packaging. Introduce it gradually and avoid adding several unfamiliar products at once.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-niacinamide-20-advanced"
+      ],
+      "product_ids": [
+        "niacinamide-20-advanced"
+      ],
+      "owner_page": "/product-niacinamide-20-advanced.html"
+    },
+    {
+      "question_id": "niacinamide-20-advanced-faq-3",
+      "question": "Does it go before cream?",
+      "answer": "Yes. Apply the serum before your cream or moisturizer.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-niacinamide-20-advanced"
+      ],
+      "product_ids": [
+        "niacinamide-20-advanced"
+      ],
+      "owner_page": "/product-niacinamide-20-advanced.html"
+    },
+    {
+      "question_id": "niacinamide-20-advanced-faq-4",
+      "question": "Where can I check the full ingredients?",
+      "answer": "Read the ingredient declaration on your packaging. Contact CELDYQUE with the product name and batch number if you need help identifying your product.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-niacinamide-20-advanced"
+      ],
+      "product_ids": [
+        "niacinamide-20-advanced"
+      ],
+      "owner_page": "/product-niacinamide-20-advanced.html"
+    },
+    {
+      "question_id": "azelaic-12-faq-1",
+      "question": "Does it contain only azelaic acid?",
+      "answer": "No. The selected ingredient list also includes ingredients such as niacinamide and panthenol. Read the full declaration on your packaging.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-azelaic-12"
+      ],
+      "product_ids": [
+        "azelaic-12"
+      ],
+      "owner_page": "/product-azelaic-12.html"
+    },
+    {
+      "question_id": "azelaic-12-faq-2",
+      "question": "Is it a prescription treatment?",
+      "answer": "This is a cosmetic face serum. For a medical skin concern or prescription routine, ask your healthcare professional which skincare products are appropriate.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-azelaic-12"
+      ],
+      "product_ids": [
+        "azelaic-12"
+      ],
+      "owner_page": "/product-azelaic-12.html"
+    },
+    {
+      "question_id": "azelaic-12-faq-3",
+      "question": "Where does it go in the routine?",
+      "answer": "Apply after toner and before moisturizer.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-azelaic-12"
+      ],
+      "product_ids": [
+        "azelaic-12"
+      ],
+      "owner_page": "/product-azelaic-12.html"
+    },
+    {
+      "question_id": "azelaic-12-faq-4",
+      "question": "Should I start it with several new products?",
+      "answer": "Introduce unfamiliar products gradually, following their labels, so you can assess how each fits your routine.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-azelaic-12"
+      ],
+      "product_ids": [
+        "azelaic-12"
+      ],
+      "owner_page": "/product-azelaic-12.html"
+    },
+    {
+      "question_id": "gentle-cleanser-faq-1",
+      "question": "Is this left on the skin?",
+      "answer": "No. Rinse thoroughly with lukewarm water after washing.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-gentle-cleanser"
+      ],
+      "product_ids": [
+        "gentle-cleanser"
+      ],
+      "owner_page": "/product-gentle-cleanser.html"
+    },
+    {
+      "question_id": "gentle-cleanser-faq-2",
+      "question": "How is it different from cleansing oil?",
+      "answer": "Gentle Cleanser is a foaming wash used on wet skin. Pore Purifying Cleansing Oil starts on dry skin, then is emulsified with water and rinsed off.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-gentle-cleanser"
+      ],
+      "product_ids": [
+        "gentle-cleanser"
+      ],
+      "owner_page": "/product-gentle-cleanser.html"
+    },
+    {
+      "question_id": "gentle-cleanser-faq-3",
+      "question": "How often should I use it?",
+      "answer": "Use morning and evening. Reduce frequency if your skin feels dry.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-gentle-cleanser"
+      ],
+      "product_ids": [
+        "gentle-cleanser"
+      ],
+      "owner_page": "/product-gentle-cleanser.html"
+    },
+    {
+      "question_id": "gentle-cleanser-faq-4",
+      "question": "Should I start on wet or dry skin?",
+      "answer": "Wet your face and hands before lathering Gentle Cleanser and massaging gently.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-gentle-cleanser"
+      ],
+      "product_ids": [
+        "gentle-cleanser"
+      ],
+      "owner_page": "/product-gentle-cleanser.html"
+    },
+    {
+      "question_id": "cleansing-oil-faq-1",
+      "question": "Do I start on wet or dry skin?",
+      "answer": "Start with dry skin and dry hands. Massage, add water to emulsify, then rinse thoroughly.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-cleansing-oil"
+      ],
+      "product_ids": [
+        "cleansing-oil"
+      ],
+      "owner_page": "/product-cleansing-oil.html"
+    },
+    {
+      "question_id": "cleansing-oil-faq-2",
+      "question": "Should I leave the oil on?",
+      "answer": "No. Add water to emulsify and rinse thoroughly.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-cleansing-oil"
+      ],
+      "product_ids": [
+        "cleansing-oil"
+      ],
+      "owner_page": "/product-cleansing-oil.html"
+    },
+    {
+      "question_id": "cleansing-oil-faq-3",
+      "question": "Must I use Gentle Cleanser afterward?",
+      "answer": "A foaming cleanser afterward is optional. Choose the cleansing steps that suit your needs and follow your product labels.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-cleansing-oil"
+      ],
+      "product_ids": [
+        "cleansing-oil"
+      ],
+      "owner_page": "/product-cleansing-oil.html"
+    },
+    {
+      "question_id": "cleansing-oil-faq-4",
+      "question": "Is the ingredient list complete?",
+      "answer": "This page lists selected ingredients. Read the full ingredient declaration on your packaging.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-cleansing-oil"
+      ],
+      "product_ids": [
+        "cleansing-oil"
+      ],
+      "owner_page": "/product-cleansing-oil.html"
+    },
+    {
+      "question_id": "9-peptide-scalp-serum-faq-1",
+      "question": "Is it for the scalp or face?",
+      "answer": "This is a scalp serum with a roll-on applicator. Use it on the intended scalp areas as directed on your packaging.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-9-peptide-scalp-serum"
+      ],
+      "product_ids": [
+        "9-peptide-scalp-serum"
+      ],
+      "owner_page": "/product-9-peptide-scalp-serum.html"
+    },
+    {
+      "question_id": "9-peptide-scalp-serum-faq-2",
+      "question": "Do I rinse it out?",
+      "answer": "No. Massage gently after application and leave on without rinsing.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-9-peptide-scalp-serum"
+      ],
+      "product_ids": [
+        "9-peptide-scalp-serum"
+      ],
+      "owner_page": "/product-9-peptide-scalp-serum.html"
+    },
+    {
+      "question_id": "9-peptide-scalp-serum-faq-3",
+      "question": "How often should I apply it?",
+      "answer": "Use daily on a dry or towel-dried scalp. Part the hair, roll over the intended area and massage gently. Leave on without rinsing and avoid broken or irritated skin.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-9-peptide-scalp-serum"
+      ],
+      "product_ids": [
+        "9-peptide-scalp-serum"
+      ],
+      "owner_page": "/product-9-peptide-scalp-serum.html"
+    },
+    {
+      "question_id": "9-peptide-scalp-serum-faq-4",
+      "question": "Where can I check ingredients and precautions?",
+      "answer": "Read the full ingredient declaration and precautions on your packaging. Avoid broken or irritated skin.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-9-peptide-scalp-serum"
+      ],
+      "product_ids": [
+        "9-peptide-scalp-serum"
+      ],
+      "owner_page": "/product-9-peptide-scalp-serum.html"
+    },
+    {
+      "question_id": "pdrn-12-egf-faq-5",
+      "question": "What is PDRN 12% + EGF Peptide Serum?",
+      "answer": "CELDYQUE PDRN 12% + EGF Peptide Serum is a face serum applied after cleansing and toning, before moisturizer.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf"
+      ],
+      "product_ids": [
+        "pdrn-12-egf"
+      ],
+      "owner_page": "/product-pdrn-12-egf.html"
+    },
+    {
+      "question_id": "pdrn-12-egf-faq-6",
+      "question": "Can I use it every day?",
+      "answer": "Yes. Introduce gradually and use daily as tolerated before moisturizer. Discontinue use if persistent irritation occurs.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-pdrn-12-egf"
+      ],
+      "product_ids": [
+        "pdrn-12-egf"
+      ],
+      "owner_page": "/product-pdrn-12-egf.html"
+    },
+    {
+      "question_id": "volufiline-100-faq-5",
+      "question": "When should I mix it?",
+      "answer": "Prepare the mixture in your palm immediately before application. Follow the mixing amount and compatible base on your product label.",
+      "status": "approved",
+      "evidence_ids": [
+        "site-product-volufiline-100"
+      ],
+      "product_ids": [
+        "volufiline-100"
+      ],
+      "owner_page": "/product-volufiline-100.html"
+    }
+  ]
+}

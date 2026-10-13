@@ -1,0 +1,299 @@
+{
+  "schema_version": 1,
+  "product_id": "bakuchiol-volume-collagen-cream",
+  "catalog_status": "active",
+  "publication_status": "approved",
+  "language": "en",
+  "source_commit": "a150659d59365f91bcd3833816bb24130ccfe5ab",
+  "imported_on": "2026-10-12",
+  "approved_on": "2026-10-13",
+  "approved_by": "User / brand owner in this conversation",
+  "identity": {
+    "name": {
+      "value": "Bakuchiol Volume Collagen Cream",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-volume-collagen-cream"
+      ],
+      "source_section": "H1",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "schema_name": {
+      "value": "CELDYQUE Bakuchiol Volume Collagen Cream",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-volume-collagen-cream"
+      ],
+      "source_section": "Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "aliases": {
+      "value": [
+        "Bakuchiol Volume Collagen Cream",
+        "Bakuchiol Volume Collagen Cream"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-volume-collagen-cream"
+      ],
+      "source_section": "H1 / Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "current_url": "/product-bakuchiol-volume-collagen-cream.html",
+    "canonical": "https://celdyque.com/product-bakuchiol-volume-collagen-cream.html",
+    "legacy_urls": [],
+    "asin": {
+      "value": "B0GXV5RJX5",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-volume-collagen-cream"
+      ],
+      "source_section": "Product.identifier",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "formula_version": null,
+    "market_label_version": null
+  },
+  "specifications": {
+    "size": {
+      "value": "50 ml / 1.7 fl oz",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-volume-collagen-cream"
+      ],
+      "source_section": "Product.size",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "category": {
+      "value": "Cream",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-volume-collagen-cream"
+      ],
+      "source_section": "Product.category",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "format": {
+      "value": "Moisturizer",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-volume-collagen-cream"
+      ],
+      "source_section": "Product body / format description",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "texture": {
+      "value": "Cream",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-volume-collagen-cream"
+      ],
+      "source_section": "Ingredients / texture",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "routine_step": {
+      "value": "Cream step",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-volume-collagen-cream"
+      ],
+      "source_section": "How to Use",
+      "verified_on": null,
+      "reviewer": null
+    }
+  },
+  "formulation": {
+    "selected_ingredients": {
+      "value": [
+        "Bakuchiol",
+        "Volufiline",
+        "Hydrolyzed Collagen",
+        "Snail Secretion Filtrate",
+        "EGF peptide",
+        "Hyaluronic acid",
+        "Ceramide",
+        "Panthenol",
+        "Cica"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-volume-collagen-cream"
+      ],
+      "source_section": "Key Ingredients / formula summary",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "full_inci": {
+      "value": null,
+      "status": "needs_verification",
+      "evidence_ids": [],
+      "reason": "Current website provides selected ingredients or refers to packaging; no verified full label supplied."
+    },
+    "concentration_labels": {
+      "value": [],
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-bakuchiol-volume-collagen-cream"
+      ],
+      "source_section": "Product title / body / metadata",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "concentration_basis": null,
+    "raw_ingredient_vs_finished_formula": null
+  },
+  "directions": {
+    "draft_steps": {
+      "value": [
+        "Apply a moderate amount after serum.",
+        "Spread across the face and neck as directed.",
+        "Use as the moisturizer step; finish your morning routine with sunscreen according to its label."
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-volume-collagen-cream"
+      ],
+      "source_section": "How to Use; conservative editorial restatement",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "original_text": {
+      "value": "How to Use 1 Apply After serum, apply a moderate amount over the face and neck. 2 Massage Smooth outward along cheeks, jawline and areas that need extra comfort. 3 Seal Use as the moisturizer step. In the morning, finish with sunscreen. Use morning and evening as the cream step of your routine.",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-volume-collagen-cream"
+      ],
+      "source_section": "#how-to-use",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "manufacturer_confirmed": false,
+    "shelf_life": null,
+    "period_after_opening": null
+  },
+  "observed_copy": {
+    "original_description": "CELDYQUE Bakuchiol Volume Collagen Cream combines Bakuchiol, Volufiline, EGF peptide, low-molecular collagen, snail mucin, Ceramide, Panthenol and Cica for firm-looking, plump-looking hydration care.",
+    "original_ingredient_text": "Key Ingredients Bakuchiol · Volufiline · Collagen · Barrier Support Non-GreasyDewy FinishDaily CreamBarrier Support Key Ingredients: Bakuchiol, Volufiline, Hydrolyzed Collagen, Snail Secretion Filtrate, EGF peptide, Hyaluronic Acid, Ceramide, Panthenol and Cica. Benefits: Firm-looking skin, plumping care, dewy hydration, barrier support and smooth texture. Texture: Silky, lightweight cream that absorbs comfortably without a greasy finish. Refer to the product packaging for the complete and most current ingredient list. For external use only. Avoid direct contact with the eyes. Perform a patch test before first use. Discontinue use if persistent irritation occurs. Keep out of reach of children.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "What is Bakuchiol Volume Collagen Cream best for?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It is designed for people seeking a moisturizer focused on firm-looking elasticity, plump-looking hydration and barrier comfort."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use it with serum?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Apply after serum as the cream step."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is it heavy?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The texture is positioned as silky and lightweight with a non-greasy finish."
+        }
+      }
+    ]
+  },
+  "retailers": [
+    {
+      "retailer_id": "amazon",
+      "asin": "B0GXV5RJX5",
+      "identity_url": "https://www.amazon.com/dp/B0GXV5RJX5",
+      "purchase_urls": [
+        "https://www.amazon.com/Bakuchiol-Collagen-Cream-Low-Molecular-Radiant-Looking/dp/B0GXV5RJX5?maas=maas_adg_74F8B22ED5F8F87B0ED1F1AA5B1974B5_afap_abs&ref_=aa_maas&tag=maas"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-bakuchiol-volume-collagen-cream"
+      ],
+      "live_stock": null,
+      "live_price": null
+    }
+  ],
+  "media": {
+    "primary_image": "/images/제품/ms14.png",
+    "alt": "CELDYQUE Bakuchiol Volume Collagen Cream, 50 ml / 1.7 fl oz, open jar with cream texture",
+    "rights_status": "needs_verification"
+  },
+  "claims_held_for_review": [
+    {
+      "claim": "Unverified collagen molecular-weight claims",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-bakuchiol-volume-collagen-cream"
+      ],
+      "supporting_product_evidence": []
+    },
+    {
+      "claim": "Guaranteed plumping or volume change",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-bakuchiol-volume-collagen-cream"
+      ],
+      "supporting_product_evidence": []
+    }
+  ],
+  "open_questions": [
+    {
+      "id": "bakuchiol-volume-collagen-cream-Q1",
+      "question": "Obtain the complete current INCI and confirm bakuchiol, Volufiline, collagen and snail-derived ingredient identities.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "bakuchiol-volume-collagen-cream-Q2",
+      "question": "Confirm texture, directions and any firming or volume claim support.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    }
+  ],
+  "related_product_ids": [
+    "bakuchiol-30000",
+    "pdrn-12-egf-cream"
+  ],
+  "guide_ids": [
+    "bakuchiol-comparison"
+  ],
+  "copy_file": "copy/en/products/bakuchiol-volume-collagen-cream.md",
+  "search_aliases": {
+    "value": [
+      "Bakuchiol Volume Collagen Cream"
+    ],
+    "status": "imported",
+    "evidence_ids": [
+      "site-product-bakuchiol-volume-collagen-cream"
+    ],
+    "source_section": "H1; excludes unsupported efficacy tags",
+    "verified_on": null,
+    "reviewer": null
+  },
+  "faq_ids": [
+    "bakuchiol-volume-collagen-cream-faq-1",
+    "bakuchiol-volume-collagen-cream-faq-2",
+    "bakuchiol-volume-collagen-cream-faq-3",
+    "bakuchiol-volume-collagen-cream-faq-4"
+  ],
+  "catalog_reference": {
+    "file": "catalog-facts-2026.json",
+    "pages": [
+      28,
+      29
+    ],
+    "scope": "Catalog facts selected for publication; original observed_copy is historical."
+  }
+}

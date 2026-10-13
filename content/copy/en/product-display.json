@@ -1,0 +1,214 @@
+{
+  "volufiline-100": {
+    "ingredients": [
+      "Volufiline raw material"
+    ],
+    "omitted_pending_confirmation": []
+  },
+  "pdrn-25": {
+    "ingredients": [
+      "Sodium DNA / PDRN",
+      "rh-Oligopeptide-1 / EGF",
+      "Panthenol",
+      "Water",
+      "Propylene Glycol",
+      "Butylene Glycol"
+    ],
+    "omitted_pending_confirmation": []
+  },
+  "pdrn-12-egf": {
+    "ingredients": [
+      "Sodium DNA / PDRN",
+      "Niacinamide",
+      "Volufiline",
+      "EGF",
+      "Acetyl Hexapeptide-8",
+      "Ceramide",
+      "Panthenol",
+      "Hyaluronic acid complex"
+    ],
+    "omitted_pending_confirmation": [
+      "Phyto PDRN (existing page terminology)"
+    ]
+  },
+  "pdrn-12-egf-cream": {
+    "ingredients": [
+      "Sodium DNA / PDRN",
+      "Volufiline",
+      "Niacinamide",
+      "Ceramide NP",
+      "Panthenol",
+      "Hyaluronic acid",
+      "sh-Oligopeptide-1 / EGF",
+      "Jojoba seed oil",
+      "Squalane"
+    ],
+    "omitted_pending_confirmation": []
+  },
+  "bakuchiol-30000": {
+    "ingredients": [
+      "Bakuchiol",
+      "Butylene Glycol",
+      "Water",
+      "1,2-Hexanediol"
+    ],
+    "omitted_pending_confirmation": []
+  },
+  "bakuchiol-volume-collagen-cream": {
+    "ingredients": [
+      "Bakuchiol",
+      "Volufiline",
+      "Hydrolyzed Collagen",
+      "Snail Secretion Filtrate",
+      "EGF peptide",
+      "Hyaluronic acid",
+      "Ceramide",
+      "Panthenol",
+      "Cica"
+    ],
+    "omitted_pending_confirmation": []
+  },
+  "blue-copper-peptide-bakuchiol-serum": {
+    "ingredients": [
+      "Copper Tripeptide-1",
+      "Bakuchiol",
+      "Acetyl Hexapeptide-8",
+      "sh-Oligopeptide-1",
+      "Palmitoyl Tripeptide-1",
+      "Palmitoyl Tetrapeptide-7",
+      "Niacinamide",
+      "Hydrolyzed Hyaluronic Acid",
+      "Hydrolyzed Collagen",
+      "Beta-Glucan",
+      "Panthenol",
+      "Allantoin",
+      "Betaine",
+      "Matrixyl 3000",
+      "Argireline"
+    ],
+    "omitted_pending_confirmation": [],
+    "shop_tags": [
+      "Copper Peptide",
+      "Bakuchiol",
+      "Peptides",
+      "EGF"
+    ]
+  },
+  "arbutxa-glow-cream": {
+    "ingredients": [
+      "Arbutin",
+      "Alpha-Arbutin",
+      "Tranexamic Acid",
+      "Niacinamide",
+      "Centella Asiatica Extract",
+      "Houttuynia Cordata Extract",
+      "Green Tea Leaf Extract",
+      "Hyaluronic acid complex",
+      "Ceramide NP",
+      "Adenosine"
+    ],
+    "omitted_pending_confirmation": [],
+    "shop_tags": [
+      "Arbutin 5%",
+      "Alpha-Arbutin 2%",
+      "TXA 5%"
+    ],
+    "seo_title": "ArbutXA Glow Cream | CELDYQUE Korean Skincare"
+  },
+  "glutathione-30000": {
+    "ingredients": [
+      "Glutathione",
+      "Niacinamide",
+      "Hyaluronic acid complex",
+      "Ceramide NP",
+      "Panthenol",
+      "Resveratrol",
+      "Hydrolyzed Vegetable Proteins",
+      "Adenosine"
+    ],
+    "omitted_pending_confirmation": []
+  },
+  "niacinamide-20-advanced": {
+    "ingredients": [
+      "Rosa Damascena Flower Water",
+      "Niacinamide",
+      "Glycerin",
+      "Butylene Glycol",
+      "Green Tea Leaf Extract",
+      "Hydrolyzed Sodium Hyaluronate",
+      "Beta-Glucan"
+    ],
+    "omitted_pending_confirmation": []
+  },
+  "azelaic-12": {
+    "ingredients": [
+      "Azelaic Acid",
+      "Tranexamic Acid",
+      "Salicylic Acid",
+      "Niacinamide",
+      "Centella Asiatica Extract",
+      "Panthenol",
+      "Ceramide NP",
+      "Hyaluronic acid"
+    ],
+    "omitted_pending_confirmation": [
+      "Vitamin C derivative (unspecified on existing page)"
+    ]
+  },
+  "gentle-cleanser": {
+    "ingredients": [
+      "Centella Asiatica Extract",
+      "Tea Tree Extract",
+      "Green Tea Leaf Powder",
+      "Sodium Cocoyl Isethionate",
+      "Glycerin",
+      "Sodium Hyaluronate",
+      "Hydrolyzed Collagen",
+      "Niacinamide",
+      "Allantoin",
+      "AHA / BHA / PHA"
+    ],
+    "omitted_pending_confirmation": []
+  },
+  "cleansing-oil": {
+    "ingredients": [
+      "Glycine Soja / Soybean Oil",
+      "Capryloyl Salicylic Acid / LHA",
+      "Centella Asiatica Extract",
+      "Tea Tree Extract",
+      "Green Tea Extract",
+      "Jojoba Seed Oil",
+      "Squalane",
+      "Panthenol",
+      "Heartleaf"
+    ],
+    "omitted_pending_confirmation": [],
+    "shop_tags": [
+      "Centella",
+      "Green Tea",
+      "Heartleaf",
+      "LHA"
+    ]
+  },
+  "9-peptide-scalp-serum": {
+    "ingredients": [
+      "Rosemary Extract",
+      "Caffeine",
+      "Dexpanthenol",
+      "Sodium DNA / PDRN",
+      "Hydrolyzed Sponge",
+      "Biotin",
+      "Zinc PCA",
+      "Peptide complex",
+      "Niacinamide",
+      "BHA"
+    ],
+    "omitted_pending_confirmation": [],
+    "shop_tags": [
+      "Roll-on",
+      "Rosemary",
+      "Scalp care",
+      "Caffeine"
+    ]
+  }
+}

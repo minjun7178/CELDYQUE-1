@@ -1,0 +1,476 @@
+{
+  "source": "product-volufiline-100.html",
+  "source_sha256": "6b72af696e7395d541d0c7c0d1dd3a6dd60593741861f8600ba5ff1efd02a271",
+  "status": "draft",
+  "changes": [
+    {
+      "tag": "div",
+      "class": "product-kicker",
+      "id": null,
+      "before": "Original Volufiline™ Raw Material",
+      "after": "Mix-in concentrate"
+    },
+    {
+      "tag": "p",
+      "class": "subtitle",
+      "id": null,
+      "before": "Original Volufiline™ from Sederma, France ·\n          Concentrated Oil-Based Booster ·\n          10 ml / 0.33 fl. oz.",
+      "after": "Mix-in concentrate · 10 ml / 0.33 fl oz"
+    },
+    {
+      "tag": "p",
+      "class": "desc-text",
+      "id": null,
+      "before": "CELDYQUÉ Volufiline 100% Concentrate is a minimalist,\n          oil-based skincare booster made with the original\n          Volufiline™ raw material supplied by Sederma, France.\n          Designed for customized use, simply mix 1–2 drops with\n          your favorite cream, lotion or compatible serum and apply\n          to areas where you want focused firmness and\n          fuller-looking skin care.",
+      "after": "CELDYQUE Volufiline 100% Concentrate is an oil-based concentrate for mixing with a compatible cream, lotion or serum."
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Sederma France",
+      "after": "Volufiline"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Volufiline™ 100%",
+      "after": "Oil-based"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Minimal Formula",
+      "after": "Mix-in format"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Mix 1–2 Drops",
+      "after": "1–2 drops"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Face &amp; Body",
+      "after": "10 ml"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Oil-Based",
+      "after": "Label directions"
+    },
+    {
+      "tag": "ul",
+      "class": "features-list",
+      "id": null,
+      "before": "<li>\n            Original Volufiline™ raw material from Sederma, France\n          </li>\n\n          <li>\n            Concentrated formula without a conventional water-based serum base\n          </li>\n\n          <li>\n            Designed to mix easily with your existing skincare\n          </li>\n\n          <li>\n            Focused care for firmer-looking, fuller-looking skin\n          </li>\n\n          <li>\n            Only 1–2 drops needed for a customized routine\n          </li>",
+      "after": "<li>Oil-type concentrate format</li>\n<li>Routine: Mix with a compatible moisturizer</li>\n<li>Dispense 1–2 drops into your palm.</li>\n<li>Mix with your usual cream, lotion or compatible serum.</li>\n<li>Apply the mixture to the intended area, following the directions on your packaging.</li>"
+    },
+    {
+      "tag": "div",
+      "class": "fact-num",
+      "id": null,
+      "before": "100%",
+      "after": "Oil-based"
+    },
+    {
+      "tag": "div",
+      "class": "fact-title",
+      "id": null,
+      "before": "Original Volufiline™",
+      "after": "Product Format"
+    },
+    {
+      "tag": "div",
+      "class": "fact-desc",
+      "id": null,
+      "before": "Concentrated format using the original Volufiline raw material.",
+      "after": "A concentrate designed to mix with compatible skincare."
+    },
+    {
+      "tag": "div",
+      "class": "fact-num",
+      "id": null,
+      "before": "France",
+      "after": "Label"
+    },
+    {
+      "tag": "div",
+      "class": "fact-title",
+      "id": null,
+      "before": "Sederma Origin",
+      "after": "Full Ingredients"
+    },
+    {
+      "tag": "div",
+      "class": "fact-desc",
+      "id": null,
+      "before": "The Volufiline raw material used by CELDYQUÉ is supplied by Sederma, France.",
+      "after": "Read the complete ingredient declaration on your packaging."
+    },
+    {
+      "tag": "div",
+      "class": "fact-desc",
+      "id": null,
+      "before": "Mix a small amount into your everyday cream, lotion or compatible serum.",
+      "after": "Mix in your palm immediately before application, following the label."
+    },
+    {
+      "tag": "div",
+      "class": "fact-title",
+      "id": null,
+      "before": "Concentrated Format",
+      "after": "Bottle Size"
+    },
+    {
+      "tag": "div",
+      "class": "fact-desc",
+      "id": null,
+      "before": "A compact booster designed for targeted and customized skincare.",
+      "after": "10 ml / 0.33 fl oz."
+    },
+    {
+      "tag": "span",
+      "class": "eyecap-dark",
+      "id": null,
+      "before": "The Original Ingredient",
+      "after": "Product Information"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "origin-title",
+      "before": "Volufiline™ from<br />\n            Sederma, France.",
+      "after": "Your product.<br />Your label."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "CELDYQUÉ uses original Volufiline™ raw material supplied\n            by Sederma, France. Rather than turning it into a\n            conventional water-based serum, the formula keeps the\n            ingredient in a concentrated oil-based format designed\n            to be customized with your existing skincare.",
+      "after": "The 100% describes Volufiline raw material used as the concentrate, not 100% pure sarsasapogenin. This is an oil-based mix-in product. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "div",
+      "class": "eyebrow",
+      "id": null,
+      "before": "Minimal Formula",
+      "after": "Oil-Based Format"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "formula-title",
+      "before": "Concentrated by design.",
+      "after": "A mix-in step by design."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Volufiline 100% is not intended to feel like a conventional\n          watery face serum. Its oil-based format is designed to work\n          as a concentrated booster that can be mixed into the skincare\n          products already in your routine.",
+      "after": "Mix a small amount with your usual moisturizer in your palm immediately before application. This mix-in format differs from a serum applied as a separate step."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Original Volufiline™",
+      "after": "Oil-Based Concentrate"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "The signature cosmetic raw material developed by\n            Sederma, France, used as the core of CELDYQUÉ's\n            concentrated Volufiline formula.",
+      "after": "The 100% describes Volufiline raw material used as the concentrate, not 100% pure sarsasapogenin. This is an oil-based mix-in product. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "div",
+      "class": "formula-highlight",
+      "id": null,
+      "before": "Designed for targeted care focused on the appearance\n            of firmness, volume and smoother-looking skin contours.",
+      "after": "Check the full ingredient list before use."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Minimalist Delivery",
+      "after": "Mix Before Application"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "The oil-soluble format allows you to customize the\n            concentration and texture by combining a small amount\n            with cream, lotion or compatible serum before application.",
+      "after": "CELDYQUE Volufiline 100% Concentrate is an oil-based concentrate for mixing with a compatible cream, lotion or serum."
+    },
+    {
+      "tag": "div",
+      "class": "formula-highlight",
+      "id": null,
+      "before": "For the complete and most current INCI ingredient list,\n            always refer to the product packaging.",
+      "after": "Use the method and amount on your current packaging."
+    },
+    {
+      "tag": "div",
+      "class": "formula-index",
+      "id": null,
+      "before": "01 · HERO INGREDIENT",
+      "after": "01 · INGREDIENT SUMMARY"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Dispense 1–2 drops of Volufiline 100% Concentrate\n            into your palm.",
+      "after": "Dispense 1–2 drops into your palm."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Mix with your usual cream, moisturizer, lotion or\n            compatible serum.",
+      "after": "Mix with your usual cream, lotion or compatible serum."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Smooth the mixture onto areas where you want focused\n            firmness and fuller-looking skin care.",
+      "after": "Apply the mixture to the intended area, following the directions on your packaging."
+    },
+    {
+      "tag": "p",
+      "class": "usage-sub",
+      "id": null,
+      "before": "Think of it as a concentrated booster rather than another\n        step you need to add to your routine.",
+      "after": "Mix in your palm immediately before application. Follow the directions and precautions on your packaging."
+    },
+    {
+      "tag": "div",
+      "class": "mix-equation",
+      "id": null,
+      "before": "YOUR FAVORITE CREAM\n        &nbsp; + &nbsp;\n        1–2 DROPS OF VOLUFILINE\n        &nbsp; = &nbsp;\n        YOUR CUSTOMIZED ROUTINE",
+      "after": "COMPATIBLE SKINCARE + 1–2 DROPS · MIX IN YOUR PALM BEFORE USE"
+    },
+    {
+      "tag": "div",
+      "class": "eyebrow",
+      "id": null,
+      "before": "Targeted Care",
+      "after": "Application Checklist"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "areas-title",
+      "before": "Where can you use Volufiline?",
+      "after": "Before you apply."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Apply as part of your regular skincare routine to areas\n          where you want additional focused firmness and\n          fuller-looking skin care.",
+      "after": "Use only on the areas and with the mixing method described on your current packaging."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Cheeks",
+      "after": "Choose the Area"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Target areas where facial contours can appear less full or firm.",
+      "after": "Follow the application areas identified on your product label."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Smile-Line Area",
+      "after": "Mix in Your Palm"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Apply carefully as part of targeted facial moisturizing care.",
+      "after": "Prepare the mixture immediately before application."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Neck",
+      "after": "Use a Compatible Base"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Mix with your regular neck cream or moisturizer for focused care.",
+      "after": "Use cream, lotion or compatible serum according to the directions."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Body",
+      "after": "Read the Precautions"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Combine with body lotion for targeted firmness-focused skincare.",
+      "after": "Patch test before first use and avoid direct eye contact."
+    },
+    {
+      "tag": "div",
+      "class": "eyebrow",
+      "id": null,
+      "before": "Why CELDYQUÉ Volufiline",
+      "after": "Product at a Glance"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "benefits-title",
+      "before": "Simple formula. Flexible routine.",
+      "after": "Mix before application."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A concentrated booster designed for people who prefer\n          targeted skincare without adding another heavy serum layer.",
+      "after": "CELDYQUE Volufiline 100% Concentrate is an oil-based concentrate for mixing with a compatible cream, lotion or serum."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Focused Firmness Care",
+      "after": "Mix-in Format"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Supports the appearance of firmer, fuller-looking skin\n            in targeted areas.",
+      "after": "Dispense 1–2 drops into your palm."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Customizable Booster",
+      "after": "Prepare the Mixture"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Mix only 1–2 drops with skincare products already in\n            your routine.",
+      "after": "Mix with your usual cream, lotion or compatible serum."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Minimalist Format",
+      "after": "Oil-Type Concentrate"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A concentrated oil-based formula without a conventional\n            water-serum base.",
+      "after": "A different application format from a ready-to-use face serum."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Easy Routine Pairing",
+      "after": "Follow Your Label"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Designed to pair with moisturizer, cream, lotion and\n            many everyday skincare formulas.",
+      "after": "Apply the mixture to the intended area, following the directions on your packaging."
+    },
+    {
+      "tag": "p",
+      "class": "ingredient-label",
+      "id": null,
+      "before": "Minimalist Oil-Based Formula",
+      "after": "Oil-Based Concentrate"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>\n              Original Volufiline™ raw material from Sederma, France\n            </strong>\n            in a concentrated oil-based format.",
+      "after": "The 100% describes Volufiline raw material used as the concentrate, not 100% pure sarsasapogenin. This is an oil-based mix-in product. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "For the complete and most current ingredient declaration,\n            refer to the INCI list printed on the product packaging.",
+      "after": "For the complete and most current ingredient declaration, refer to the INCI list printed on your packaging."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Texture:</strong>\n            Oil-type concentrate. For comfortable application and\n            spreadability, mixing 1–2 drops with cream, lotion or\n            compatible serum is recommended.",
+      "after": "<strong>About the ingredients:</strong> Volufiline is a cosmetic ingredient developed for fuller-looking body contours. Its supplier describes a blend of hydrogenated polyisobutene and a botanical root extract. Supplier ingredient information does not establish a facial volume increase or a results timeline for this product.<br /><small>Research cited here concerns ingredients or other formulations, not a clinical trial of this CELDYQUE product. <a href=\"https://www.crodabeauty.com/en-gb/products/product/3043-volufiline\" style=\"text-decoration:underline\">Croda Beauty — Volufiline ingredient information</a></small>"
+    },
+    {
+      "tag": "div",
+      "class": "caution",
+      "id": null,
+      "before": "<strong>Caution:</strong>\n            For external use only. Avoid direct contact with eyes.\n            Patch test before first use. Discontinue use if persistent\n            irritation occurs. Keep out of reach of children.",
+      "after": "For external use only. Avoid direct contact with the eyes. Patch test before first use and discontinue use if persistent irritation occurs. Keep out of reach of children."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Quick answers about Volufiline, concentration, origin\n          and how to use CELDYQUÉ Volufiline 100%.",
+      "after": "Format, directions and ingredient information for this product."
+    },
+    {
+      "tag": "div",
+      "class": "faq-list",
+      "id": null,
+      "before": "<details class=\"faq-item\">\n\n          <summary>\n            What is Volufiline?\n          </summary>\n\n          <div class=\"faq-answer\">\n            Volufiline is a cosmetic ingredient developed by\n            Sederma, France. CELDYQUÉ uses the original Volufiline\n            raw material in an oil-based concentrated booster designed\n            for targeted firmness and fuller-looking skin care.\n          </div>\n\n        </details>\n\n\n        <details class=\"faq-item\">\n\n          <summary>\n            What does Volufiline 100% mean?\n          </summary>\n\n          <div class=\"faq-answer\">\n            CELDYQUÉ Volufiline 100% refers to using the original\n            Volufiline raw material as the concentrated formula\n            rather than diluting it into a conventional water-based\n            serum base. It does not mean 100% pure sarsasapogenin.\n          </div>\n\n        </details>\n\n\n        <details class=\"faq-item\">\n\n          <summary>\n            How do I use CELDYQUÉ Volufiline 100% Concentrate?\n          </summary>\n\n          <div class=\"faq-answer\">\n            Add 1–2 drops of CELDYQUÉ Volufiline 100% Concentrate\n            to your usual cream, lotion or serum, mix in your palm,\n            and apply to areas where you want focused firmness care.\n          </div>\n\n        </details>\n\n\n        <details class=\"faq-item\">\n\n          <summary>\n            Can I mix Volufiline with moisturizer or serum?\n          </summary>\n\n          <div class=\"faq-answer\">\n            Yes. CELDYQUÉ Volufiline 100% Concentrate is specifically\n            suited to customized mixing. Add 1–2 drops to your usual\n            moisturizer, cream or compatible serum before application.\n          </div>\n\n        </details>\n\n\n        <details class=\"faq-item\">\n\n          <summary>\n            Is CELDYQUÉ Volufiline from France?\n          </summary>\n\n          <div class=\"faq-answer\">\n            The original Volufiline raw material used by CELDYQUÉ\n            is supplied by Sederma, France. CELDYQUÉ then uses this\n            ingredient to create the finished cosmetic product.\n          </div>\n\n        </details>",
+      "after": "<details class=\"faq-item\" id=\"volufiline-100-faq-1\"><summary>What type of product is Volufiline 100% Concentrate?</summary><div class=\"faq-answer\">CELDYQUE Volufiline 100% Concentrate is an oil-based mix-in concentrate. Mix 1–2 drops with a compatible cream, lotion or serum, following your product label.</div></details>\n<details class=\"faq-item\" id=\"volufiline-100-faq-2\"><summary>What does Volufiline 100% mean?</summary><div class=\"faq-answer\">The 100% refers to the Volufiline raw material used as the concentrate, rather than diluted into a conventional water-based serum. It does not mean 100% pure sarsasapogenin. Mix 1–2 drops with a compatible cream, lotion or serum before application.</div></details>\n<details class=\"faq-item\" id=\"volufiline-100-faq-3\"><summary>Does it replace moisturizer?</summary><div class=\"faq-answer\">No. It is mixed with a compatible moisturizer or other skincare product before application; it does not replace the moisturizer step.</div></details>\n<details class=\"faq-item\" id=\"volufiline-100-faq-4\"><summary>Where can I find the complete ingredients?</summary><div class=\"faq-answer\">Read the full ingredient declaration on your packaging. The selected ingredients on this page are a summary.</div></details>\n<details class=\"faq-item\" id=\"volufiline-100-faq-5\"><summary>When should I mix it?</summary><div class=\"faq-answer\">Prepare the mixture in your palm immediately before application. Follow the mixing amount and compatible base on your product label.</div></details>\n<p style=\"margin-top:24px\"><a href=\"/faq.html\" style=\"text-decoration:underline\">More product questions</a> · <a href=\"/product-bakuchiol-30000.html\" style=\"text-decoration:underline\">Bakuchiol 30,000ppm Serum</a></p>"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Original Volufiline™ raw material from Sederma, France\n        in a concentrated booster designed to fit into the\n        skincare routine you already use.",
+      "after": "Shop this product using the retailer links below. Check your retailer for prices, availability, delivery and returns."
+    }
+  ]
+}

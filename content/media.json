@@ -1,0 +1,2507 @@
+{
+  "schema_version": 1,
+  "scope": "All local image/video files plus HTML img src references. CSS backgrounds and srcset-only references are not an exhaustive usage map.",
+  "assets": [
+    {
+      "asset_id": "asset-2b28cdc6205e",
+      "path": "images/1.jpg",
+      "bytes": 1007374,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-3f1f943c65e9",
+      "path": "images/1.webp",
+      "bytes": 68986,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-5885a472c30a",
+      "path": "images/10.jpg",
+      "bytes": 382470,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "index.html",
+          "alt": "Glass pipette and clear liquid droplets on a reflective surface",
+          "width": "6000",
+          "height": "4000"
+        }
+      ],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-d40dea463227",
+      "path": "images/10.webp",
+      "bytes": 50350,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-7292585e237e",
+      "path": "images/11.jpg",
+      "bytes": 6733544,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-7cedec8f4251",
+      "path": "images/11.webp",
+      "bytes": 69062,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-51143ef4bcff",
+      "path": "images/13.jpg",
+      "bytes": 5024458,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-c9a421d65cba",
+      "path": "images/13.webp",
+      "bytes": 55880,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-347d55af635b",
+      "path": "images/14.jpg",
+      "bytes": 45285,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-dff68318ab84",
+      "path": "images/14.webp",
+      "bytes": 40708,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-19aaff1482b8",
+      "path": "images/15.jpg",
+      "bytes": 354951,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-cb4a0b43daf6",
+      "path": "images/15.webp",
+      "bytes": 35268,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-75a419066e42",
+      "path": "images/16.jpg",
+      "bytes": 1576557,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-474417de82df",
+      "path": "images/16.webp",
+      "bytes": 31784,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-7bc129202534",
+      "path": "images/2.jpg",
+      "bytes": 8988997,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-88be8395a214",
+      "path": "images/2.webp",
+      "bytes": 37866,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-5928f00c6832",
+      "path": "images/3.jpg",
+      "bytes": 3567750,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-31032c492d6a",
+      "path": "images/3.webp",
+      "bytes": 54512,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-8a9fb6b250e7",
+      "path": "images/4.jpg",
+      "bytes": 3970197,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-c54cd0049e70",
+      "path": "images/4.webp",
+      "bytes": 69296,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-68b8f24ce8e1",
+      "path": "images/5.jpg",
+      "bytes": 2862531,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-0204a219b816",
+      "path": "images/5.webp",
+      "bytes": 25402,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-0beb430736f3",
+      "path": "images/6.jpg",
+      "bytes": 8857960,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-3f73d1e362ca",
+      "path": "images/6.webp",
+      "bytes": 49304,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-4c84ab47c595",
+      "path": "images/7.jpg",
+      "bytes": 483315,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-cdd76646949c",
+      "path": "images/7.webp",
+      "bytes": 78646,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-a3c23d7cdcda",
+      "path": "images/8.jpg",
+      "bytes": 734486,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "index.html",
+          "alt": "Hand holding a pipette above a stone beside a clear dropper bottle",
+          "width": "2352",
+          "height": "1584"
+        }
+      ],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-9fa38e978950",
+      "path": "images/8.webp",
+      "bytes": 185242,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-d1d1b11ff4f2",
+      "path": "images/9.jpg",
+      "bytes": 854270,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "index.html",
+          "alt": "Smooth cream texture with a soft swirl",
+          "width": "3840",
+          "height": "5760"
+        }
+      ],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-48689b6919e6",
+      "path": "images/9.webp",
+      "bytes": 100858,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-4b4168b66eb1",
+      "path": "images/bottle-pipette-dropper-close-up-liquid-yelloworange-retinol-vitamin-c-gel-serum-beige-background.jpg",
+      "bytes": 8969518,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-c72f056c7637",
+      "path": "images/bottle-pipette-dropper-close-up-liquid-yelloworange-retinol-vitamin-c-gel-serum-beige-background.webp",
+      "bytes": 106690,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "about.html",
+          "alt": "Close-up of golden liquid and bubbles in a glass pipette",
+          "width": "1920",
+          "height": "1280"
+        }
+      ],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-8555ec5df083",
+      "path": "images/celdyque-brand-film-poster.jpg",
+      "bytes": 62339,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-abdf31c445b2",
+      "path": "images/celdyque-texture-film-poster.jpg",
+      "bytes": 60357,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-6dac598ba095",
+      "path": "images/close-up-hand-applying-nail-treatment.jpg",
+      "bytes": 11351123,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-e02186a959e6",
+      "path": "images/close-up-hand-applying-nail-treatment.webp",
+      "bytes": 33468,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "about.html",
+          "alt": "A hand applying liquid from a dropper to the other hand",
+          "width": "1920",
+          "height": "1277"
+        }
+      ],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-06028e73d9b6",
+      "path": "images/closeup-view-glass-.jpg",
+      "bytes": 8448602,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-e443c1acd96a",
+      "path": "images/closeup-view-glass-.webp",
+      "bytes": 100214,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "about.html",
+          "alt": "Clear droplets and bubbles beside a glass pipette",
+          "width": "1280",
+          "height": "1920"
+        }
+      ],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-275990d6a457",
+      "path": "images/golden-underwater-bubbles-abstract-oil.jpg",
+      "bytes": 12318271,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-418875863c66",
+      "path": "images/golden-underwater-bubbles-abstract-oil.webp",
+      "bytes": 223446,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "about.html",
+          "alt": "Golden liquid with suspended bubbles in close-up",
+          "width": "1920",
+          "height": "1280"
+        }
+      ],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-146c6b524f86",
+      "path": "images/Group 10.png",
+      "bytes": 339056,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "index.html",
+          "alt": "Clear gel texture with droplets and air bubbles",
+          "width": "611",
+          "height": "974"
+        }
+      ],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-e9ebd9f1796c",
+      "path": "images/Group 10.webp",
+      "bytes": 8014,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-0ed542c0f99a",
+      "path": "images/Group 7.png",
+      "bytes": 523407,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "index.html",
+          "alt": "Clear glass dropper bottle and pipette",
+          "width": "611",
+          "height": "974"
+        }
+      ],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-956d7beb0826",
+      "path": "images/Group 7.webp",
+      "bytes": 30382,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-37d97941d4d4",
+      "path": "images/Group 8.png",
+      "bytes": 623064,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "index.html",
+          "alt": "Close-up of translucent blue-toned bubbles",
+          "width": "611",
+          "height": "974"
+        }
+      ],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-9c3ba1e2f484",
+      "path": "images/Group 8.webp",
+      "bytes": 15220,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-a102f70f08ad",
+      "path": "images/Group 9.png",
+      "bytes": 465797,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "index.html",
+          "alt": "Glass pipette dispensing a drop of clear liquid",
+          "width": "611",
+          "height": "974"
+        }
+      ],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-cc99b22a857c",
+      "path": "images/Group 9.webp",
+      "bytes": 17266,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-7094ec307111",
+      "path": "images/pa.jpg",
+      "bytes": 27564,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-d8608d5f98b0",
+      "path": "images/pa.webp",
+      "bytes": 9386,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-5e2fbdbe7c27",
+      "path": "images/pa2.jpg",
+      "bytes": 800705,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-eb301555505c",
+      "path": "images/pa2.webp",
+      "bytes": 24454,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-987245b85f91",
+      "path": "images/up.jpg",
+      "bytes": 5931059,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-f9e6894f6e41",
+      "path": "images/up.webp",
+      "bytes": 69532,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-37558986233c",
+      "path": "images/videoframe_4286.png",
+      "bytes": 786429,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-7541e6683a50",
+      "path": "images/videoframe_4286.webp",
+      "bytes": 29548,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-5bbdcbdef2df",
+      "path": "images/water-forms-beautiful-light-patterns.jpg",
+      "bytes": 8266710,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-0698a89368cc",
+      "path": "images/water-forms-beautiful-light-patterns.webp",
+      "bytes": 66654,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "shop.html",
+          "alt": "Light patterns on water",
+          "width": "1920",
+          "height": "838"
+        }
+      ],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-9eca64bc64f4",
+      "path": "images/yesstyle.png",
+      "bytes": 13055,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-ce721af1ed79",
+      "path": "images/yesstyle.webp",
+      "bytes": 6584,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-31e61dbeae09",
+      "path": "images/브랜딩로고.jpg",
+      "bytes": 166551,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-7328e7f6f180",
+      "path": "images/브랜딩로고.webp",
+      "bytes": 18594,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "about.html",
+          "alt": "CELDYQUE Logo",
+          "width": "1920",
+          "height": "486"
+        }
+      ],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-551dabfc62d9",
+      "path": "images/제품/13임시.png",
+      "bytes": 1943267,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-c23667b0656d",
+      "path": "images/제품/13임시.webp",
+      "bytes": 35918,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-b5826b6b7bc3",
+      "path": "images/제품/DSC07743.jpg",
+      "bytes": 502020,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-5cf391838fee",
+      "path": "images/제품/DSC07743.webp",
+      "bytes": 46348,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-33fb74ba990d",
+      "path": "images/제품/Gemini_Generated_Image_fkcgzvfkcgzvfkcg.png",
+      "bytes": 1581927,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-5f957b0a3649",
+      "path": "images/제품/Gemini_Generated_Image_fkcgzvfkcgzvfkcg.webp",
+      "bytes": 22262,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-2c7fbec84cf4",
+      "path": "images/제품/Mask group-1.png",
+      "bytes": 480160,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "index.html",
+          "alt": "CELDYQUÉ Volufiline 100% Concentrate, 10 ml / 0.33 fl oz, dropper bottle",
+          "width": "690",
+          "height": "978"
+        }
+      ],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-8d00533a15df",
+      "path": "images/제품/Mask group-1.webp",
+      "bytes": 9904,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "product-volufiline-100.html",
+          "alt": "CELDYQUÉ Volufiline 100% Concentrate, 10 ml / 0.33 fl oz, dropper bottle",
+          "width": "690",
+          "height": "978"
+        },
+        {
+          "page": "shop.html",
+          "alt": "CELDYQUÉ Volufiline 100% Concentrate, 10 ml / 0.33 fl oz, dropper bottle",
+          "width": "690",
+          "height": "978"
+        }
+      ],
+      "primary_product_ids": [
+        "volufiline-100"
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-0f6c17925959",
+      "path": "images/제품/Mask group-10.png",
+      "bytes": 606096,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-5b7db234ba8f",
+      "path": "images/제품/Mask group-10.webp",
+      "bytes": 17010,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "product-advanced-retinol-pro-retinal-serum-0-5.html",
+          "alt": "CELDYQUE Advanced Retinal Pro Serum",
+          "width": null,
+          "height": null
+        }
+      ],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-e20bcc055066",
+      "path": "images/제품/Mask group-11.png",
+      "bytes": 545895,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-f0d766f58d8c",
+      "path": "images/제품/Mask group-11.webp",
+      "bytes": 12158,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "index.html",
+          "alt": "CELDYQUE Gentle Cleanser Purifying Touch, 150 ml / 5.07 fl oz, cleanser tube",
+          "width": "690",
+          "height": "978"
+        },
+        {
+          "page": "product-gentle-cleanser.html",
+          "alt": "CELDYQUE Gentle Cleanser Purifying Touch, 150 ml / 5.07 fl oz, cleanser tube",
+          "width": "690",
+          "height": "978"
+        },
+        {
+          "page": "shop.html",
+          "alt": "CELDYQUE Gentle Cleanser Purifying Touch, 150 ml / 5.07 fl oz, cleanser tube",
+          "width": "690",
+          "height": "978"
+        }
+      ],
+      "primary_product_ids": [
+        "gentle-cleanser"
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-febe2f8d7ef4",
+      "path": "images/제품/Mask group-2.png",
+      "bytes": 523301,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-28bc20c12f41",
+      "path": "images/제품/Mask group-2.webp",
+      "bytes": 12226,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "product-glutathione-30000.html",
+          "alt": "CELDYQUE Glutathione Glow Serum 30,000 ppm, 30 ml / 1 fl oz, dropper bottle",
+          "width": "690",
+          "height": "978"
+        },
+        {
+          "page": "shop.html",
+          "alt": "CELDYQUE Glutathione Glow Serum 30,000 ppm, 30 ml / 1 fl oz, dropper bottle",
+          "width": "690",
+          "height": "978"
+        }
+      ],
+      "primary_product_ids": [
+        "glutathione-30000"
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-0c4bc81a1dfe",
+      "path": "images/제품/Mask group-3.png",
+      "bytes": 553073,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "index.html",
+          "alt": "CELDYQUE PDRN 250,000ppm Concentrate, 30 ml / 1 fl oz, dropper bottle",
+          "width": "690",
+          "height": "978"
+        }
+      ],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-3538c587754f",
+      "path": "images/제품/Mask group-3.webp",
+      "bytes": 14666,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "product-pdrn-25.html",
+          "alt": "CELDYQUE PDRN 250,000ppm Concentrate, 30 ml / 1 fl oz, dropper bottle",
+          "width": "690",
+          "height": "978"
+        },
+        {
+          "page": "shop.html",
+          "alt": "CELDYQUE PDRN 250,000ppm Concentrate, 30 ml / 1 fl oz, dropper bottle",
+          "width": "690",
+          "height": "978"
+        }
+      ],
+      "primary_product_ids": [
+        "pdrn-25"
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-10b1171f3647",
+      "path": "images/제품/Mask group-4.png",
+      "bytes": 513093,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "index.html",
+          "alt": "CELDYQUE Bakuchiol 30,000ppm Serum, 30 ml, dropper bottle",
+          "width": "690",
+          "height": "978"
+        }
+      ],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-ca82e8de53d6",
+      "path": "images/제품/Mask group-4.webp",
+      "bytes": 13982,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "shop.html",
+          "alt": "CELDYQUE Bakuchiol 30,000ppm Serum, 30 ml, dropper bottle",
+          "width": "690",
+          "height": "978"
+        }
+      ],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-51b6ccd78ba8",
+      "path": "images/제품/Mask group-5.png",
+      "bytes": 526793,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-9aa8b09c2d81",
+      "path": "images/제품/Mask group-5.webp",
+      "bytes": 12176,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "index.html",
+          "alt": "CELDYQUE ArbutXA Glow Cream, 50 ml / 1.7 fl oz, cream jar",
+          "width": "690",
+          "height": "978"
+        },
+        {
+          "page": "product-arbutxa-glow-cream.html",
+          "alt": "CELDYQUE ArbutXA Glow Cream, 50 ml / 1.7 fl oz, cream jar",
+          "width": "690",
+          "height": "978"
+        },
+        {
+          "page": "shop.html",
+          "alt": "CELDYQUE ArbutXA Glow Cream, 50 ml / 1.7 fl oz, cream jar",
+          "width": "690",
+          "height": "978"
+        }
+      ],
+      "primary_product_ids": [
+        "arbutxa-glow-cream"
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-f41f2073ce98",
+      "path": "images/제품/Mask group-6.png",
+      "bytes": 485832,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-d3971c38c938",
+      "path": "images/제품/Mask group-6.webp",
+      "bytes": 9706,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "product-pdrn-12-egf-cream.html",
+          "alt": "CELDYQUE PDRN 12% + EGF Peptide Cream, 50 ml / 1.7 fl oz, cream jar",
+          "width": "690",
+          "height": "978"
+        },
+        {
+          "page": "shop.html",
+          "alt": "CELDYQUE PDRN 12% + EGF Peptide Cream, 50 ml / 1.7 fl oz, cream jar",
+          "width": "690",
+          "height": "978"
+        }
+      ],
+      "primary_product_ids": [
+        "pdrn-12-egf-cream"
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-c6585868faf2",
+      "path": "images/제품/Mask group-7.png",
+      "bytes": 537017,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-c16e24dd635c",
+      "path": "images/제품/Mask group-7.webp",
+      "bytes": 13562,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "product-azelaic-12.html",
+          "alt": "CELDYQUE Azelaic Acid 12% Topical Serum, 30 ml / 1 fl oz, dropper bottle",
+          "width": "690",
+          "height": "978"
+        },
+        {
+          "page": "shop.html",
+          "alt": "CELDYQUE Azelaic Acid 12% Topical Serum, 30 ml / 1 fl oz, dropper bottle",
+          "width": "690",
+          "height": "978"
+        }
+      ],
+      "primary_product_ids": [
+        "azelaic-12"
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-c84d0b88183b",
+      "path": "images/제품/Mask group-8.png",
+      "bytes": 543964,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-bf79541e1808",
+      "path": "images/제품/Mask group-8.webp",
+      "bytes": 17650,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "product-niacinamide-20-advanced.html",
+          "alt": "CELDYQUE Niacinamide 20% Pore Minimizer Serum, 30 ml / 1 fl oz, pump bottle",
+          "width": "690",
+          "height": "978"
+        },
+        {
+          "page": "shop.html",
+          "alt": "CELDYQUE Niacinamide 20% Pore Minimizer Serum, 30 ml / 1 fl oz, pump bottle",
+          "width": "690",
+          "height": "978"
+        }
+      ],
+      "primary_product_ids": [
+        "niacinamide-20-advanced"
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-048cd03d95ee",
+      "path": "images/제품/Mask group-9.png",
+      "bytes": 532916,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-784e833e0cde",
+      "path": "images/제품/Mask group-9.webp",
+      "bytes": 12408,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "product-cleansing-oil.html",
+          "alt": "CELDYQUE Pore Purifying Cleansing Oil, 200 ml / 6.76 fl oz, pump bottle",
+          "width": "690",
+          "height": "978"
+        },
+        {
+          "page": "shop.html",
+          "alt": "CELDYQUE Pore Purifying Cleansing Oil, 200 ml / 6.76 fl oz, pump bottle",
+          "width": "690",
+          "height": "978"
+        }
+      ],
+      "primary_product_ids": [
+        "cleansing-oil"
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-470a3b5bea64",
+      "path": "images/제품/Mask group.png",
+      "bytes": 581067,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "index.html",
+          "alt": "CELDYQUE PDRN 12% + EGF Peptide Serum, 30 ml / 1 fl oz, dropper bottle",
+          "width": "690",
+          "height": "978"
+        }
+      ],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-d35d4382dc1b",
+      "path": "images/제품/Mask group.webp",
+      "bytes": 13228,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "product-pdrn-12-egf.html",
+          "alt": "CELDYQUE PDRN 12% + EGF Peptide Serum, 30 ml / 1 fl oz, dropper bottle",
+          "width": "690",
+          "height": "978"
+        },
+        {
+          "page": "shop.html",
+          "alt": "CELDYQUE PDRN 12% + EGF Peptide Serum, 30 ml / 1 fl oz, dropper bottle",
+          "width": "690",
+          "height": "978"
+        }
+      ],
+      "primary_product_ids": [
+        "pdrn-12-egf"
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-a36030f9baf6",
+      "path": "images/제품/Mask group00.png",
+      "bytes": 105480,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-82583aded16b",
+      "path": "images/제품/Mask group00.webp",
+      "bytes": 6244,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-582d901bebd0",
+      "path": "images/제품/Ms-13임시.jpg",
+      "bytes": 91284,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-e19b5b375614",
+      "path": "images/제품/Ms-13임시.webp",
+      "bytes": 70784,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-689a95b4d468",
+      "path": "images/제품/ms13-320.webp",
+      "bytes": 7116,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-68e5d7cd52ff",
+      "path": "images/제품/ms13-640.webp",
+      "bytes": 24232,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-cd78d4abf0e2",
+      "path": "images/제품/ms13.jpg",
+      "bytes": 258074,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [
+        "9-peptide-scalp-serum"
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-af5c8be2e70b",
+      "path": "images/제품/ms13.png",
+      "bytes": 2966381,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-99ba965b3a03",
+      "path": "images/제품/ms13.webp",
+      "bytes": 26300,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "product-9-peptide-scalp-serum.html",
+          "alt": "CELDYQUE 9-Peptide Scalp Care Serum Roll-On, 40 ml / 1.35 fl oz, scalp serum roll-on tube",
+          "width": "667",
+          "height": "945"
+        },
+        {
+          "page": "shop.html",
+          "alt": "CELDYQUE 9-Peptide Scalp Care Serum Roll-On, 40 ml / 1.35 fl oz, scalp serum roll-on tube",
+          "width": "667",
+          "height": "945"
+        }
+      ],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-35d277344682",
+      "path": "images/제품/ms14-320.webp",
+      "bytes": 8996,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-d9ff32c8f695",
+      "path": "images/제품/ms14-640.webp",
+      "bytes": 26216,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-d215841fef2e",
+      "path": "images/제품/ms14-960.webp",
+      "bytes": 48432,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-7687b8843a1a",
+      "path": "images/제품/ms14-lower-320.webp",
+      "bytes": 8604,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-1ca2e89c1c53",
+      "path": "images/제품/ms14-lower-640.webp",
+      "bytes": 24660,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-25f2a7b1f1cf",
+      "path": "images/제품/ms14-lower-960.webp",
+      "bytes": 45974,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-47cc12648684",
+      "path": "images/제품/ms14-lower.png",
+      "bytes": 1596006,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-ea22f82ba547",
+      "path": "images/제품/ms14-lower.webp",
+      "bytes": 57916,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "shop.html",
+          "alt": "CELDYQUE Bakuchiol Volume Collagen Cream, 50 ml / 1.7 fl oz, open jar with cream texture",
+          "width": "1122",
+          "height": "1402"
+        }
+      ],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-ccbbb1434bac",
+      "path": "images/제품/ms14.png",
+      "bytes": 1633270,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [
+        "bakuchiol-volume-collagen-cream"
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-273e161a10a1",
+      "path": "images/제품/ms14.webp",
+      "bytes": 61348,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "index.html",
+          "alt": "CELDYQUE Bakuchiol Volume Collagen Cream, 50 ml / 1.7 fl oz, open jar with cream texture",
+          "width": "1122",
+          "height": "1402"
+        },
+        {
+          "page": "product-bakuchiol-volume-collagen-cream.html",
+          "alt": "CELDYQUE Bakuchiol Volume Collagen Cream, 50 ml / 1.7 fl oz, open jar with cream texture",
+          "width": "1122",
+          "height": "1402"
+        }
+      ],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-b1dc55ee0048",
+      "path": "images/제품/ms15-320.webp",
+      "bytes": 7928,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-ac2b48791137",
+      "path": "images/제품/ms15-lower-320.webp",
+      "bytes": 8124,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-a1eff7540556",
+      "path": "images/제품/ms15-lower-640.webp",
+      "bytes": 23350,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-c2a656766cfc",
+      "path": "images/제품/ms15-lower-960.webp",
+      "bytes": 42768,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-d5e197eff3db",
+      "path": "images/제품/ms15-lower.png",
+      "bytes": 1573428,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-2cebd9bd4c70",
+      "path": "images/제품/ms15-lower.webp",
+      "bytes": 53766,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "shop.html",
+          "alt": "CELDYQUE Blue Copper Peptide Bakuchiol Serum, 30 ml / 1.01 fl oz, dropper bottle",
+          "width": "1122",
+          "height": "1402"
+        }
+      ],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-5789402b54db",
+      "path": "images/제품/ms15.png",
+      "bytes": 419227,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [
+        "blue-copper-peptide-bakuchiol-serum"
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-eaa397bc35aa",
+      "path": "images/제품/ms15.webp",
+      "bytes": 17852,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "index.html",
+          "alt": "CELDYQUE Blue Copper Peptide Bakuchiol Serum, 30 ml / 1.01 fl oz, dropper bottle",
+          "width": "562",
+          "height": "703"
+        },
+        {
+          "page": "product-blue-copper-peptide-bakuchiol-serum.html",
+          "alt": "CELDYQUE Blue Copper Peptide Bakuchiol Serum, 30 ml / 1.01 fl oz, dropper bottle",
+          "width": "562",
+          "height": "703"
+        },
+        {
+          "page": "product-blue-copper-peptide-bakuchiol-serum.html",
+          "alt": "CELDYQUE Blue Copper Peptide Bakuchiol Serum, 30 ml / 1.01 fl oz, dropper bottle",
+          "width": "562",
+          "height": "703"
+        }
+      ],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-1e6db37f3fd9",
+      "path": "images/제품/test.jpg",
+      "bytes": 47187,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-04d54f9f25fb",
+      "path": "images/제품/test.webp",
+      "bytes": 10740,
+      "kind": "image",
+      "direct_img_references": [
+        {
+          "page": "product-bakuchiol-30000.html",
+          "alt": "CELDYQUE Bakuchiol 30,000ppm Serum, 30 ml / 1 fl oz, dropper bottle",
+          "width": "550",
+          "height": "778"
+        }
+      ],
+      "primary_product_ids": [
+        "bakuchiol-30000"
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-7b4729a242bf",
+      "path": "images/제품/바쿠치올.png",
+      "bytes": 3542846,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-7aba6dc7edc5",
+      "path": "images/제품/바쿠치올.webp",
+      "bytes": 42416,
+      "kind": "image",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-12c4c345de64",
+      "path": "videos/Video Project.mp4",
+      "bytes": 1065119,
+      "kind": "video",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-337641982e74",
+      "path": "videos/video1.mp4",
+      "bytes": 2036372,
+      "kind": "video",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "asset-9bab99501804",
+      "path": "videos/홈페이지.mp4",
+      "bytes": 2435792,
+      "kind": "video",
+      "direct_img_references": [],
+      "primary_product_ids": [],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "source_or_generated_variant": "Not inferred from filename",
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-4de68eff3e68",
+      "url": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "coming-soon.html",
+          "alt": "CELDYQUÉ Coming Soon Preview",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-dc0cad8cf0fc",
+      "url": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&q=80&w=800",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-9-peptide-scalp-serum.html",
+          "alt": "CELDYQUE 9-Peptide Scalp Care Serum Roll-On concept visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-6c63c5f09c34",
+      "url": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&q=80&w=800",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-9-peptide-scalp-serum.html",
+          "alt": "CELDYQUE 9-Peptide Scalp Care Serum Roll-On visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-def117796217",
+      "url": "https://images.unsplash.com/photo-1618331835717-801e976710b2?auto=format&fit=crop&q=80&w=1600",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-advanced-retinol-pro-retinal-serum-0-5.html",
+          "alt": "Nighttime Renewal",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-30ffb03ed26d",
+      "url": "https://images.unsplash.com/photo-1560750588-73207b1ef5b8?auto=format&fit=crop&q=80&w=800",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-advanced-retinol-pro-retinal-serum-0-5.html",
+          "alt": "Youthful Firm Skin",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-42502540230f",
+      "url": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&q=80&w=800",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-advanced-retinol-pro-retinal-serum-0-5.html",
+          "alt": "Centella Asiatica",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-4c6f22e36653",
+      "url": "https://images.unsplash.com/photo-1505576399279-565b52d4ac71?auto=format&fit=crop&q=80&w=1600",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-arbutxa-glow-cream.html",
+          "alt": "CELDYQUE ArbutXA Glow Cream concept visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-1d18ac56d47a",
+      "url": "https://images.unsplash.com/photo-1618546421236-3c6f5f78add2?q=80&w=1330&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-arbutxa-glow-cream.html",
+          "alt": "CELDYQUE ArbutXA Glow Cream visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-43f3b79f6858",
+      "url": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&q=80&w=800",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-arbutxa-glow-cream.html",
+          "alt": "CELDYQUE ArbutXA Glow Cream visual",
+          "width": null,
+          "height": null
+        },
+        {
+          "page": "product-glutathione-30000.html",
+          "alt": "CELDYQUE Glutathione Glow Serum 30,000 ppm visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-7edb65fa771f",
+      "url": "https://images.unsplash.com/photo-1512341689857-198e7e2f3ca8?auto=format&fit=crop&q=80&w=1600",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-azelaic-12.html",
+          "alt": "CELDYQUE Azelaic Acid 12% Topical Serum concept visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-7caab1f55954",
+      "url": "https://images.unsplash.com/photo-1620916297397-a4a5402a3c6c?auto=format&fit=crop&q=80&w=800",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-azelaic-12.html",
+          "alt": "CELDYQUE Azelaic Acid 12% Topical Serum visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-d066e486c826",
+      "url": "https://images.unsplash.com/photo-1541261248599-cef2fcabf912?q=80&w=1083&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-azelaic-12.html",
+          "alt": "CELDYQUE Azelaic Acid 12% Topical Serum visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-a39a551f971b",
+      "url": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&q=80&w=1600",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-bakuchiol-30000.html",
+          "alt": "CELDYQUE Bakuchiol 30,000ppm Serum concept visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-78b91a66ea00",
+      "url": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&q=80&w=800",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-bakuchiol-30000.html",
+          "alt": "CELDYQUE Bakuchiol 30,000ppm Serum visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-20a03b1c3ccd",
+      "url": "https://images.unsplash.com/photo-1629198688000-71f23e745b6e?auto=format&fit=crop&q=80&w=800",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-bakuchiol-30000.html",
+          "alt": "CELDYQUE Bakuchiol 30,000ppm Serum visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-6265059c3c59",
+      "url": "https://images.unsplash.com/photo-1748543668687-624e058c367c?auto=format&fit=crop&fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2tpbmNhcmUlMjBmbGF0bGF5fGVufDB8fDB8fHww&ixlib=rb-4.1.0&q=60&w=3000",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-bakuchiol-volume-collagen-cream.html",
+          "alt": "CELDYQUE Bakuchiol Volume Collagen Cream concept visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-86b2e1475f9f",
+      "url": "https://images.unsplash.com/photo-1748543668676-ea8241cb3886?auto=format&fit=crop&fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2tpbmNhcmUlMjBmbGF0bGF5fGVufDB8fDB8fHww&ixlib=rb-4.1.0&q=60&w=3000",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-bakuchiol-volume-collagen-cream.html",
+          "alt": "CELDYQUE Bakuchiol Volume Collagen Cream visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-d34b99fa596b",
+      "url": "https://images.unsplash.com/photo-1748543668646-e81cda0890f3?auto=format&fit=crop&fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c2tpbmNhcmUlMjBmbGF0bGF5fGVufDB8fDB8fHww&ixlib=rb-4.1.0&q=60&w=3000",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-bakuchiol-volume-collagen-cream.html",
+          "alt": "CELDYQUE Bakuchiol Volume Collagen Cream visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-636531958a5a",
+      "url": "https://images.unsplash.com/photo-1615900119312-2acd3a71f3aa?auto=format&fit=crop&q=80&w=1600",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-cleansing-oil.html",
+          "alt": "CELDYQUE Pore Purifying Cleansing Oil concept visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-abc5d3aa8ec4",
+      "url": "https://images.unsplash.com/photo-1512341689857-198e7e2f3ca8?auto=format&fit=crop&q=80&w=800",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-cleansing-oil.html",
+          "alt": "CELDYQUE Pore Purifying Cleansing Oil visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-175e4a0e7f16",
+      "url": "https://images.unsplash.com/photo-1540845511934-7721dd7adec3?auto=format&fit=crop&q=80&w=800",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-cleansing-oil.html",
+          "alt": "CELDYQUE Pore Purifying Cleansing Oil visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-6421c067d551",
+      "url": "https://images.unsplash.com/photo-1491497895121-1334fc14d8c9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-gentle-cleanser.html",
+          "alt": "CELDYQUE Gentle Cleanser Purifying Touch concept visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-284939879e98",
+      "url": "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?auto=format&fit=crop&q=80&w=800",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-gentle-cleanser.html",
+          "alt": "CELDYQUE Gentle Cleanser Purifying Touch visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-d2908d9a6512",
+      "url": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&q=80&w=800",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-gentle-cleanser.html",
+          "alt": "CELDYQUE Gentle Cleanser Purifying Touch visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-0d1d002ce53c",
+      "url": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?auto=format&fit=crop&q=80&w=1600",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-glutathione-30000.html",
+          "alt": "CELDYQUE Glutathione Glow Serum 30,000 ppm concept visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-4c4602a5bd65",
+      "url": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&q=80&w=800",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-glutathione-30000.html",
+          "alt": "CELDYQUE Glutathione Glow Serum 30,000 ppm visual",
+          "width": null,
+          "height": null
+        },
+        {
+          "page": "product-pdrn-12-egf-cream.html",
+          "alt": "CELDYQUE PDRN 12% + EGF Peptide Cream visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-7dd522b85bc8",
+      "url": "https://images.unsplash.com/photo-1527066236128-2ff79f7b9705?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-niacinamide-20-advanced.html",
+          "alt": "CELDYQUE Niacinamide 20% Pore Minimizer Serum concept visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-1aaa51fc216d",
+      "url": "https://images.unsplash.com/photo-1522337660859-02fbefca4702?auto=format&fit=crop&q=80&w=800",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-niacinamide-20-advanced.html",
+          "alt": "CELDYQUE Niacinamide 20% Pore Minimizer Serum visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-b1860ccdda2c",
+      "url": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&q=80&w=800",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-niacinamide-20-advanced.html",
+          "alt": "CELDYQUE Niacinamide 20% Pore Minimizer Serum visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-79152ee43997",
+      "url": "https://images.unsplash.com/photo-1504548840739-580b10ae7715?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-pdrn-12-egf-cream.html",
+          "alt": "CELDYQUE PDRN 12% + EGF Peptide Cream concept visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-c069c12fbc23",
+      "url": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&q=80&w=800",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-pdrn-12-egf-cream.html",
+          "alt": "CELDYQUE PDRN 12% + EGF Peptide Cream visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-ddaf34a96d98",
+      "url": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80&w=1600",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-pdrn-12-egf.html",
+          "alt": "CELDYQUE PDRN 12% + EGF Peptide Serum concept visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-331693b85e0f",
+      "url": "https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&q=80&w=800",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-pdrn-12-egf.html",
+          "alt": "CELDYQUE PDRN 12% + EGF Peptide Serum visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-a79fe8884587",
+      "url": "https://images.unsplash.com/photo-1612181092745-472157c10002?q=80&w=1026&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-pdrn-12-egf.html",
+          "alt": "CELDYQUE PDRN 12% + EGF Peptide Serum visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-e3eed7f6f24c",
+      "url": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&q=80&w=1600",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-pdrn-25.html",
+          "alt": "CELDYQUE PDRN 250,000ppm Concentrate concept visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-fcc633854472",
+      "url": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?auto=format&fit=crop&q=80&w=800",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-pdrn-25.html",
+          "alt": "CELDYQUE PDRN 250,000ppm Concentrate visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-525847dad7f3",
+      "url": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?auto=format&fit=crop&q=80&w=800",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-pdrn-25.html",
+          "alt": "CELDYQUE PDRN 250,000ppm Concentrate visual",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    },
+    {
+      "asset_id": "remote-c855327ac07c",
+      "url": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&q=80&w=1600",
+      "kind": "remote_image",
+      "direct_img_references": [
+        {
+          "page": "product-volufiline-100.html",
+          "alt": "Paris, France",
+          "width": null,
+          "height": null
+        }
+      ],
+      "rights_status": "needs_verification",
+      "first_publication_date": null,
+      "ocr_verified": false
+    }
+  ]
+}

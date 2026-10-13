@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "status": "draft",
+  "product_ids": [
+    "volufiline-100",
+    "pdrn-25",
+    "pdrn-12-egf",
+    "pdrn-12-egf-cream",
+    "bakuchiol-30000",
+    "bakuchiol-volume-collagen-cream",
+    "blue-copper-peptide-bakuchiol-serum",
+    "arbutxa-glow-cream",
+    "glutathione-30000",
+    "niacinamide-20-advanced",
+    "azelaic-12",
+    "gentle-cleanser",
+    "cleansing-oil",
+    "9-peptide-scalp-serum"
+  ],
+  "active_count": 14,
+  "preserve_existing_product_urls": true
+}

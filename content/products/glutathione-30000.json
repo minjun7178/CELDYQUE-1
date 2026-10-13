@@ -1,0 +1,306 @@
+{
+  "schema_version": 1,
+  "product_id": "glutathione-30000",
+  "catalog_status": "active",
+  "publication_status": "approved",
+  "language": "en",
+  "source_commit": "a150659d59365f91bcd3833816bb24130ccfe5ab",
+  "imported_on": "2026-10-12",
+  "approved_on": "2026-10-13",
+  "approved_by": "User / brand owner in this conversation",
+  "identity": {
+    "name": {
+      "value": "Glutathione Glow Serum 30,000 ppm",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-glutathione-30000"
+      ],
+      "source_section": "H1",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "schema_name": {
+      "value": "CELDYQUE Glutathione Glow Serum 30,000 ppm",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-glutathione-30000"
+      ],
+      "source_section": "Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "aliases": {
+      "value": [
+        "Glutathione Glow Serum 30,000 ppm",
+        "Glutathione Glow Serum 30,000 ppm"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-glutathione-30000"
+      ],
+      "source_section": "H1 / Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "current_url": "/product-glutathione-30000.html",
+    "canonical": "https://celdyque.com/product-glutathione-30000.html",
+    "legacy_urls": [],
+    "asin": {
+      "value": "B0DP4FG8B9",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-glutathione-30000"
+      ],
+      "source_section": "Product.identifier",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "formula_version": null,
+    "market_label_version": null
+  },
+  "specifications": {
+    "size": {
+      "value": "30 ml / 1 fl oz",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-glutathione-30000"
+      ],
+      "source_section": "Product.size",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "category": {
+      "value": "Face Serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-glutathione-30000"
+      ],
+      "source_section": "Product.category",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "format": {
+      "value": "Face serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-glutathione-30000"
+      ],
+      "source_section": "Product body / format description",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "texture": {
+      "value": "Lightweight serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-glutathione-30000"
+      ],
+      "source_section": "Ingredients / texture",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "routine_step": {
+      "value": "Before moisturizer",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-glutathione-30000"
+      ],
+      "source_section": "How to Use",
+      "verified_on": null,
+      "reviewer": null
+    }
+  },
+  "formulation": {
+    "selected_ingredients": {
+      "value": [
+        "Glutathione",
+        "Niacinamide",
+        "Hyaluronic acid complex",
+        "Ceramide NP",
+        "Panthenol",
+        "Resveratrol",
+        "Hydrolyzed Vegetable Proteins"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-glutathione-30000"
+      ],
+      "source_section": "Key Ingredients / formula summary",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "full_inci": {
+      "value": null,
+      "status": "needs_verification",
+      "evidence_ids": [],
+      "reason": "Current website provides selected ingredients or refers to packaging; no verified full label supplied."
+    },
+    "concentration_labels": {
+      "value": [
+        "Glutathione 30,000 ppm",
+        "5-type Hyaluronic Acid Complex"
+      ],
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-glutathione-30000"
+      ],
+      "source_section": "Product title / body / metadata",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "concentration_basis": null,
+    "raw_ingredient_vs_finished_formula": null
+  },
+  "directions": {
+    "draft_steps": {
+      "value": [
+        "Apply after cleansing and toning.",
+        "The current directions specify 2–3 drops to the face; gently pat in.",
+        "Follow with moisturizer and use sunscreen in the morning according to its label."
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-glutathione-30000"
+      ],
+      "source_section": "How to Use; conservative editorial restatement",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "original_text": {
+      "value": "How to Use 1 Apply After cleansing and toning, apply 2-3 drops to the face. 2 Pat Gently pat until absorbed. 3 Layer Follow with moisturizer and use sunscreen in the morning. Use consistently for best visible radiance results.",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-glutathione-30000"
+      ],
+      "source_section": "#how-to-use",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "manufacturer_confirmed": false,
+    "shelf_life": null,
+    "period_after_opening": null
+  },
+  "observed_copy": {
+    "original_description": "CELDYQUE Glutathione Glow Serum 30,000 ppm combines Glutathione, Niacinamide, Resveratrol, 5-type Hyaluronic Acid, Ceramide NP, Panthenol and botanical proteins for radiance, dark spot appearance and hydration care.",
+    "original_ingredient_text": "Key Ingredients Glutathione · Niacinamide · Resveratrol Glow SerumHydratingDewy FinishTone Care Key Ingredients: Glutathione 30,000 ppm, Niacinamide, 5-type Hyaluronic Acid Complex, Ceramide NP, Panthenol, Resveratrol and Hydrolyzed Vegetable Proteins. Benefits: Bright-looking radiance, even-looking tone, hydration and soothing support. Texture: Lightweight, fast-absorbing serum that leaves a dewy finish. Refer to the product packaging for the complete and most current ingredient list. For external use only. Avoid direct contact with the eyes. Perform a patch test before first use. Discontinue use if persistent irritation occurs. Keep out of reach of children.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "What is Glutathione Glow Serum for?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It is a radiance serum for bright-looking, even-looking, hydrated skin."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use it daily?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Use morning or evening as tolerated."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Should I use sunscreen?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Sunscreen helps support tone-care routines during the day."
+        }
+      }
+    ]
+  },
+  "retailers": [
+    {
+      "retailer_id": "amazon",
+      "asin": "B0DP4FG8B9",
+      "identity_url": "https://www.amazon.com/dp/B0DP4FG8B9",
+      "purchase_urls": [
+        "https://www.amazon.com/Glutathione-Serum-Spots-Uneven-Radiance-Boosting/dp/B0DP4FG8B9?maas=maas_adg_D93AB1E59E3F992E567F61E5457CA82B_afap_abs&ref_=aa_maas&tag=maas&th=1"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-glutathione-30000"
+      ],
+      "live_stock": null,
+      "live_price": null
+    }
+  ],
+  "media": {
+    "primary_image": "/images/제품/Mask group-2.webp",
+    "alt": "CELDYQUE Glutathione Glow Serum 30,000 ppm, 30 ml / 1 fl oz, dropper bottle",
+    "rights_status": "needs_verification"
+  },
+  "claims_held_for_review": [
+    {
+      "claim": "Guaranteed spot removal",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-glutathione-30000"
+      ],
+      "supporting_product_evidence": []
+    },
+    {
+      "claim": "Unverified antioxidant performance of the finished formula",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-glutathione-30000"
+      ],
+      "supporting_product_evidence": []
+    }
+  ],
+  "open_questions": [
+    {
+      "id": "glutathione-30000-Q1",
+      "question": "Confirm Glutathione 30,000 ppm and the five-type hyaluronic acid blend.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "glutathione-30000-Q2",
+      "question": "Obtain full INCI and current use directions.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "glutathione-30000-Q3",
+      "question": "Verify any radiance, tone or antioxidant finished-product claims.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    }
+  ],
+  "related_product_ids": [
+    "arbutxa-glow-cream",
+    "niacinamide-20-advanced"
+  ],
+  "guide_ids": [
+    "tone-care"
+  ],
+  "copy_file": "copy/en/products/glutathione-30000.md",
+  "search_aliases": {
+    "value": [
+      "Glutathione Glow Serum 30,000 ppm"
+    ],
+    "status": "imported",
+    "evidence_ids": [
+      "site-product-glutathione-30000"
+    ],
+    "source_section": "H1; excludes unsupported efficacy tags",
+    "verified_on": null,
+    "reviewer": null
+  },
+  "faq_ids": [
+    "glutathione-30000-faq-1",
+    "glutathione-30000-faq-2",
+    "glutathione-30000-faq-3",
+    "glutathione-30000-faq-4"
+  ],
+  "catalog_reference": {
+    "file": "catalog-facts-2026.json",
+    "pages": [
+      22,
+      23
+    ],
+    "scope": "Catalog facts selected for publication; original observed_copy is historical."
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "schema_version": 1,
+  "product_id": "blue-copper-peptide-bakuchiol-serum",
+  "catalog_status": "active",
+  "publication_status": "approved",
+  "language": "en",
+  "source_commit": "a150659d59365f91bcd3833816bb24130ccfe5ab",
+  "imported_on": "2026-10-12",
+  "approved_on": "2026-10-13",
+  "approved_by": "User / brand owner in this conversation",
+  "identity": {
+    "name": {
+      "value": "Blue Copper Peptide Bakuchiol Serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-blue-copper-peptide-bakuchiol-serum"
+      ],
+      "source_section": "H1",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "schema_name": {
+      "value": "CELDYQUE Blue Copper Peptide Bakuchiol Serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-blue-copper-peptide-bakuchiol-serum"
+      ],
+      "source_section": "Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "aliases": {
+      "value": [
+        "Blue Copper Peptide Bakuchiol Serum",
+        "Blue Copper Peptide Bakuchiol Serum"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-blue-copper-peptide-bakuchiol-serum"
+      ],
+      "source_section": "H1 / Product.name",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "current_url": "/product-blue-copper-peptide-bakuchiol-serum.html",
+    "canonical": "https://celdyque.com/product-blue-copper-peptide-bakuchiol-serum.html",
+    "legacy_urls": [],
+    "asin": {
+      "value": "B0H6DCQPN8",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-blue-copper-peptide-bakuchiol-serum"
+      ],
+      "source_section": "Product.identifier",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "formula_version": null,
+    "market_label_version": null
+  },
+  "specifications": {
+    "size": {
+      "value": "30 ml / 1.01 fl oz",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-blue-copper-peptide-bakuchiol-serum"
+      ],
+      "source_section": "Product.size",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "category": {
+      "value": "Face Serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-blue-copper-peptide-bakuchiol-serum"
+      ],
+      "source_section": "Product.category",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "format": {
+      "value": "Face serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-blue-copper-peptide-bakuchiol-serum"
+      ],
+      "source_section": "Product body / format description",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "texture": {
+      "value": "Lightweight serum",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-blue-copper-peptide-bakuchiol-serum"
+      ],
+      "source_section": "Ingredients / texture",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "routine_step": {
+      "value": "Before moisturizer",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-blue-copper-peptide-bakuchiol-serum"
+      ],
+      "source_section": "How to Use",
+      "verified_on": null,
+      "reviewer": null
+    }
+  },
+  "formulation": {
+    "selected_ingredients": {
+      "value": [
+        "Copper Tripeptide-1",
+        "Bakuchiol",
+        "Acetyl Hexapeptide-8",
+        "sh-Oligopeptide-1",
+        "Palmitoyl Tripeptide-1",
+        "Palmitoyl Tetrapeptide-7",
+        "Niacinamide",
+        "Hydrolyzed Hyaluronic Acid",
+        "Hydrolyzed Collagen",
+        "Beta-Glucan",
+        "Panthenol",
+        "Allantoin",
+        "Betaine"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-blue-copper-peptide-bakuchiol-serum"
+      ],
+      "source_section": "Key Ingredients / formula summary",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "full_inci": {
+      "value": null,
+      "status": "needs_verification",
+      "evidence_ids": [],
+      "reason": "Current website provides selected ingredients or refers to packaging; no verified full label supplied."
+    },
+    "concentration_labels": {
+      "value": [
+        "12-Peptide Complex",
+        "Niacinamide 2%"
+      ],
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-blue-copper-peptide-bakuchiol-serum"
+      ],
+      "source_section": "Product title / body / metadata",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "concentration_basis": null,
+    "raw_ingredient_vs_finished_formula": null
+  },
+  "directions": {
+    "draft_steps": {
+      "value": [
+        "Apply after cleansing and toning.",
+        "The current directions specify 2–3 drops over the face and neck.",
+        "Gently pat in, then follow with moisturizer. Follow your sunscreen label in the morning."
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-blue-copper-peptide-bakuchiol-serum"
+      ],
+      "source_section": "How to Use; conservative editorial restatement",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "original_text": {
+      "value": "How to Use 1 Prep After cleansing and toning, make sure the face and neck are ready for serum application. 2 Apply Apply 2-3 drops to the face and neck. Add a small amount to visible smile-line or fine-line areas as desired. 3 Layer Gently pat until absorbed, then follow with moisturizer. Use sunscreen as the final morning step. Use morning and evening. Introduce gradually if your skin is new to active skincare ingredients.",
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-blue-copper-peptide-bakuchiol-serum"
+      ],
+      "source_section": "#how-to-use",
+      "verified_on": null,
+      "reviewer": null
+    },
+    "manufacturer_confirmed": false,
+    "shelf_life": null,
+    "period_after_opening": null
+  },
+  "observed_copy": {
+    "original_description": "CELDYQUE Blue Copper Peptide Bakuchiol Serum pairs Copper Tripeptide-1, Bakuchiol, Matrixyl 3000, Argireline, EGF, Niacinamide and Hyaluronic Acid for lightweight firming, plumping, smoothing and hydration care.",
+    "original_ingredient_text": "Key Ingredients Peptides · Hydration · Daily Firming Care Fragrance-FreeLightweightFast-AbsorbingNon-Greasy Peptide Complex: Copper Tripeptide-1 (GHK-Cu), Matrixyl 3000, Argireline / Acetyl Hexapeptide-8, EGF / sh-Oligopeptide-1, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7 and additional peptides in the 12-Peptide Complex. Firming & Radiance Care: Bakuchiol, Niacinamide 2%, Adenosine, Tocopherol and Guaiazulene. Hydration Support: Hydrolyzed Hyaluronic Acid, Hydrolyzed Collagen, Beta-Glucan, Panthenol, Allantoin and Betaine. Refer to the product packaging for the complete and most current ingredient list. For external use only. Avoid direct contact with the eyes. Perform a patch test before first use. Discontinue use if persistent irritation occurs. Keep out of reach of children.",
+    "original_faq": [
+      {
+        "@type": "Question",
+        "name": "What is Blue Copper Peptide Bakuchiol Serum used for?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It is a daily Korean face serum designed for the appearance of plumper, firmer, smoother and more hydrated-looking skin."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use it morning and night?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. It is designed for AM and PM routines. Use sunscreen as the final step in the morning."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is it fragrance-free?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. The formula is positioned as fragrance-free, lightweight and fast-absorbing."
+        }
+      }
+    ]
+  },
+  "retailers": [
+    {
+      "retailer_id": "amazon",
+      "asin": "B0H6DCQPN8",
+      "identity_url": "https://www.amazon.com/dp/B0H6DCQPN8",
+      "purchase_urls": [
+        "https://www.amazon.com/Copper-Peptide-Bakuchiol-Peptides-Plumping/dp/B0H6DCQPN8?maas=maas_adg_A56A81A3EC8F72AA086ACA835C80CF42_afap_abs&ref_=aa_maas&tag=maas&th=1"
+      ],
+      "status": "imported",
+      "evidence_ids": [
+        "site-product-blue-copper-peptide-bakuchiol-serum"
+      ],
+      "live_stock": null,
+      "live_price": null
+    }
+  ],
+  "media": {
+    "primary_image": "/images/제품/ms15.png",
+    "alt": "CELDYQUE Blue Copper Peptide Bakuchiol Serum, 30 ml / 1.01 fl oz, dropper bottle",
+    "rights_status": "needs_verification"
+  },
+  "claims_held_for_review": [
+    {
+      "claim": "Unsupported wrinkle reduction or peptide superiority",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-blue-copper-peptide-bakuchiol-serum"
+      ],
+      "supporting_product_evidence": []
+    },
+    {
+      "claim": "Unverified fragrance-free or trade-name ingredient certification",
+      "status": "needs_verification",
+      "evidence_ids": [
+        "site-product-blue-copper-peptide-bakuchiol-serum"
+      ],
+      "supporting_product_evidence": []
+    }
+  ],
+  "open_questions": [
+    {
+      "id": "blue-copper-peptide-bakuchiol-serum-Q1",
+      "question": "Verify the 12-peptide count, exact INCI and any trade-name blend references.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "blue-copper-peptide-bakuchiol-serum-Q2",
+      "question": "Verify Niacinamide 2%, fragrance-free wording and the 30 ml / 1.01 fl oz declaration.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    },
+    {
+      "id": "blue-copper-peptide-bakuchiol-serum-Q3",
+      "question": "Support any smile-line, firming or plumping claims with appropriate finished-product evidence.",
+      "status": "open",
+      "owner_role": "Brand / manufacturer"
+    }
+  ],
+  "related_product_ids": [
+    "pdrn-12-egf",
+    "bakuchiol-volume-collagen-cream"
+  ],
+  "guide_ids": [],
+  "copy_file": "copy/en/products/blue-copper-peptide-bakuchiol-serum.md",
+  "search_aliases": {
+    "value": [
+      "Blue Copper Peptide Bakuchiol Serum"
+    ],
+    "status": "imported",
+    "evidence_ids": [
+      "site-product-blue-copper-peptide-bakuchiol-serum"
+    ],
+    "source_section": "H1; excludes unsupported efficacy tags",
+    "verified_on": null,
+    "reviewer": null
+  },
+  "faq_ids": [
+    "blue-copper-peptide-bakuchiol-serum-faq-1",
+    "blue-copper-peptide-bakuchiol-serum-faq-2",
+    "blue-copper-peptide-bakuchiol-serum-faq-3",
+    "blue-copper-peptide-bakuchiol-serum-faq-4"
+  ],
+  "catalog_reference": {
+    "file": "catalog-facts-2026.json",
+    "pages": [
+      30,
+      31
+    ],
+    "scope": "Catalog facts selected for publication; original observed_copy is historical."
+  }
+}

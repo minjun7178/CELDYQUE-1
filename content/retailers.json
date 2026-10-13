@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "retailers": [
+    {
+      "retailer_id": "amazon",
+      "label": "Amazon",
+      "url": "https://www.amazon.com/stores/page/176EC99B-F37D-4FC8-BC48-E30CEC0FA252?maas=maas_adg_E856BC7BDD5C52C4C8DD6D3C8EFCB0D8_afap_abs&ref_=aa_maas&tag=maas&ingress=3",
+      "status": "imported",
+      "evidence_ids": [
+        "site-store"
+      ],
+      "authorized_status": "needs_verification",
+      "regional_availability": null,
+      "live_checked_on": null
+    },
+    {
+      "retailer_id": "tiktok",
+      "label": "TikTok Shop",
+      "url": "https://www.tiktok.com/@celdyque",
+      "status": "imported",
+      "evidence_ids": [
+        "site-store"
+      ],
+      "authorized_status": "needs_verification",
+      "regional_availability": null,
+      "live_checked_on": null
+    },
+    {
+      "retailer_id": "yesstyle",
+      "label": "YesStyle",
+      "url": "https://www.yesstyle.com/en/celdyque/list.html/bpt.299_bid.331400",
+      "status": "imported",
+      "evidence_ids": [
+        "site-store"
+      ],
+      "authorized_status": "needs_verification",
+      "regional_availability": null,
+      "live_checked_on": null
+    },
+    {
+      "retailer_id": "stylevana",
+      "label": "Stylevana",
+      "url": "https://www.stylevana.com/en_US/brands/celdyque.html",
+      "status": "imported",
+      "evidence_ids": [
+        "site-store"
+      ],
+      "authorized_status": "needs_verification",
+      "regional_availability": null,
+      "live_checked_on": null
+    }
+  ],
+  "note": "Existing links preserved. Current availability, authorization, account ownership and regional terms not independently verified."
+}

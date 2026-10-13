@@ -59,13 +59,14 @@ class ProductsNavigationTests(unittest.TestCase):
             url = '/partials/' + partial + '.html' + version
             self.assertIn(url, site)
             self.assertIn(url, worker)
-        self.assertIn('/assets/site.js' + version, worker)
-        self.assertIn('celdyque-v9-preview-optimization', worker)
+        script_version = '?v=20261013-product-content'
+        self.assertIn('/assets/site.js' + script_version, worker)
+        self.assertIn('celdyque-v10-product-content', worker)
         for name, doc in self.pages.items():
             for script in doc.find('script'):
                 src = script.attrs.get('src', '')
                 if urlparse(src).path == '/assets/site.js':
-                    self.assertEqual(src, '/assets/site.js' + version, name)
+                    self.assertEqual(src, '/assets/site.js' + script_version, name)
 
     def test_mobile_navigation_and_catalog_guards_exist(self):
         header = (ROOT / 'partials/header.html').read_text(encoding='utf-8')

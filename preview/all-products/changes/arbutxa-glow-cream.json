@@ -1,0 +1,588 @@
+{
+  "source": "product-arbutxa-glow-cream.html",
+  "source_sha256": "cf57fbd31870bcacc5b3506a43319eadb0d4ab0e7f07f0326236e72d97da71fb",
+  "status": "draft",
+  "changes": [
+    {
+      "tag": "div",
+      "class": "product-kicker",
+      "id": null,
+      "before": "Tone and Dark Spot Care",
+      "after": "Moisturizer"
+    },
+    {
+      "tag": "p",
+      "class": "subtitle",
+      "id": null,
+      "before": "Arbutin 7%, Tranexamic Acid 5% and Niacinamide 2% for uneven-looking tone. · 50 ml / 1.7 fl oz",
+      "after": "Moisturizer · 50 ml / 1.7 fl oz"
+    },
+    {
+      "tag": "p",
+      "class": "desc-text",
+      "id": null,
+      "before": "CELDYQUE ArbutXA Glow Cream features Arbutin 7%, Tranexamic Acid 5%, Niacinamide 2%, Alpha-Arbutin, Cica, Heartleaf, Green Tea, Hyaluronic Acid and Ceramide NP for dark spot, uneven tone and hydration care.",
+      "after": "CELDYQUE ArbutXA Glow Cream is a moisturizer with Arbutin 5%, Alpha-Arbutin 2%, Tranexamic Acid 5% and Niacinamide 2%, applied after serum."
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Arbutin 7%",
+      "after": "Arbutin 5%"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "TXA 5%",
+      "after": "Alpha-Arbutin 2%"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Niacinamide 2%",
+      "after": "TXA 5%"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Alpha-Arbutin",
+      "after": "Niacinamide 2%"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Cica",
+      "after": "Cream format"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Heartleaf",
+      "after": "After serum"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Green Tea",
+      "after": "Centella"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Ceramide NP",
+      "after": "50 ml"
+    },
+    {
+      "tag": "ul",
+      "class": "features-list",
+      "id": null,
+      "before": "<li>Arbutin 7% for clarity care</li>\n          <li>Tranexamic Acid 5% for dark spot appearance</li>\n          <li>Niacinamide 2% for tone and texture</li>\n          <li>Soothing Cica, Heartleaf and Green Tea Complex</li>\n          <li>Multi-depth hydration with Hyaluronic Acid</li>",
+      "after": "<li>Cream format</li>\n<li>Routine: Cream step</li>\n<li>Apply a moderate amount after serum.</li>\n<li>Spread evenly across the face and neck according to the packaging directions.</li>\n<li>Follow the sunscreen directions for daytime use.</li>"
+    },
+    {
+      "tag": "span",
+      "class": "banner-tag",
+      "id": null,
+      "before": "Arbutin x TXA x Niacinamide",
+      "after": "Moisturizer · 50 ml"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": null,
+      "before": "Tone care for a visibly clearer glow.",
+      "after": "The cream step after your serum."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A focused cream for dark spot appearance, uneven-looking tone and barrier-friendly hydration.",
+      "after": "Choose ArbutXA Glow Cream for the moisturizer step. Glutathione Glow Serum and Niacinamide 20% Pore Minimizer Serum are serum formats applied earlier in a routine."
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": null,
+      "before": "Triple Tone-Care Active Blend",
+      "after": "Where it fits."
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "7%",
+      "after": "50 ml"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Arbutin",
+      "after": "Listed size"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "5%",
+      "after": "Cream"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "TXA",
+      "after": "Product format"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "2%",
+      "after": "Label"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Niacinamide",
+      "after": "Directions first"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Arbutin, Tranexamic Acid and Niacinamide create a clear, search-readable tone-care story for discoloration appearance and uneven-looking radiance.",
+      "after": "Choose ArbutXA Glow Cream for the moisturizer step. Glutathione Glow Serum and Niacinamide 20% Pore Minimizer Serum are serum formats applied earlier in a routine."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Alpha-Arbutin reinforces the bright-looking positioning while keeping the claim language cosmetic and appearance-focused.",
+      "after": "CELDYQUE ArbutXA Glow Cream is a moisturizer with Arbutin 5%, Alpha-Arbutin 2%, Tranexamic Acid 5% and Niacinamide 2%, applied after serum."
+    },
+    {
+      "tag": "h4",
+      "class": null,
+      "id": null,
+      "before": "Clinical tone care, soft glow finish.",
+      "after": "The cream step after your serum."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "The original clarity image is preserved inside the updated premium product layout.",
+      "after": "Use the application method and routine step for this specific product."
+    },
+    {
+      "tag": "div",
+      "class": "ev-chips",
+      "id": null,
+      "before": "<span>Arbutin</span><span>TXA</span><span>Niacinamide</span>",
+      "after": "<span>Cream</span><span>50 ml</span><span>Directions</span>"
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": null,
+      "before": "Calm Hydration Support",
+      "after": "Read the complete formula."
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Cica",
+      "after": "Format"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Soothing care",
+      "after": "Routine role"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Heartleaf",
+      "after": "INCI"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Comfort",
+      "after": "Full ingredient list"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "HA",
+      "after": "Label"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Hydration",
+      "after": "Current instructions"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Cica, Heartleaf and Green Tea help balance the high-active tone-care profile with a calmer skin feel.",
+      "after": "Formulated with Arbutin 5%, Alpha-Arbutin 2%, Tranexamic Acid 5% and Niacinamide 2%. Arbutin and Alpha-Arbutin are listed separately. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Hyaluronic Acid and Ceramide NP support comfortable hydration and barrier care.",
+      "after": "Selected ingredients are a summary. Check the complete declaration on your packaging when comparing formulas."
+    },
+    {
+      "tag": "h4",
+      "class": null,
+      "id": null,
+      "before": "Soothing moisture for daily use.",
+      "after": "Ingredients in context."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A hydration visual retained from the original page to keep the product&#x27;s existing photo direction.",
+      "after": "Explore selected ingredients below and check your packaging for the complete ingredient list."
+    },
+    {
+      "tag": "div",
+      "class": "ev-chips",
+      "id": null,
+      "before": "<span>Cica</span><span>Heartleaf</span><span>Ceramide</span>",
+      "after": "<span>Formula</span><span>INCI</span><span>Label</span>"
+    },
+    {
+      "tag": "div",
+      "class": "eyebrow",
+      "id": null,
+      "before": "Key Benefits",
+      "after": "Product at a Glance"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "benefits-title",
+      "before": "Designed around visible skincare results.",
+      "after": "The details that help you choose."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "CELDYQUE ArbutXA Glow Cream features Arbutin 7%, Tranexamic Acid 5%, Niacinamide 2%, Alpha-Arbutin, Cica, Heartleaf, Green Tea, Hyaluronic Acid and Ceramide NP for dark spot, uneven tone and hydration care.",
+      "after": "Product format, application and label information in one place."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Dark Spot Appearance Care",
+      "after": "Product Format"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Arbutin and Tranexamic Acid target the look of stubborn discoloration.",
+      "after": "Moisturizer."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Even-Looking Tone",
+      "after": "Listed Size"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Niacinamide supports a clearer, more balanced-looking complexion.",
+      "after": "50 ml / 1.7 fl oz."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Soothing Support",
+      "after": "First Step"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Cica, Heartleaf and Green Tea help comfort the skin.",
+      "after": "Apply a moderate amount after serum."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Barrier Hydration",
+      "after": "Application"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Hyaluronic Acid and Ceramide NP support moisture balance.",
+      "after": "Spread evenly across the face and neck according to the packaging directions."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Makeup-Friendly",
+      "after": "Finish the Step"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Smooth cream texture layers well under makeup.",
+      "after": "Follow the sunscreen directions for daytime use."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Daily Glow",
+      "after": "Before Use"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Designed for a more luminous-looking finish with consistent use.",
+      "after": "Read the complete ingredients and precautions on your current packaging."
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "architecture-title",
+      "before": "Tone-Care Architecture",
+      "after": "Selected Ingredient Information"
+    },
+    {
+      "tag": "p",
+      "class": "sub",
+      "id": null,
+      "before": "A high-signal ingredient breakdown for AI search, shopping search and product discovery.",
+      "after": "These selected names do not replace the complete INCI declaration on your packaging."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Arbutin 7%",
+      "after": "Arbutin"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Primary clarity-care active.",
+      "after": "Also listed: Alpha-Arbutin."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Tranexamic Acid 5%",
+      "after": "Tranexamic Acid"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Dark spot appearance and uneven tone care.",
+      "after": "Also listed: Niacinamide."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Niacinamide 2%",
+      "after": "Centella Asiatica Extract"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Tone, texture and radiance support.",
+      "after": "Also listed: Houttuynia Cordata Extract."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Alpha-Arbutin",
+      "after": "Green Tea Leaf Extract"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Additional bright-looking support.",
+      "after": "Also listed: Hyaluronic acid complex."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Cica + Heartleaf",
+      "after": "Ceramide NP"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Soothing support for comfort.",
+      "after": "Also listed: Adenosine."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Hyaluronic Acid + Ceramide",
+      "after": "Full INCI"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Hydration and barrier support.",
+      "after": "Check the complete ingredient declaration on the current packaging."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "After serum, apply a moderate amount evenly across the face and neck.",
+      "after": "Apply a moderate amount after serum."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Apply an extra thin layer to areas with visible dark spots or uneven-looking tone.",
+      "after": "Spread evenly across the face and neck according to the packaging directions."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Use sunscreen during the day to help prevent the look of new spots.",
+      "after": "Follow the sunscreen directions for daytime use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "For best results, use consistently and pair daytime use with sunscreen.",
+      "after": "Use morning and evening as tolerated, as the cream step of your routine."
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": "ingredients-title",
+      "before": "Key Ingredients",
+      "after": "Ingredient Information"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Arbutin · Tranexamic Acid · Niacinamide",
+      "after": "Selected ingredients · Complete list on packaging"
+    },
+    {
+      "tag": "div",
+      "class": "freefrom",
+      "id": null,
+      "before": "<span>Tone Care</span><span>Glow Cream</span><span>Hydrating</span><span>Daily Cream</span>",
+      "after": "<span>Selected summary</span><span>Check packaging</span>"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Key Ingredients:</strong> Arbutin 70,000 ppm, Tranexamic Acid 50,000 ppm, Niacinamide 20,000 ppm, Alpha-Arbutin, Centella Asiatica Extract, Houttuynia Cordata Extract, Green Tea Leaf Extract, Hyaluronic Acid Complex, Ceramide NP and Adenosine.",
+      "after": "<strong>Selected ingredients:</strong> Arbutin; Alpha-Arbutin; Tranexamic Acid; Niacinamide; Centella Asiatica Extract; Houttuynia Cordata Extract; Green Tea Leaf Extract; Hyaluronic acid complex; Ceramide NP; Adenosine."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Benefits:</strong> Dark spot appearance care, tone evenness, soothing support and barrier hydration.",
+      "after": "Formulated with Arbutin 5%, Alpha-Arbutin 2%, Tranexamic Acid 5% and Niacinamide 2%. Arbutin and Alpha-Arbutin are listed separately. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Texture:</strong> Smooth, lightweight cream that layers well under makeup.",
+      "after": "<strong>Format:</strong> Cream."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Refer to the product packaging for the complete and most current ingredient list.",
+      "after": "<strong>About the ingredients:</strong> Niacinamide is studied in topical skincare for the appearance of uneven tone and fine lines. Research on one ingredient or another formulation does not establish how quickly this cream will change the appearance of dark spots.<br /><small>Research cited here concerns ingredients or other formulations, not a clinical trial of this CELDYQUE product. <a href=\"https://pubmed.ncbi.nlm.nih.gov/16029679/\" style=\"text-decoration:underline\">Bissett et al. — Niacinamide and facial skin appearance</a></small>"
+    },
+    {
+      "tag": "div",
+      "class": "caution",
+      "id": null,
+      "before": "For external use only. Avoid direct contact with the eyes. Perform a patch test before first use. Discontinue use if persistent irritation occurs. Keep out of reach of children.",
+      "after": "For external use only. Avoid direct contact with the eyes. Patch test before first use and discontinue use if persistent irritation occurs. Keep out of reach of children."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Answers written for shoppers, search engines and AI summaries looking for clear product guidance.",
+      "after": "Format, directions and ingredient information for this product."
+    },
+    {
+      "tag": "div",
+      "class": "faq-list",
+      "id": null,
+      "before": "<details class=\"faq-item\">\n          <summary>What is ArbutXA Glow Cream for?</summary>\n          <div class=\"faq-answer\">It is a tone-care cream for the appearance of dark spots, uneven-looking tone and dullness.</div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>Should I use sunscreen?</summary>\n          <div class=\"faq-answer\">Yes. Use sunscreen during the day, especially with tone-care routines.</div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>Can I use it morning and night?</summary>\n          <div class=\"faq-answer\">Yes, use as tolerated as the cream step of your routine.</div>\n        </details>",
+      "after": "<details class=\"faq-item\" id=\"arbutxa-glow-cream-faq-1\"><summary>Is this a serum or a cream?</summary><div class=\"faq-answer\">ArbutXA Glow Cream is a moisturizer with Arbutin 5%, Alpha-Arbutin 2%, Tranexamic Acid 5% and Niacinamide 2%. Apply it after serum as the cream step.</div></details>\n<details class=\"faq-item\" id=\"arbutxa-glow-cream-faq-2\"><summary>How does it differ from Glutathione Glow Serum?</summary><div class=\"faq-answer\">ArbutXA Glow Cream is the moisturizer format. Glutathione Glow Serum 30,000 ppm is a face serum applied before moisturizer. Its product page is linked below.</div></details>\n<details class=\"faq-item\" id=\"arbutxa-glow-cream-faq-3\"><summary>Can I use it morning and evening?</summary><div class=\"faq-answer\">Yes. Use as tolerated after serum as the cream step. Follow with sunscreen in the morning.</div></details>\n<details class=\"faq-item\" id=\"arbutxa-glow-cream-faq-4\"><summary>Where is the full ingredient list?</summary><div class=\"faq-answer\">Read the full ingredient declaration on your packaging. This page lists selected ingredients only.</div></details>\n<p style=\"margin-top:24px\"><a href=\"/faq.html\" style=\"text-decoration:underline\">More product questions</a> · <a href=\"/product-glutathione-30000.html\" style=\"text-decoration:underline\">Glutathione Glow Serum 30,000 ppm</a> · <a href=\"/product-niacinamide-20-advanced.html\" style=\"text-decoration:underline\">Niacinamide 20% Pore Minimizer Serum</a></p>"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "CELDYQUE ArbutXA Glow Cream features Arbutin 7%, Tranexamic Acid 5%, Niacinamide 2%, Alpha-Arbutin, Cica, Heartleaf, Green Tea, Hyaluronic Acid and Ceramide NP for dark spot, uneven tone and hydration care.",
+      "after": "Shop this product using the retailer links below. Check your retailer for prices, availability, delivery and returns."
+    }
+  ]
+}

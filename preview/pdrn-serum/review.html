@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>PDRN Serum — Original Design Review</title>
+<style>
+*{box-sizing:border-box}body{margin:0;font:14px/1.5 Arial,sans-serif;color:#222;background:#fafafa}header{display:flex;align-items:center;gap:20px;flex-wrap:wrap;padding:12px 22px;border-bottom:1px solid #ddd;background:white}h1{font-size:15px;margin:0}small{display:block;color:#666;font-size:11px}nav{display:flex;gap:8px;margin-left:auto}button,a{font:inherit}button{padding:9px 14px;border:1px solid #ccc;border-radius:20px;background:white;cursor:pointer}button[aria-pressed=true]{background:#222;color:white;border-color:#222}a{color:inherit;text-underline-offset:3px}details{padding:8px 22px;border-bottom:1px solid #ddd;background:#f4efdf}summary{cursor:pointer;font-size:12px}.notes{max-width:900px;font-size:13px}iframe{border:0;width:100%;height:calc(100dvh - 117px);min-height:520px;display:block;background:white}#state{font-size:12px;padding:4px 22px;margin:0;background:#f5f5f5}button:focus-visible,a:focus-visible,summary:focus-visible{outline:2px solid #1647c5;outline-offset:3px}@media(max-width:600px){header{gap:10px;padding:10px 14px}nav{margin:0;width:100%;align-items:center}nav a{margin-left:auto;font-size:12px}iframe{height:calc(100dvh - 160px)}}
+nav{flex-wrap:wrap;align-items:center}.change-tools{display:flex;align-items:center;gap:10px;flex-wrap:wrap;padding:8px 22px;background:#fff;border-bottom:1px solid #ddd}.change-tools button{padding:6px 12px;font-size:12px}.change-tools button:disabled{opacity:.45;cursor:default}#highlight[aria-pressed=true]{background:#fff3bf;color:#332400;border-color:#c98b00}.legend{font-size:12px;color:#66552b}iframe{height:calc(100dvh - 165px)}@media(max-width:600px){.change-tools{padding:8px 14px;gap:8px}iframe{height:calc(100dvh - 220px)}}
+</style></head><body>
+<header><div><h1>PDRN 12% + EGF Peptide Serum</h1><small>Original design · English content review · Local preview only</small></div><nav aria-label="Compare versions"><button data-src="/before.html" aria-pressed="false">Before</button><button data-src="/product-pdrn-12-egf.html" aria-pressed="true">After</button><a id="full" href="/product-pdrn-12-egf.html" target="_blank" rel="noopener">Open full page ↗</a></nav></header>
+<details><summary>What changed / review notes</summary><div class="notes"><p>The original typography, CSS, images, section order and Amazon buttons are preserved. Copy now explains the serum format, routine, selected ingredients and six product questions. Existing procedural-use and unsupported performance claims have been revised.</p><p>This remains a draft. The 12% concentration basis and complete INCI still require manufacturer documentation. Other pages are unchanged reference pages. No deployment or analytics runs in this preview.</p><p>The Before/After switch reloads the selected page from the top. The review bar is outside the website and is not part of the proposed design.</p></div></details>
+<div class="change-tools"><button id="highlight" aria-pressed="true">Highlight changes: ON</button><button id="next-change">Next change ↓</button><span class="legend" id="change-count" aria-live="polite">Yellow = revised text · Original styling stays underneath</span></div>
+<p id="state" aria-live="polite">Showing: After — proposed English copy</p>
+<iframe title="PDRN product page comparison" src="/product-pdrn-12-egf.html"></iframe>
+<script>
+const frame=document.querySelector('iframe'),highlight=document.getElementById('highlight'),next=document.getElementById('next-change'),count=document.getElementById('change-count');
+let showChanges=true,changeIndex=-1;
+function changedNodes(){return [...(frame.contentDocument?.querySelectorAll('[data-preview-changed]')||[])];}
+function applyHighlights(){
+  const doc=frame.contentDocument;if(!doc)return;
+  let style=doc.getElementById('review-highlights');
+  if(!style){style=doc.createElement('style');style.id='review-highlights';style.textContent='html.review-changes [data-preview-changed]{background:#fff3bf!important;color:#17191f!important;outline:2px solid #c98b00;outline-offset:3px;border-radius:3px;scroll-margin-top:110px}html.review-changes [data-preview-changed] *{color:inherit}';doc.head.appendChild(style);}
+  doc.documentElement.classList.toggle('review-changes',showChanges);
+  const nodes=changedNodes();
+  highlight.disabled=!nodes.length;next.disabled=!nodes.length;
+  highlight.setAttribute('aria-pressed',String(showChanges));highlight.textContent='Highlight changes: '+(showChanges?'ON':'OFF');
+  count.textContent=nodes.length?nodes.length+' revised areas · Yellow = changed text':'Before — original page, no highlights';
+}
+frame.addEventListener('load',()=>{changeIndex=-1;applyHighlights();});
+highlight.addEventListener('click',()=>{showChanges=!showChanges;applyHighlights();});
+next.addEventListener('click',()=>{const nodes=changedNodes();if(!nodes.length)return;showChanges=true;applyHighlights();changeIndex=(changeIndex+1)%nodes.length;const view=frame.contentWindow;view.scrollTo({top:view.scrollY+nodes[changeIndex].getBoundingClientRect().top-view.innerHeight/2,behavior:'smooth'});count.textContent='Change '+(changeIndex+1)+' of '+nodes.length+' · Yellow = changed text';});
+document.querySelectorAll('button[data-src]').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('button[data-src]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));frame.src=b.dataset.src;document.getElementById('full').href=b.dataset.src;document.getElementById('state').textContent=b.textContent==='Before'?'Showing: Before — existing website copy':'Showing: After — proposed English copy';}));
+applyHighlights();
+</script>
+</body></html>

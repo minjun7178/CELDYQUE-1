@@ -1,0 +1,567 @@
+{
+  "source": "product-azelaic-12.html",
+  "source_sha256": "75b1a844e1e03831b2ce728950a72215496b8c29fd750096330c74a8327a4c2a",
+  "status": "draft",
+  "changes": [
+    {
+      "tag": "div",
+      "class": "product-kicker",
+      "id": null,
+      "before": "Redness and Tone Care",
+      "after": "Face serum"
+    },
+    {
+      "tag": "p",
+      "class": "subtitle",
+      "id": null,
+      "before": "Azelaic Acid 12%, Salicylic Acid, Tranexamic Acid and Cica for calm-looking clarity. · 30 ml / 1 fl oz",
+      "after": "Face serum · 30 ml / 1 fl oz"
+    },
+    {
+      "tag": "p",
+      "class": "desc-text",
+      "id": null,
+      "before": "CELDYQUE Azelaic Acid 12% Serum combines Azelaic Acid, Salicylic Acid, Tranexamic Acid, Niacinamide, Centella, Panthenol, Ceramide, Hyaluronic Acid and a Vitamin C derivative for redness appearance, acne-prone and dark spot care.",
+      "after": "CELDYQUE Azelaic Acid 12% Topical Serum is a face serum applied after toner and before moisturizer."
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Azelaic Acid 12%",
+      "after": "Azelaic Acid"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Salicylic Acid",
+      "after": "Tranexamic Acid"
+    },
+    {
+      "tag": "span",
+      "class": "badge hero",
+      "id": null,
+      "before": "Tranexamic Acid",
+      "after": "Salicylic Acid"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Centella",
+      "after": "Panthenol"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Panthenol",
+      "after": "Centella"
+    },
+    {
+      "tag": "span",
+      "class": "badge",
+      "id": null,
+      "before": "Vitamin C Derivative",
+      "after": "30 ml"
+    },
+    {
+      "tag": "ul",
+      "class": "features-list",
+      "id": null,
+      "before": "<li>Azelaic Acid 12% for redness appearance and tone care</li>\n          <li>Salicylic Acid / BHA for clogged-pore routines</li>\n          <li>Tranexamic Acid for dark spot appearance</li>\n          <li>Soothing Centella and Panthenol</li>\n          <li>Lightweight, fast-absorbing formula</li>",
+      "after": "<li>Lightweight serum format</li>\n<li>Routine: Before moisturizer</li>\n<li>Apply after cleansing and toner, following the amount on your packaging.</li>\n<li>Introduce the product gradually, following its directions.</li>\n<li>Follow with moisturizer and use sunscreen during the day according to its label.</li>"
+    },
+    {
+      "tag": "span",
+      "class": "banner-tag",
+      "id": null,
+      "before": "Azelaic Acid x BHA x TXA",
+      "after": "Face serum · 30 ml"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": null,
+      "before": "Calm-looking clarity for uneven, breakout-prone skin.",
+      "after": "After toner. Before moisturizer."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A lightweight serum designed around redness appearance, clogged-pore routines and post-blemish tone care.",
+      "after": "Use it as a separate serum step. Read the complete ingredient list when choosing products for your routine, as this formula includes more than one highlighted ingredient."
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": null,
+      "before": "Azelaic Acid 12% Clarity Care",
+      "after": "Where it fits."
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "12%",
+      "after": "30 ml"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Azelaic Acid",
+      "after": "Listed size"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "BHA",
+      "after": "Serum"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Pore care",
+      "after": "Product format"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Cica",
+      "after": "Label"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Comfort",
+      "after": "Directions first"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Azelaic Acid 12% helps position the serum for redness appearance, texture and uneven-looking clarity.",
+      "after": "Use it as a separate serum step. Read the complete ingredient list when choosing products for your routine, as this formula includes more than one highlighted ingredient."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Salicylic Acid adds a pore-care angle for clogged-pore and blemish-prone routines.",
+      "after": "CELDYQUE Azelaic Acid 12% Topical Serum is a face serum applied after toner and before moisturizer."
+    },
+    {
+      "tag": "h4",
+      "class": null,
+      "id": null,
+      "before": "Calm and clear skin story.",
+      "after": "After toner. Before moisturizer."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "The existing clear complexion visual remains part of the updated page.",
+      "after": "Use the application method and routine step for this specific product."
+    },
+    {
+      "tag": "div",
+      "class": "ev-chips",
+      "id": null,
+      "before": "<span>Azelaic Acid</span><span>BHA</span><span>Cica</span>",
+      "after": "<span>Serum</span><span>30 ml</span><span>Directions</span>"
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": null,
+      "before": "Post-Blemish Tone Support",
+      "after": "Read the complete formula."
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "TXA",
+      "after": "Format"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Dark spot care",
+      "after": "Routine role"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Niacinamide",
+      "after": "INCI"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Tone support",
+      "after": "Full ingredient list"
+    },
+    {
+      "tag": "div",
+      "class": "num",
+      "id": null,
+      "before": "Panthenol",
+      "after": "Label"
+    },
+    {
+      "tag": "div",
+      "class": "label",
+      "id": null,
+      "before": "Comfort",
+      "after": "Current instructions"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Tranexamic Acid and Niacinamide support a more even-looking tone after blemishes.",
+      "after": "Selected ingredients include Azelaic Acid 12%, Salicylic Acid and Tranexamic Acid. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Panthenol, Ceramide and Hyaluronic Acid help maintain comfort and hydration.",
+      "after": "Selected ingredients are a summary. Check the complete declaration on your packaging when comparing formulas."
+    },
+    {
+      "tag": "h4",
+      "class": null,
+      "id": null,
+      "before": "Spot appearance care with hydration.",
+      "after": "Ingredients in context."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "A retained spot-care visual supports the product&#x27;s original image language.",
+      "after": "Explore selected ingredients below and check your packaging for the complete ingredient list."
+    },
+    {
+      "tag": "div",
+      "class": "ev-chips",
+      "id": null,
+      "before": "<span>Tranexamic Acid</span><span>Niacinamide</span><span>Ceramide</span>",
+      "after": "<span>Formula</span><span>INCI</span><span>Label</span>"
+    },
+    {
+      "tag": "div",
+      "class": "eyebrow",
+      "id": null,
+      "before": "Key Benefits",
+      "after": "Product at a Glance"
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "benefits-title",
+      "before": "Designed around visible skincare results.",
+      "after": "The details that help you choose."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "CELDYQUE Azelaic Acid 12% Serum combines Azelaic Acid, Salicylic Acid, Tranexamic Acid, Niacinamide, Centella, Panthenol, Ceramide, Hyaluronic Acid and a Vitamin C derivative for redness appearance, acne-prone and dark spot care.",
+      "after": "Product format, application and label information in one place."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Redness Appearance Care",
+      "after": "Product Format"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Azelaic Acid supports calm-looking skin.",
+      "after": "Face serum."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Acne-Prone Routine Support",
+      "after": "Listed Size"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "BHA supports clogged-pore care.",
+      "after": "30 ml / 1 fl oz."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Dark Spot Appearance",
+      "after": "First Step"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "TXA and Niacinamide target uneven-looking tone.",
+      "after": "Apply after cleansing and toner, following the amount on your packaging."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Hydration Comfort",
+      "after": "Application"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Panthenol and Hyaluronic Acid support moisture.",
+      "after": "Introduce the product gradually, following its directions."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Barrier Support",
+      "after": "Finish the Step"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Ceramide NP helps maintain comfort.",
+      "after": "Follow with moisturizer and use sunscreen during the day according to its label."
+    },
+    {
+      "tag": "h3",
+      "class": null,
+      "id": null,
+      "before": "Lightweight Layering",
+      "after": "Before Use"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Non-greasy serum texture works under cream and sunscreen.",
+      "after": "Read the complete ingredients and precautions on your current packaging."
+    },
+    {
+      "tag": "h2",
+      "class": "serif",
+      "id": "architecture-title",
+      "before": "Azelaic Serum Architecture",
+      "after": "Selected Ingredient Information"
+    },
+    {
+      "tag": "p",
+      "class": "sub",
+      "id": null,
+      "before": "A high-signal active blend for redness appearance, pore care and tone care search intent.",
+      "after": "These selected names do not replace the complete INCI declaration on your packaging."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Azelaic Acid 12%",
+      "after": "Azelaic Acid"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Hero active for redness appearance and uneven texture care.",
+      "after": "Also listed: Tranexamic Acid."
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "BHA for clogged-pore routines.",
+      "after": "Also listed: Niacinamide."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Tranexamic Acid",
+      "after": "Centella Asiatica Extract"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Dark spot appearance support.",
+      "after": "Also listed: Panthenol."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Niacinamide",
+      "after": "Ceramide NP"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Tone and texture support.",
+      "after": "Also listed: Hyaluronic acid."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Centella + Panthenol",
+      "after": "Full INCI"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Soothing comfort.",
+      "after": "Check the complete ingredient declaration on the current packaging."
+    },
+    {
+      "tag": "div",
+      "class": "p-name",
+      "id": null,
+      "before": "Ceramide + Hyaluronic Acid",
+      "after": "Formula Details"
+    },
+    {
+      "tag": "div",
+      "class": "p-desc",
+      "id": null,
+      "before": "Barrier hydration support.",
+      "after": "Selected ingredients include Azelaic Acid 12%, Salicylic Acid and Tranexamic Acid. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "After toner, apply a thin layer to the face or targeted areas.",
+      "after": "Apply after cleansing and toner, following the amount on your packaging."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Follow with a gentle moisturizer.",
+      "after": "Introduce the product gradually, following its directions."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Use sunscreen during the day.",
+      "after": "Follow with moisturizer and use sunscreen during the day according to its label."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Introduce gradually if your skin is new to acids or high-active serums.",
+      "after": "Introduce gradually and increase frequency as tolerated."
+    },
+    {
+      "tag": "h3",
+      "class": "serif",
+      "id": "ingredients-title",
+      "before": "Key Ingredients",
+      "after": "Ingredient Information"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Azelaic Acid · BHA · TXA · Cica",
+      "after": "Selected ingredients · Complete list on packaging"
+    },
+    {
+      "tag": "div",
+      "class": "freefrom",
+      "id": null,
+      "before": "<span>Redness Care</span><span>BHA</span><span>Tone Care</span><span>Lightweight</span>",
+      "after": "<span>Selected summary</span><span>Check packaging</span>"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Key Ingredients:</strong> Azelaic Acid 12%, Tranexamic Acid, Salicylic Acid, Niacinamide, Centella Asiatica Extract, Panthenol, Ceramide NP, Hyaluronic Acid and a Vitamin C derivative.",
+      "after": "<strong>Selected ingredients:</strong> Azelaic Acid; Tranexamic Acid; Salicylic Acid; Niacinamide; Centella Asiatica Extract; Panthenol; Ceramide NP; Hyaluronic acid."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Benefits:</strong> Redness appearance care, acne-prone routine support, spot fading appearance and even-looking tone.",
+      "after": "Selected ingredients include Azelaic Acid 12%, Salicylic Acid and Tranexamic Acid. Read the full ingredient declaration on your packaging before use."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "<strong>Texture:</strong> Lightweight, non-greasy serum that layers well under makeup.",
+      "after": "<strong>Format:</strong> Lightweight serum."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Refer to the product packaging for the complete and most current ingredient list.",
+      "after": "<strong>About the ingredients:</strong> Azelaic acid has been studied in topical formulations for facial pigmentation, including a study of a 20% cream. This is a 12% serum with a different formula, so those findings are ingredient background rather than clinical results for this product.<br /><small>Research cited here concerns ingredients or other formulations, not a clinical trial of this CELDYQUE product. <a href=\"https://pubmed.ncbi.nlm.nih.gov/9829446/\" style=\"text-decoration:underline\">Azelaic acid and facial pigmentation study</a></small>"
+    },
+    {
+      "tag": "div",
+      "class": "caution",
+      "id": null,
+      "before": "For external use only. Avoid direct contact with the eyes. Perform a patch test before first use. Discontinue use if persistent irritation occurs. Keep out of reach of children.",
+      "after": "For external use only. Avoid direct contact with the eyes. Patch test before first use and discontinue use if persistent irritation occurs. Keep out of reach of children."
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "Answers written for shoppers, search engines and AI summaries looking for clear product guidance.",
+      "after": "Format, directions and ingredient information for this product."
+    },
+    {
+      "tag": "div",
+      "class": "faq-list",
+      "id": null,
+      "before": "<details class=\"faq-item\">\n          <summary>What is Azelaic Acid 12% Serum for?</summary>\n          <div class=\"faq-answer\">It is for redness appearance, clogged-pore routines and uneven-looking tone.</div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>Can I use it with moisturizer?</summary>\n          <div class=\"faq-answer\">Yes. Apply serum first, then moisturize.</div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>Should I use it every day?</summary>\n          <div class=\"faq-answer\">Introduce gradually and increase frequency as tolerated.</div>\n        </details>",
+      "after": "<details class=\"faq-item\" id=\"azelaic-12-faq-1\"><summary>Does it contain only azelaic acid?</summary><div class=\"faq-answer\">No. The selected ingredient list also includes ingredients such as niacinamide and panthenol. Read the full declaration on your packaging.</div></details>\n<details class=\"faq-item\" id=\"azelaic-12-faq-2\"><summary>Is it a prescription treatment?</summary><div class=\"faq-answer\">This is a cosmetic face serum. For a medical skin concern or prescription routine, ask your healthcare professional which skincare products are appropriate.</div></details>\n<details class=\"faq-item\" id=\"azelaic-12-faq-3\"><summary>Where does it go in the routine?</summary><div class=\"faq-answer\">Apply after toner and before moisturizer.</div></details>\n<details class=\"faq-item\" id=\"azelaic-12-faq-4\"><summary>Should I start it with several new products?</summary><div class=\"faq-answer\">Introduce unfamiliar products gradually, following their labels, so you can assess how each fits your routine.</div></details>\n<p style=\"margin-top:24px\"><a href=\"/faq.html\" style=\"text-decoration:underline\">More product questions</a> · <a href=\"/product-niacinamide-20-advanced.html\" style=\"text-decoration:underline\">Niacinamide 20% Pore Minimizer Serum</a> · <a href=\"/product-gentle-cleanser.html\" style=\"text-decoration:underline\">Gentle Cleanser Purifying Touch</a></p>"
+    },
+    {
+      "tag": "p",
+      "class": null,
+      "id": null,
+      "before": "CELDYQUE Azelaic Acid 12% Serum combines Azelaic Acid, Salicylic Acid, Tranexamic Acid, Niacinamide, Centella, Panthenol, Ceramide, Hyaluronic Acid and a Vitamin C derivative for redness appearance, acne-prone and dark spot care.",
+      "after": "Shop this product using the retailer links below. Check your retailer for prices, availability, delivery and returns."
+    }
+  ]
+}
