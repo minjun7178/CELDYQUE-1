@@ -1,6 +1,12 @@
 # 카탈로그 기준 콘텐츠 배포 — 2026-10-13
 
-상태: 사용자 배포 승인 완료. 최종 로컬 검사 및 GitHub Pages 배포 진행 중.
+상태: 배포 완료. GitHub의 validate·deploy 작업 모두 성공했고, 공개 파일 21개가 최종 소스와 일치함을 확인했습니다.
+
+- 배포 커밋: `5f9e95e0e6b77e722e78ccb75824fcf9c5138717`
+- 배포 기록: https://github.com/minjun7178/CELDYQUE-1/actions/runs/38373242799
+- 공개 주소: https://celdyque.com/
+- 공개 검증: 제품 14개 + 홈페이지·FAQ·제품 목록 + sitemap·robots·service worker·검색 JS, 총 21개 모두 HTTP 200 및 내용 일치. Git 체크아웃의 CRLF/LF 차이만 정규화함.
+- 실제 공개 클렌징 오일 페이지의 녹차·어성초·LHA 표기를 브라우저에서도 확인함.
 
 ## 반영 범위
 
@@ -27,8 +33,8 @@
 - Before ZIP: `C:/Users/USER/Documents/celdyque/CELDYQUE-backups/before-after-20261013-144032/before.zip`
 - Before ZIP SHA-256: `a969661c182761ef72e868382cb55d1b91e225056c349fc1d1b82a718a6a71f2`
 - 최종 카탈로그 반영 직전 추가 스냅샷: 같은 백업 폴더의 `before-catalog-final-20261013-175350.zip`
-- 로컬 복구: `python -B scripts/restore_before_content.py`로 확인한 뒤 `--apply`로 적용. 실제 공개 사이트를 되돌리려면 복구한 변경을 커밋·푸시하여 다시 배포해야 함.
-- Git으로 배포 커밋을 되돌릴 때도 기존 Before 태그는 삭제하지 않음. 원본 ZIP은 이번 반영으로 수정하지 않음.
+- 로컬 복구: `python -B scripts/restore_before_content.py`로 확인한 뒤 `--apply`로 적용. 이는 로컬 사이트 파일 복구용입니다. 공개 사이트를 완전히 되돌릴 때는 아래 Git 복구 기준으로 검사 설정까지 함께 복구해야 함.
+- 공개 Before 복구 기준은 위 Before 태그 전체입니다. 배포 커밋을 revert하고 이후 문서 변경 충돌을 해결하거나, 이 태그 기준의 복구 커밋을 만들어 CI를 통과시킨 뒤 재배포합니다. 현재 원고 일치 검사는 After 원고용이므로 HTML만 Before로 바꿔서 푸시하지 않습니다. 기존 Before 태그는 삭제하지 않으며 원본 ZIP도 수정하지 않았습니다.
 
 ## 원고와 공개 범위
 
@@ -37,4 +43,4 @@
 - 승인 기록: `content/release-approval-2026-10-13.json`
 - 사이트 빌드는 실제 웹사이트 파일만 포함. 원고·백업·검토 문서·임시 파일·Before/After 미리보기·미공개 가이드 5개는 웹사이트에 포함하지 않음.
 
-공개 URL 반영 및 원격 CI 결과는 배포 완료 후 이 문서에 기록합니다. Google 색인 및 AI 추천 여부는 배포 성공과 별개의 관찰 대상입니다.
+원격 CI와 공개 URL 반영을 모두 확인했습니다. Google 색인 및 AI 추천 여부는 배포 성공과 별개의 관찰 대상입니다.

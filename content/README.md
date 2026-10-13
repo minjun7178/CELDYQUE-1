@@ -2,7 +2,7 @@
 
 Prepared: 12 October 2026.
 
-This package organizes all 14 active products and provides English editorial drafts, five guides, shared website copy and a working local application preview. **Draft preparation is complete; manufacturer verification is not.** On 13 October 2026, the user authorized applying the reviewed After content to local production source. All 14 product pages are integrated and backed up. The user authorized catalog-based finalization and deployment on 13 October 2026; see [current release status](../docs/deployment-2026-10-13.md). See the [integration and rollback record](../docs/after-integration-review-2026-10-13.md).
+This package organizes all 14 active products and provides English editorial drafts, five guides, shared website copy and a working local application preview. **Draft preparation is complete; manufacturer verification is not.** On 13 October 2026, the user authorized applying the reviewed After content to local production source. All 14 product pages are integrated and backed up. Catalog-aligned content was deployed on 13 October 2026 after local and remote CI checks; all 21 checked public files match the release. See [current release status](../docs/deployment-2026-10-13.md). See the [integration and rollback record](../docs/after-integration-review-2026-10-13.md).
 
 ## Current customer copy — 13 October 2026
 
