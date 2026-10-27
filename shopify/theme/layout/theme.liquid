@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="{{ request.locale.iso_code }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>{{ page_title | escape }} | CELDYQUÉ development preview</title>
+  <meta name="description" content="{{ page_description | default: shop.description | strip_html | escape }}">
+  <link rel="canonical" href="{{ canonical_url }}">
+  {{ content_for_header }}
+  {{ 'site.css' | asset_url | stylesheet_tag }}
+  {{ 'product.css' | asset_url | stylesheet_tag }}
+  {{ 'pilot.css' | asset_url | stylesheet_tag }}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <script src="{{ 'pilot.js' | asset_url }}" defer></script>
+</head>
+<body class="product">
+  <a href="#MainContent" class="pilot-skip">Skip to content</a>
+  {% render 'site-header' %}
+  {{ content_for_layout }}
+  {% render 'site-footer' %}
+</body>
+</html>

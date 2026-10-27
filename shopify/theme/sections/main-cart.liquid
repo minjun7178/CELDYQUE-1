@@ -1,0 +1,26 @@
+<main id="MainContent" class="container pilot-cart">
+  <p class="pilot-notice">Development preview · No real payments or fulfillment</p>
+  <h1 class="serif">Your cart.</h1>
+  {% if cart.item_count > 0 %}
+    {% form 'cart', cart, id: 'PilotCartForm' %}
+      <div class="pilot-cart-items">
+        {% for item in cart.items %}
+          <article class="pilot-cart-item">
+            <a href="{{ item.url }}"><img src="{{ 'arbutxa-glow-cream.webp' | asset_url }}" alt="{{ item.product.title | escape }}" width="110" height="156"></a>
+            <div><h2><a href="{{ item.url }}">{{ item.product.title | escape }}</a></h2><p>{{ item.final_price | money_with_currency }} each</p><a class="pilot-remove" href="{{ item.url_to_remove }}">Remove</a></div>
+            <label class="pilot-quantity" for="Quantity-{{ forloop.index }}">Quantity<input id="Quantity-{{ forloop.index }}" type="number" name="updates[]" value="{{ item.quantity }}" min="0" step="1" inputmode="numeric" aria-label="Quantity for {{ item.product.title | escape }}" required></label>
+            <p class="pilot-line-total">{{ item.final_line_price | money_with_currency }}</p>
+          </article>
+        {% endfor %}
+      </div>
+      <div class="pilot-cart-summary">
+        <p class="pilot-price">Subtotal <span class="pilot-subtotal">{{ cart.total_price | money_with_currency }}</span></p>
+        <p>US test delivery: $4.99 USD per order. Shipping and any applicable taxes are calculated at checkout.</p>
+        <p class="pilot-notice">Use test payment details only. Amazon fulfillment is not connected.</p>
+        <div class="action-group"><button type="submit" name="update" class="btn-secondary">Update cart</button><button type="submit" name="checkout" class="btn-buy">Checkout &rarr;</button></div>
+      </div>
+    {% endform %}
+  {% else %}<p>Your cart is empty.</p>{% endif %}
+  <a class="pilot-continue" href="{{ routes.root_url }}">&larr; Continue shopping</a>
+</main>
+{% schema %}{"name":"Cart","settings":[]}{% endschema %}

@@ -1,0 +1,16 @@
+<div id="pilot-buy" class="pilot-buy">
+{% if product != blank %}
+  {% assign variant = product.selected_or_first_available_variant %}
+  <p class="pilot-price">{{ variant.price | money_with_currency }} <span>Test price</span></p>
+  {% form 'product', product, id: 'PilotProductForm' %}
+    {{ form.errors | default_errors }}
+    <input type="hidden" name="id" value="{{ variant.id }}">
+    <input type="hidden" name="return_to" value="{{ routes.cart_url }}">
+    <div class="pilot-purchase-row">
+      <label class="pilot-quantity">Quantity<input type="number" name="quantity" value="1" min="1" step="1" inputmode="numeric" required></label>
+      <button type="submit" name="add" class="btn-buy" {% unless variant.available %}disabled{% endunless %}>{% if variant.available %}Add to cart &rarr;{% else %}Sold out{% endif %}</button>
+    </div>
+  {% endform %}
+  <p class="pilot-shipping">US test delivery: $4.99 USD per order. Shipping and any applicable taxes are calculated at checkout.</p>
+{% else %}<p>Test product setup is in progress.</p>{% endif %}
+</div>

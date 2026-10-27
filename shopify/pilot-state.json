@@ -1,0 +1,32 @@
+{
+  "environment": "development-only",
+  "store": "celdyque-dev-test.myshopify.com",
+  "branch": "codex/shopify-liquid-pilot",
+  "product": {
+    "id": "15658664296559",
+    "handle": "test-celdyque-arbutxa-glow-cream-50-ml",
+    "title": "[TEST] CELDYQUE ArbutXA Glow Cream — 50 ml",
+    "price": "19.99",
+    "currency": "USD",
+    "initial_test_stock": 10,
+    "status": "active",
+    "description_source": "approved existing product copy",
+    "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group-5.webp"
+  },
+  "market": {
+    "name": "United States — TEST",
+    "country": "US",
+    "currency": "USD",
+    "shipping_rate_name": "TEST Standard Shipping",
+    "shipping_rate": "4.99",
+    "transit_time": null
+  },
+  "payment_gateway": "Shopify Test payment gateway",
+  "theme": {"name": "CELDYQUE Original Pilot", "published": false, "uploaded": false},
+  "verified_checkout": false,
+  "amazon_fulfillment_connected": false,
+  "production_website_modified": false,
+  "production_price": null,
+  "amazon_seller_sku": null,
+  "production_shipping_policy": null
+}

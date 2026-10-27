@@ -1,0 +1,10 @@
+{
+  "sections": {
+    "main": {
+      "type": "pilot-home"
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
