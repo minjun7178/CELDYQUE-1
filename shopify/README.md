@@ -52,7 +52,13 @@ Shopify CLI authentication completed and the theme was uploaded successfully as 
 
 Preview: https://celdyque-dev-test.myshopify.com/?preview_theme_id=189650600047
 
-The preview currently requires the existing dev storefront password. The owner has been asked to enter it directly; it is not the Shopify account password. No cart/checkout success is claimed until storefront access and live browser verification finish. Production checkout and Amazon fulfillment remain unconnected.
+The owner entered the existing storefront password directly. On 2026-10-27 browser verification passed for product rendering, add to cart, quantity changes (2 units = USD 39.98), removal/empty cart, native product search, FAQ expansion, and the mobile purchase form/menu at 390px width. The viewport was restored afterward.
+
+Test checkout completed successfully: order **#1001**, Shopify order ID `18957541408879`, confirmation `3CN9FCYX1`. One unit at USD 19.99 plus TEST Standard Shipping at USD 4.99 totals **USD 24.98**. The confirmation page identifies Test Payment Gateway; admin records paid and unfulfilled. The address is deliberately synthetic and produces an address warning; it is not a shipping destination. No real payment or fulfillment took place.
+
+Card input iframes initially remained blank, including after a reload. Opening the same checkout in a fresh tab restored them and allowed the successful test. Keep this observation for browser regression testing; the cause is not established. Evidence screenshots are stored locally in ignored `shopify/evidence/`.
+
+Production checkout and Amazon fulfillment remain unconnected. Customer accounts are not yet implemented or verified. Before launch, replace test prices, shipping rules and address/contact defaults with confirmed business data and configure a real payment provider.
 
 For future updates, target the existing unpublished theme (do not create another one):
 

@@ -31,9 +31,26 @@
     "uploaded": true,
     "upload_status": "Uploaded via authenticated Shopify CLI; theme role unpublished",
     "preview_url": "https://celdyque-dev-test.myshopify.com/?preview_theme_id=189650600047",
-    "preview_access": "Waiting for storefront password; admin preferences and editor iframes render blank in browser tool"
+    "preview_access": "Owner entered storefront password; desktop and mobile product preview verified"
   },
-  "verified_checkout": false,
+  "verified_checkout": true,
+  "verification": {
+    "date": "2026-10-27",
+    "cart_add_update_remove": "passed; quantity 2 subtotal USD 39.98; empty cart verified",
+    "mobile": "390px viewport: purchase form and menu verified; viewport reset",
+    "search_and_faq": "passed",
+    "order_id": "18957541408879",
+    "order_name": "#1001",
+    "confirmation": "3CN9FCYX1",
+    "subtotal": "19.99",
+    "shipping": "4.99",
+    "total": "24.98",
+    "currency": "USD",
+    "payment": "Test Payment Gateway approved; admin shows paid",
+    "fulfillment": "unfulfilled; no real fulfillment requested",
+    "address": "synthetic US test address; admin address warning expected",
+    "checkout_loading_issue": "Card iframes initially stayed blank; a fresh checkout tab loaded correctly and test payment completed"
+  },
   "amazon_fulfillment_connected": false,
   "production_website_modified": false,
   "production_price": null,
