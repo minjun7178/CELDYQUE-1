@@ -48,4 +48,14 @@ Original Google Fonts and three Unsplash images are preserved. Shopify Theme Che
 
 Dev product 15658664296559 is saved and active, with the existing product image, USD 19.99 price, and 10 test units. US test market 65595277423 is active with TEST Standard Shipping at USD 4.99. Shopify Test payment gateway is active; automatic fulfillment is disabled.
 
-Theme ZIP is built, but has not yet been uploaded. The admin theme iframe remained blank after reload and re-entry. Official Shopify CLI is installed through npx and waiting for the owner's existing-account sign-in. No cart/checkout success is claimed until upload and live browser verification finish. Production checkout and Amazon fulfillment remain unconnected.
+Shopify CLI authentication completed and the theme was uploaded successfully as **unpublished**, ID `189650600047`. Horizon remains the live theme in the dev store. The admin Online Store preferences and editor iframes still render blank in the browser tool.
+
+Preview: https://celdyque-dev-test.myshopify.com/?preview_theme_id=189650600047
+
+The preview currently requires the existing dev storefront password. The owner has been asked to enter it directly; it is not the Shopify account password. No cart/checkout success is claimed until storefront access and live browser verification finish. Production checkout and Amazon fulfillment remain unconnected.
+
+For future updates, target the existing unpublished theme (do not create another one):
+
+```powershell
+npx.cmd --yes @shopify/cli@latest theme push --store celdyque-dev-test.myshopify.com --path shopify/theme --theme 189650600047 --strict --no-input
+```

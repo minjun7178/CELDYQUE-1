@@ -24,7 +24,15 @@
     "transit_time": null
   },
   "payment_gateway": "Shopify Test payment gateway",
-  "theme": {"name": "CELDYQUE Original Pilot", "published": false, "uploaded": false, "upload_status": "Pending Shopify CLI sign-in; admin theme iframe stayed blank"},
+  "theme": {
+    "name": "CELDYQUE Original Pilot",
+    "id": "189650600047",
+    "published": false,
+    "uploaded": true,
+    "upload_status": "Uploaded via authenticated Shopify CLI; theme role unpublished",
+    "preview_url": "https://celdyque-dev-test.myshopify.com/?preview_theme_id=189650600047",
+    "preview_access": "Waiting for storefront password; admin preferences and editor iframes render blank in browser tool"
+  },
   "verified_checkout": false,
   "amazon_fulfillment_connected": false,
   "production_website_modified": false,
