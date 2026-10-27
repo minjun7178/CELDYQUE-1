@@ -14,6 +14,8 @@
     "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group-5.webp"
   },
   "market": {
+    "id": "65595277423",
+    "status": "active",
     "name": "United States — TEST",
     "country": "US",
     "currency": "USD",
@@ -22,7 +24,7 @@
     "transit_time": null
   },
   "payment_gateway": "Shopify Test payment gateway",
-  "theme": {"name": "CELDYQUE Original Pilot", "published": false, "uploaded": false},
+  "theme": {"name": "CELDYQUE Original Pilot", "published": false, "uploaded": false, "upload_status": "Pending Shopify CLI sign-in; admin theme iframe stayed blank"},
   "verified_checkout": false,
   "amazon_fulfillment_connected": false,
   "production_website_modified": false,

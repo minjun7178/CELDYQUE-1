@@ -43,3 +43,9 @@ This pilot preserves one product page. Other brand, FAQ and retailer links still
 Checkout is Shopify hosted. Its layout is not controlled by this Liquid product template. Search uses Shopify's native product search; the existing header appearance is retained. Customer accounts and Amazon MCF are subsequent integrations, not implemented in this pilot.
 
 Original Google Fonts and three Unsplash images are preserved. Shopify Theme Check reports six `RemoteAsset` performance warnings and zero errors; these remote assets should be reviewed during full migration.
+
+## Current verification status
+
+Dev product 15658664296559 is saved and active, with the existing product image, USD 19.99 price, and 10 test units. US test market 65595277423 is active with TEST Standard Shipping at USD 4.99. Shopify Test payment gateway is active; automatic fulfillment is disabled.
+
+Theme ZIP is built, but has not yet been uploaded. The admin theme iframe remained blank after reload and re-entry. Official Shopify CLI is installed through npx and waiting for the owner's existing-account sign-in. No cart/checkout success is claimed until upload and live browser verification finish. Production checkout and Amazon fulfillment remain unconnected.
