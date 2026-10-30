@@ -97,6 +97,8 @@ listing = listing.replace(/<div id="siteHeader">[\s\S]*?<\/header><\/div>/, '')
 // The captured listing includes its original outer closing div; restore the opening tag.
 listing = '<main id="MainContent"><div class="page-wrap">' + listing + '</main>';
 listing = listing.replace('<section class="shop-section">', notice + '<section class="shop-section">');
+// Align the legacy collection label with the approved product title, without editing the public source.
+listing = listing.replace('Niacinamide 20%<br/>Advanced Serum', 'Niacinamide 20%<br/>Pore Minimizer Serum');
 write('assets/shop.css', inlineStyles(shop));
 write('sections/original-collection.liquid', links(media(listing)) + '\n{% schema %}{"name":"Original Products listing","settings":[]}{% endschema %}');
 write('templates/collection.json', JSON.stringify({sections:{main:{type:'original-collection'}},order:['main']},null,2));

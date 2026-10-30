@@ -100,8 +100,22 @@
     "real_fulfillment_requested": false,
     "excluded_test_orders": [
       "#1001",
-      "#1002"
+      "#1002",
+      "#1003"
     ]
+  },
+  "regression_2026_10_30": {
+    "report": "shopify/QA-2026-10-30.md",
+    "product_routes_checked": 14,
+    "mobile_width_px": 390,
+    "order_name": "#1003",
+    "order_id": "18962371575919",
+    "confirmation": "WVXZ57V6C",
+    "total_usd": "24.98",
+    "gateway": "Test Payment Gateway",
+    "fulfillment": "unfulfilled; no fulfillment requested",
+    "customer_order_history_verified": true,
+    "fresh_customer_login_repeated": false
   },
   "production_website_modified": false,
   "production_price": null,
