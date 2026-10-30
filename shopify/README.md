@@ -40,7 +40,7 @@ The ZIP is local and ignored by Git. Upload it using the development store theme
 
 This pilot preserves one product page. Other brand, FAQ and retailer links still point to the existing public site. The theme home displays the same pilot product for convenient preview; it is not the migrated production home page. Product copy is fixed to ArbutXA for now; adding more products requires separating shared layout from product-specific content.
 
-Checkout is Shopify hosted. Its layout is not controlled by this Liquid product template. Search uses Shopify's native product search; the existing header appearance is retained. Customer accounts and Amazon MCF are subsequent integrations, not implemented in this pilot.
+Checkout is Shopify hosted. Its layout is not controlled by this Liquid product template. Search uses Shopify's native product search; the existing header appearance is retained. Amazon MCF is not connected. Customer account implementation and verification status are recorded below.
 
 Original Google Fonts and three Unsplash images are preserved. Shopify Theme Check reports six `RemoteAsset` performance warnings and zero errors; these remote assets should be reviewed during full migration.
 
@@ -58,7 +58,17 @@ Test checkout completed successfully: order **#1001**, Shopify order ID `1895754
 
 Card input iframes initially remained blank, including after a reload. Opening the same checkout in a fresh tab restored them and allowed the successful test. Keep this observation for browser regression testing; the cause is not established. Evidence screenshots are stored locally in ignored `shopify/evidence/`.
 
-Production checkout and Amazon fulfillment remain unconnected. Customer accounts are not yet implemented or verified. Before launch, replace test prices, shipping rules and address/contact defaults with confirmed business data and configure a real payment provider.
+Production checkout and Amazon fulfillment remain unconnected. Before launch, replace test prices, shipping rules and address/contact defaults with confirmed business data and configure a real payment provider.
+
+## Customer accounts — 2026-10-30
+
+The Dev store already has Shopify customer accounts and sign-in links enabled. Its native account destination is `https://shopify.com/81818353775/account`. Use Shopify's passwordless email-code flow: first successful sign-in creates a customer profile if one does not exist; returning customers see orders associated with that email. Do not build or store passwords in this theme.
+
+The local theme adds an accessible header account icon, mobile Sign in / Create account and View orders links, footer account links, and a cart order-history link. Links use Liquid `routes.account_login_url` / `routes.account_url`, guarded by `shop.customer_accounts_enabled`. Signed-in header text changes to Account. The builder preserves these additions. Shopify hosts login, profile, order history and logout; Liquid styles do not control those hosted screens.
+
+Theme Check passed with zero errors and the same six existing RemoteAsset warnings. Upload of these new account links is pending Shopify CLI reauthentication. Customer sign-in and authenticated order-history verification are also pending the owner's email-code login. These checks must not be reported as passed yet. The previous checkout test remains valid; its `example.com` test email cannot receive a login code, so it cannot by itself prove authenticated order history.
+
+References: https://shopify.dev/docs/storefronts/themes/sign-in and https://help.shopify.com/en/manual/customers/customer-accounts
 
 For future updates, target the existing unpublished theme (do not create another one):
 

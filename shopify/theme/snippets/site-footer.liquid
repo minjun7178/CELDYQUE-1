@@ -27,6 +27,10 @@
       <h4>Store</h4>
       <ul>
         <li><a href="https://celdyque.com/store.html">Stores</a></li>
+        {% if shop.customer_accounts_enabled %}
+        <li><a href="{% if customer %}{{ routes.account_url }}{% else %}{{ routes.account_login_url }}{% endif %}" rel="nofollow">{% if customer %}My account{% else %}Sign in / Create account{% endif %}</a></li>
+        <li><a href="{{ routes.account_url }}" rel="nofollow">View orders</a></li>
+        {% endif %}
       </ul>
     </div>
 

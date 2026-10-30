@@ -42,9 +42,23 @@ write('snippets/buy-form.liquid', `
 let header = externalLinks(read('partials/header.html'));
 header = header.replace('href="https://celdyque.com/index.html"', 'href="{{ routes.root_url }}"');
 header = header.replace(/href="https:\/\/celdyque.com\/shop.html"/g, 'href="{{ routes.root_url }}"');
-header = header.replace('<div class="header-right">', '<div class="header-right"><a class="pilot-cart-link" href="{{ routes.cart_url }}" aria-label="Cart, {{ cart.item_count }} items">Cart <span>{{ cart.item_count }}</span></a>');
+header = header.replace('<div class="header-right">', `<div class="header-right">{% render 'account-link' %}<a class="pilot-cart-link" href="{{ routes.cart_url }}" aria-label="Cart, {{ cart.item_count }} items">Cart <span>{{ cart.item_count }}</span></a>`);
+header = header.replace('<nav class="mobile-menu-nav">', `<nav class="mobile-menu-nav">
+    {% if shop.customer_accounts_enabled %}
+    <div class="pilot-mobile-account">
+      <a href="{% if customer %}{{ routes.account_url }}{% else %}{{ routes.account_login_url }}{% endif %}" rel="nofollow">{% if customer %}My account{% else %}Sign in / Create account{% endif %}</a>
+      <a href="{{ routes.account_url }}" rel="nofollow">View orders</a>
+      {% unless customer %}<p>Sign in with an email code. No password needed.</p>{% endunless %}
+    </div>
+    {% endif %}`);
 write('snippets/site-header.liquid', header);
-write('snippets/site-footer.liquid', externalLinks(read('partials/footer.html')).replace('© 2024 CELDYQUE', '© {{ "now" | date: "%Y" }} CELDYQUE'));
+let footer = externalLinks(read('partials/footer.html')).replace('© 2024 CELDYQUE', '© {{ "now" | date: "%Y" }} CELDYQUE');
+footer = footer.replace('<li><a href="https://celdyque.com/store.html">Stores</a></li>', `<li><a href="https://celdyque.com/store.html">Stores</a></li>
+        {% if shop.customer_accounts_enabled %}
+        <li><a href="{% if customer %}{{ routes.account_url }}{% else %}{{ routes.account_login_url }}{% endif %}" rel="nofollow">{% if customer %}My account{% else %}Sign in / Create account{% endif %}</a></li>
+        <li><a href="{{ routes.account_url }}" rel="nofollow">View orders</a></li>
+        {% endif %}`);
+write('snippets/site-footer.liquid', footer);
 write('layout/theme.liquid', `<!doctype html>
 <html lang="{{ request.locale.iso_code }}">
 <head>

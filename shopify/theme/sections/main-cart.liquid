@@ -22,5 +22,8 @@
     {% endform %}
   {% else %}<p>Your cart is empty.</p>{% endif %}
   <a class="pilot-continue" href="{{ routes.root_url }}">&larr; Continue shopping</a>
+  {% if shop.customer_accounts_enabled %}
+    <p class="pilot-order-help"><a href="{{ routes.account_url }}" rel="nofollow">View your orders</a>. Sign in with the email address you used at checkout.</p>
+  {% endif %}
 </main>
 {% schema %}{"name":"Cart","settings":[]}{% endschema %}

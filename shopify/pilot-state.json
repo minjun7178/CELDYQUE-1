@@ -51,6 +51,18 @@
     "address": "synthetic US test address; admin address warning expected",
     "checkout_loading_issue": "Card iframes initially stayed blank; a fresh checkout tab loaded correctly and test payment completed"
   },
+  "customer_accounts": {
+    "settings_checked_on": "2026-10-30",
+    "native_accounts_enabled": true,
+    "native_sign_in_links_enabled": true,
+    "mode": "Shopify passwordless email-code customer accounts",
+    "account_url": "https://shopify.com/81818353775/account",
+    "theme_links_implemented_locally": true,
+    "theme_links_uploaded": false,
+    "upload_blocker": "Shopify CLI reauthentication required",
+    "customer_login_verified": false,
+    "authenticated_order_history_verified": false
+  },
   "amazon_fulfillment_connected": false,
   "production_website_modified": false,
   "production_price": null,
