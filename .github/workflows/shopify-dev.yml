@@ -1,4 +1,4 @@
-name: Shopify dev preview only
+name: Shopify dev store only
 
 on:
   push:
@@ -40,7 +40,7 @@ jobs:
     timeout-minutes: 15
     environment:
       name: shopify-dev
-      url: https://celdyque-dev-test.myshopify.com/?preview_theme_id=189650600047
+      url: https://celdyque-dev-test.myshopify.com/
     steps:
       - uses: actions/checkout@v4
         with:
@@ -58,7 +58,7 @@ jobs:
           fi
       - name: Install pinned Shopify CLI
         run: npm install --global @shopify/cli@5.0.0
-      - name: Verify draft target, back up, and upload
+      - name: Verify fixed default dev theme, back up, and upload
         env:
           SHOPIFY_CLI_THEME_TOKEN: ${{ secrets.SHOPIFY_DEV_THEME_TOKEN }}
         run: node shopify/deploy-dev.cjs

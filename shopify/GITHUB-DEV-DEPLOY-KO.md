@@ -4,11 +4,11 @@
 
 ## 반영 경로
 
-`codex/shopify-liquid-pilot` 브랜치의 `shopify/theme/` 코드를 GitHub에 push하면 검사 후 **celdyque-dev-test.myshopify.com의 미게시 테마 189650600047**에만 업로드합니다.
+`codex/shopify-liquid-pilot` 브랜치의 `shopify/theme/` 코드를 GitHub에 push하면 검사 후 **celdyque-dev-test.myshopify.com의 기본 테마 189650600047**에만 업로드합니다. 사용자의 요청으로 미게시 미리보기에서 dev 기본 테마로 전환합니다. 확인 주소는 https://celdyque-dev-test.myshopify.com/ 하나입니다. 스토어 비밀번호 보호는 유지합니다.
 
 - 운영 `main`으로 merge하거나 push하지 않습니다. PR도 자동으로 만들지 않습니다.
 - 기존 `.github/workflows/deploy.yml`과 GitHub Pages 설정은 그대로 둡니다.
-- 현재 게시된 dev Horizon도 변경하지 않습니다.
+- Horizon(189644996719)은 삭제하거나 파일을 수정하지 않고 미게시 복구용 테마로 남깁니다.
 - 상품 가격/재고, 주문, 결제, 배송 설정은 테마 배포에 포함되지 않습니다.
 
 ## 안전장치
@@ -17,8 +17,8 @@
 2. GitHub `shopify-dev` 환경도 이 브랜치만 허용합니다. 인증키는 이 환경에만 보관합니다.
 3. 배포 스크립트에서 저장소/브랜치/이벤트를 다시 검사합니다.
 4. store와 theme ID는 코드에 고정하며 실행 인자로 다른 대상을 받지 않습니다.
-5. 업로드 직전 대상이 `unpublished`인지 확인합니다. 게시된 테마이면 중단합니다.
-6. `--publish`, `--allow-live`를 사용하지 않습니다. GitHub 권한은 `contents: read`뿐입니다.
+5. 업로드 직전 정확한 대상 189650600047이 dev 기본 테마(`live`)인지 확인합니다. 다른 테마로 수동 복원했다면 자동 배포는 중단하며 다시 게시하지 않습니다.
+6. 고정된 dev 스토어/테마에만 `--allow-live`를 사용합니다. `--publish`나 대상 선택용 `--live`는 사용하지 않습니다. GitHub 권한은 `contents: read`뿐입니다.
 7. 업로드 전에 기존 dev 테마를 내려받아 Actions artifact로 14일 보관합니다.
 
 이는 이 워크플로의 실수 방지 장치입니다. 저장소 관리자가 나중에 직접 main에 병합하거나 설정을 바꾸는 행위까지 차단하는 것은 아닙니다.
@@ -57,5 +57,7 @@ git push origin HEAD:refs/heads/codex/shopify-liquid-pilot
 ## 복원
 
 원하는 이전 버전으로 **전용 브랜치의 코드만** 되돌려 새 커밋을 push하면 같은 dev 미리보기 테마에 반영됩니다. 업로드 전 테마 ZIP은 Actions 실행의 `shopify-dev-before-*` artifact에서도 확인할 수 있습니다. 기존 로컬 백업은 `shopify/evidence/`에 유지합니다.
+
+기본 테마 자체를 이전 상태로 되돌리려면 dev 스토어에서 Horizon을 다시 게시합니다. 그러면 자동 배포는 기본 테마 검사에서 중단되므로 수동 복원을 덮어쓰지 않습니다. 운영 홈페이지나 main에는 영향이 없습니다.
 
 공식 참고: https://shopify.dev/docs/storefronts/themes/tools/cli/ci-cd

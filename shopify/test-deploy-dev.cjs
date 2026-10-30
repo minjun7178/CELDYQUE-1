@@ -2,7 +2,7 @@ const {test} = require('node:test');
 const assert = require('node:assert/strict');
 const fs = require('node:fs');
 const path = require('node:path');
-const {assertContext, assertDraft, pushArgs} = require('./deploy-dev.cjs');
+const {assertContext, assertDevLiveTheme, pushArgs} = require('./deploy-dev.cjs');
 const allowed = {
   GITHUB_ACTIONS: 'true', GITHUB_REPOSITORY: 'minjun7178/CELDYQUE-1',
   GITHUB_REF: 'refs/heads/codex/shopify-liquid-pilot', GITHUB_EVENT_NAME: 'push',
@@ -19,23 +19,24 @@ test('main, unrelated branches, PRs, forks and local calls cannot deploy', () =>
   ]) assert.throws(() => assertContext({...allowed, ...patch}));
 });
 
-test('only the exact existing, idle, unpublished theme is accepted', () => {
-  const draft = {id: '189650600047', role: 'unpublished', processing: false};
-  assert.doesNotThrow(() => assertDraft({themes: [draft]}));
+test('only the exact default dev theme is accepted; Horizon and manual rollbacks are protected', () => {
+  const approved = {id: '189650600047', role: 'live', processing: false};
+  assert.doesNotThrow(() => assertDevLiveTheme({themes: [approved]}));
   for (const theme of [
-    {...draft, role: 'live'}, {...draft, role: 'main'},
-    {...draft, id: '189644996719'}, {...draft, processing: true}
-  ]) assert.throws(() => assertDraft({themes: [theme]}));
-  assert.throws(() => assertDraft({themes: []}));
-  assert.throws(() => assertDraft({themes: [draft, draft]}));
-  assert.throws(() => assertDraft({}));
+    {...approved, role: 'unpublished'}, {...approved, role: 'development'},
+    {...approved, id: '189644996719'}, {...approved, processing: true}
+  ]) assert.throws(() => assertDevLiveTheme({themes: [theme]}));
+  assert.throws(() => assertDevLiveTheme({themes: []}));
+  assert.throws(() => assertDevLiveTheme({themes: [approved, approved]}));
+  assert.throws(() => assertDevLiveTheme({}));
 });
 
-test('upload has fixed dev destination and cannot publish or allow a live upload', () => {
+test('live upload is pinned to the exact dev destination and never selects or publishes another theme', () => {
   const args = pushArgs();
   assert.equal(args[args.indexOf('--store') + 1], 'celdyque-dev-test.myshopify.com');
   assert.equal(args[args.indexOf('--theme') + 1], '189650600047');
-  for (const flag of ['--publish', '--allow-live', '--live', '--unpublished']) assert(!args.includes(flag));
+  for (const flag of ['--publish', '--live', '--unpublished']) assert(!args.includes(flag));
+  assert(args.includes('--allow-live'));
   assert(args.includes('--strict'));
   assert(args.includes('--no-input'));
 });

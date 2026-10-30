@@ -1,5 +1,9 @@
 # CELDYQUE original-design Shopify pilot
 
+## Default dev theme transition — 2026-10-30
+
+The owner authorized making CELDYQUE Original Pilot (189650600047) the default theme **only in celdyque-dev-test**. Use https://celdyque-dev-test.myshopify.com/ without a preview query. Password protection and noindex remain. Horizon (189644996719) is retained unpublished for recovery; its files are not modified. The workflow now permits `--allow-live` only with the hard-coded dev store and exact pilot theme ID, and aborts if that theme is no longer the default. It cannot publish themes or write to main. Historical unpublished-theme verification below describes the earlier stage.
+
 ## GitHub dev deployment — 2026-10-30
 
 The isolated branch includes `.github/workflows/shopify-dev.yml`, which validates committed theme files and targets only unpublished dev theme `189650600047`. Production workflow `deploy.yml` is unchanged. The GitHub `shopify-dev` environment allows only `codex/shopify-liquid-pilot`. With explicit owner approval, the official Theme Access app was installed on the dev store and a dedicated credential saved as environment secret `SHOPIFY_DEV_THEME_TOKEN`. No personal CLI session or token is committed. [Actions run 41009715069, attempt 2](https://github.com/minjun7178/CELDYQUE-1/actions/runs/41009715069) successfully validated, checked the unpublished target, backed it up and uploaded the theme. The first attempt correctly stopped before upload because the credential was absent. See [deployment instructions](GITHUB-DEV-DEPLOY-KO.md).
@@ -10,7 +14,7 @@ The isolated branch includes `.github/workflows/shopify-dev.yml`, which validate
 - Target: `celdyque-dev-test.myshopify.com` only.
 - Theme is custom, based on the existing homepage, Products, About, FAQ and all 14 product HTML/CSS. No Horizon dependency.
 - Do not publish to the production website, push `main`, or change DNS. On 2026-10-30 the owner authorized the official Amazon MCF app in this Dev store for inventory synchronization only; no fulfillment requests or automatic order submission are authorized.
-- Upload as an **unpublished** theme. Existing Horizon stays intact.
+- Upload only to the approved **default dev theme** 189650600047. Existing Horizon stays intact as an unpublished fallback.
 - All pages contain `noindex,nofollow`; the development store stays password protected.
 
 ## Files

@@ -27,9 +27,11 @@
   "theme": {
     "name": "CELDYQUE Original Pilot",
     "id": "189650600047",
-    "published": false,
+    "published": true,
+    "published_scope": "dev store only; production website and main unchanged",
     "uploaded": true,
-    "upload_status": "Full requested migration uploaded to existing unpublished theme 189650600047",
+    "upload_status": "Published as the default dev theme on 2026-10-30; Horizon retained unpublished",
+    "storefront_url": "https://celdyque-dev-test.myshopify.com/",
     "preview_url": "https://celdyque-dev-test.myshopify.com/?preview_theme_id=189650600047",
     "preview_access": "Password-protected dev preview; native account session retained"
   },
