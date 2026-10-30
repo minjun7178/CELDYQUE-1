@@ -2,7 +2,7 @@
 
 ## GitHub dev deployment — 2026-10-30
 
-The isolated branch now includes `.github/workflows/shopify-dev.yml`, which validates committed theme files and targets only unpublished dev theme `189650600047`. Production workflow `deploy.yml` is unchanged. The GitHub `shopify-dev` environment allows only `codex/shopify-liquid-pilot`. Before automated uploads can succeed, a dev-store Theme Access credential must be saved there as `SHOPIFY_DEV_THEME_TOKEN`; no personal CLI session is exported. See [deployment instructions](GITHUB-DEV-DEPLOY-KO.md). Until the credential is present, validation can run but upload stops without modifying the theme.
+The isolated branch includes `.github/workflows/shopify-dev.yml`, which validates committed theme files and targets only unpublished dev theme `189650600047`. Production workflow `deploy.yml` is unchanged. The GitHub `shopify-dev` environment allows only `codex/shopify-liquid-pilot`. With explicit owner approval, the official Theme Access app was installed on the dev store and a dedicated credential saved as environment secret `SHOPIFY_DEV_THEME_TOKEN`. No personal CLI session or token is committed. [Actions run 41009715069, attempt 2](https://github.com/minjun7178/CELDYQUE-1/actions/runs/41009715069) successfully validated, checked the unpublished target, backed it up and uploaded the theme. The first attempt correctly stopped before upload because the credential was absent. See [deployment instructions](GITHUB-DEV-DEPLOY-KO.md).
 
 ## Isolation
 
@@ -126,6 +126,6 @@ Verification: all 14 product routes, names, main images and enabled cart forms c
 
 Added new Niacinamide test product to the existing cart: subtotal USD 79.96, TEST shipping USD 4.99, total USD 84.95 at Test Payment Gateway. No new payment/order submission or Amazon fulfillment. Full performance benchmarks, all sold-out/overselling edge cases and pixel-perfect visual comparisons were not performed.
 
-Before-migration theme ZIP: `shopify/evidence/before-full-migration-theme.zip`. Full proof and checks are in ignored `shopify/evidence/`. The store still uses live Horizon; our target 189650600047 remains a draft. Production website, main and DNS were not changed. Git commit remains pending because this environment has no author identity configured; files are saved locally and the Dev theme upload is complete.
+Before-migration theme ZIP: `shopify/evidence/before-full-migration-theme.zip`. Full proof and checks are in ignored `shopify/evidence/`. The store still uses live Horizon; our target 189650600047 remains a draft. Production website, main and DNS were not changed. The full migration and deployment workflow were subsequently committed and pushed only to `codex/shopify-liquid-pilot` in commit `95d1b06`; no PR or main merge was created.
 
 Preview: https://celdyque-dev-test.myshopify.com/?preview_theme_id=189650600047

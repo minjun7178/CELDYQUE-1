@@ -1,5 +1,7 @@
 # GitHub → Shopify dev 미리보기
 
+2026-10-30 연결 완료: Theme Access 키를 GitHub 환경 Secret에 저장했고, [자동 검사·백업·업로드 실행](https://github.com/minjun7178/CELDYQUE-1/actions/runs/41009715069)이 성공했습니다. 아래 최초 인증 연결 항목은 재설정 시 참고용입니다. 키 값은 문서나 저장소에 기록하지 않습니다.
+
 ## 반영 경로
 
 `codex/shopify-liquid-pilot` 브랜치의 `shopify/theme/` 코드를 GitHub에 push하면 검사 후 **celdyque-dev-test.myshopify.com의 미게시 테마 189650600047**에만 업로드합니다.
