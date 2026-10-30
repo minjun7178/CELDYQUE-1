@@ -21,8 +21,8 @@ Run from this worktree root:
 
 ```powershell
 node shopify/build-theme.cjs
-npx.cmd --yes @shopify/cli@latest theme check --path shopify/theme
-npx.cmd --yes @shopify/cli@latest theme package --path shopify/theme
+npx.cmd --yes @shopify/cli@5.0.0 theme check --path shopify/theme
+npx.cmd --yes @shopify/cli@5.0.0 theme package --path shopify/theme
 ```
 
 The builder preserves hand-authored `main-cart.liquid`, `pilot.css`, and `pilot.js`.
@@ -66,12 +66,18 @@ The Dev store already has Shopify customer accounts and sign-in links enabled. I
 
 The local theme adds an accessible header account icon, mobile Sign in / Create account and View orders links, footer account links, and a cart order-history link. Links use Liquid `routes.account_login_url` / `routes.account_url`, guarded by `shop.customer_accounts_enabled`. Signed-in header text changes to Account. The builder preserves these additions. Shopify hosts login, profile, order history and logout; Liquid styles do not control those hosted screens.
 
-Theme Check passed with zero errors and the same six existing RemoteAsset warnings. Upload of these new account links is pending Shopify CLI reauthentication. Customer sign-in and authenticated order-history verification are also pending the owner's email-code login. These checks must not be reported as passed yet. The previous checkout test remains valid; its `example.com` test email cannot receive a login code, so it cannot by itself prove authenticated order history.
+Theme Check passed with zero errors and the same six existing RemoteAsset warnings. After owner reauthentication, the account links were uploaded to the existing unpublished Dev theme. The owner completed customer email-code login. The theme header link opened the native English Orders page with US market context; returning to the storefront changed Sign in to Account.
+
+A new test order **#1002**, confirmation `2FE300YJM`, was placed under that authenticated test customer using Test Payment Gateway and a synthetic US address. The USD 24.98 order appeared in that customer's order history, and its detail page showed the correct item, USD 19.99 subtotal, USD 4.99 delivery and confirmed status. Profile, address display and sign-out controls were accessible. Logout was not executed, preserving the owner's current test session. No real payment or fulfillment was requested. The synthetic address is saved in this Dev-only customer profile and is not production customer data.
+
+Desktop header and signed-in state were visually checked. Mobile account links are implemented, but the viewport override did not change browser dimensions in this verification run, so a new mobile visual pass is still pending. Earlier cart/mobile verification is a separate test, not evidence for these new account links.
+
+CLI commands are now pinned to the verified 5.0.0 version to avoid unplanned version changes from `@latest`. CLI requested authentication after the earlier run; the exact cause was not established and must not be described as confirmed token expiry. Reuse the cached session. Shopify also supports a separate Theme Access credential for noninteractive theme work; no new access credential has been issued or stored by this task.
 
 References: https://shopify.dev/docs/storefronts/themes/sign-in and https://help.shopify.com/en/manual/customers/customer-accounts
 
 For future updates, target the existing unpublished theme (do not create another one):
 
 ```powershell
-npx.cmd --yes @shopify/cli@latest theme push --store celdyque-dev-test.myshopify.com --path shopify/theme --theme 189650600047 --strict --no-input
+npx.cmd --yes @shopify/cli@5.0.0 theme push --store celdyque-dev-test.myshopify.com --path shopify/theme --theme 189650600047 --strict --no-input
 ```
