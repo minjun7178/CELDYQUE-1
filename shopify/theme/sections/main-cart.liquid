@@ -6,7 +6,7 @@
       <div class="pilot-cart-items">
         {% for item in cart.items %}
           <article class="pilot-cart-item">
-            <a href="{{ item.url }}"><img src="{{ 'arbutxa-glow-cream.webp' | asset_url }}" alt="{{ item.product.title | escape }}" width="110" height="156"></a>
+            <a href="{{ item.url }}">{% if item.image %}{{ item.image | image_url: width: 220 | image_tag: loading: 'lazy', alt: item.product.title }}{% else %}{{ 'product-1' | placeholder_svg_tag }}{% endif %}</a>
             <div><h2><a href="{{ item.url }}">{{ item.product.title | escape }}</a></h2><p>{{ item.final_price | money_with_currency }} each</p><a class="pilot-remove" href="{{ item.url_to_remove }}">Remove</a></div>
             <label class="pilot-quantity" for="Quantity-{{ forloop.index }}">Quantity<input id="Quantity-{{ forloop.index }}" type="number" name="updates[]" value="{{ item.quantity }}" min="0" step="1" inputmode="numeric" aria-label="Quantity for {{ item.product.title | escape }}" required></label>
             <p class="pilot-line-total">{{ item.final_line_price | money_with_currency }}</p>

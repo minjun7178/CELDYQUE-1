@@ -1,0 +1,72 @@
+name: Shopify dev preview only
+
+on:
+  push:
+    branches: ['codex/shopify-liquid-pilot']
+
+permissions:
+  contents: read
+
+# Separate from the production Pages workflow. Never publish or merge a branch.
+concurrency:
+  group: shopify-dev-preview-189650600047
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    if: github.repository == 'minjun7178/CELDYQUE-1' && github.ref == 'refs/heads/codex/shopify-liquid-pilot' && github.event_name == 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Test dev-only deployment guards
+        run: node --test shopify/test-deploy-dev.cjs
+      - name: Validate committed theme and source mappings
+        run: node shopify/validate-theme.cjs
+      - name: Install pinned Shopify CLI
+        run: npm install --global @shopify/cli@5.0.0
+      - name: Check Liquid theme
+        run: shopify theme check --path shopify/theme --fail-level error
+
+  deploy:
+    needs: validate
+    if: github.repository == 'minjun7178/CELDYQUE-1' && github.ref == 'refs/heads/codex/shopify-liquid-pilot' && github.event_name == 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: shopify-dev
+      url: https://celdyque-dev-test.myshopify.com/?preview_theme_id=189650600047
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Require a dev-store Theme Access credential
+        env:
+          SHOPIFY_CLI_THEME_TOKEN: ${{ secrets.SHOPIFY_DEV_THEME_TOKEN }}
+        run: |
+          if [ -z "$SHOPIFY_CLI_THEME_TOKEN" ]; then
+            echo '::error::Add SHOPIFY_DEV_THEME_TOKEN to the branch-restricted shopify-dev environment. No theme was changed.'
+            exit 1
+          fi
+      - name: Install pinned Shopify CLI
+        run: npm install --global @shopify/cli@5.0.0
+      - name: Verify draft target, back up, and upload
+        env:
+          SHOPIFY_CLI_THEME_TOKEN: ${{ secrets.SHOPIFY_DEV_THEME_TOKEN }}
+        run: node shopify/deploy-dev.cjs
+      - name: Retain pre-upload theme for recovery
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: shopify-dev-before-${{ github.run_id }}-${{ github.run_attempt }}
+          path: shopify/evidence/ci-before-theme/
+          if-no-files-found: ignore
+          retention-days: 14

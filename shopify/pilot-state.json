@@ -29,9 +29,9 @@
     "id": "189650600047",
     "published": false,
     "uploaded": true,
-    "upload_status": "Uploaded via authenticated Shopify CLI; theme role unpublished",
+    "upload_status": "Full requested migration uploaded to existing unpublished theme 189650600047",
     "preview_url": "https://celdyque-dev-test.myshopify.com/?preview_theme_id=189650600047",
-    "preview_access": "Owner entered storefront password; desktop and mobile product preview verified"
+    "preview_access": "Password-protected dev preview; native account session retained"
   },
   "verified_checkout": true,
   "verification": {
@@ -70,12 +70,268 @@
     "test_order_payment": "Test Payment Gateway; synthetic address; no real fulfillment",
     "storefront_account_state": "Sign in changes to Account after returning from hosted accounts",
     "locale": "Theme entry uses English and United States market",
-    "mobile_account_visual_verification": "Pending: viewport override did not change the browser viewport in this run",
+    "mobile_account_visual_verification": "2026-10-30: 390px PDRN layout, account icon, mobile account/orders menu and purchase form verified; viewport reset",
     "cli_version": "5.0.0"
   },
   "amazon_fulfillment_connected": false,
+  "amazon_mcf_setup": {
+    "checked_on": "2026-10-30",
+    "authorized_scope": "Dev store official Amazon app; inventory sync only; no automatic or manual fulfillment requests",
+    "app": "Amazon MCF and Buy with Prime",
+    "app_url": "https://apps.shopify.com/buy-with-prime",
+    "installed": false,
+    "status": "On hold at owner request pending representative identity verification",
+    "registered_owner_display_name": "ChoSJ",
+    "registered_owner_roles": [
+      "Organization owner",
+      "Store owner"
+    ],
+    "registered_owner_legal_identity_verified": false,
+    "inventory_sync_verified": false,
+    "shopify_automatic_fulfillment": "Disabled; verified in General settings",
+    "installation_blockers": [
+      "Shopify requires store or organization owner identity verification; owner handoff requested",
+      "Official app does not support current market-based shipping; legacy shipping profile migration required"
+    ],
+    "shipping_migration_performed": false,
+    "pre_migration_us_shipping": "Enabled TEST Standard Shipping; USD 4.99; all products; Shop location",
+    "real_fulfillment_requested": false,
+    "excluded_test_orders": [
+      "#1001",
+      "#1002"
+    ]
+  },
   "production_website_modified": false,
   "production_price": null,
   "amazon_seller_sku": null,
-  "production_shipping_policy": null
+  "production_shipping_policy": null,
+  "products": [
+    {
+      "id": "15676299018351",
+      "handle": "test-celdyque-volufiline-100",
+      "title": "[TEST] CELDYQUE Volufiline 100% Concentrate — 10 ml",
+      "price": "19.99",
+      "currency": "USD",
+      "initial_test_stock": 10,
+      "status": "active",
+      "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group-1.webp",
+      "amazon_seller_sku": null,
+      "production_weight": null
+    },
+    {
+      "id": "15676299247727",
+      "handle": "test-celdyque-blue-copper-peptide-bakuchiol-serum",
+      "title": "[TEST] CELDYQUE Blue Copper Peptide Bakuchiol Serum — 30 ml",
+      "price": "19.99",
+      "currency": "USD",
+      "initial_test_stock": 10,
+      "status": "active",
+      "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/ms15-lower.webp",
+      "amazon_seller_sku": null,
+      "production_weight": null
+    },
+    {
+      "id": "15676299346031",
+      "handle": "test-celdyque-bakuchiol-volume-collagen-cream",
+      "title": "[TEST] CELDYQUE Bakuchiol Volume Collagen Cream — 50 ml",
+      "price": "19.99",
+      "currency": "USD",
+      "initial_test_stock": 10,
+      "status": "active",
+      "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/ms14-lower.webp",
+      "amazon_seller_sku": null,
+      "production_weight": null
+    },
+    {
+      "id": "15676299477103",
+      "handle": "test-celdyque-9-peptide-scalp-serum",
+      "title": "[TEST] CELDYQUE 9-Peptide Scalp Care Serum Roll-On — 40 ml",
+      "price": "19.99",
+      "currency": "USD",
+      "initial_test_stock": 10,
+      "status": "active",
+      "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/ms13.webp",
+      "amazon_seller_sku": null,
+      "production_weight": null
+    },
+    {
+      "id": "15676299542639",
+      "handle": "test-celdyque-bakuchiol-30000",
+      "title": "[TEST] CELDYQUE Bakuchiol 30,000ppm Serum — 30 ml",
+      "price": "19.99",
+      "currency": "USD",
+      "initial_test_stock": 10,
+      "status": "active",
+      "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group-4.webp",
+      "amazon_seller_sku": null,
+      "production_weight": null
+    },
+    {
+      "id": "15676299640943",
+      "handle": "test-celdyque-pdrn-25",
+      "title": "[TEST] CELDYQUE PDRN 250,000ppm Concentrate — 30 ml",
+      "price": "19.99",
+      "currency": "USD",
+      "initial_test_stock": 10,
+      "status": "active",
+      "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group-3.webp",
+      "amazon_seller_sku": null,
+      "production_weight": null
+    },
+    {
+      "id": "15676194717807",
+      "variant_id": "68070464585839",
+      "handle": "test-celdyque-pdrn-12-egf-peptide-serum-30-ml",
+      "title": "[TEST] CELDYQUE PDRN 12% + EGF Peptide Serum — 30 ml",
+      "price": "19.99",
+      "currency": "USD",
+      "initial_test_stock": 10,
+      "status": "active",
+      "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group.webp",
+      "description_source": "approved existing product copy",
+      "amazon_seller_sku": null,
+      "production_weight": null
+    },
+    {
+      "id": "15676299772015",
+      "handle": "test-celdyque-pdrn-12-egf-cream",
+      "title": "[TEST] CELDYQUE PDRN 12% + EGF Peptide Cream — 50 ml",
+      "price": "19.99",
+      "currency": "USD",
+      "initial_test_stock": 10,
+      "status": "active",
+      "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group-6.webp",
+      "amazon_seller_sku": null,
+      "production_weight": null
+    },
+    {
+      "id": "15658664296559",
+      "handle": "test-celdyque-arbutxa-glow-cream-50-ml",
+      "title": "[TEST] CELDYQUE ArbutXA Glow Cream — 50 ml",
+      "price": "19.99",
+      "currency": "USD",
+      "initial_test_stock": 10,
+      "status": "active",
+      "description_source": "approved existing product copy",
+      "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group-5.webp",
+      "variant_id": "68024552226927",
+      "amazon_seller_sku": null,
+      "production_weight": null
+    },
+    {
+      "id": "15676299903087",
+      "handle": "test-celdyque-gentle-cleanser",
+      "title": "[TEST] CELDYQUE Gentle Cleanser Purifying Touch — 150 ml",
+      "price": "19.99",
+      "currency": "USD",
+      "initial_test_stock": 10,
+      "status": "active",
+      "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group-11.webp",
+      "amazon_seller_sku": null,
+      "production_weight": null
+    },
+    {
+      "id": "15676299935855",
+      "handle": "test-celdyque-cleansing-oil",
+      "title": "[TEST] CELDYQUE Pore Purifying Cleansing Oil — 200 ml",
+      "price": "19.99",
+      "currency": "USD",
+      "initial_test_stock": 10,
+      "status": "active",
+      "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group-9.webp",
+      "amazon_seller_sku": null,
+      "production_weight": null
+    },
+    {
+      "id": "15676300099695",
+      "handle": "test-celdyque-glutathione-30000",
+      "title": "[TEST] CELDYQUE Glutathione Glow Serum 30,000 ppm — 30 ml",
+      "price": "19.99",
+      "currency": "USD",
+      "initial_test_stock": 10,
+      "status": "active",
+      "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group-2.webp",
+      "amazon_seller_sku": null,
+      "production_weight": null
+    },
+    {
+      "id": "15676300197999",
+      "handle": "test-celdyque-azelaic-12",
+      "title": "[TEST] CELDYQUE Azelaic Acid 12% Topical Serum — 30 ml",
+      "price": "19.99",
+      "currency": "USD",
+      "initial_test_stock": 10,
+      "status": "active",
+      "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group-7.webp",
+      "amazon_seller_sku": null,
+      "production_weight": null
+    },
+    {
+      "id": "15676300296303",
+      "handle": "test-celdyque-niacinamide-20-advanced",
+      "title": "[TEST] CELDYQUE Niacinamide 20% Pore Minimizer Serum — 30 ml",
+      "price": "19.99",
+      "currency": "USD",
+      "initial_test_stock": 10,
+      "status": "active",
+      "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group-8.webp",
+      "amazon_seller_sku": null,
+      "production_weight": null
+    }
+  ],
+  "design_migration": {
+    "date": "2026-10-30",
+    "stage": "All 14 products, homepage, Products listing, About and FAQ migrated to existing unpublished dev theme",
+    "new_products_imported": 12,
+    "total_products": 14,
+    "existing_products_overwritten": false,
+    "new_product_channels": [
+      "Online Store"
+    ],
+    "source_files_modified": false,
+    "theme_check": {
+      "errors": 0,
+      "warnings": 39,
+      "warning_type": "RemoteAsset (original external images and fonts)"
+    },
+    "verified": [
+      "All 14 product routes, headings, hero images and enabled native cart forms",
+      "14 original product CSS and FAQ datasets match sources",
+      "63 local media files copied without content changes",
+      "Homepage video and philosophy slider including changed image",
+      "About video playback",
+      "FAQ search: PDRN returns 3 questions",
+      "Products filters: 2 cleansers, 3 creams",
+      "390px homepage, listing, About, FAQ: no horizontal overflow",
+      "390px Volufiline purchase form",
+      "New Niacinamide variant added to previous mixed cart; correct item images; subtotal 79.96 USD",
+      "Shopify test checkout: 4.99 USD shipping, total 84.95 USD; no payment submitted"
+    ],
+    "remaining": [
+      "Production commercial data/payment/shipping configuration",
+      "Amazon identity verification and inventory-only integration are still on hold",
+      "Pixel-by-pixel comparison and performance benchmarking not performed"
+    ],
+    "out_of_scope_links": [
+      "Store",
+      "Contact",
+      "Coming Soon",
+      "Brand film standalone page"
+    ],
+    "out_of_scope_destination": "Existing celdyque.com pages; source site unchanged",
+    "production_modified": false,
+    "real_payment_requested": false,
+    "real_fulfillment_requested": false
+  },
+  "content_pages": {
+    "about": {
+      "handle": "about",
+      "id": "167295975535",
+      "verified": true
+    },
+    "faq": {
+      "handle": "faq",
+      "verified": true
+    }
+  }
 }

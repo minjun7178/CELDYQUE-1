@@ -1,0 +1,142 @@
+[
+  {
+    "id": "volufiline-100",
+    "handle": "test-celdyque-volufiline-100",
+    "name": "Volufiline 100% Concentrate",
+    "size": "10 ml / 0.33 fl oz",
+    "category": "serum",
+    "image": "images/제품/Mask group-1.webp",
+    "description": "CELDYQUE Volufiline 100% Concentrate is an oil-based concentrate for mixing with a compatible cream, lotion or serum.",
+    "existing": false
+  },
+  {
+    "id": "blue-copper-peptide-bakuchiol-serum",
+    "handle": "test-celdyque-blue-copper-peptide-bakuchiol-serum",
+    "name": "Blue Copper Peptide Bakuchiol Serum",
+    "size": "30 ml / 1.01 fl oz",
+    "category": "serum",
+    "image": "images/제품/ms15-lower.webp",
+    "description": "CELDYQUE Blue Copper Peptide Bakuchiol Serum is a face serum used after cleansing and toning, before moisturizer.",
+    "existing": false
+  },
+  {
+    "id": "bakuchiol-volume-collagen-cream",
+    "handle": "test-celdyque-bakuchiol-volume-collagen-cream",
+    "name": "Bakuchiol Volume Collagen Cream",
+    "size": "50 ml / 1.7 fl oz",
+    "category": "cream",
+    "image": "images/제품/ms14-lower.webp",
+    "description": "CELDYQUE Bakuchiol Volume Collagen Cream is a moisturizer applied after serum to the face and neck.",
+    "existing": false
+  },
+  {
+    "id": "9-peptide-scalp-serum",
+    "handle": "test-celdyque-9-peptide-scalp-serum",
+    "name": "9-Peptide Scalp Care Serum Roll-On",
+    "size": "40 ml / 1.35 fl oz",
+    "category": "serum",
+    "image": "images/제품/ms13.webp",
+    "description": "CELDYQUE 9-Peptide Scalp Care Serum Roll-On is a leave-on scalp serum with a roll-on applicator for targeted application.",
+    "existing": false
+  },
+  {
+    "id": "bakuchiol-30000",
+    "handle": "test-celdyque-bakuchiol-30000",
+    "name": "Bakuchiol 30,000ppm Serum",
+    "size": "30 ml / 1 fl oz",
+    "category": "serum",
+    "image": "images/제품/Mask group-4.webp",
+    "description": "CELDYQUE Bakuchiol 30,000ppm Serum is a mix-in concentrate for use with a compatible moisturizer, cream or serum.",
+    "existing": false
+  },
+  {
+    "id": "pdrn-25",
+    "handle": "test-celdyque-pdrn-25",
+    "name": "PDRN 250,000ppm Concentrate",
+    "size": "30 ml / 1 fl oz",
+    "category": "serum",
+    "image": "images/제품/Mask group-3.webp",
+    "description": "CELDYQUE PDRN 250,000ppm Concentrate is a gel-type concentrate in the PDRN collection, alongside the PDRN serum and cream.",
+    "existing": false
+  },
+  {
+    "id": "pdrn-12-egf",
+    "handle": "test-celdyque-pdrn-12-egf-peptide-serum-30-ml",
+    "name": "PDRN 12% + EGF Peptide Serum",
+    "size": "30 ml / 1 fl oz",
+    "category": "serum",
+    "image": "images/제품/Mask group.webp",
+    "description": "CELDYQUE PDRN 12% + EGF Peptide Serum is a face serum applied after cleansing and toning, before moisturizer.",
+    "existing": true
+  },
+  {
+    "id": "pdrn-12-egf-cream",
+    "handle": "test-celdyque-pdrn-12-egf-cream",
+    "name": "PDRN 12% + EGF Peptide Cream",
+    "size": "50 ml / 1.7 fl oz",
+    "category": "cream",
+    "image": "images/제품/Mask group-6.webp",
+    "description": "CELDYQUE PDRN 12% + EGF Peptide Cream is a moisturizer applied after serum to the face and neck.",
+    "existing": false
+  },
+  {
+    "id": "arbutxa-glow-cream",
+    "handle": "test-celdyque-arbutxa-glow-cream-50-ml",
+    "name": "ArbutXA Glow Cream",
+    "size": "50 ml / 1.7 fl oz",
+    "category": "cream",
+    "image": "images/제품/Mask group-5.webp",
+    "description": "CELDYQUE ArbutXA Glow Cream is a moisturizer with Arbutin 5%, Alpha-Arbutin 2%, Tranexamic Acid 5% and Niacinamide 2%, applied after serum.",
+    "existing": true
+  },
+  {
+    "id": "gentle-cleanser",
+    "handle": "test-celdyque-gentle-cleanser",
+    "name": "Gentle Cleanser Purifying Touch",
+    "size": "150 ml / 5.07 fl oz",
+    "category": "cleanser",
+    "image": "images/제품/Mask group-11.webp",
+    "description": "CELDYQUE Gentle Cleanser Purifying Touch is a foaming facial cleanser used on wet skin and rinsed off after washing.",
+    "existing": false
+  },
+  {
+    "id": "cleansing-oil",
+    "handle": "test-celdyque-cleansing-oil",
+    "name": "Pore Purifying Cleansing Oil",
+    "size": "200 ml / 6.76 fl oz",
+    "category": "cleanser",
+    "image": "images/제품/Mask group-9.webp",
+    "description": "CELDYQUE Pore Purifying Cleansing Oil features Centella, Tea Tree, Green Tea, Heartleaf and LHA. Apply to dry skin, emulsify with water and rinse off.",
+    "existing": false
+  },
+  {
+    "id": "glutathione-30000",
+    "handle": "test-celdyque-glutathione-30000",
+    "name": "Glutathione Glow Serum 30,000 ppm",
+    "size": "30 ml / 1 fl oz",
+    "category": "serum",
+    "image": "images/제품/Mask group-2.webp",
+    "description": "CELDYQUE Glutathione Glow Serum 30,000 ppm is a lightweight face serum used before moisturizer.",
+    "existing": false
+  },
+  {
+    "id": "azelaic-12",
+    "handle": "test-celdyque-azelaic-12",
+    "name": "Azelaic Acid 12% Topical Serum",
+    "size": "30 ml / 1 fl oz",
+    "category": "serum",
+    "image": "images/제품/Mask group-7.webp",
+    "description": "CELDYQUE Azelaic Acid 12% Topical Serum is a face serum applied after toner and before moisturizer.",
+    "existing": false
+  },
+  {
+    "id": "niacinamide-20-advanced",
+    "handle": "test-celdyque-niacinamide-20-advanced",
+    "name": "Niacinamide 20% Pore Minimizer Serum",
+    "size": "30 ml / 1 fl oz",
+    "category": "serum",
+    "image": "images/제품/Mask group-8.webp",
+    "description": "CELDYQUE Niacinamide 20% Pore Minimizer Serum is a face serum applied after toner and before moisturizer.",
+    "existing": false
+  }
+]

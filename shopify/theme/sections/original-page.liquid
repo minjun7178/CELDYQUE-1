@@ -1,0 +1,2 @@
+{% case page.handle %}{% when 'about' %}{% render 'page-about' %}{% when 'faq' %}{% render 'page-faq' %}{% else %}<main id="MainContent" class="container pilot-cart"><h1>{{ page.title | escape }}</h1>{{ page.content }}</main>{% endcase %}
+{% schema %}{"name":"Original content page","settings":[]}{% endschema %}

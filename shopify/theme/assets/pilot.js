@@ -29,7 +29,21 @@
   function search() { window.location.assign(base + 'search?type=product&q=' + encodeURIComponent(input.value)); }
   input?.addEventListener('keydown', e => { if(e.key === 'Enter') search(); });
   document.getElementById('viewAllBtn')?.addEventListener('click', search);
-  document.getElementById('goShopBtn')?.addEventListener('click', () => window.location.assign(base));
+  document.getElementById('goShopBtn')?.addEventListener('click', () => window.location.assign(base + 'collections/all'));
+  const filterButtons = [...document.querySelectorAll('.filter-btn[data-filter]')];
+  const productCards = [...document.querySelectorAll('#productsGrid .p-card')];
+  function filterProducts(category) {
+    if (!filterButtons.some(button => button.dataset.filter === category)) category = 'all';
+    filterButtons.forEach(button => {
+      const selected = button.dataset.filter === category;
+      button.classList.toggle('active', selected);
+      button.setAttribute('aria-pressed', String(selected));
+      if (button.getAttribute('role') === 'tab') button.setAttribute('aria-selected', String(selected));
+    });
+    productCards.forEach(card => { card.hidden = category !== 'all' && card.dataset.cat !== category; });
+  }
+  filterButtons.forEach(button => button.addEventListener('click', () => filterProducts(button.dataset.filter)));
+  filterProducts(new URLSearchParams(window.location.search).get('cat') || 'all');
   document.addEventListener('keydown', e => {
     if(e.key === 'Escape') close();
     const scope = modal?.classList.contains('open') ? modal : menu?.classList.contains('active') ? menu : null;

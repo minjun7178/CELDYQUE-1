@@ -1,0 +1,16 @@
+{% case product.handle %}
+{% when 'test-celdyque-volufiline-100' %}{{ 'product-volufiline-100.css' | asset_url | stylesheet_tag }}
+{% when 'test-celdyque-blue-copper-peptide-bakuchiol-serum' %}{{ 'product-blue-copper-peptide-bakuchiol-serum.css' | asset_url | stylesheet_tag }}
+{% when 'test-celdyque-bakuchiol-volume-collagen-cream' %}{{ 'product-bakuchiol-volume-collagen-cream.css' | asset_url | stylesheet_tag }}
+{% when 'test-celdyque-9-peptide-scalp-serum' %}{{ 'product-9-peptide-scalp-serum.css' | asset_url | stylesheet_tag }}
+{% when 'test-celdyque-bakuchiol-30000' %}{{ 'product-bakuchiol-30000.css' | asset_url | stylesheet_tag }}
+{% when 'test-celdyque-pdrn-25' %}{{ 'product-pdrn-25.css' | asset_url | stylesheet_tag }}
+{% when 'test-celdyque-pdrn-12-egf-peptide-serum-30-ml' %}{{ 'product-pdrn-12-egf.css' | asset_url | stylesheet_tag }}
+{% when 'test-celdyque-pdrn-12-egf-cream' %}{{ 'product-pdrn-12-egf-cream.css' | asset_url | stylesheet_tag }}
+{% when 'test-celdyque-arbutxa-glow-cream-50-ml' %}{{ 'product-arbutxa-glow-cream.css' | asset_url | stylesheet_tag }}
+{% when 'test-celdyque-gentle-cleanser' %}{{ 'product-gentle-cleanser.css' | asset_url | stylesheet_tag }}
+{% when 'test-celdyque-cleansing-oil' %}{{ 'product-cleansing-oil.css' | asset_url | stylesheet_tag }}
+{% when 'test-celdyque-glutathione-30000' %}{{ 'product-glutathione-30000.css' | asset_url | stylesheet_tag }}
+{% when 'test-celdyque-azelaic-12' %}{{ 'product-azelaic-12.css' | asset_url | stylesheet_tag }}
+{% when 'test-celdyque-niacinamide-20-advanced' %}{{ 'product-niacinamide-20-advanced.css' | asset_url | stylesheet_tag }}
+{% else %}{{ 'product-arbutxa-glow-cream.css' | asset_url | stylesheet_tag }}{% endcase %}

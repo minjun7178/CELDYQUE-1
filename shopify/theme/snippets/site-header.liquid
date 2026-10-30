@@ -4,26 +4,26 @@
 
     <nav class="desktop-nav" aria-label="Primary navigation">
       <div class="nav-item">
-        <a href="{{ routes.root_url }}">Products</a>
+        <a href="{{ routes.all_products_collection_url }}">Products</a>
         <div class="mega-menu">
-          <a href="{{ routes.root_url }}">All</a>
-          <a href="https://celdyque.com/shop.html?cat=serum">Serum</a>
-          <a href="https://celdyque.com/shop.html?cat=cream">Cream</a>
-          <a href="https://celdyque.com/shop.html?cat=cleanser">Cleanser</a>
+          <a href="{{ routes.all_products_collection_url }}">All</a>
+          <a href="{{ routes.all_products_collection_url }}?cat=serum">Serum</a>
+          <a href="{{ routes.all_products_collection_url }}?cat=cream">Cream</a>
+          <a href="{{ routes.all_products_collection_url }}?cat=cleanser">Cleanser</a>
         </div>
       </div>
 
       <div class="nav-item">
-        <a href="https://celdyque.com/about.html">About</a>
+        <a href="{{ pages['about'].url }}">About</a>
         <div class="mega-menu">
-          <a href="https://celdyque.com/about.html">Brand Story</a>
+          <a href="{{ pages['about'].url }}">Brand Story</a>
           <a href="https://celdyque.com/coming-soon.html">Coming Soon</a>
           <a href="https://celdyque.com/contact.html">Contact</a>
         </div>
       </div>
 
       <div class="nav-item"><a href="https://celdyque.com/store.html">Store</a></div>
-      <div class="nav-item"><a href="https://celdyque.com/faq.html">FAQ</a></div>
+      <div class="nav-item"><a href="{{ pages['faq'].url }}">FAQ</a></div>
       <div class="nav-item nav-item--retailer nav-item--retailer-start"><a href="https://www.amazon.com/stores/page/176EC99B-F37D-4FC8-BC48-E30CEC0FA252?maas=maas_adg_E856BC7BDD5C52C4C8DD6D3C8EFCB0D8_afap_abs&amp;ref_=aa_maas&amp;tag=maas&amp;ingress=3" target="_blank" rel="noopener noreferrer" aria-label="Amazon (opens in a new tab)">Amazon</a></div>
       <div class="nav-item nav-item--retailer"><a href="https://www.tiktok.com/@celdyque" target="_blank" rel="noopener noreferrer" aria-label="TikTok Shop (opens in a new tab)">TikTok Shop</a></div>
       <div class="nav-item nav-item--retailer"><a href="https://www.yesstyle.com/en/celdyque/list.html/bpt.299_bid.331400" target="_blank" rel="noopener noreferrer" aria-label="YesStyle (opens in a new tab)">YesStyle</a></div>
@@ -56,23 +56,23 @@
       {% unless customer %}<p>Sign in with an email code. No password needed.</p>{% endunless %}
     </div>
     {% endif %}
-    <a href="{{ routes.root_url }}">Products</a>
+    <a href="{{ routes.all_products_collection_url }}">Products</a>
     <div class="mobile-menu-sub">
-      <a href="{{ routes.root_url }}">All</a>
-      <a href="https://celdyque.com/shop.html?cat=serum">Serum</a>
-      <a href="https://celdyque.com/shop.html?cat=cream">Cream</a>
-      <a href="https://celdyque.com/shop.html?cat=cleanser">Cleanser</a>
+      <a href="{{ routes.all_products_collection_url }}">All</a>
+      <a href="{{ routes.all_products_collection_url }}?cat=serum">Serum</a>
+      <a href="{{ routes.all_products_collection_url }}?cat=cream">Cream</a>
+      <a href="{{ routes.all_products_collection_url }}?cat=cleanser">Cleanser</a>
     </div>
 
-    <a href="https://celdyque.com/about.html">About</a>
+    <a href="{{ pages['about'].url }}">About</a>
     <div class="mobile-menu-sub">
-      <a href="https://celdyque.com/about.html">Brand Story</a>
+      <a href="{{ pages['about'].url }}">Brand Story</a>
       <a href="https://celdyque.com/coming-soon.html">Coming Soon</a>
       <a href="https://celdyque.com/contact.html">Contact</a>
     </div>
 
     <a href="https://celdyque.com/store.html">Store</a>
-    <a href="https://celdyque.com/faq.html">FAQ</a>
+    <a href="{{ pages['faq'].url }}">FAQ</a>
 
     <div class="mobile-retailer-group">
       <p>Official Retailers</p>

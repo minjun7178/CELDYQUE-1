@@ -9,17 +9,21 @@
   <link rel="canonical" href="{{ canonical_url }}">
   {{ content_for_header }}
   {{ 'site.css' | asset_url | stylesheet_tag }}
-  {{ 'product.css' | asset_url | stylesheet_tag }}
+  {% case request.page_type %}
+{% when 'index' %}{{ 'home.css' | asset_url | stylesheet_tag }}
+{% when 'collection' %}{{ 'shop.css' | asset_url | stylesheet_tag }}
+{% when 'page' %}{% case page.handle %}{% when 'about' %}{{ 'about.css' | asset_url | stylesheet_tag }}{% when 'faq' %}{{ 'faq.css' | asset_url | stylesheet_tag }}<script src="{{ 'faq.js' | asset_url }}" defer></script>{% else %}{% render 'product-styles', product: product %}{% endcase %}
+{% else %}{% render 'product-styles', product: product %}{% endcase %}
   {{ 'pilot.css' | asset_url | stylesheet_tag }}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
   <script src="{{ 'pilot.js' | asset_url }}" defer></script>
 </head>
-<body class="product">
+<body class="{% case request.page_type %}{% when 'index' %}home{% when 'collection' %}shop{% when 'page' %}content-page{% else %}product{% endcase %}">
   <a href="#MainContent" class="pilot-skip">Skip to content</a>
-  {% render 'site-header' %}
+  {% unless request.page_type == 'index' %}{% render 'site-header' %}{% endunless %}
   {{ content_for_layout }}
-  {% render 'site-footer' %}
+  {% unless request.page_type == 'index' %}{% render 'site-footer' %}{% endunless %}
 </body>
 </html>

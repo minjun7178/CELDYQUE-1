@@ -1,0 +1,10 @@
+{
+  "sections": {
+    "main": {
+      "type": "original-collection"
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

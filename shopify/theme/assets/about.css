@@ -1,0 +1,78 @@
+/* Brand Story 페이지 전용 레이아웃 스타일 */
+        *{margin:0;padding:0;box-sizing:border-box}
+        :root{--bg:#f5f5f5;--white:#fff;--text:#1a1a1a;--text-light:#666;--border:#e5e5e5;--font:'Inter',-apple-system,sans-serif;--tap:48px;--accent:#3b82f6}
+        body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:1.6}
+        
+        /* ✅ Hero 비디오 상단 여백 제거하여 천장까지 닿게 수정 */
+        .brand-hero{display:grid;grid-template-columns:1fr 1fr;min-height:100vh;}
+        .brand-hero-text{display:flex;flex-direction:column;justify-content:center;padding:5%; padding-top:100px;} /* 텍스트는 헤더에 안 가려지게 패딩 추가 */
+        .brand-hero-text .label{font-size:0.85rem;color:var(--text-light);margin-bottom:1rem}
+        .brand-hero-text h1{font-size:clamp(2.5rem,5vw,4rem);font-weight:600;line-height:1.1;margin-bottom:2rem}
+        .brand-hero-text p{color:var(--text-light);line-height:1.9;margin-bottom:1rem}
+        .brand-film-link{display:inline-flex;align-items:center;min-height:44px;text-decoration:underline;text-underline-offset:4px;align-self:flex-start}
+        
+        .brand-hero-image{position:relative; background:#000; overflow:hidden; height:100vh;} /* 뷰포트 높이에 꽉 차게 */
+        /* 비디오가 박스에 꽉 차고 비율이 유지되도록 설정 */
+        .brand-hero-image video {
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* 비율 유지하며 꽉 채움 */
+            display: block;
+        }
+
+        /* Mission */
+        .mission{padding:100px 5%;background:var(--white)}
+        .mission-inner{max-width:1000px;margin:0 auto;text-align:center}
+        
+        /* 브랜딩 로고 스타일 */
+        .mission-logo {
+            display: block;
+            margin: 0 auto 3rem auto; 
+            max-width: 1000px; 
+            width: 100%; 
+            height: auto;
+        }
+
+        /* 제목 (h2) 수정 */
+        .mission h2 {
+            font-size: clamp(1.4rem, 3vw, 1.8rem);
+            font-weight: 500;
+            line-height: 1.5;
+            margin: 0 auto 2rem auto; 
+            max-width: 650px; 
+            text-wrap: balance; 
+        }
+
+        /* 본문 (p) 수정 */
+        .mission p {
+            color: var(--text-light);
+            line-height: 1.9;
+            margin: 0 auto; 
+            max-width: 680px; 
+            text-wrap: balance;
+        }
+
+        /* Philosophy */
+        .philosophy{padding:100px 5%}
+        .philosophy-header{max-width:1400px;margin:0 auto 4rem}
+        .philosophy-header h2{font-size:2rem;font-weight:600;margin-bottom:0.5rem}
+        .philosophy-header p{color:var(--text-light)}
+        .philosophy-grid{max-width:1400px;margin:0 auto;display:grid;grid-template-columns:repeat(2,1fr);gap:2rem}
+        .philosophy-card{display:grid;grid-template-columns:1fr 1fr;background:var(--white);border-radius:16px;overflow:hidden}
+        .philosophy-card:nth-child(even){direction:rtl}
+        .philosophy-card:nth-child(even)>*{direction:ltr}
+        .philosophy-card img{width:100%;height:300px;object-fit:cover}
+        .philosophy-card-content{padding:2.5rem;display:flex;flex-direction:column;justify-content:center}
+        .philosophy-card-content .num{font-size:0.9rem;color:var(--text-light);margin-bottom:1rem}
+        .philosophy-card-content h3{font-size:1.1rem;font-weight:500;margin-bottom:1rem;line-height:1.5}
+        .philosophy-card-content p{font-size:0.9rem;color:var(--text-light);line-height:1.8}
+
+        @media(max-width:1024px){
+          .brand-hero,.philosophy-card{grid-template-columns:1fr}
+          .philosophy-grid{grid-template-columns:1fr}
+          .philosophy-card:nth-child(even){direction:ltr}
+        }
+        @media(max-width:768px){
+          .brand-hero-image{height:50vh} 
+          .mission-logo { max-width: 80%; } 
+        }

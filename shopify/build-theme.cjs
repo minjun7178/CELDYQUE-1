@@ -97,4 +97,5 @@ write('templates/search.liquid', `<main id="MainContent" class="container pilot-
 write('config/settings_schema.json', JSON.stringify([{name:'theme_info',theme_name:'CELDYQUE Original Pilot',theme_version:'0.1.0',theme_author:'CELDYQUE',theme_documentation_url:'https://celdyque.com',theme_support_url:'https://celdyque.com/contact.html'}],null,2));
 write('config/settings_data.json', '{"current":{}}');
 write('locales/en.default.json', '{"general":{"accessibility":{"skip_to_content":"Skip to content"}}}');
+require('./build-site.cjs');
 console.log('Built isolated pilot at ' + out);

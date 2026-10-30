@@ -7,17 +7,17 @@
     <div class="footer-col">
       <h4>Products</h4>
       <ul>
-        <li><a href="https://celdyque.com/shop.html">All</a></li>
-        <li><a href="https://celdyque.com/shop.html?cat=serum">Serum</a></li>
-        <li><a href="https://celdyque.com/shop.html?cat=cream">Cream</a></li>
-        <li><a href="https://celdyque.com/shop.html?cat=cleanser">Cleanser</a></li>
+        <li><a href="{{ routes.all_products_collection_url }}">All</a></li>
+        <li><a href="{{ routes.all_products_collection_url }}?cat=serum">Serum</a></li>
+        <li><a href="{{ routes.all_products_collection_url }}?cat=cream">Cream</a></li>
+        <li><a href="{{ routes.all_products_collection_url }}?cat=cleanser">Cleanser</a></li>
       </ul>
     </div>
 
     <div class="footer-col">
       <h4>About</h4>
       <ul>
-        <li><a href="https://celdyque.com/about.html">Brand Story</a></li>
+        <li><a href="{{ pages['about'].url }}">Brand Story</a></li>
         <li><a href="https://celdyque.com/coming-soon.html">Coming Soon</a></li>
         <li><a href="https://celdyque.com/contact.html">Contact</a></li>
       </ul>
@@ -37,7 +37,7 @@
     <div class="footer-col">
       <h4>Community</h4>
       <ul>
-        <li><a href="https://celdyque.com/faq.html">FAQ</a></li>
+        <li><a href="{{ pages['faq'].url }}">FAQ</a></li>
       </ul>
     </div>
 
