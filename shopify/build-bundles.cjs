@@ -16,7 +16,7 @@ const offers = audit.products.filter(p => ['multipack', 'mixed_bundle'].includes
 }));
 if (offers.length !== 13) throw new Error('Expected 13 approved additional offers');
 const composition = o => o.components.map(c => `${c.quantity} × ${c.name} (${c.size.split(' / ')[0]})`).join(' + ');
-const image = c => `{{ '${assets[c.image]}' | asset_url | image_tag: width: 480, height: 480, loading: 'lazy', alt: '${c.name.replaceAll("'", "\\'")}' }}`;
+const image = c => `<img src="{{ '${assets[c.image]}' | asset_url }}" width="480" height="480" loading="lazy" alt="${esc(c.name)}">`;
 fs.writeFileSync(path.join(__dirname, 'bundle-catalog.json'), JSON.stringify({
   approvedDate: '2026-11-18', scope: 'Dev UI and native cart only', currency: 'USD',
   warning: 'DEV-BUNDLE-* identifiers are placeholders, not Amazon MSKUs. Component stock is NOT deducted. No MCF integration or real fulfillment.', offers
