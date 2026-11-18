@@ -44,8 +44,10 @@ const setLabels = {
 const optionTitle = o => o.type === 'multipack' ? '2-Pack' : o.asin === 'B0G8GK8FX4' ? 'Trio' : 'Bundle';
 const optionDetail = o => o.type === 'multipack' ? '2 × ' + o.components[0].size.split(' / ')[0] : setLabels[o.asin];
 write('snippets/bundle-option-card.liquid', `{% assign offer_product = all_products[handle] %}
-{% if offer_product != blank %}<a class="pilot-offer{% if product.handle == handle %} is-selected{% endif %}" href="{{ offer_product.url }}#pilot-buy" {% if product.handle == handle %}aria-current="page"{% endif %}>
-<strong>{{ title | escape }}</strong><span>{{ detail | escape }}</span><b>{{ offer_product.price | money }}</b>{% unless offer_product.available %}<small>Sold out</small>{% endunless %}</a>{% endif %}`);
+{% if offer_product != blank %}{% assign offer_variant = offer_product.selected_or_first_available_variant %}
+<a class="pilot-offer{% if product.handle == handle %} is-selected{% endif %}" href="{{ offer_product.url }}#pilot-buy" data-offer="{{ handle | escape }}" data-variant="{{ offer_variant.id }}" data-available="{{ offer_variant.available }}" data-set="{% if offer_product.tags contains 'dev-bundle-prototype' %}true{% else %}false{% endif %}" data-label="{{ title | escape }} · {{ detail | escape }}" {% if product.handle == handle %}aria-current="page"{% endif %}>
+<strong>{{ title | escape }}</strong><span>{{ detail | escape }}</span><b>{{ offer_product.price | money }}</b>{% unless offer_variant.available %}<small>Sold out</small>{% endunless %}</a>
+<template data-offer-content="{{ handle | escape }}"><div data-offer-price>{{ offer_variant.price | money_with_currency }} <span>{% if offer_product.tags contains 'dev-bundle-prototype' %}per set{% else %}each{% endif %}</span></div><div data-offer-contents>{% render 'bundle-contents', product: offer_product %}</div><div data-offer-gallery>{% render 'bundle-gallery', product: offer_product %}</div></template>{% endif %}`);
 let selector = '{% case product.handle %}\n';
 for (const p of [...catalog, ...offers]) {
   // On set pages offer alternatives for the first component; no global 27-product all_products lookup.
@@ -61,12 +63,13 @@ for (const p of [...catalog, ...offers]) {
 write('snippets/bundle-options.liquid', selector + '{% endcase %}');
 write('snippets/bundle-contents.liquid', '{% case product.handle %}\n' + offers.map(o =>
   `{% when '${o.handle}' %}<div class="pilot-set-contents"><strong>Included per set</strong><ul>${o.components.map(c=>`<li>${c.quantity} × ${esc(c.name)} · ${esc(c.size.split(' / ')[0])}</li>`).join('')}</ul></div>`).join('\n') + '\n{% endcase %}');
-write('snippets/bundle-gallery.liquid', '{% case product.handle %}\n' + offers.map(o =>
+write('snippets/bundle-gallery.liquid', '{% case product.handle %}\n' + catalog.map(c =>
+  `{% when '${c.handle}' %}<div class="pilot-single-gallery">${image(c)}</div>`).join('\n') + '\n' + offers.map(o =>
   `{% when '${o.handle}' %}<div class="pilot-set-gallery">${o.components.map(c => `<figure>${image(c)}<figcaption>${c.quantity} × ${esc(c.name)}<span>${esc(c.size.split(' / ')[0])} each</span></figcaption></figure>`).join('')}</div>`).join('\n') + '\n{% endcase %}');
 write('snippets/bundle-product.liquid', `<main id="MainContent" class="container pilot-set-page">
 <p class="pilot-notice">Development preview · Test stock only · No real payments or fulfillment</p>
 <a class="pilot-continue" href="{{ routes.all_products_collection_url }}">← All products</a>
-<div class="pilot-set-hero"><div>{% render 'bundle-gallery', product: product %}</div><div class="pilot-set-info">
+<div class="pilot-set-hero"><div data-pilot-gallery>{% render 'bundle-gallery', product: product %}</div><div class="pilot-set-info">
 <p class="pilot-set-eyebrow">CELDYQUÉ · SETS &amp; MULTIPACKS</p><h1 class="serif">{{ product.title | remove: '[TEST] CELDYQUE ' | escape }}</h1>
 {% render 'buy-form', product: product %}
 <p class="pilot-set-note">One set contains the quantities listed above. Follow the directions on each individual product.</p>
@@ -74,16 +77,17 @@ write('snippets/bundle-product.liquid', `<main id="MainContent" class="container
 let dispatcher = fs.readFileSync(path.join(out,'snippets/pilot-product.liquid'),'utf8');
 dispatcher = dispatcher.replace('{% else %}', offers.map(o=>`{% when '${o.handle}' %}{% render 'bundle-product', product: product %}`).join('\n') + '\n{% else %}');
 write('snippets/pilot-product.liquid',dispatcher);
-write('snippets/buy-form.liquid', `<div id="pilot-buy" class="pilot-buy">
+write('snippets/buy-form.liquid', `<div id="pilot-buy" class="pilot-buy" data-initial-offer="{{ product.handle | escape }}">
 {% if product != blank %}
 {% assign variant = product.selected_or_first_available_variant %}
 <p class="pilot-price">{{ variant.price | money_with_currency }} <span>{% if product.tags contains 'dev-bundle-prototype' %}per set{% else %}each{% endif %}</span></p>
 {% render 'bundle-options', product: product %}
-{% render 'bundle-contents', product: product %}
+<div data-pilot-contents>{% render 'bundle-contents', product: product %}</div>
+<p class="pilot-selection-status" role="status" aria-live="polite" aria-atomic="true"></p>
 {% form 'product', product, id: 'PilotProductForm' %}
 {{ form.errors | default_errors }}
 <input type="hidden" name="id" value="{{ variant.id }}"><input type="hidden" name="return_to" value="{{ routes.cart_url }}">
-<div class="pilot-purchase-row"><label class="pilot-quantity">{% if product.tags contains 'dev-bundle-prototype' %}Sets{% else %}Quantity{% endif %}<input type="number" name="quantity" value="1" min="1" step="1" inputmode="numeric" required></label>
+<div class="pilot-purchase-row"><label class="pilot-quantity"><span data-pilot-quantity-label>{% if product.tags contains 'dev-bundle-prototype' %}Sets{% else %}Quantity{% endif %}</span><input type="number" name="quantity" value="1" min="1" step="1" inputmode="numeric" required></label>
 <button type="submit" name="add" class="btn-buy" {% unless variant.available %}disabled{% endunless %}>{% if variant.available %}Add to cart →{% else %}Sold out{% endif %}</button></div>
 {% endform %}<p class="pilot-shipping">US test delivery: $4.99 USD per order. Shipping and any applicable taxes are calculated at checkout.</p>
 {% else %}<p>Test product setup is in progress.</p>{% endif %}</div>`);

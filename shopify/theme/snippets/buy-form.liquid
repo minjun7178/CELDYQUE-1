@@ -1,13 +1,14 @@
-<div id="pilot-buy" class="pilot-buy">
+<div id="pilot-buy" class="pilot-buy" data-initial-offer="{{ product.handle | escape }}">
 {% if product != blank %}
 {% assign variant = product.selected_or_first_available_variant %}
 <p class="pilot-price">{{ variant.price | money_with_currency }} <span>{% if product.tags contains 'dev-bundle-prototype' %}per set{% else %}each{% endif %}</span></p>
 {% render 'bundle-options', product: product %}
-{% render 'bundle-contents', product: product %}
+<div data-pilot-contents>{% render 'bundle-contents', product: product %}</div>
+<p class="pilot-selection-status" role="status" aria-live="polite" aria-atomic="true"></p>
 {% form 'product', product, id: 'PilotProductForm' %}
 {{ form.errors | default_errors }}
 <input type="hidden" name="id" value="{{ variant.id }}"><input type="hidden" name="return_to" value="{{ routes.cart_url }}">
-<div class="pilot-purchase-row"><label class="pilot-quantity">{% if product.tags contains 'dev-bundle-prototype' %}Sets{% else %}Quantity{% endif %}<input type="number" name="quantity" value="1" min="1" step="1" inputmode="numeric" required></label>
+<div class="pilot-purchase-row"><label class="pilot-quantity"><span data-pilot-quantity-label>{% if product.tags contains 'dev-bundle-prototype' %}Sets{% else %}Quantity{% endif %}</span><input type="number" name="quantity" value="1" min="1" step="1" inputmode="numeric" required></label>
 <button type="submit" name="add" class="btn-buy" {% unless variant.available %}disabled{% endunless %}>{% if variant.available %}Add to cart →{% else %}Sold out{% endif %}</button></div>
 {% endform %}<p class="pilot-shipping">US test delivery: $4.99 USD per order. Shipping and any applicable taxes are calculated at checkout.</p>
 {% else %}<p>Test product setup is in progress.</p>{% endif %}</div>

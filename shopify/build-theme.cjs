@@ -76,6 +76,7 @@ write('layout/theme.liquid', `<!doctype html>
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <script src="{{ 'pilot.js' | asset_url }}" defer></script>
+  <script src="{{ 'bundle-picker.js' | asset_url }}" defer></script>
 </head>
 <body class="product">
   <a href="#MainContent" class="pilot-skip">Skip to content</a>

@@ -3,6 +3,13 @@
 @media(max-width:900px){.pilot-set-hero{grid-template-columns:1fr;gap:28px}.pilot-set-list-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:600px){.pilot-offer-grid{gap:7px}.pilot-offer{padding:10px 8px;min-height:104px}.pilot-offer strong{font-size:13px}.pilot-offer span{font-size:11px}.pilot-offer b{font-size:15px}.pilot-set-gallery{padding:14px;gap:10px}.pilot-set-list-grid{grid-template-columns:1fr}.pilot-bundle-listing{padding:32px 20px}.pilot-bundle-listing>h2{font-size:34px}.pilot-set-page .pilot-continue{margin:12px 0 22px}}
 .p-card[hidden]{display:none!important}
+.pilot-selection-status{position:absolute;width:1px;height:1px;padding:0;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+.pilot-single-gallery img{display:block;width:100%;height:auto;max-height:560px;object-fit:contain;border-radius:20px}
+.gallery-frame.is-offer-gallery{padding:16px;display:flex;align-items:center;justify-content:center;min-height:380px}
+.gallery-frame.is-offer-gallery .pilot-set-gallery{width:100%;grid-template-columns:repeat(auto-fit,minmax(80px,1fr));padding:10px;background:transparent}
+.gallery-frame.is-offer-gallery .pilot-set-gallery img{width:100%;height:auto;max-width:100%;aspect-ratio:1;object-fit:contain}
+[data-pilot-contents]>.pilot-set-contents{border-top:1px solid #e8eaf0;padding-top:14px;margin:0 0 20px;font-size:12px;color:#626875}
+@media(max-width:600px){.gallery-frame.is-offer-gallery{min-height:270px;padding:10px}}
 .pilot-notice{font-size:12px;color:#665827;background:#faf6e9;border:1px solid #e9dfbd;border-radius:8px;padding:9px 12px;margin:20px 0}
 .pilot-buy{width:100%;scroll-margin-top:120px}.pilot-price{font-size:25px;font-weight:600;margin:0 0 16px}.pilot-price span{font-size:12px;font-weight:400;color:#626875;margin-left:8px}
 .product-info>.action-group{flex-wrap:wrap}.pilot-purchase-row{display:flex;gap:14px;align-items:end}.pilot-purchase-row .btn-buy{flex:1;border:0;font:600 16px Inter,Arial,sans-serif;cursor:pointer;min-height:58px}.btn-buy:disabled{opacity:.5;cursor:not-allowed}
