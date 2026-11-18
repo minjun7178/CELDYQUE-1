@@ -26,6 +26,8 @@ jobs:
           node-version: '22'
       - name: Test dev-only deployment guards
         run: node --test shopify/test-deploy-dev.cjs
+      - name: Test approved bundle mappings and cart integration
+        run: node --test shopify/test-bundles.cjs
       - name: Validate committed theme and source mappings
         run: node shopify/validate-theme.cjs
       - name: Install pinned Shopify CLI

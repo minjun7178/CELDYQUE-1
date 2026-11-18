@@ -1,0 +1,8 @@
+<main id="MainContent" class="container pilot-set-page">
+<p class="pilot-notice">Development preview · Test stock only · No real payments or fulfillment</p>
+<a class="pilot-continue" href="{{ routes.all_products_collection_url }}">← All products</a>
+<div class="pilot-set-hero"><div>{% render 'bundle-gallery', product: product %}</div><div class="pilot-set-info">
+<p class="pilot-set-eyebrow">CELDYQUÉ · SETS &amp; MULTIPACKS</p><h1 class="serif">{{ product.title | remove: '[TEST] CELDYQUE ' | escape }}</h1>
+{% render 'bundle-contents', product: product %}{% render 'buy-form', product: product %}
+<p class="pilot-set-note">One set contains the quantities listed above. Follow the directions on each individual product.</p>
+</div></div></main><script type="application/ld+json">{{ product | structured_data }}</script>

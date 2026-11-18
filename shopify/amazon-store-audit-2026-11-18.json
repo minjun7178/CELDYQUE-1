@@ -1,0 +1,820 @@
+{
+  "checked_date": "2026-11-18",
+  "timezone": "Asia/Seoul",
+  "currency": "USD",
+  "storefront_url": "https://www.amazon.com/stores/page/D0FB532E-9A9B-4C3B-A6D5-3A58A4D534F0",
+  "scope": "All 10 public storefront navigation pages and all observed product purchase-option selections. Not a Seller Central/FBA inventory export. Hidden/unlisted/suppressed listings cannot be ruled out.",
+  "counts": {
+    "public_storefront_navigation_pages": 10,
+    "all_products_page_asins": 19,
+    "storefront_linked_asins": 23,
+    "additional_asins_from_purchase_options": 5,
+    "total_asins_inspected": 28,
+    "existing_singles": 14,
+    "multipacks": 5,
+    "mixed_bundles": 8,
+    "unavailable_extra_single": 1,
+    "official_prices_verified": 27
+  },
+  "price_basis": "Celdyque_Official one-time item/set price; excludes subscription, coupon, multi-buy promotion, tax and shipping. No price auto-sync.",
+  "approval": "User approved Amazon prices and compositions on 2026-11-18 for dev bundle selection/cart implementation. Actual MSKU and fulfillment model remain unconfirmed.",
+  "fulfillment": "Public composition does not establish physical prepack vs component fulfillment; all MSKU and inventory mappings pending team confirmation.",
+  "pages": [
+    {
+      "name": "ALL PRODUCTS",
+      "url": "https://www.amazon.com/stores/page/D0FB532E-9A9B-4C3B-A6D5-3A58A4D534F0",
+      "asins": [
+        "B0DC6H8MSW",
+        "B0CPLDVTFP",
+        "B0GXV5RJX5",
+        "B0H6DCQPN8",
+        "B0GGZRNGKL",
+        "B0F1Y8DML3",
+        "B0FJY6SCPX",
+        "B0FWBM5SR8",
+        "B0FMFBGW9N",
+        "B0DCBFQQ64",
+        "B0C2PH12CR",
+        "B0DP4FQPDL",
+        "B0G4R7N24X",
+        "B0DP4FG8B9",
+        "B0FGPXK14C",
+        "B0FKM689SK",
+        "B0DHRMMPQT",
+        "B0DHK1ZPV6",
+        "B0C2PGVMC6"
+      ]
+    },
+    {
+      "name": "CLEANSER DUO",
+      "url": "https://www.amazon.com/stores/page/809BD745-721E-4720-A929-3E6909F66863",
+      "asins": [
+        "B0FKM689SK",
+        "B0FGPXK14C",
+        "B0G6HS2JNG"
+      ]
+    },
+    {
+      "name": "BAKUCHIOL DUO",
+      "url": "https://www.amazon.com/stores/page/44A15B79-BF86-4586-BB81-2EC80FD97C71",
+      "asins": [
+        "B0DC6H8MSW",
+        "B0GXV5RJX5",
+        "B0H6DCQPN8",
+        "B0HCMSRJB7"
+      ]
+    },
+    {
+      "name": "SKINCARE BOOSTER",
+      "url": "https://www.amazon.com/stores/page/D3497783-DCC6-419D-9192-75F35DCCD3A2",
+      "asins": [
+        "B0DC6H8MSW",
+        "B0DHRMMPQT",
+        "B0CPLDVTFP",
+        "B0FMFBGW9N",
+        "B0DHK1ZPV6",
+        "B0DCBFQQ64"
+      ]
+    },
+    {
+      "name": "SCALP CARE",
+      "url": "https://www.amazon.com/stores/page/7775008B-734E-4A9C-B88A-AB91ADF92EC0",
+      "asins": [
+        "B0GGZRNGKL",
+        "B0H1PZ47YZ"
+      ]
+    },
+    {
+      "name": "TONE-UP CARE",
+      "url": "https://www.amazon.com/stores/page/8C5D0E71-3C4D-4198-828C-C5256F6A704A",
+      "asins": [
+        "B0FWBM5SR8",
+        "B0DP4FG8B9",
+        "B0C2PH12CR",
+        "B0C2PGVMC6"
+      ]
+    },
+    {
+      "name": "PDRN SET",
+      "url": "https://www.amazon.com/stores/page/3DD62CEB-A2CC-4EF9-8DAE-944BD75548FD",
+      "asins": [
+        "B0FJY6SCPX",
+        "B0F1Y8DML3",
+        "B0FMFBGW9N",
+        "B0G4R7N24X"
+      ]
+    },
+    {
+      "name": "SERUM",
+      "url": "https://www.amazon.com/stores/page/1DEAE555-DDE5-4E26-AE6C-5AA141111810",
+      "asins": [
+        "B0C2PH12CR",
+        "B0DP4FG8B9",
+        "B0DP4FQPDL",
+        "B0F1Y8DML3"
+      ]
+    },
+    {
+      "name": "CREAM",
+      "url": "https://www.amazon.com/stores/page/4B9FF378-183E-4FA9-A25A-824AB5C5D34E",
+      "asins": [
+        "B0GXV5RJX5",
+        "B0FWBM5SR8",
+        "B0FJY6SCPX"
+      ]
+    },
+    {
+      "name": "Home",
+      "url": "https://www.amazon.com/stores/page/176EC99B-F37D-4FC8-BC48-E30CEC0FA252",
+      "asins": [
+        "B0H6DCQPN8",
+        "B0DC6H8MSW",
+        "B0GXV5RJX5",
+        "B0CPLDVTFP",
+        "B0GGZRNGKL",
+        "B0F1Y8DML3",
+        "B0FMFBGW9N",
+        "B0FJY6SCPX",
+        "B0FWBM5SR8",
+        "B0FKM689SK",
+        "B0FGPXK14C",
+        "B0CP6X4LD8",
+        "B0C2PH12CR"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "asin": "B0CPLDVTFP",
+      "name": "Volufiline 100% Concentrate",
+      "type": "single",
+      "composition": "10 ml × 1",
+      "components": [
+        {
+          "product_id": "volufiline-100",
+          "quantity": 1
+        }
+      ],
+      "official_price_usd": 17.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected product main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0CPLDVTFP",
+      "existing_dev_product": true,
+      "price_already_approved": true,
+      "new_changes_applied": false,
+      "seller_sku": null,
+      "inventory_model": null
+    },
+    {
+      "asin": "B0H6DCQPN8",
+      "name": "Blue Copper Peptide Bakuchiol Serum",
+      "type": "single",
+      "composition": "30 ml × 1",
+      "components": [
+        {
+          "product_id": "blue-copper-peptide-bakuchiol-serum",
+          "quantity": 1
+        }
+      ],
+      "official_price_usd": 19.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected product main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0H6DCQPN8",
+      "existing_dev_product": true,
+      "price_already_approved": true,
+      "new_changes_applied": false,
+      "seller_sku": null,
+      "inventory_model": null
+    },
+    {
+      "asin": "B0GXV5RJX5",
+      "name": "Bakuchiol Volume Collagen Cream",
+      "type": "single",
+      "composition": "50 ml × 1",
+      "components": [
+        {
+          "product_id": "bakuchiol-volume-collagen-cream",
+          "quantity": 1
+        }
+      ],
+      "official_price_usd": 17.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected product main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0GXV5RJX5",
+      "existing_dev_product": true,
+      "price_already_approved": true,
+      "new_changes_applied": false,
+      "seller_sku": null,
+      "inventory_model": null
+    },
+    {
+      "asin": "B0GGZRNGKL",
+      "name": "9-Peptide Scalp Care Serum Roll-On",
+      "type": "single",
+      "composition": "40 ml × 1",
+      "components": [
+        {
+          "product_id": "9-peptide-scalp-serum",
+          "quantity": 1
+        }
+      ],
+      "official_price_usd": 19.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected product main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0GGZRNGKL",
+      "existing_dev_product": true,
+      "price_already_approved": true,
+      "new_changes_applied": false,
+      "seller_sku": null,
+      "inventory_model": null
+    },
+    {
+      "asin": "B0DC6H8MSW",
+      "name": "Bakuchiol 30,000ppm Serum",
+      "type": "single",
+      "composition": "30 ml × 1",
+      "components": [
+        {
+          "product_id": "bakuchiol-30000",
+          "quantity": 1
+        }
+      ],
+      "official_price_usd": 14.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected product main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0DC6H8MSW",
+      "existing_dev_product": true,
+      "price_already_approved": true,
+      "new_changes_applied": false,
+      "seller_sku": null,
+      "inventory_model": null
+    },
+    {
+      "asin": "B0FMFBGW9N",
+      "name": "PDRN 250,000ppm Concentrate",
+      "type": "single",
+      "composition": "30 ml × 1",
+      "components": [
+        {
+          "product_id": "pdrn-25",
+          "quantity": 1
+        }
+      ],
+      "official_price_usd": 17.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected product main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0FMFBGW9N",
+      "existing_dev_product": true,
+      "price_already_approved": true,
+      "new_changes_applied": false,
+      "seller_sku": null,
+      "inventory_model": null
+    },
+    {
+      "asin": "B0F1Y8DML3",
+      "name": "PDRN 12% + EGF Peptide Serum",
+      "type": "single",
+      "composition": "30 ml × 1",
+      "components": [
+        {
+          "product_id": "pdrn-12-egf",
+          "quantity": 1
+        }
+      ],
+      "official_price_usd": 17.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected product main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0F1Y8DML3",
+      "existing_dev_product": true,
+      "price_already_approved": true,
+      "new_changes_applied": false,
+      "seller_sku": null,
+      "inventory_model": null
+    },
+    {
+      "asin": "B0FJY6SCPX",
+      "name": "PDRN 12% + EGF Peptide Cream",
+      "type": "single",
+      "composition": "50 ml × 1",
+      "components": [
+        {
+          "product_id": "pdrn-12-egf-cream",
+          "quantity": 1
+        }
+      ],
+      "official_price_usd": 17.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Other sellers panel; featured offer is CrediThink",
+      "amazon_url": "https://www.amazon.com/dp/B0FJY6SCPX",
+      "existing_dev_product": true,
+      "price_already_approved": true,
+      "new_changes_applied": false,
+      "seller_sku": null,
+      "inventory_model": null
+    },
+    {
+      "asin": "B0FWBM5SR8",
+      "name": "ArbutXA Glow Cream",
+      "type": "single",
+      "composition": "50 ml × 1",
+      "components": [
+        {
+          "product_id": "arbutxa-glow-cream",
+          "quantity": 1
+        }
+      ],
+      "official_price_usd": 17.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected product main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0FWBM5SR8",
+      "existing_dev_product": true,
+      "price_already_approved": true,
+      "new_changes_applied": false,
+      "seller_sku": null,
+      "inventory_model": null
+    },
+    {
+      "asin": "B0FGPXK14C",
+      "name": "Gentle Cleanser Purifying Touch",
+      "type": "single",
+      "composition": "150 ml × 1",
+      "components": [
+        {
+          "product_id": "gentle-cleanser",
+          "quantity": 1
+        }
+      ],
+      "official_price_usd": 12.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Other sellers panel; featured offer is CrediThink",
+      "amazon_url": "https://www.amazon.com/dp/B0FGPXK14C",
+      "existing_dev_product": true,
+      "price_already_approved": true,
+      "new_changes_applied": false,
+      "seller_sku": null,
+      "inventory_model": null
+    },
+    {
+      "asin": "B0FKM689SK",
+      "name": "Pore Purifying Cleansing Oil",
+      "type": "single",
+      "composition": "200 ml × 1",
+      "components": [
+        {
+          "product_id": "cleansing-oil",
+          "quantity": 1
+        }
+      ],
+      "official_price_usd": 13.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected product main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0FKM689SK",
+      "existing_dev_product": true,
+      "price_already_approved": true,
+      "new_changes_applied": false,
+      "seller_sku": null,
+      "inventory_model": null
+    },
+    {
+      "asin": "B0DP4FG8B9",
+      "name": "Glutathione Glow Serum 30,000 ppm",
+      "type": "single",
+      "composition": "30 ml × 1",
+      "components": [
+        {
+          "product_id": "glutathione-30000",
+          "quantity": 1
+        }
+      ],
+      "official_price_usd": 16.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected product main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0DP4FG8B9",
+      "existing_dev_product": true,
+      "price_already_approved": true,
+      "new_changes_applied": false,
+      "seller_sku": null,
+      "inventory_model": null
+    },
+    {
+      "asin": "B0DP4FQPDL",
+      "name": "Azelaic Acid 12% Topical Serum",
+      "type": "single",
+      "composition": "30 ml × 1",
+      "components": [
+        {
+          "product_id": "azelaic-12",
+          "quantity": 1
+        }
+      ],
+      "official_price_usd": 13.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected product main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0DP4FQPDL",
+      "existing_dev_product": true,
+      "price_already_approved": true,
+      "new_changes_applied": false,
+      "seller_sku": null,
+      "inventory_model": null
+    },
+    {
+      "asin": "B0C2PH12CR",
+      "name": "Niacinamide 20% Pore Minimizer Serum",
+      "type": "single",
+      "composition": "30 ml × 1",
+      "components": [
+        {
+          "product_id": "niacinamide-20-advanced",
+          "quantity": 1
+        }
+      ],
+      "official_price_usd": 14.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected product main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0C2PH12CR",
+      "existing_dev_product": true,
+      "price_already_approved": true,
+      "new_changes_applied": false,
+      "seller_sku": null,
+      "inventory_model": null
+    },
+    {
+      "asin": "B0DCBFQQ64",
+      "name": "Volufiline 2-Pack",
+      "type": "multipack",
+      "composition": "10ml × 2",
+      "components": [
+        {
+          "product_id": "volufiline-100",
+          "quantity": 2
+        }
+      ],
+      "official_price_usd": 29.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected ASIN main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0DCBFQQ64",
+      "composition_evidence": "옵션 이름에 2ea 명시",
+      "component_single_total_usd": 35.98,
+      "difference_from_single_total_usd": 5.99,
+      "existing_dev_product": false,
+      "price_already_approved": true,
+      "new_changes_applied": true,
+      "seller_sku": null,
+      "inventory_model": null,
+      "applied_scope": "Independent dev test product only; no component stock sync or MCF"
+    },
+    {
+      "asin": "B0DHRMMPQT",
+      "name": "Bakuchiol 3% Serum 2-Pack",
+      "type": "multipack",
+      "composition": "30ml × 2",
+      "components": [
+        {
+          "product_id": "bakuchiol-30000",
+          "quantity": 2
+        }
+      ],
+      "official_price_usd": 24.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected ASIN main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0DHRMMPQT",
+      "composition_evidence": "옵션 2ea 및 두 병 이미지 확인",
+      "component_single_total_usd": 29.98,
+      "difference_from_single_total_usd": 4.99,
+      "existing_dev_product": false,
+      "price_already_approved": true,
+      "new_changes_applied": true,
+      "seller_sku": null,
+      "inventory_model": null,
+      "applied_scope": "Independent dev test product only; no component stock sync or MCF"
+    },
+    {
+      "asin": "B0HCT6W3TY",
+      "name": "Blue Copper Peptide Serum 2-Pack",
+      "type": "multipack",
+      "composition": "30ml × 2",
+      "components": [
+        {
+          "product_id": "blue-copper-peptide-bakuchiol-serum",
+          "quantity": 2
+        }
+      ],
+      "official_price_usd": 34.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected ASIN main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0HCT6W3TY",
+      "composition_evidence": "상품명과 선택 옵션에 2-Pack 명시",
+      "component_single_total_usd": 39.98,
+      "difference_from_single_total_usd": 4.99,
+      "existing_dev_product": false,
+      "price_already_approved": true,
+      "new_changes_applied": true,
+      "seller_sku": null,
+      "inventory_model": null,
+      "applied_scope": "Independent dev test product only; no component stock sync or MCF"
+    },
+    {
+      "asin": "B0C2PGVMC6",
+      "name": "Niacinamide Serum 2-Pack",
+      "type": "multipack",
+      "composition": "30ml × 2로 해석; 포장 확인 필요",
+      "components": [
+        {
+          "product_id": "niacinamide-20-advanced",
+          "quantity": 2
+        }
+      ],
+      "official_price_usd": 19.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected ASIN main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0C2PGVMC6",
+      "composition_evidence": "2 fl oz (Pack of 1) 표기지만 대표 이미지는 두 병. 병당 용량·현재 단품과 동일 포뮬러/포장인지 담당자 확인",
+      "component_single_total_usd": 29.98,
+      "difference_from_single_total_usd": 9.99,
+      "existing_dev_product": false,
+      "price_already_approved": true,
+      "new_changes_applied": true,
+      "seller_sku": null,
+      "inventory_model": null,
+      "applied_scope": "Independent dev test product only; no component stock sync or MCF"
+    },
+    {
+      "asin": "B0H1PZ47YZ",
+      "name": "Scalp Serum 2-Pack",
+      "type": "multipack",
+      "composition": "40ml × 2",
+      "components": [
+        {
+          "product_id": "9-peptide-scalp-serum",
+          "quantity": 2
+        }
+      ],
+      "official_price_usd": 29.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected ASIN main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0H1PZ47YZ",
+      "composition_evidence": "2.7 fl oz (Pack of 1) 표기지만 대표 이미지는 두 튜브, 각 1.35 fl oz 표시. 실제 포장 SKU 확인",
+      "component_single_total_usd": 39.98,
+      "difference_from_single_total_usd": 9.99,
+      "existing_dev_product": false,
+      "price_already_approved": true,
+      "new_changes_applied": true,
+      "seller_sku": null,
+      "inventory_model": null,
+      "applied_scope": "Independent dev test product only; no component stock sync or MCF"
+    },
+    {
+      "asin": "B0DHK1ZPV6",
+      "name": "Volufiline + Bakuchiol Serum",
+      "type": "mixed_bundle",
+      "composition": "Volufiline 10ml + Bakuchiol 세럼 30ml",
+      "components": [
+        {
+          "product_id": "volufiline-100",
+          "quantity": 1
+        },
+        {
+          "product_id": "bakuchiol-30000",
+          "quantity": 1
+        }
+      ],
+      "official_price_usd": 27.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected ASIN main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0DHK1ZPV6",
+      "composition_evidence": "상품명 및 Bakuchiol 3% with Volufiline 옵션 확인",
+      "component_single_total_usd": 32.98,
+      "difference_from_single_total_usd": 4.99,
+      "existing_dev_product": false,
+      "price_already_approved": true,
+      "new_changes_applied": true,
+      "seller_sku": null,
+      "inventory_model": null,
+      "applied_scope": "Independent dev test product only; no component stock sync or MCF"
+    },
+    {
+      "asin": "B0HCMSRJB7",
+      "name": "Volufiline + Bakuchiol Cream",
+      "type": "mixed_bundle",
+      "composition": "Volufiline 10ml + Bakuchiol 크림 50ml",
+      "components": [
+        {
+          "product_id": "volufiline-100",
+          "quantity": 1
+        },
+        {
+          "product_id": "bakuchiol-volume-collagen-cream",
+          "quantity": 1
+        }
+      ],
+      "official_price_usd": 29.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected ASIN main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0HCMSRJB7",
+      "composition_evidence": "with Bakuchiol 1ea는 세럼이 아닌 크림. 상품명·이미지 설명으로 구분",
+      "component_single_total_usd": 35.98,
+      "difference_from_single_total_usd": 5.99,
+      "existing_dev_product": false,
+      "price_already_approved": true,
+      "new_changes_applied": true,
+      "seller_sku": null,
+      "inventory_model": null,
+      "applied_scope": "Independent dev test product only; no component stock sync or MCF"
+    },
+    {
+      "asin": "B0HCMZJDDB",
+      "name": "Bakuchiol Serum + Bakuchiol Cream",
+      "type": "mixed_bundle",
+      "composition": "Bakuchiol 세럼 30ml + Bakuchiol 크림 50ml",
+      "components": [
+        {
+          "product_id": "bakuchiol-30000",
+          "quantity": 1
+        },
+        {
+          "product_id": "bakuchiol-volume-collagen-cream",
+          "quantity": 1
+        }
+      ],
+      "official_price_usd": 27.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected ASIN main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0HCMZJDDB",
+      "composition_evidence": "상품명·대표 이미지·이미지 대체텍스트 확인",
+      "component_single_total_usd": 32.98,
+      "difference_from_single_total_usd": 4.99,
+      "existing_dev_product": false,
+      "price_already_approved": true,
+      "new_changes_applied": true,
+      "seller_sku": null,
+      "inventory_model": null,
+      "applied_scope": "Independent dev test product only; no component stock sync or MCF"
+    },
+    {
+      "asin": "B0HGD7BQ3W",
+      "name": "Blue Copper Peptide Serum + Bakuchiol Cream",
+      "type": "mixed_bundle",
+      "composition": "Copper Peptide 세럼 30ml + Bakuchiol 크림 50ml",
+      "components": [
+        {
+          "product_id": "blue-copper-peptide-bakuchiol-serum",
+          "quantity": 1
+        },
+        {
+          "product_id": "bakuchiol-volume-collagen-cream",
+          "quantity": 1
+        }
+      ],
+      "official_price_usd": 32.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected ASIN main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0HGD7BQ3W",
+      "composition_evidence": "옵션 BUNDLE. 대표 이미지에 두 제품과 용량 표시. 본문은 세럼 중심이라 자사몰에는 구성 명시 필요",
+      "component_single_total_usd": 37.98,
+      "difference_from_single_total_usd": 4.99,
+      "existing_dev_product": false,
+      "price_already_approved": true,
+      "new_changes_applied": true,
+      "seller_sku": null,
+      "inventory_model": null,
+      "applied_scope": "Independent dev test product only; no component stock sync or MCF"
+    },
+    {
+      "asin": "B0G4R7N24X",
+      "name": "PDRN 12% Duo",
+      "type": "mixed_bundle",
+      "composition": "PDRN 12% 세럼 30ml + PDRN 12% 크림 50ml",
+      "components": [
+        {
+          "product_id": "pdrn-12-egf",
+          "quantity": 1
+        },
+        {
+          "product_id": "pdrn-12-egf-cream",
+          "quantity": 1
+        }
+      ],
+      "official_price_usd": 27.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected ASIN main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0G4R7N24X",
+      "composition_evidence": "상품명에 Serum & Cream Set 명시",
+      "component_single_total_usd": 35.98,
+      "difference_from_single_total_usd": 7.99,
+      "existing_dev_product": false,
+      "price_already_approved": true,
+      "new_changes_applied": true,
+      "seller_sku": null,
+      "inventory_model": null,
+      "applied_scope": "Independent dev test product only; no component stock sync or MCF"
+    },
+    {
+      "asin": "B0G7CPYW4V",
+      "name": "PDRN 25% Duo",
+      "type": "mixed_bundle",
+      "composition": "PDRN 25% 세럼 30ml + PDRN 12% 크림 50ml",
+      "components": [
+        {
+          "product_id": "pdrn-25",
+          "quantity": 1
+        },
+        {
+          "product_id": "pdrn-12-egf-cream",
+          "quantity": 1
+        }
+      ],
+      "official_price_usd": 28.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected ASIN main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0G7CPYW4V",
+      "composition_evidence": "상품명에 25% Concentrate Serum + 12% Cream 명시",
+      "component_single_total_usd": 35.98,
+      "difference_from_single_total_usd": 6.99,
+      "existing_dev_product": false,
+      "price_already_approved": true,
+      "new_changes_applied": true,
+      "seller_sku": null,
+      "inventory_model": null,
+      "applied_scope": "Independent dev test product only; no component stock sync or MCF"
+    },
+    {
+      "asin": "B0G8GK8FX4",
+      "name": "PDRN Trio",
+      "type": "mixed_bundle",
+      "composition": "PDRN 25% 세럼 30ml + PDRN 12% 세럼 30ml + 크림 50ml",
+      "components": [
+        {
+          "product_id": "pdrn-25",
+          "quantity": 1
+        },
+        {
+          "product_id": "pdrn-12-egf",
+          "quantity": 1
+        },
+        {
+          "product_id": "pdrn-12-egf-cream",
+          "quantity": 1
+        }
+      ],
+      "official_price_usd": 39.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected ASIN main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0G8GK8FX4",
+      "composition_evidence": "상품명 및 대표 이미지의 세 제품 확인",
+      "component_single_total_usd": 53.97,
+      "difference_from_single_total_usd": 13.98,
+      "existing_dev_product": false,
+      "price_already_approved": true,
+      "new_changes_applied": true,
+      "seller_sku": null,
+      "inventory_model": null,
+      "applied_scope": "Independent dev test product only; no component stock sync or MCF"
+    },
+    {
+      "asin": "B0G6HS2JNG",
+      "name": "Double Cleanse Duo",
+      "type": "mixed_bundle",
+      "composition": "Cleansing Oil 200ml + Gentle Cleanser 150ml",
+      "components": [
+        {
+          "product_id": "cleansing-oil",
+          "quantity": 1
+        },
+        {
+          "product_id": "gentle-cleanser",
+          "quantity": 1
+        }
+      ],
+      "official_price_usd": 21.99,
+      "seller": "Celdyque_Official",
+      "price_evidence": "Selected ASIN main buy box",
+      "amazon_url": "https://www.amazon.com/dp/B0G6HS2JNG",
+      "composition_evidence": "상품명에 Cleansing Oil & Gentle Face Wash 명시",
+      "component_single_total_usd": 26.98,
+      "difference_from_single_total_usd": 4.99,
+      "existing_dev_product": false,
+      "price_already_approved": true,
+      "new_changes_applied": true,
+      "seller_sku": null,
+      "inventory_model": null,
+      "applied_scope": "Independent dev test product only; no component stock sync or MCF"
+    },
+    {
+      "asin": "B0CP6X4LD8",
+      "name": "Retinal Eye Cream Serum",
+      "type": "unavailable_single",
+      "composition": null,
+      "components": [],
+      "official_price_usd": null,
+      "seller": null,
+      "amazon_url": "https://www.amazon.com/dp/B0CP6X4LD8",
+      "availability": "Currently unavailable; restock date unknown",
+      "existing_dev_product": false,
+      "price_already_approved": false,
+      "new_changes_applied": false,
+      "seller_sku": null,
+      "inventory_model": null,
+      "notes": "Found on store Home; no current sale price or seller. Alternative-product price must not be used."
+    }
+  ]
+}

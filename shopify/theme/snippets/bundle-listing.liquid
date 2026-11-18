@@ -1,0 +1,4 @@
+<section class="pilot-bundle-listing" aria-labelledby="sets-heading"><h2 id="sets-heading" class="serif">Sets &amp; multipacks</h2><p>Choose a pair, a routine, or a second bottle.</p><div class="pilot-set-list-grid">
+{% for set_product in collections.all.products limit: 50 %}{% if set_product.tags contains 'dev-bundle-prototype' %}
+<article><a href="{{ set_product.url }}">{% render 'bundle-gallery', product: set_product %}<h3>{{ set_product.title | remove: '[TEST] CELDYQUE ' | escape }}</h3><p>{{ set_product.price | money_with_currency }}</p></a></article>
+{% endif %}{% endfor %}</div></section>

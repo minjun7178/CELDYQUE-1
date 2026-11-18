@@ -6,12 +6,13 @@
     "id": "15658664296559",
     "handle": "test-celdyque-arbutxa-glow-cream-50-ml",
     "title": "[TEST] CELDYQUE ArbutXA Glow Cream — 50 ml",
-    "price": "19.99",
+    "price": "17.99",
     "currency": "USD",
     "initial_test_stock": 10,
     "status": "active",
     "description_source": "approved existing product copy",
-    "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group-5.webp"
+    "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group-5.webp",
+    "approved_launch_price_usd": 17.99
   },
   "market": {
     "id": "65595277423",
@@ -126,13 +127,15 @@
       "id": "15676299018351",
       "handle": "test-celdyque-volufiline-100",
       "title": "[TEST] CELDYQUE Volufiline 100% Concentrate — 10 ml",
-      "price": "19.99",
+      "price": "17.99",
       "currency": "USD",
       "initial_test_stock": 10,
       "status": "active",
       "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group-1.webp",
       "amazon_seller_sku": null,
-      "production_weight": null
+      "production_weight": null,
+      "approved_launch_price_usd": 17.99,
+      "price_approved_on": "2026-11-18"
     },
     {
       "id": "15676299247727",
@@ -144,19 +147,23 @@
       "status": "active",
       "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/ms15-lower.webp",
       "amazon_seller_sku": null,
-      "production_weight": null
+      "production_weight": null,
+      "approved_launch_price_usd": 19.99,
+      "price_approved_on": "2026-11-18"
     },
     {
       "id": "15676299346031",
       "handle": "test-celdyque-bakuchiol-volume-collagen-cream",
       "title": "[TEST] CELDYQUE Bakuchiol Volume Collagen Cream — 50 ml",
-      "price": "19.99",
+      "price": "17.99",
       "currency": "USD",
       "initial_test_stock": 10,
       "status": "active",
       "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/ms14-lower.webp",
       "amazon_seller_sku": null,
-      "production_weight": null
+      "production_weight": null,
+      "approved_launch_price_usd": 17.99,
+      "price_approved_on": "2026-11-18"
     },
     {
       "id": "15676299477103",
@@ -168,63 +175,73 @@
       "status": "active",
       "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/ms13.webp",
       "amazon_seller_sku": null,
-      "production_weight": null
+      "production_weight": null,
+      "approved_launch_price_usd": 19.99,
+      "price_approved_on": "2026-11-18"
     },
     {
       "id": "15676299542639",
       "handle": "test-celdyque-bakuchiol-30000",
       "title": "[TEST] CELDYQUE Bakuchiol 30,000ppm Serum — 30 ml",
-      "price": "19.99",
+      "price": "14.99",
       "currency": "USD",
       "initial_test_stock": 10,
       "status": "active",
       "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group-4.webp",
       "amazon_seller_sku": null,
-      "production_weight": null
+      "production_weight": null,
+      "approved_launch_price_usd": 14.99,
+      "price_approved_on": "2026-11-18"
     },
     {
       "id": "15676299640943",
       "handle": "test-celdyque-pdrn-25",
       "title": "[TEST] CELDYQUE PDRN 250,000ppm Concentrate — 30 ml",
-      "price": "19.99",
+      "price": "17.99",
       "currency": "USD",
       "initial_test_stock": 10,
       "status": "active",
       "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group-3.webp",
       "amazon_seller_sku": null,
-      "production_weight": null
+      "production_weight": null,
+      "approved_launch_price_usd": 17.99,
+      "price_approved_on": "2026-11-18"
     },
     {
       "id": "15676194717807",
       "variant_id": "68070464585839",
       "handle": "test-celdyque-pdrn-12-egf-peptide-serum-30-ml",
       "title": "[TEST] CELDYQUE PDRN 12% + EGF Peptide Serum — 30 ml",
-      "price": "19.99",
+      "price": "17.99",
       "currency": "USD",
       "initial_test_stock": 10,
       "status": "active",
       "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group.webp",
       "description_source": "approved existing product copy",
       "amazon_seller_sku": null,
-      "production_weight": null
+      "production_weight": null,
+      "approved_launch_price_usd": 17.99,
+      "price_approved_on": "2026-11-18"
     },
     {
       "id": "15676299772015",
       "handle": "test-celdyque-pdrn-12-egf-cream",
       "title": "[TEST] CELDYQUE PDRN 12% + EGF Peptide Cream — 50 ml",
-      "price": "19.99",
+      "price": "17.99",
       "currency": "USD",
       "initial_test_stock": 10,
       "status": "active",
       "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group-6.webp",
       "amazon_seller_sku": null,
-      "production_weight": null
+      "production_weight": null,
+      "approved_launch_price_usd": 17.99,
+      "price_approved_on": "2026-11-18"
     },
     {
       "id": "15658664296559",
       "handle": "test-celdyque-arbutxa-glow-cream-50-ml",
       "title": "[TEST] CELDYQUE ArbutXA Glow Cream — 50 ml",
-      "price": "19.99",
+      "price": "17.99",
       "currency": "USD",
       "initial_test_stock": 10,
       "status": "active",
@@ -232,67 +249,79 @@
       "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group-5.webp",
       "variant_id": "68024552226927",
       "amazon_seller_sku": null,
-      "production_weight": null
+      "production_weight": null,
+      "approved_launch_price_usd": 17.99,
+      "price_approved_on": "2026-11-18"
     },
     {
       "id": "15676299903087",
       "handle": "test-celdyque-gentle-cleanser",
       "title": "[TEST] CELDYQUE Gentle Cleanser Purifying Touch — 150 ml",
-      "price": "19.99",
+      "price": "12.99",
       "currency": "USD",
       "initial_test_stock": 10,
       "status": "active",
       "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group-11.webp",
       "amazon_seller_sku": null,
-      "production_weight": null
+      "production_weight": null,
+      "approved_launch_price_usd": 12.99,
+      "price_approved_on": "2026-11-18"
     },
     {
       "id": "15676299935855",
       "handle": "test-celdyque-cleansing-oil",
       "title": "[TEST] CELDYQUE Pore Purifying Cleansing Oil — 200 ml",
-      "price": "19.99",
+      "price": "13.99",
       "currency": "USD",
       "initial_test_stock": 10,
       "status": "active",
       "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group-9.webp",
       "amazon_seller_sku": null,
-      "production_weight": null
+      "production_weight": null,
+      "approved_launch_price_usd": 13.99,
+      "price_approved_on": "2026-11-18"
     },
     {
       "id": "15676300099695",
       "handle": "test-celdyque-glutathione-30000",
       "title": "[TEST] CELDYQUE Glutathione Glow Serum 30,000 ppm — 30 ml",
-      "price": "19.99",
+      "price": "16.99",
       "currency": "USD",
       "initial_test_stock": 10,
       "status": "active",
       "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group-2.webp",
       "amazon_seller_sku": null,
-      "production_weight": null
+      "production_weight": null,
+      "approved_launch_price_usd": 16.99,
+      "price_approved_on": "2026-11-18"
     },
     {
       "id": "15676300197999",
       "handle": "test-celdyque-azelaic-12",
       "title": "[TEST] CELDYQUE Azelaic Acid 12% Topical Serum — 30 ml",
-      "price": "19.99",
+      "price": "13.99",
       "currency": "USD",
       "initial_test_stock": 10,
       "status": "active",
       "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group-7.webp",
       "amazon_seller_sku": null,
-      "production_weight": null
+      "production_weight": null,
+      "approved_launch_price_usd": 13.99,
+      "price_approved_on": "2026-11-18"
     },
     {
       "id": "15676300296303",
       "handle": "test-celdyque-niacinamide-20-advanced",
       "title": "[TEST] CELDYQUE Niacinamide 20% Pore Minimizer Serum — 30 ml",
-      "price": "19.99",
+      "price": "14.99",
       "currency": "USD",
       "initial_test_stock": 10,
       "status": "active",
       "image_source": "https://celdyque.com/images/%EC%A0%9C%ED%92%88/Mask%20group-8.webp",
       "amazon_seller_sku": null,
-      "production_weight": null
+      "production_weight": null,
+      "approved_launch_price_usd": 14.99,
+      "price_approved_on": "2026-11-18"
     }
   ],
   "design_migration": {
@@ -349,5 +378,33 @@
       "handle": "faq",
       "verified": true
     }
+  },
+  "production_price_note": "No production store price applied; intended launch prices approved per product and applied to dev only.",
+  "price_update_2026_11_18": {
+    "approval": "User confirmed the Celdyque_Official single-product table in chat.",
+    "scope": "14 singles; no bundles, multipacks, discounts or subscriptions applied",
+    "changed_count": 12,
+    "unchanged_count": 2,
+    "verified_count": 14,
+    "store": "celdyque-dev-test.myshopify.com",
+    "source": "shopify/amazon-prices-2026-11-18.json",
+    "record": "shopify/AMAZON-PRICES-2026-11-18-KO.md",
+    "verification": "Saved in admin, reloaded and checked all 14 prices; inventory unchanged.",
+    "rollback_file": "C:\\Users\\USER\\Documents\\celdyque\\Shopify-launch-preparation\\dev-prices-before-2026-11-18.json",
+    "production_modified": false,
+    "main_modified": false,
+    "real_payment_requested": false,
+    "real_fulfillment_requested": false
+  },
+  "bundle_prototype": {
+    "date": "2026-11-18",
+    "additional_products": 13,
+    "total_products": 27,
+    "app_installed": false,
+    "inventory_model": "independent manual test stock",
+    "amazon_msku_confirmed": false,
+    "automatic_fulfillment": false,
+    "prices_source": "amazon-store-audit-2026-11-18.json",
+    "status": "Products imported; theme validation in progress"
   }
 }

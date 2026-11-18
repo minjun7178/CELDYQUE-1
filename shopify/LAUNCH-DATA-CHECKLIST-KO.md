@@ -5,7 +5,7 @@ dev 스토어 테스트와 실제 판매 전환은 별도 단계입니다. 이 �
 ## 지금 전달할 자료
 
 1. 아마존 담당자에게 미국 FBA 상품 목록을 요청합니다. 상품명·용량·Seller SKU(MSKU)·ASIN·판매 가능 재고·개별 판매 단위의 포장 포함 무게가 있으면 됩니다. 고객 주문이나 개인정보 자료는 필요하지 않습니다.
-2. 아래 상품별 자사몰 판매가(USD)를 정합니다. Amazon 가격과 같게 할지 다르게 할지는 별도 결정이며, 현재 $19.99는 테스트 가격입니다.
+2. 단품 14개 판매가는 2026-11-18 Celdyque_Official 기준으로 승인되어 dev에 적용했습니다. [가격 승인·적용 기록](AMAZON-PRICES-2026-11-18-KO.md)을 참고하세요. 세트·2-Pack·Bundle은 별도 확인이 필요합니다.
 3. 담당자에게 미국 MCF 출고 비용과 예상 배송 기간을 확인한 뒤 고객 배송비를 정합니다. 현재 $4.99는 테스트 값입니다.
 
 SKU는 제품을 연결하는 코드입니다. Amazon Seller SKU와 ASIN은 다른 값이므로 각각 구분해서 보내주세요. 바코드·ASIN만으로 실제 출고 SKU를 추정하지 않습니다. 여러 SKU가 같은 상품에 연결되면 담당자가 실제 사용할 미국 FBA SKU를 지정해야 합니다.
@@ -14,20 +14,20 @@ SKU는 제품을 연결하는 코드입니다. Amazon Seller SKU와 ASIN은 다�
 
 | 상품 | 용량 | 자사몰 가격 USD | Amazon Seller SKU | ASIN | 판매 단위 포장 무게 g |
 |---|---|---|---|---|---|
-| Volufiline 100% Concentrate | 10 ml | | | | |
-| Blue Copper Peptide Bakuchiol Serum | 30 ml | | | | |
-| Bakuchiol Volume Collagen Cream | 50 ml | | | | |
-| 9-Peptide Scalp Care Serum Roll-On | 40 ml | | | | |
-| Bakuchiol 30,000ppm Serum | 30 ml | | | | |
-| PDRN 250,000ppm Concentrate | 30 ml | | | | |
-| PDRN 12% + EGF Peptide Serum | 30 ml | | | | |
-| PDRN 12% + EGF Peptide Cream | 50 ml | | | | |
-| ArbutXA Glow Cream | 50 ml | | | | |
-| Gentle Cleanser Purifying Touch | 150 ml | | | | |
-| Pore Purifying Cleansing Oil | 200 ml | | | | |
-| Glutathione Glow Serum 30,000 ppm | 30 ml | | | | |
-| Azelaic Acid 12% Topical Serum | 30 ml | | | | |
-| Niacinamide 20% Pore Minimizer Serum | 30 ml | | | | |
+| Volufiline 100% Concentrate | 10 ml | 17.99 | | B0CPLDVTFP | |
+| Blue Copper Peptide Bakuchiol Serum | 30 ml | 19.99 | | B0H6DCQPN8 | |
+| Bakuchiol Volume Collagen Cream | 50 ml | 17.99 | | B0GXV5RJX5 | |
+| 9-Peptide Scalp Care Serum Roll-On | 40 ml | 19.99 | | B0GGZRNGKL | |
+| Bakuchiol 30,000ppm Serum | 30 ml | 14.99 | | B0DC6H8MSW | |
+| PDRN 250,000ppm Concentrate | 30 ml | 17.99 | | B0FMFBGW9N | |
+| PDRN 12% + EGF Peptide Serum | 30 ml | 17.99 | | B0F1Y8DML3 | |
+| PDRN 12% + EGF Peptide Cream | 50 ml | 17.99 | | B0FJY6SCPX | |
+| ArbutXA Glow Cream | 50 ml | 17.99 | | B0FWBM5SR8 | |
+| Gentle Cleanser Purifying Touch | 150 ml | 12.99 | | B0FGPXK14C | |
+| Pore Purifying Cleansing Oil | 200 ml | 13.99 | | B0FKM689SK | |
+| Glutathione Glow Serum 30,000 ppm | 30 ml | 16.99 | | B0DP4FG8B9 | |
+| Azelaic Acid 12% Topical Serum | 30 ml | 13.99 | | B0DP4FQPDL | |
+| Niacinamide 20% Pore Minimizer Serum | 30 ml | 14.99 | | B0C2PH12CR | |
 
 ## 배송·반품 결정
 
@@ -46,7 +46,7 @@ SKU는 제품을 연결하는 코드입니다. Amazon Seller SKU와 ASIN은 다�
 
 ## 자료를 받으면 진행할 작업
 
-- Shopify 상품과 Amazon SKU를 대조하고 상품별 확정 가격·무게를 입력합니다.
+- Shopify 상품과 Amazon SKU를 대조하고 포장 무게를 입력합니다. 단품 가격은 승인·dev 반영 완료이며, 세트는 구성 및 출고 SKU를 별도로 확정합니다.
 - 재고는 담당자 수치를 참고해 매칭을 검증한 뒤 Amazon 연동으로 확인합니다. 현재 합성 테스트 재고를 실재고로 사용하지 않습니다.
 - 확정된 배송·반품 정책과 고객 연락처를 상세 페이지, FAQ, checkout에 일치시킵니다.
 - 한국 사업자용 실제 결제 수단과 정산 계정 설정은 별도 진행합니다. dev 테스트 성공은 실제 결제·세금·MCF 출고 검증을 의미하지 않습니다.

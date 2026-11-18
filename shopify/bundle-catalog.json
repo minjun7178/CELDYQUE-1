@@ -1,0 +1,441 @@
+{
+  "approvedDate": "2026-11-18",
+  "scope": "Dev UI and native cart only",
+  "currency": "USD",
+  "warning": "DEV-BUNDLE-* identifiers are placeholders, not Amazon MSKUs. Component stock is NOT deducted. No MCF integration or real fulfillment.",
+  "offers": [
+    {
+      "asin": "B0DCBFQQ64",
+      "handle": "test-celdyque-set-b0dcbfqq64",
+      "name": "Volufiline 2-Pack",
+      "type": "multipack",
+      "priceUsd": 29.99,
+      "amazonUrl": "https://www.amazon.com/dp/B0DCBFQQ64",
+      "amazonSellerSku": null,
+      "devSku": "DEV-BUNDLE-B0DCBFQQ64",
+      "inventoryModel": "independent-test-stock-not-amazon-linked",
+      "components": [
+        {
+          "product_id": "volufiline-100",
+          "quantity": 2,
+          "id": "volufiline-100",
+          "handle": "test-celdyque-volufiline-100",
+          "name": "Volufiline 100% Concentrate",
+          "size": "10 ml / 0.33 fl oz",
+          "category": "serum",
+          "image": "images/제품/Mask group-1.webp",
+          "description": "CELDYQUE Volufiline 100% Concentrate is an oil-based concentrate for mixing with a compatible cream, lotion or serum.",
+          "existing": false
+        }
+      ]
+    },
+    {
+      "asin": "B0DHRMMPQT",
+      "handle": "test-celdyque-set-b0dhrmmpqt",
+      "name": "Bakuchiol 3% Serum 2-Pack",
+      "type": "multipack",
+      "priceUsd": 24.99,
+      "amazonUrl": "https://www.amazon.com/dp/B0DHRMMPQT",
+      "amazonSellerSku": null,
+      "devSku": "DEV-BUNDLE-B0DHRMMPQT",
+      "inventoryModel": "independent-test-stock-not-amazon-linked",
+      "components": [
+        {
+          "product_id": "bakuchiol-30000",
+          "quantity": 2,
+          "id": "bakuchiol-30000",
+          "handle": "test-celdyque-bakuchiol-30000",
+          "name": "Bakuchiol 30,000ppm Serum",
+          "size": "30 ml / 1 fl oz",
+          "category": "serum",
+          "image": "images/제품/Mask group-4.webp",
+          "description": "CELDYQUE Bakuchiol 30,000ppm Serum is a mix-in concentrate for use with a compatible moisturizer, cream or serum.",
+          "existing": false
+        }
+      ]
+    },
+    {
+      "asin": "B0HCT6W3TY",
+      "handle": "test-celdyque-set-b0hct6w3ty",
+      "name": "Blue Copper Peptide Serum 2-Pack",
+      "type": "multipack",
+      "priceUsd": 34.99,
+      "amazonUrl": "https://www.amazon.com/dp/B0HCT6W3TY",
+      "amazonSellerSku": null,
+      "devSku": "DEV-BUNDLE-B0HCT6W3TY",
+      "inventoryModel": "independent-test-stock-not-amazon-linked",
+      "components": [
+        {
+          "product_id": "blue-copper-peptide-bakuchiol-serum",
+          "quantity": 2,
+          "id": "blue-copper-peptide-bakuchiol-serum",
+          "handle": "test-celdyque-blue-copper-peptide-bakuchiol-serum",
+          "name": "Blue Copper Peptide Bakuchiol Serum",
+          "size": "30 ml / 1.01 fl oz",
+          "category": "serum",
+          "image": "images/제품/ms15-lower.webp",
+          "description": "CELDYQUE Blue Copper Peptide Bakuchiol Serum is a face serum used after cleansing and toning, before moisturizer.",
+          "existing": false
+        }
+      ]
+    },
+    {
+      "asin": "B0C2PGVMC6",
+      "handle": "test-celdyque-set-b0c2pgvmc6",
+      "name": "Niacinamide Serum 2-Pack",
+      "type": "multipack",
+      "priceUsd": 19.99,
+      "amazonUrl": "https://www.amazon.com/dp/B0C2PGVMC6",
+      "amazonSellerSku": null,
+      "devSku": "DEV-BUNDLE-B0C2PGVMC6",
+      "inventoryModel": "independent-test-stock-not-amazon-linked",
+      "components": [
+        {
+          "product_id": "niacinamide-20-advanced",
+          "quantity": 2,
+          "id": "niacinamide-20-advanced",
+          "handle": "test-celdyque-niacinamide-20-advanced",
+          "name": "Niacinamide 20% Pore Minimizer Serum",
+          "size": "30 ml / 1 fl oz",
+          "category": "serum",
+          "image": "images/제품/Mask group-8.webp",
+          "description": "CELDYQUE Niacinamide 20% Pore Minimizer Serum is a face serum applied after toner and before moisturizer.",
+          "existing": false
+        }
+      ]
+    },
+    {
+      "asin": "B0H1PZ47YZ",
+      "handle": "test-celdyque-set-b0h1pz47yz",
+      "name": "Scalp Serum 2-Pack",
+      "type": "multipack",
+      "priceUsd": 29.99,
+      "amazonUrl": "https://www.amazon.com/dp/B0H1PZ47YZ",
+      "amazonSellerSku": null,
+      "devSku": "DEV-BUNDLE-B0H1PZ47YZ",
+      "inventoryModel": "independent-test-stock-not-amazon-linked",
+      "components": [
+        {
+          "product_id": "9-peptide-scalp-serum",
+          "quantity": 2,
+          "id": "9-peptide-scalp-serum",
+          "handle": "test-celdyque-9-peptide-scalp-serum",
+          "name": "9-Peptide Scalp Care Serum Roll-On",
+          "size": "40 ml / 1.35 fl oz",
+          "category": "serum",
+          "image": "images/제품/ms13.webp",
+          "description": "CELDYQUE 9-Peptide Scalp Care Serum Roll-On is a leave-on scalp serum with a roll-on applicator for targeted application.",
+          "existing": false
+        }
+      ]
+    },
+    {
+      "asin": "B0DHK1ZPV6",
+      "handle": "test-celdyque-set-b0dhk1zpv6",
+      "name": "Volufiline + Bakuchiol Serum",
+      "type": "mixed_bundle",
+      "priceUsd": 27.99,
+      "amazonUrl": "https://www.amazon.com/dp/B0DHK1ZPV6",
+      "amazonSellerSku": null,
+      "devSku": "DEV-BUNDLE-B0DHK1ZPV6",
+      "inventoryModel": "independent-test-stock-not-amazon-linked",
+      "components": [
+        {
+          "product_id": "volufiline-100",
+          "quantity": 1,
+          "id": "volufiline-100",
+          "handle": "test-celdyque-volufiline-100",
+          "name": "Volufiline 100% Concentrate",
+          "size": "10 ml / 0.33 fl oz",
+          "category": "serum",
+          "image": "images/제품/Mask group-1.webp",
+          "description": "CELDYQUE Volufiline 100% Concentrate is an oil-based concentrate for mixing with a compatible cream, lotion or serum.",
+          "existing": false
+        },
+        {
+          "product_id": "bakuchiol-30000",
+          "quantity": 1,
+          "id": "bakuchiol-30000",
+          "handle": "test-celdyque-bakuchiol-30000",
+          "name": "Bakuchiol 30,000ppm Serum",
+          "size": "30 ml / 1 fl oz",
+          "category": "serum",
+          "image": "images/제품/Mask group-4.webp",
+          "description": "CELDYQUE Bakuchiol 30,000ppm Serum is a mix-in concentrate for use with a compatible moisturizer, cream or serum.",
+          "existing": false
+        }
+      ]
+    },
+    {
+      "asin": "B0HCMSRJB7",
+      "handle": "test-celdyque-set-b0hcmsrjb7",
+      "name": "Volufiline + Bakuchiol Cream",
+      "type": "mixed_bundle",
+      "priceUsd": 29.99,
+      "amazonUrl": "https://www.amazon.com/dp/B0HCMSRJB7",
+      "amazonSellerSku": null,
+      "devSku": "DEV-BUNDLE-B0HCMSRJB7",
+      "inventoryModel": "independent-test-stock-not-amazon-linked",
+      "components": [
+        {
+          "product_id": "volufiline-100",
+          "quantity": 1,
+          "id": "volufiline-100",
+          "handle": "test-celdyque-volufiline-100",
+          "name": "Volufiline 100% Concentrate",
+          "size": "10 ml / 0.33 fl oz",
+          "category": "serum",
+          "image": "images/제품/Mask group-1.webp",
+          "description": "CELDYQUE Volufiline 100% Concentrate is an oil-based concentrate for mixing with a compatible cream, lotion or serum.",
+          "existing": false
+        },
+        {
+          "product_id": "bakuchiol-volume-collagen-cream",
+          "quantity": 1,
+          "id": "bakuchiol-volume-collagen-cream",
+          "handle": "test-celdyque-bakuchiol-volume-collagen-cream",
+          "name": "Bakuchiol Volume Collagen Cream",
+          "size": "50 ml / 1.7 fl oz",
+          "category": "cream",
+          "image": "images/제품/ms14-lower.webp",
+          "description": "CELDYQUE Bakuchiol Volume Collagen Cream is a moisturizer applied after serum to the face and neck.",
+          "existing": false
+        }
+      ]
+    },
+    {
+      "asin": "B0HCMZJDDB",
+      "handle": "test-celdyque-set-b0hcmzjddb",
+      "name": "Bakuchiol Serum + Bakuchiol Cream",
+      "type": "mixed_bundle",
+      "priceUsd": 27.99,
+      "amazonUrl": "https://www.amazon.com/dp/B0HCMZJDDB",
+      "amazonSellerSku": null,
+      "devSku": "DEV-BUNDLE-B0HCMZJDDB",
+      "inventoryModel": "independent-test-stock-not-amazon-linked",
+      "components": [
+        {
+          "product_id": "bakuchiol-30000",
+          "quantity": 1,
+          "id": "bakuchiol-30000",
+          "handle": "test-celdyque-bakuchiol-30000",
+          "name": "Bakuchiol 30,000ppm Serum",
+          "size": "30 ml / 1 fl oz",
+          "category": "serum",
+          "image": "images/제품/Mask group-4.webp",
+          "description": "CELDYQUE Bakuchiol 30,000ppm Serum is a mix-in concentrate for use with a compatible moisturizer, cream or serum.",
+          "existing": false
+        },
+        {
+          "product_id": "bakuchiol-volume-collagen-cream",
+          "quantity": 1,
+          "id": "bakuchiol-volume-collagen-cream",
+          "handle": "test-celdyque-bakuchiol-volume-collagen-cream",
+          "name": "Bakuchiol Volume Collagen Cream",
+          "size": "50 ml / 1.7 fl oz",
+          "category": "cream",
+          "image": "images/제품/ms14-lower.webp",
+          "description": "CELDYQUE Bakuchiol Volume Collagen Cream is a moisturizer applied after serum to the face and neck.",
+          "existing": false
+        }
+      ]
+    },
+    {
+      "asin": "B0HGD7BQ3W",
+      "handle": "test-celdyque-set-b0hgd7bq3w",
+      "name": "Blue Copper Peptide Serum + Bakuchiol Cream",
+      "type": "mixed_bundle",
+      "priceUsd": 32.99,
+      "amazonUrl": "https://www.amazon.com/dp/B0HGD7BQ3W",
+      "amazonSellerSku": null,
+      "devSku": "DEV-BUNDLE-B0HGD7BQ3W",
+      "inventoryModel": "independent-test-stock-not-amazon-linked",
+      "components": [
+        {
+          "product_id": "blue-copper-peptide-bakuchiol-serum",
+          "quantity": 1,
+          "id": "blue-copper-peptide-bakuchiol-serum",
+          "handle": "test-celdyque-blue-copper-peptide-bakuchiol-serum",
+          "name": "Blue Copper Peptide Bakuchiol Serum",
+          "size": "30 ml / 1.01 fl oz",
+          "category": "serum",
+          "image": "images/제품/ms15-lower.webp",
+          "description": "CELDYQUE Blue Copper Peptide Bakuchiol Serum is a face serum used after cleansing and toning, before moisturizer.",
+          "existing": false
+        },
+        {
+          "product_id": "bakuchiol-volume-collagen-cream",
+          "quantity": 1,
+          "id": "bakuchiol-volume-collagen-cream",
+          "handle": "test-celdyque-bakuchiol-volume-collagen-cream",
+          "name": "Bakuchiol Volume Collagen Cream",
+          "size": "50 ml / 1.7 fl oz",
+          "category": "cream",
+          "image": "images/제품/ms14-lower.webp",
+          "description": "CELDYQUE Bakuchiol Volume Collagen Cream is a moisturizer applied after serum to the face and neck.",
+          "existing": false
+        }
+      ]
+    },
+    {
+      "asin": "B0G4R7N24X",
+      "handle": "test-celdyque-set-b0g4r7n24x",
+      "name": "PDRN 12% Duo",
+      "type": "mixed_bundle",
+      "priceUsd": 27.99,
+      "amazonUrl": "https://www.amazon.com/dp/B0G4R7N24X",
+      "amazonSellerSku": null,
+      "devSku": "DEV-BUNDLE-B0G4R7N24X",
+      "inventoryModel": "independent-test-stock-not-amazon-linked",
+      "components": [
+        {
+          "product_id": "pdrn-12-egf",
+          "quantity": 1,
+          "id": "pdrn-12-egf",
+          "handle": "test-celdyque-pdrn-12-egf-peptide-serum-30-ml",
+          "name": "PDRN 12% + EGF Peptide Serum",
+          "size": "30 ml / 1 fl oz",
+          "category": "serum",
+          "image": "images/제품/Mask group.webp",
+          "description": "CELDYQUE PDRN 12% + EGF Peptide Serum is a face serum applied after cleansing and toning, before moisturizer.",
+          "existing": true
+        },
+        {
+          "product_id": "pdrn-12-egf-cream",
+          "quantity": 1,
+          "id": "pdrn-12-egf-cream",
+          "handle": "test-celdyque-pdrn-12-egf-cream",
+          "name": "PDRN 12% + EGF Peptide Cream",
+          "size": "50 ml / 1.7 fl oz",
+          "category": "cream",
+          "image": "images/제품/Mask group-6.webp",
+          "description": "CELDYQUE PDRN 12% + EGF Peptide Cream is a moisturizer applied after serum to the face and neck.",
+          "existing": false
+        }
+      ]
+    },
+    {
+      "asin": "B0G7CPYW4V",
+      "handle": "test-celdyque-set-b0g7cpyw4v",
+      "name": "PDRN 25% Duo",
+      "type": "mixed_bundle",
+      "priceUsd": 28.99,
+      "amazonUrl": "https://www.amazon.com/dp/B0G7CPYW4V",
+      "amazonSellerSku": null,
+      "devSku": "DEV-BUNDLE-B0G7CPYW4V",
+      "inventoryModel": "independent-test-stock-not-amazon-linked",
+      "components": [
+        {
+          "product_id": "pdrn-25",
+          "quantity": 1,
+          "id": "pdrn-25",
+          "handle": "test-celdyque-pdrn-25",
+          "name": "PDRN 250,000ppm Concentrate",
+          "size": "30 ml / 1 fl oz",
+          "category": "serum",
+          "image": "images/제품/Mask group-3.webp",
+          "description": "CELDYQUE PDRN 250,000ppm Concentrate is a gel-type concentrate in the PDRN collection, alongside the PDRN serum and cream.",
+          "existing": false
+        },
+        {
+          "product_id": "pdrn-12-egf-cream",
+          "quantity": 1,
+          "id": "pdrn-12-egf-cream",
+          "handle": "test-celdyque-pdrn-12-egf-cream",
+          "name": "PDRN 12% + EGF Peptide Cream",
+          "size": "50 ml / 1.7 fl oz",
+          "category": "cream",
+          "image": "images/제품/Mask group-6.webp",
+          "description": "CELDYQUE PDRN 12% + EGF Peptide Cream is a moisturizer applied after serum to the face and neck.",
+          "existing": false
+        }
+      ]
+    },
+    {
+      "asin": "B0G8GK8FX4",
+      "handle": "test-celdyque-set-b0g8gk8fx4",
+      "name": "PDRN Trio",
+      "type": "mixed_bundle",
+      "priceUsd": 39.99,
+      "amazonUrl": "https://www.amazon.com/dp/B0G8GK8FX4",
+      "amazonSellerSku": null,
+      "devSku": "DEV-BUNDLE-B0G8GK8FX4",
+      "inventoryModel": "independent-test-stock-not-amazon-linked",
+      "components": [
+        {
+          "product_id": "pdrn-25",
+          "quantity": 1,
+          "id": "pdrn-25",
+          "handle": "test-celdyque-pdrn-25",
+          "name": "PDRN 250,000ppm Concentrate",
+          "size": "30 ml / 1 fl oz",
+          "category": "serum",
+          "image": "images/제품/Mask group-3.webp",
+          "description": "CELDYQUE PDRN 250,000ppm Concentrate is a gel-type concentrate in the PDRN collection, alongside the PDRN serum and cream.",
+          "existing": false
+        },
+        {
+          "product_id": "pdrn-12-egf",
+          "quantity": 1,
+          "id": "pdrn-12-egf",
+          "handle": "test-celdyque-pdrn-12-egf-peptide-serum-30-ml",
+          "name": "PDRN 12% + EGF Peptide Serum",
+          "size": "30 ml / 1 fl oz",
+          "category": "serum",
+          "image": "images/제품/Mask group.webp",
+          "description": "CELDYQUE PDRN 12% + EGF Peptide Serum is a face serum applied after cleansing and toning, before moisturizer.",
+          "existing": true
+        },
+        {
+          "product_id": "pdrn-12-egf-cream",
+          "quantity": 1,
+          "id": "pdrn-12-egf-cream",
+          "handle": "test-celdyque-pdrn-12-egf-cream",
+          "name": "PDRN 12% + EGF Peptide Cream",
+          "size": "50 ml / 1.7 fl oz",
+          "category": "cream",
+          "image": "images/제품/Mask group-6.webp",
+          "description": "CELDYQUE PDRN 12% + EGF Peptide Cream is a moisturizer applied after serum to the face and neck.",
+          "existing": false
+        }
+      ]
+    },
+    {
+      "asin": "B0G6HS2JNG",
+      "handle": "test-celdyque-set-b0g6hs2jng",
+      "name": "Double Cleanse Duo",
+      "type": "mixed_bundle",
+      "priceUsd": 21.99,
+      "amazonUrl": "https://www.amazon.com/dp/B0G6HS2JNG",
+      "amazonSellerSku": null,
+      "devSku": "DEV-BUNDLE-B0G6HS2JNG",
+      "inventoryModel": "independent-test-stock-not-amazon-linked",
+      "components": [
+        {
+          "product_id": "cleansing-oil",
+          "quantity": 1,
+          "id": "cleansing-oil",
+          "handle": "test-celdyque-cleansing-oil",
+          "name": "Pore Purifying Cleansing Oil",
+          "size": "200 ml / 6.76 fl oz",
+          "category": "cleanser",
+          "image": "images/제품/Mask group-9.webp",
+          "description": "CELDYQUE Pore Purifying Cleansing Oil features Centella, Tea Tree, Green Tea, Heartleaf and LHA. Apply to dry skin, emulsify with water and rinse off.",
+          "existing": false
+        },
+        {
+          "product_id": "gentle-cleanser",
+          "quantity": 1,
+          "id": "gentle-cleanser",
+          "handle": "test-celdyque-gentle-cleanser",
+          "name": "Gentle Cleanser Purifying Touch",
+          "size": "150 ml / 5.07 fl oz",
+          "category": "cleanser",
+          "image": "images/제품/Mask group-11.webp",
+          "description": "CELDYQUE Gentle Cleanser Purifying Touch is a foaming facial cleanser used on wet skin and rinsed off after washing.",
+          "existing": false
+        }
+      ]
+    }
+  ]
+}

@@ -98,4 +98,5 @@ write('config/settings_schema.json', JSON.stringify([{name:'theme_info',theme_na
 write('config/settings_data.json', '{"current":{}}');
 write('locales/en.default.json', '{"general":{"accessibility":{"skip_to_content":"Skip to content"}}}');
 require('./build-site.cjs');
+require('./build-bundles.cjs');
 console.log('Built isolated pilot at ' + out);
