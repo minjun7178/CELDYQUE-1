@@ -41,7 +41,7 @@
     gallery.classList.toggle('is-offer-gallery', !original);
     if (original) heading.innerHTML = initialHeading;
     else heading.textContent = 'Set: ' + card.dataset.label;
-    if (setPageTitle) setPageTitle.textContent = original ? originalTitle : card.dataset.label;
+    if (setPageTitle) setPageTitle.textContent = original ? originalTitle : card.dataset.title;
     cards.forEach(option => {
       const selected = option === card;
       option.classList.toggle('is-selected', selected);

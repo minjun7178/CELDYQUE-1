@@ -495,6 +495,32 @@
       "fba_quantity_provided": false,
       "actual_skus_applied": false,
       "record": "Local ignored evidence/CELDYQUE-SKU-REVIEW-2026-11-18.xlsx"
+    },
+    "inline_selection": {
+      "date": "2026-11-18",
+      "status": "Same-page gallery, price, contents and native cart variant switching verified; keyboard and 390px mobile checked",
+      "real_order_placed": false,
+      "original_cart_preserved": true
+    },
+    "availability_recheck": {
+      "date": "2026-11-18",
+      "public_asins_checked": 33,
+      "dev_offers": 27,
+      "official_purchasable": 27,
+      "unavailable_in_dev": 0,
+      "missing_candidates": [
+        "B0GR96HTC9",
+        "B0HPN62L9Q"
+      ],
+      "excluded_unavailable": [
+        "B0HQGWXRKG",
+        "B0GR4GWS9W",
+        "B0CP6X4LD8"
+      ],
+      "redirected_duplicate": "B0H4V1RC65",
+      "seller_central_status_verified": false,
+      "mcf_connected": false,
+      "record": "AMAZON-AVAILABILITY-RECHECK-KO.md"
     }
   }
 }

@@ -5,7 +5,22 @@ const path = require('node:path');
 const data = require('./bundle-catalog.json');
 const audit = require('./amazon-store-audit-2026-11-18.json');
 const singles = require('./catalog.json');
+const availability = require('./amazon-availability-2026-11-18.json');
 const read = p => fs.readFileSync(path.join(__dirname,p),'utf8');
+
+test('every dev offer is in the reviewed official-sale list; excluded ASINs cannot be imported accidentally',()=>{
+  const registered=[...singles,...data.offers].map(p=>p.handle).sort();
+  const approved=availability.records.filter(p=>p.devIncluded);
+  assert.deepEqual(registered,approved.map(p=>p.devHandle).sort());
+  assert.equal(approved.length,27);
+  for(const p of approved){
+    assert.equal(p.officialPurchasable,true,p.asin);
+    assert.equal(p.url.match(/\/dp\/([A-Z0-9]{10})/)?.[1],p.asin,'Redirected ASIN must not be added separately');
+  }
+  for(const p of availability.records.filter(p=>!p.devIncluded)){
+    assert(!read('dev-bundles-13.csv').includes(p.asin));
+  }
+});
 test('all 13 approved Amazon sets retain price and exact component quantities',()=>{
   assert.equal(data.offers.length,13);
   assert.equal(data.offers.filter(o=>o.type==='multipack').length,5);
