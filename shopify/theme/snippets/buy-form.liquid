@@ -1,8 +1,9 @@
 <div id="pilot-buy" class="pilot-buy">
 {% if product != blank %}
-{% render 'bundle-options', product: product %}
 {% assign variant = product.selected_or_first_available_variant %}
 <p class="pilot-price">{{ variant.price | money_with_currency }} <span>{% if product.tags contains 'dev-bundle-prototype' %}per set{% else %}each{% endif %}</span></p>
+{% render 'bundle-options', product: product %}
+{% render 'bundle-contents', product: product %}
 {% form 'product', product, id: 'PilotProductForm' %}
 {{ form.errors | default_errors }}
 <input type="hidden" name="id" value="{{ variant.id }}"><input type="hidden" name="return_to" value="{{ routes.cart_url }}">

@@ -1,3 +1,3 @@
 {% assign offer_product = all_products[handle] %}
 {% if offer_product != blank %}<a class="pilot-offer{% if product.handle == handle %} is-selected{% endif %}" href="{{ offer_product.url }}#pilot-buy" {% if product.handle == handle %}aria-current="page"{% endif %}>
-<strong>{{ title | escape }}</strong><span>{{ detail | escape }}</span><b>{{ offer_product.price | money_with_currency }}</b>{% unless offer_product.available %}<small>Sold out</small>{% endunless %}</a>{% endif %}
+<strong>{{ title | escape }}</strong><span>{{ detail | escape }}</span><b>{{ offer_product.price | money }}</b>{% unless offer_product.available %}<small>Sold out</small>{% endunless %}</a>{% endif %}

@@ -31,7 +31,7 @@ test('native form binds the selected product variant and backend prices; cart ex
   assert(form.includes('name="id" value="{{ variant.id }}"'));
   assert(!form.includes('name="price"'));
   assert(read('theme/sections/main-cart.liquid').includes("render 'bundle-contents', product: item.product"));
-  assert(read('theme/snippets/bundle-option-card.liquid').includes('offer_product.price | money_with_currency'));
+  assert(read('theme/snippets/bundle-option-card.liquid').includes('offer_product.price | money'));
   for(const o of data.offers){
     assert(read('theme/snippets/pilot-product.liquid').includes("when '"+o.handle+"'"));
     assert(read('theme/snippets/bundle-contents.liquid').includes("when '"+o.handle+"'"));

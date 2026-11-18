@@ -35,18 +35,27 @@ fs.writeFileSync(path.join(__dirname,'dev-bundles-13.csv'), '\uFEFF' + [headers,
 function card(handle, title, detail) {
   return `{% render 'bundle-option-card', product: product, handle: '${handle}', title: '${title.replaceAll("'", '&#39;')}', detail: '${detail.replaceAll("'", '&#39;')}' %}`;
 }
+const setLabels = {
+  B0DHK1ZPV6: 'Volufiline + Serum', B0HCMSRJB7: 'Volufiline + Cream',
+  B0HCMZJDDB: 'Serum + Cream', B0HGD7BQ3W: 'Serum + Cream',
+  B0G4R7N24X: '12% Serum + Cream', B0G7CPYW4V: '25% Serum + Cream',
+  B0G8GK8FX4: '2 Serums + Cream', B0G6HS2JNG: 'Oil + Cleanser'
+};
+const optionTitle = o => o.type === 'multipack' ? '2-Pack' : o.asin === 'B0G8GK8FX4' ? 'Trio' : 'Bundle';
+const optionDetail = o => o.type === 'multipack' ? '2 × ' + o.components[0].size.split(' / ')[0] : setLabels[o.asin];
 write('snippets/bundle-option-card.liquid', `{% assign offer_product = all_products[handle] %}
 {% if offer_product != blank %}<a class="pilot-offer{% if product.handle == handle %} is-selected{% endif %}" href="{{ offer_product.url }}#pilot-buy" {% if product.handle == handle %}aria-current="page"{% endif %}>
-<strong>{{ title | escape }}</strong><span>{{ detail | escape }}</span><b>{{ offer_product.price | money_with_currency }}</b>{% unless offer_product.available %}<small>Sold out</small>{% endunless %}</a>{% endif %}`);
+<strong>{{ title | escape }}</strong><span>{{ detail | escape }}</span><b>{{ offer_product.price | money }}</b>{% unless offer_product.available %}<small>Sold out</small>{% endunless %}</a>{% endif %}`);
 let selector = '{% case product.handle %}\n';
 for (const p of [...catalog, ...offers]) {
   // On set pages offer alternatives for the first component; no global 27-product all_products lookup.
   const base = p.components ? p.components[0] : p;
   const related = offers.filter(o => o.components.some(c => c.id === base.id));
   if (!related.length) continue;
-  selector += `{% when '${p.handle}' %}<nav class="pilot-offers" aria-label="Choose your set"><h3>Choose your set</h3><div class="pilot-offer-grid">`;
-  selector += card(base.handle, '1-Pack', base.name + ' · ' + base.size.split(' / ')[0]);
-  selector += related.map(o => card(o.handle, o.type === 'multipack' ? '2-Pack' : o.name, composition(o))).join('\n');
+  const selected = p.components ? optionTitle(p) + (p.type === 'multipack' ? '' : ' · ' + optionDetail(p)) : '1-Pack';
+  selector += `{% when '${p.handle}' %}<nav class="pilot-offers" aria-label="Choose your set"><h3><span>Set:</span> ${esc(selected)}</h3><div class="pilot-offer-grid">`;
+  selector += card(base.handle, '1-Pack', base.size.split(' / ')[0]);
+  selector += related.map(o => card(o.handle, optionTitle(o), optionDetail(o))).join('\n');
   selector += '</div></nav>\n';
 }
 write('snippets/bundle-options.liquid', selector + '{% endcase %}');
@@ -59,7 +68,7 @@ write('snippets/bundle-product.liquid', `<main id="MainContent" class="container
 <a class="pilot-continue" href="{{ routes.all_products_collection_url }}">← All products</a>
 <div class="pilot-set-hero"><div>{% render 'bundle-gallery', product: product %}</div><div class="pilot-set-info">
 <p class="pilot-set-eyebrow">CELDYQUÉ · SETS &amp; MULTIPACKS</p><h1 class="serif">{{ product.title | remove: '[TEST] CELDYQUE ' | escape }}</h1>
-{% render 'bundle-contents', product: product %}{% render 'buy-form', product: product %}
+{% render 'buy-form', product: product %}
 <p class="pilot-set-note">One set contains the quantities listed above. Follow the directions on each individual product.</p>
 </div></div></main><script type="application/ld+json">{{ product | structured_data }}</script>`);
 let dispatcher = fs.readFileSync(path.join(out,'snippets/pilot-product.liquid'),'utf8');
@@ -67,9 +76,10 @@ dispatcher = dispatcher.replace('{% else %}', offers.map(o=>`{% when '${o.handle
 write('snippets/pilot-product.liquid',dispatcher);
 write('snippets/buy-form.liquid', `<div id="pilot-buy" class="pilot-buy">
 {% if product != blank %}
-{% render 'bundle-options', product: product %}
 {% assign variant = product.selected_or_first_available_variant %}
 <p class="pilot-price">{{ variant.price | money_with_currency }} <span>{% if product.tags contains 'dev-bundle-prototype' %}per set{% else %}each{% endif %}</span></p>
+{% render 'bundle-options', product: product %}
+{% render 'bundle-contents', product: product %}
 {% form 'product', product, id: 'PilotProductForm' %}
 {{ form.errors | default_errors }}
 <input type="hidden" name="id" value="{{ variant.id }}"><input type="hidden" name="return_to" value="{{ routes.cart_url }}">
