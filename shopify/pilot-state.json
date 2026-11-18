@@ -476,6 +476,25 @@
         "title": "[TEST] CELDYQUE Volufiline 2-Pack"
       }
     ],
-    "fulfillment_team_feedback": "User-shared team message: actual shipped sets are prepacked, with some virtual bundles also listed. Exact per-ASIN classification and MSKU export pending."
+    "fulfillment_team_feedback": "User-shared team message: actual shipped sets are prepacked, with some virtual bundles also listed. Exact per-ASIN classification and MSKU export pending.",
+    "ui_refinement": {
+      "date": "2026-11-18",
+      "commit": "7d9f2b400128e13a9cc5e68888d952d62d1a1a7e",
+      "deployment_run": "https://github.com/minjun7178/CELDYQUE-1/actions/runs/44264358271",
+      "status": "Compact 3-column set cards verified on desktop and 390px mobile; bundle cart price 32.99 verified"
+    },
+    "sku_file_review": {
+      "received": true,
+      "rows": 32,
+      "existing_dev_asins_matched": 27,
+      "extra_rows": 5,
+      "duplicate_asins": 0,
+      "duplicate_skus": 0,
+      "incorrect_public_links": 2,
+      "seller_central_status_provided": false,
+      "fba_quantity_provided": false,
+      "actual_skus_applied": false,
+      "record": "Local ignored evidence/CELDYQUE-SKU-REVIEW-2026-11-18.xlsx"
+    }
   }
 }
