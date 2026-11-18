@@ -400,11 +400,82 @@
     "date": "2026-11-18",
     "additional_products": 13,
     "total_products": 27,
-    "app_installed": false,
+    "app_installed": true,
     "inventory_model": "independent manual test stock",
     "amazon_msku_confirmed": false,
     "automatic_fulfillment": false,
     "prices_source": "amazon-store-audit-2026-11-18.json",
-    "status": "Products imported; theme validation in progress"
+    "status": "13 offers imported and dev theme deployed; desktop/mobile selectors and native cart verified",
+    "app_usage": "Official free Shopify Bundles installed during capability check; zero native bundles created; this prototype does not depend on the app.",
+    "theme_commit": "b4cf92c110f649351348936ccdeef211225a4a9f",
+    "deployment_run": "https://github.com/minjun7178/CELDYQUE-1/actions/runs/44263513382",
+    "verification": {
+      "offer_pages_checked": 13,
+      "liquid_errors": 0,
+      "cart_tests": [
+        "Double Cleanse Duo qty1 21.99",
+        "Double Cleanse Duo qty2 43.98",
+        "Remove returns empty cart",
+        "Blue Copper 2-Pack 34.99 + PDRN Trio 39.99 = 74.98"
+      ],
+      "mobile_width": 390,
+      "horizontal_overflow": false,
+      "real_order_placed": false
+    },
+    "registered_products": [
+      {
+        "href": "/store/celdyque-dev-test/products/15830054207599",
+        "title": "[TEST] CELDYQUE Double Cleanse Duo"
+      },
+      {
+        "href": "/store/celdyque-dev-test/products/15830053781615",
+        "title": "[TEST] CELDYQUE PDRN Trio"
+      },
+      {
+        "href": "/store/celdyque-dev-test/products/15830053552239",
+        "title": "[TEST] CELDYQUE PDRN 25% Duo"
+      },
+      {
+        "href": "/store/celdyque-dev-test/products/15830053159023",
+        "title": "[TEST] CELDYQUE PDRN 12% Duo"
+      },
+      {
+        "href": "/store/celdyque-dev-test/products/15830052864111",
+        "title": "[TEST] CELDYQUE Blue Copper Peptide Serum + Bakuchiol Cream"
+      },
+      {
+        "href": "/store/celdyque-dev-test/products/15830052569199",
+        "title": "[TEST] CELDYQUE Bakuchiol Serum + Bakuchiol Cream"
+      },
+      {
+        "href": "/store/celdyque-dev-test/products/15830052175983",
+        "title": "[TEST] CELDYQUE Volufiline + Bakuchiol Cream"
+      },
+      {
+        "href": "/store/celdyque-dev-test/products/15830051815535",
+        "title": "[TEST] CELDYQUE Volufiline + Bakuchiol Serum"
+      },
+      {
+        "href": "/store/celdyque-dev-test/products/15830051487855",
+        "title": "[TEST] CELDYQUE Scalp Serum 2-Pack"
+      },
+      {
+        "href": "/store/celdyque-dev-test/products/15830051160175",
+        "title": "[TEST] CELDYQUE Niacinamide Serum 2-Pack"
+      },
+      {
+        "href": "/store/celdyque-dev-test/products/15830050832495",
+        "title": "[TEST] CELDYQUE Blue Copper Peptide Serum 2-Pack"
+      },
+      {
+        "href": "/store/celdyque-dev-test/products/15830050603119",
+        "title": "[TEST] CELDYQUE Bakuchiol 3% Serum 2-Pack"
+      },
+      {
+        "href": "/store/celdyque-dev-test/products/15830050177135",
+        "title": "[TEST] CELDYQUE Volufiline 2-Pack"
+      }
+    ],
+    "fulfillment_team_feedback": "User-shared team message: actual shipped sets are prepacked, with some virtual bundles also listed. Exact per-ASIN classification and MSKU export pending."
   }
 }
